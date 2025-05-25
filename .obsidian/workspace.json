@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "転職活動/事前調査.md",
+                "file": "DBA_SILVER/7章　データ格納のための記憶域の利用.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "事前調査"
+              "title": "7章　データ格納のための記憶域の利用"
             }
           }
         ]
@@ -114,13 +114,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "転職活動/事前調査.md",
+                "file": "DBA_SILVER/7章　データ格納のための記憶域の利用.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "事前調査のアウトライン"
+              "title": "7章　データ格納のための記憶域の利用のアウトライン"
             }
           }
         ],
@@ -156,6 +156,7 @@
   },
   "active": "f807a0592c1f57bd",
   "lastOpenFiles": [
+    "転職活動/事前調査.md",
     "転職活動/PKSHA.md",
     "DBA_SILVER/9章　データの移動.md",
     "DBA_SILVER/8章　UNDOの管理.md",
@@ -163,7 +164,6 @@
     "DBA_SILVER/6章　表領域について.md",
     "DBA_SILVER/4章.md",
     "DBA_SILVER/3章　インスタンスの管理.md",
-    "転職活動/事前調査.md",
     "Obsidian",
     "DBA_SILVER/2章　ツール.md",
     "DBA_SILVER/1章　アーキテクチャの理解.md",
