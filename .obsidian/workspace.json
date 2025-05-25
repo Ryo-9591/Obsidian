@@ -15,7 +15,8 @@
               "state": {
                 "file": "DBA_SILVER/2章　ツール.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": false
               },
               "icon": "lucide-file",
               "title": "2章　ツール"
@@ -65,7 +66,7 @@
             }
           },
           {
-            "id": "5dec8c2f20ea6cad",
+            "id": "8f5f925db3d74ff2",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -90,26 +91,7 @@
         "dimension": 62.71929824561403,
         "children": [
           {
-            "id": "bde614d94334ee03",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "DBA_SILVER/3章　インスタンスの管理.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
-              },
-              "icon": "links-coming-in",
-              "title": "3章　インスタンスの管理へのバックリンク"
-            }
-          },
-          {
-            "id": "b675973156a9b34b",
+            "id": "56ca91a5e36007ae",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -123,8 +105,7 @@
               "title": "2章　ツールのアウトライン"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "98987d0d1df65784",
