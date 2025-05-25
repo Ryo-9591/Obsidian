@@ -149,6 +149,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
       "daily-notes:今日のデイリーノートを開く": false,
       "templates:テンプレートを挿入": false
     }
