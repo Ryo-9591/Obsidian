@@ -24,24 +24,24 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
-      "filepath": "DBA_SILVER/12章　ファンクション.md",
-      "timestamp": 1748215067151
+      "filepath": "DBA_SILVER/1章　アーキテクチャの理解.md",
+      "timestamp": 1748215131519
     },
     {
-      "filepath": "DBA_SILVER/11章　データの検索.md",
-      "timestamp": 1748215061174
+      "filepath": "DBA_SILVER/23章　タイムゾーン.md",
+      "timestamp": 1748215126907
     },
     {
-      "filepath": "DBA_SILVER/10章　データの扱い.md",
-      "timestamp": 1748215039460
+      "filepath": "DBA_SILVER/21章　ビュー.md",
+      "timestamp": 1748215124170
     },
     {
-      "filepath": "DBA_SILVER/9章　データの移動.md",
-      "timestamp": 1748215029600
+      "filepath": "DBA_SILVER/22章　制約と一時表.md",
+      "timestamp": 1748215121268
     },
     {
-      "filepath": "DBA_SILVER/8章　UNDOの管理.md",
-      "timestamp": 1748215021606
+      "filepath": "DBA_SILVER/20章　シーケンス、シノニム、索引.md",
+      "timestamp": 1748215115984
     }
   ],
   "bookmarkedFileStore": [],
