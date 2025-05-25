@@ -1,0 +1,204 @@
+{
+  "main": {
+    "id": "86bb3ef409700e52",
+    "type": "split",
+    "children": [
+      {
+        "id": "7de67f8d138cc9ee",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a1e7508e8d1db354",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DBA_SILVER/3章　インスタンスの管理.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3章　インスタンスの管理"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "44376698a1480564",
+    "type": "split",
+    "children": [
+      {
+        "id": "5f4d272b2ea836e3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d38fc2dc2cc642b2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "ファイルエクスプローラ"
+            }
+          },
+          {
+            "id": "9ac9ed207c82c160",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "検索"
+            }
+          },
+          {
+            "id": "5dec8c2f20ea6cad",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "ブックマーク"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "f533a687fa0a0077",
+    "type": "split",
+    "children": [
+      {
+        "id": "44a3782912f16ed6",
+        "type": "tabs",
+        "dimension": 63.038548752834465,
+        "children": [
+          {
+            "id": "bde614d94334ee03",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "DBA_SILVER/3章　インスタンスの管理.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "3章　インスタンスの管理へのバックリンク"
+            }
+          },
+          {
+            "id": "b675973156a9b34b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "DBA_SILVER/3章　インスタンスの管理.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "3章　インスタンスの管理のアウトライン"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "98987d0d1df65784",
+        "type": "tabs",
+        "dimension": 36.961451247165535,
+        "children": [
+          {
+            "id": "f013d527e4f4af81",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 280.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "daily-notes:今日のデイリーノートを開く": false,
+      "templates:テンプレートを挿入": false
+    }
+  },
+  "active": "b675973156a9b34b",
+  "lastOpenFiles": [
+    "Obsidian",
+    "DBA_SILVER/2章　ツール.md",
+    "DBA_SILVER/1章　アーキテクチャの理解.md",
+    "TODO/2025-05-25.md",
+    "DBA_SILVER/3章　インスタンスの管理.md",
+    "DBA_SILVER/8章　UNDOの管理.md",
+    "転職活動/事前調査.md",
+    "転職活動/PKSHA.md",
+    "TODO/2025-05-25.md",
+    "無題のファイル.canvas",
+    "DBA_SILVER/21章　ビュー.md",
+    "DBA_SILVER/22章　制約と一時表.md",
+    "DBA_SILVER/23章　タイムゾーン.md",
+    "DBA_SILVER/7章　データ格納のための記憶域の利用.md",
+    "DBA_SILVER/6章　表領域について.md",
+    "無題のフォルダ",
+    "転職活動",
+    "DBA_SILVER/images/Pasted image 20250517084154.png",
+    "DBA_SILVER/images/Pasted image 20250521230831.png",
+    "DBA_SILVER/images/Pasted image 20250521230930.png",
+    "DBA_SILVER/images/Pasted image 20250522080048.png",
+    "DBA_SILVER/images/Pasted image 20250522081348.png",
+    "DBA_SILVER/images/Pasted image 20250524223050.png",
+    "SILVER/images/IMG_0059.jpg",
+    "SILVER/images/Pasted image 20250525134501.png",
+    "SILVER/images/Pasted image 20250525134716.png",
+    "MG_0059.md",
+    "DBA_SILVER/images",
+    "DBA_SILVER/9章　データの移動.md",
+    "DBA_SILVER/10章　データの扱い.md",
+    "DBA_SILVER/11章　データの検索.md",
+    "DBA_SILVER/12章　ファンクション.md",
+    "DBA_SILVER/13章　変換ファンクション.md",
+    "DBA_SILVER/14章　集計ファンクション.md",
+    "DBA_SILVER/15章　結合.md",
+    "DBA_SILVER/16章　副問合せ.md",
+    "DBA_SILVER/17章　集合演算.md",
+    "DBA_SILVER/18章　トランザクション.md",
+    "DBA_SILVER/19章　DDLの理解.md",
+    "TODO/無題のフォルダ",
+    "TODO",
+    "DBA_SILVER",
+    "Untitled 1",
+    "Untitled.canvas",
+    "Untitled 1.canvas"
+  ]
+}
