@@ -24,20 +24,24 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
-      "filepath": "DBA_SILVER/4章.md",
-      "timestamp": 1748180094203
-    },
-    {
-      "filepath": "DBA_SILVER/3章　インスタンスの管理.md",
-      "timestamp": 1748180093281
-    },
-    {
       "filepath": "転職活動/事前調査.md",
-      "timestamp": 1748180089043
+      "timestamp": 1748214846537
     },
     {
       "filepath": "転職活動/PKSHA.md",
-      "timestamp": 1748180088585
+      "timestamp": 1748214840823
+    },
+    {
+      "filepath": "DBA_SILVER/9章　データの移動.md",
+      "timestamp": 1748214821242
+    },
+    {
+      "filepath": "DBA_SILVER/8章　UNDOの管理.md",
+      "timestamp": 1748214811323
+    },
+    {
+      "filepath": "DBA_SILVER/7章　データ格納のための記憶域の利用.md",
+      "timestamp": 1748214765674
     }
   ],
   "bookmarkedFileStore": [],

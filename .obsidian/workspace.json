@@ -11,10 +11,14 @@
             "id": "f807a0592c1f57bd",
             "type": "leaf",
             "state": {
-              "type": "home-tab-view",
-              "state": {},
-              "icon": "search",
-              "title": "Home tab"
+              "type": "markdown",
+              "state": {
+                "file": "転職活動/事前調査.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "事前調査"
             }
           }
         ]
@@ -74,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 314.5
   },
   "right": {
     "id": "f533a687fa0a0077",
@@ -83,7 +87,7 @@
       {
         "id": "44a3782912f16ed6",
         "type": "tabs",
-        "dimension": 63.038548752834465,
+        "dimension": 62.71929824561403,
         "children": [
           {
             "id": "bde614d94334ee03",
@@ -110,12 +114,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "転職活動/事前調査.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "アウトライン"
+              "title": "事前調査のアウトライン"
             }
           }
         ],
@@ -124,7 +129,7 @@
       {
         "id": "98987d0d1df65784",
         "type": "tabs",
-        "dimension": 36.961451247165535,
+        "dimension": 37.280701754385966,
         "children": [
           {
             "id": "f013d527e4f4af81",
@@ -140,7 +145,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 280.5
+    "width": 297.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -151,22 +156,23 @@
   },
   "active": "f807a0592c1f57bd",
   "lastOpenFiles": [
+    "転職活動/PKSHA.md",
+    "DBA_SILVER/9章　データの移動.md",
+    "DBA_SILVER/8章　UNDOの管理.md",
+    "DBA_SILVER/7章　データ格納のための記憶域の利用.md",
+    "DBA_SILVER/6章　表領域について.md",
     "DBA_SILVER/4章.md",
     "DBA_SILVER/3章　インスタンスの管理.md",
     "転職活動/事前調査.md",
-    "転職活動/PKSHA.md",
     "Obsidian",
     "DBA_SILVER/2章　ツール.md",
     "DBA_SILVER/1章　アーキテクチャの理解.md",
     "TODO/2025-05-25.md",
-    "DBA_SILVER/8章　UNDOの管理.md",
     "TODO/2025-05-25.md",
     "無題のファイル.canvas",
     "DBA_SILVER/21章　ビュー.md",
     "DBA_SILVER/22章　制約と一時表.md",
     "DBA_SILVER/23章　タイムゾーン.md",
-    "DBA_SILVER/7章　データ格納のための記憶域の利用.md",
-    "DBA_SILVER/6章　表領域について.md",
     "無題のフォルダ",
     "転職活動",
     "DBA_SILVER/images/Pasted image 20250517084154.png",
@@ -180,7 +186,6 @@
     "SILVER/images/Pasted image 20250525134716.png",
     "MG_0059.md",
     "DBA_SILVER/images",
-    "DBA_SILVER/9章　データの移動.md",
     "DBA_SILVER/10章　データの扱い.md",
     "DBA_SILVER/11章　データの検索.md",
     "DBA_SILVER/12章　ファンクション.md",
