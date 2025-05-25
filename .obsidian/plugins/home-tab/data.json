@@ -24,6 +24,10 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "DBA_SILVER/2章　ツール.md",
+      "timestamp": 1748215145205
+    },
+    {
       "filepath": "DBA_SILVER/1章　アーキテクチャの理解.md",
       "timestamp": 1748215131519
     },
@@ -38,10 +42,6 @@
     {
       "filepath": "DBA_SILVER/22章　制約と一時表.md",
       "timestamp": 1748215121268
-    },
-    {
-      "filepath": "DBA_SILVER/20章　シーケンス、シノニム、索引.md",
-      "timestamp": 1748215115984
     }
   ],
   "bookmarkedFileStore": [],
