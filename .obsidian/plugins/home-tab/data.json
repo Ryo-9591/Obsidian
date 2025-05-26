@@ -24,7 +24,11 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
-      "filepath": "転職活動/事前調査.md",
+      "filepath": "DBA_SILVER/1章　アーキテクチャの理解.md",
+      "timestamp": 1748262950299
+    },
+    {
+      "filepath": "転職活動/20250526_事前調査.md",
       "timestamp": 1748230780051
     },
     {
@@ -38,10 +42,6 @@
     {
       "filepath": "Qiita/【革命】スライド作成がAI任せに！Cursor×Marp最強タッグ💪/article.md",
       "timestamp": 1748215356143
-    },
-    {
-      "filepath": "Qiita/【革命】スライド作成がAI任せに！Cursor×Marp最強タッグ💪/article2.md",
-      "timestamp": 1748215351144
     }
   ],
   "bookmarkedFileStore": [],
