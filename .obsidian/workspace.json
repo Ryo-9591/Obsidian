@@ -35,19 +35,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d38fc2dc2cc642b2",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
-              },
-              "icon": "lucide-folder-closed",
-              "title": "ファイルエクスプローラ"
-            }
-          },
-          {
             "id": "9ac9ed207c82c160",
             "type": "leaf",
             "state": {
@@ -73,8 +60,22 @@
               "icon": "lucide-bookmark",
               "title": "ブックマーク"
             }
+          },
+          {
+            "id": "58392aaeeda87af9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "ファイルエクスプローラ"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -125,7 +126,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 207.5
+    "width": 254.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -134,7 +135,7 @@
       "templates:テンプレートを挿入": false
     }
   },
-  "active": "d38fc2dc2cc642b2",
+  "active": "033ab689c22324c0",
   "lastOpenFiles": [
     "DBA_SILVER/8章　UNDOの管理.md",
     "DBA_SILVER/7章　データ格納のための記憶域の利用.md",

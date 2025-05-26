@@ -6,3 +6,4 @@
 
 ## Oracle Net Configuration Assistant
 リスナー、ネーミングメソッド、ネットサービス名、ディレクトリ使用を設定できるGUIツール
+
