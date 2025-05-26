@@ -24,6 +24,10 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "DBA_SILVER/4章.md",
+      "timestamp": 1748263272634
+    },
+    {
       "filepath": "DBA_SILVER/1章　アーキテクチャの理解.md",
       "timestamp": 1748262950299
     },
@@ -38,10 +42,6 @@
     {
       "filepath": "Qiita/【API使用量無料】Python × Gemini APIで作る！AIレシピ生成アプリ/img/apikey.png",
       "timestamp": 1748215358027
-    },
-    {
-      "filepath": "Qiita/【革命】スライド作成がAI任せに！Cursor×Marp最強タッグ💪/article.md",
-      "timestamp": 1748215356143
     }
   ],
   "bookmarkedFileStore": [],
