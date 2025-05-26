@@ -24,20 +24,24 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
-      "filepath": "DBA_SILVER/4章　Oracle Net Service.md",
-      "timestamp": 1748263272634
+      "filepath": "DBA_SILVER/3章　インスタンスの管理.md",
+      "timestamp": 1748265622261
+    },
+    {
+      "filepath": "DBA_SILVER/2章　ツール.md",
+      "timestamp": 1748265621359
     },
     {
       "filepath": "DBA_SILVER/1章　アーキテクチャの理解.md",
-      "timestamp": 1748262950299
+      "timestamp": 1748265617739
     },
     {
-      "filepath": "転職活動/20250526_事前調査.md",
-      "timestamp": 1748230780051
+      "filepath": "DBA_SILVER/4章　Oracle Net Service.md",
+      "timestamp": 1748265615240
     },
     {
-      "filepath": "転職活動/無題のファイル.md",
-      "timestamp": 1748230779027
+      "filepath": "DBA_SILVER/6章　表領域について.md",
+      "timestamp": 1748265612501
     }
   ],
   "bookmarkedFileStore": [],

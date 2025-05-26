@@ -11,10 +11,14 @@
             "id": "033ab689c22324c0",
             "type": "leaf",
             "state": {
-              "type": "home-tab-view",
-              "state": {},
-              "icon": "search",
-              "title": "Home tab"
+              "type": "markdown",
+              "state": {
+                "file": "DBA_SILVER/3章　インスタンスの管理.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3章　インスタンスの管理"
             }
           }
         ]
@@ -91,12 +95,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "DBA_SILVER/3章　インスタンスの管理.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "アウトライン"
+              "title": "3章　インスタンスの管理のアウトライン"
             }
           }
         ]
@@ -131,22 +136,24 @@
   },
   "active": "033ab689c22324c0",
   "lastOpenFiles": [
-    "2025-05-26.md",
-    "DBA_SILVER/4章　Oracle Net Service.md",
+    "DBA_SILVER/2章　ツール.md",
     "DBA_SILVER/1章　アーキテクチャの理解.md",
+    "DBA_SILVER/3章　インスタンスの管理.md",
+    "DBA_SILVER/4章　Oracle Net Service.md",
+    "DBA_SILVER/6章　表領域について.md",
+    "2025-05-26.md",
     "転職活動/20250526_事前調査.md",
     "転職活動/無題のファイル.md",
-    "Qiita/【API使用量無料】Python × Gemini APIで作る！AIレシピ生成アプリ/img/apikey.png",
-    "Qiita/【革命】スライド作成がAI任せに！Cursor×Marp最強タッグ💪/article.md",
-    "Qiita/【革命】スライド作成がAI任せに！Cursor×Marp最強タッグ💪/article2.md",
-    "Qiita/【API使用量無料】Python × Gemini APIで作る！AIレシピ生成アプリ/typing_generator.md",
-    "DBA_SILVER/2章　ツール.md",
-    "Qiita/【革命】スライド作成がAI任せに！Cursor×Marp最強タッグ💪",
-    "Qiita/Cursor君！スライド作っといて！",
-    "Qiita/【API使用量無料】Python × Gemini APIで作る！AIレシピ生成アプリ/img/app.png",
-    "Qiita/【API使用量無料】Python × Gemini APIで作る！AIレシピ生成アプリ/img",
-    "Qiita/【API使用量無料】Python × Gemini APIで作る！AIレシピ生成アプリ",
-    "Qiita",
+    "Qiita記事/【API使用量無料】Python × Gemini APIで作る！AIレシピ生成アプリ/img/apikey.png",
+    "Qiita記事/【革命】スライド作成がAI任せに！Cursor×Marp最強タッグ💪/article.md",
+    "Qiita記事/【革命】スライド作成がAI任せに！Cursor×Marp最強タッグ💪/article2.md",
+    "Qiita記事/【API使用量無料】Python × Gemini APIで作る！AIレシピ生成アプリ/typing_generator.md",
+    "Qiita記事/【革命】スライド作成がAI任せに！Cursor×Marp最強タッグ💪",
+    "Qiita記事/Cursor君！スライド作っといて！",
+    "Qiita記事/【API使用量無料】Python × Gemini APIで作る！AIレシピ生成アプリ/img/app.png",
+    "Qiita記事/【API使用量無料】Python × Gemini APIで作る！AIレシピ生成アプリ/img",
+    "Qiita記事/【API使用量無料】Python × Gemini APIで作る！AIレシピ生成アプリ",
+    "Qiita記事",
     "DBA_SILVER/23章　タイムゾーン.md",
     "DBA_SILVER/21章　ビュー.md",
     "DBA_SILVER/22章　制約と一時表.md",
@@ -162,8 +169,6 @@
     "DBA_SILVER/11章　データの検索.md",
     "DBA_SILVER/10章　データの扱い.md",
     "DBA_SILVER/9章　データの移動.md",
-    "DBA_SILVER/8章　UNDOの管理.md",
-    "DBA_SILVER/7章　データ格納のための記憶域の利用.md",
     "Obsidian",
     "無題のファイル.canvas",
     "転職活動",
