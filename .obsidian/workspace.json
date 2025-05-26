@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "9b3b7ee4cdd74f86",
+        "id": "61bf7b83ebde1bd1",
         "type": "tabs",
         "children": [
           {
-            "id": "a8122eebdc380b94",
+            "id": "033ab689c22324c0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DBA_SILVER/4章　Oracle Net Service.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "4章　Oracle Net Service"
+              "type": "home-tab-view",
+              "state": {},
+              "icon": "search",
+              "title": "Home tab"
             }
           }
         ]
@@ -78,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 312.5
+    "width": 313.5
   },
   "right": {
     "id": "f533a687fa0a0077",
@@ -95,13 +91,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DBA_SILVER/4章　Oracle Net Service.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "4章　Oracle Net Serviceのアウトライン"
+              "title": "アウトライン"
             }
           }
         ]
@@ -134,8 +129,10 @@
       "templates:テンプレートを挿入": false
     }
   },
-  "active": "a8122eebdc380b94",
+  "active": "033ab689c22324c0",
   "lastOpenFiles": [
+    "2025-05-26.md",
+    "DBA_SILVER/4章　Oracle Net Service.md",
     "DBA_SILVER/1章　アーキテクチャの理解.md",
     "転職活動/20250526_事前調査.md",
     "転職活動/無題のファイル.md",
@@ -167,8 +164,6 @@
     "DBA_SILVER/9章　データの移動.md",
     "DBA_SILVER/8章　UNDOの管理.md",
     "DBA_SILVER/7章　データ格納のための記憶域の利用.md",
-    "転職活動/PKSHA.md",
-    "DBA_SILVER/6章　表領域について.md",
     "Obsidian",
     "無題のファイル.canvas",
     "転職活動",
