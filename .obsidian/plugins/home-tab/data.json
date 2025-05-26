@@ -24,6 +24,10 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "DBA_SILVER/4章　Oracle Net Service.md",
+      "timestamp": 1748265789072
+    },
+    {
       "filepath": "DBA_SILVER/8章　UNDOの管理.md",
       "timestamp": 1748265632910
     },
@@ -34,10 +38,6 @@
     {
       "filepath": "DBA_SILVER/6章　表領域について.md",
       "timestamp": 1748265631254
-    },
-    {
-      "filepath": "DBA_SILVER/4章　Oracle Net Service.md",
-      "timestamp": 1748265630525
     },
     {
       "filepath": "DBA_SILVER/3章　インスタンスの管理.md",
