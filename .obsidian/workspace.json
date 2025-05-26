@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "転職活動/20250526_事前調査.md",
+                "file": "DBA_SILVER/4章　Oracle Net Service.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "20250526_事前調査"
+              "title": "4章　Oracle Net Service"
             }
           }
         ]
@@ -96,13 +96,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "転職活動/20250526_事前調査.md",
+                "file": "DBA_SILVER/4章　Oracle Net Service.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "20250526_事前調査のアウトライン"
+              "title": "4章　Oracle Net Serviceのアウトライン"
             }
           }
         ]
@@ -137,6 +137,7 @@
   },
   "active": "033ab689c22324c0",
   "lastOpenFiles": [
+    "転職活動/20250526_事前調査.md",
     "DBA_SILVER/4章　Oracle Net Service.md",
     "DBA_SILVER/6章　表領域について.md",
     "DBA_SILVER/8章　UNDOの管理.md",
@@ -145,7 +146,6 @@
     "DBA_SILVER/2章　ツール.md",
     "DBA_SILVER/1章　アーキテクチャの理解.md",
     "2025-05-26.md",
-    "転職活動/20250526_事前調査.md",
     "転職活動/無題のファイル.md",
     "Qiita記事/【API使用量無料】Python × Gemini APIで作る！AIレシピ生成アプリ/img/apikey.png",
     "Qiita記事/【革命】スライド作成がAI任せに！Cursor×Marp最強タッグ💪/article.md",
