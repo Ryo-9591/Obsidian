@@ -25,7 +25,11 @@
   "recentFilesStore": [
     {
       "filepath": "転職活動/事前調査.md",
-      "timestamp": 1748228355171
+      "timestamp": 1748230497077
+    },
+    {
+      "filepath": "転職活動/無題のファイル.md",
+      "timestamp": 1748230496522
     },
     {
       "filepath": "Qiita/【API使用量無料】Python × Gemini APIで作る！AIレシピ生成アプリ/img/apikey.png",
@@ -38,10 +42,6 @@
     {
       "filepath": "Qiita/【革命】スライド作成がAI任せに！Cursor×Marp最強タッグ💪/article2.md",
       "timestamp": 1748215351144
-    },
-    {
-      "filepath": "Qiita/【API使用量無料】Python × Gemini APIで作る！AIレシピ生成アプリ/typing_generator.md",
-      "timestamp": 1748215347304
     }
   ],
   "bookmarkedFileStore": [],
