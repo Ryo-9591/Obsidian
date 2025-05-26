@@ -24,6 +24,10 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "転職活動/事前調査.md",
+      "timestamp": 1748228355171
+    },
+    {
       "filepath": "Qiita/【API使用量無料】Python × Gemini APIで作る！AIレシピ生成アプリ/img/apikey.png",
       "timestamp": 1748215358027
     },
@@ -38,10 +42,6 @@
     {
       "filepath": "Qiita/【API使用量無料】Python × Gemini APIで作る！AIレシピ生成アプリ/typing_generator.md",
       "timestamp": 1748215347304
-    },
-    {
-      "filepath": "DBA_SILVER/2章　ツール.md",
-      "timestamp": 1748215145205
     }
   ],
   "bookmarkedFileStore": [],
