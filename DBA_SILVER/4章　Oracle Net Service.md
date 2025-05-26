@@ -1,1 +1,1 @@
-さ
+Oracle Net ServiceとOracle Net Configuration Assistant
