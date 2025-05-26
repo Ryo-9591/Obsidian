@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 313.5
+    "width": 319.5
   },
   "right": {
     "id": "f533a687fa0a0077",
@@ -134,7 +134,7 @@
       "templates:テンプレートを挿入": false
     }
   },
-  "active": "033ab689c22324c0",
+  "active": "d38fc2dc2cc642b2",
   "lastOpenFiles": [
     "DBA_SILVER/8章　UNDOの管理.md",
     "DBA_SILVER/7章　データ格納のための記憶域の利用.md",
