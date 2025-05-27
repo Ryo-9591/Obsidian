@@ -134,3 +134,23 @@ ORCL2 =
       (SERVICE_NAME = orcl.world)
     )
   )
+
+---
+## 接続時フェイルオーバーと接続時ロードバランシングの併用
+
+接続時フェイルおー
+
+tnsnames.oraの内容：
+
+ORCL2 =
+  (DESCRIPTION =
+    (ADDRESS_LIST =
+      (ADDRESS = (PROTOCOL = TCP)(HOST = db.oracle.com)(PORT = 1521))
+      (ADDRESS = (PROTOCOL = TCP)(HOST = db.oracle.com)(PORT = 1522))
+      (LOAD_BALANCE = on)
+    )
+    (CONNECT_DATA =
+      (SERVER = DEDICATED)
+      (SERVICE_NAME = orcl.world)
+    )
+  )
