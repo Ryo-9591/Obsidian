@@ -69,20 +69,18 @@ listener.oraにあらかじめ「SID_LIST_<リスナー名>」というパラメ
 
 # 接続失敗時のトラブルシューティング
 
-## ①ORA-12154:TSN could not resolveservice name
+## ①ORA-12154:TSN could not resolve service name
 →サービス名の解決ができない
-
-原因
+### 原因
 クライアント側の名前解決に失敗している
 →tnsnames.oraに接続識別子がちゃんと書かれているか？
 →tnsnames.oraを正しいファイルパスに置いているか？
-
 ## ②TNS-12541:TNS:no listener
 →リスナーがない
-
-原因
+### 原因
 リスナーとの通信に失敗する
 →tnsnames.oraに記載してIP、ポートがあっているか
 →リスナーが起動しているか？記載したポートで待ち受けているか
-
-③ORA-12514:TNS:listener could not resolve SERVICE_NAME given in connect 
+## ③ORA-12514:TNS:listener could not resolve SERVICE_NAME given in connect descriptor
+→
+### 原因
