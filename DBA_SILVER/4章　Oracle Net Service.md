@@ -32,7 +32,7 @@ sqlplus <ユーザ名>/<パスワード>
 
 接続識別子に接続情報を直接記入する
 
-`sql plus system/Password123@db.oracle.com:1521/oracl.world`
+`sql plus system/Password123@db.oracle.com:1521/orcl.world`
 
 ---
 

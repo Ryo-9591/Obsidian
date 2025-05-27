@@ -24,24 +24,24 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "DBA_SILVER/2章　ツール.md",
+      "timestamp": 1748387733302
+    },
+    {
+      "filepath": "DBA_SILVER/3章　インスタンスの管理.md",
+      "timestamp": 1748387732773
+    },
+    {
+      "filepath": "DBA_SILVER/1章　アーキテクチャの理解.md",
+      "timestamp": 1748387723401
+    },
+    {
       "filepath": "DBA_SILVER/4章　Oracle Net Service.md",
       "timestamp": 1748268601904
     },
     {
       "filepath": "転職活動/20250526_事前調査.md",
       "timestamp": 1748267700470
-    },
-    {
-      "filepath": "DBA_SILVER/6章　表領域について.md",
-      "timestamp": 1748267670676
-    },
-    {
-      "filepath": "DBA_SILVER/8章　UNDOの管理.md",
-      "timestamp": 1748265632910
-    },
-    {
-      "filepath": "DBA_SILVER/7章　データ格納のための記憶域の利用.md",
-      "timestamp": 1748265632144
     }
   ],
   "bookmarkedFileStore": [],
