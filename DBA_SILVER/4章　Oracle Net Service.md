@@ -83,4 +83,6 @@ listener.oraにあらかじめ「SID_LIST_<リスナー名>」というパラメ
 原因
 リスナーとの通信に失敗する
 →tnsnames.oraに記載してIP、ポートがあっているか
-→リスナーが起動しているか？ポートで
+→リスナーが起動しているか？記載したポートで待ち受けているか
+
+③ORA-12514:TNS:listener could not resolve SERVICE_NAME given in connect 
