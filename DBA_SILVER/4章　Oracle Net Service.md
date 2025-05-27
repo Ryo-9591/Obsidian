@@ -180,12 +180,11 @@ ORCL2 =
 →CREATE DATABASE LINK権限が必要
 
 記述例：
+基本的には名前解決できる方のユーザ
 
 CREATE DATABASE LINK リンク名
 CONNECT TO ユーザ名 IDENTIFIED BY パスワード
 USING '接続記述子';
 
----
-# Oracle Database Gateway 
+※Oracle Database Gatewayを使えば異機種間でのデータリンクができる
 
-異機種
