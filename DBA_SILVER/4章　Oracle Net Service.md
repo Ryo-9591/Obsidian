@@ -69,4 +69,8 @@ listener.oraにあらかじめ「SID_LIST_<リスナー名>」というパラメ
 
 # 接続失敗時のトラブルシューティング
 
-①ORA
+①ORA-12154:TSN could not resolveservice name
+→サービス名の解決ができない
+
+原因
+
