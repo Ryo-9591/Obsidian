@@ -11,10 +11,14 @@
             "id": "b74e229d4b8836b5",
             "type": "leaf",
             "state": {
-              "type": "home-tab-view",
-              "state": {},
-              "icon": "search",
-              "title": "Home tab"
+              "type": "markdown",
+              "state": {
+                "file": "TODO/2025-05-28.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-05-28"
             }
           }
         ]
@@ -92,12 +96,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "TODO/2025-05-28.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "アウトライン"
+              "title": "2025-05-28のアウトライン"
             }
           }
         ]
