@@ -94,14 +94,14 @@ tnsping ユーティリティ
 `tnsping ORCL`
 
 ---
-se
-
+# 接続時フェイルオーバーと接続時ロードバランシング
 
 ORCL2 =
   (DESCRIPTION =
     (ADDRESS_LIST =
       (ADDRESS = (PROTOCOL = TCP)(HOST = db.oracle.com)(PORT = 1521))
       (ADDRESS = (PROTOCOL = TCP)(HOST = db.oracle.com)(PORT = 1522))
+      (LOAD_BALANCE = on)
     )
     (CONNECT_DATA =
       (SERVER = DEDICATED)
