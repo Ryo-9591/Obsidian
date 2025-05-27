@@ -12,7 +12,8 @@ tnsnames.ora、リスナー、ネーミングメソッド、ネットサービ�
 
 ローカルネーミング
 
-クライアント側にtsn
+クライアント側にtnsnames.oraを置き、接続情報を得る方法
+ファイルパス：<ORACLE_HOME>/network/admin/tnsnames.ora
 
 ## ② データベースサーバー側でサービスを登録しておく方法
 
