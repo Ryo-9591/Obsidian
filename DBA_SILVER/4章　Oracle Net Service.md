@@ -185,4 +185,7 @@ CREATE DATABASE LINK リンク名
 CONNECT TO ユーザ名 IDENTIFIED BY パスワード
 USING '接続記述子';
 
+---
+# Oracle Database Gateway 
+
 異機種
