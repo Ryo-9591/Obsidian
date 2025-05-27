@@ -176,3 +176,6 @@ ORCL2 =
 ---
 # データベースリンク
 
+CREATE DATABASE LINK リンク名
+CONNECT TO ユーザ名 IDENTIFIED BY パスワード
+USING '接続記述子';
