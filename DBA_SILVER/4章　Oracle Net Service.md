@@ -94,3 +94,16 @@ tnsping ユーティリティ
 `tnsping ORCL`
 
 ---
+
+ORCL2 =  
+(DESCRIPTION =  
+ADDRESS_LISTに2つのアドレスを記載してい  
+(ADDRESS_LIST=  
+(ADDRESS = (PROTOCOL = TCP) (HOST = [db.oracle.com](http://db.oracle.com/)) (PORT = 1521))  
+(ADDRESS = (PROTOCOL = TCP) (HOST = [db.oracle.com](http://db.oracle.com/)) (PORT = 1522))  
+）  
+(CONNECT_DATA =  
+(SERVER = DEDICATED)  
+(SERVICE_NAME = orcl. wor 1d)
+)
+)
