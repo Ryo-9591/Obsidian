@@ -143,21 +143,23 @@ ORCL2 =
 ---
 ## 接続時フェイルオーバーと接続時ロードバランシングの併用
 
-接続時フェイルオーバーを設定したときと同じ
+ランダムに選んで接続
 
 tnsnames.oraの内容：
 
 ORCL2 =
   (DESCRIPTION =
+    (FAILOVER = ON)
+    (LOAD_BALANCE = ON)
     (ADDRESS_LIST =
       (ADDRESS = (PROTOCOL = TCP)(HOST = db.oracle.com)(PORT = 1521))
       (ADDRESS = (PROTOCOL = TCP)(HOST = db.oracle.com)(PORT = 1522))
-      (LOAD_BALANCE = on)
     )
     (CONNECT_DATA =
       (SERVER = DEDICATED)
       (SERVICE_NAME = orcl.world)
     )
   )
+
 
 ---
