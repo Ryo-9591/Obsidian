@@ -24,6 +24,10 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "2025-05-28.md",
+      "timestamp": 1748388019367
+    },
+    {
       "filepath": "DBA_SILVER/3章　インスタンスの管理.md",
       "timestamp": 1748388010219
     },
@@ -38,10 +42,6 @@
     {
       "filepath": "DBA_SILVER/1章　アーキテクチャの理解.md",
       "timestamp": 1748387997035
-    },
-    {
-      "filepath": "DBA_SILVER/6章　表領域について.md",
-      "timestamp": 1748387983212
     }
   ],
   "bookmarkedFileStore": [],
