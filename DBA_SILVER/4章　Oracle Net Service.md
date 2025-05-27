@@ -92,3 +92,5 @@ listener.oraにあらかじめ「SID_LIST_<リスナー名>」というパラメ
 tnsping ユーティリティ
 
 `tnsping ORCL`
+
+---
