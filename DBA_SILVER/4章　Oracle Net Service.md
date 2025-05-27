@@ -94,7 +94,9 @@ tnsping ユーティリティ
 `tnsping ORCL`
 
 ---
+# TNS_ADMIN環境変数
 
+tnsnames.ora、listener.ora、sqlnet.oraをデフォルト以外の場所に置きたいときに使用
 
 ---
 # 接続時フェイルオーバーと接続時ロードバランシング
