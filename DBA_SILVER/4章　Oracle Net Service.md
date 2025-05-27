@@ -84,4 +84,9 @@ listener.oraにあらかじめ「SID_LIST_<リスナー名>」というパラメ
 ## ③ORA-12514:TNS:listener could not resolve SERVICE_NAME given in connect descriptor
 →接続識別子で記載されているサービスを認識できない
 ### 原因
-データベースサーバ側で
+データベースサーバ側でサービスが登録されていない
+→tnsnames.oraに記載したグローバルデータベース名があっているか？
+→サービス登録しているか？
+
+接続確認
+tnsping ゆー
