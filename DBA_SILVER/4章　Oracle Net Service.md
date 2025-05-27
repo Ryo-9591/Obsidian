@@ -180,7 +180,7 @@ ORCL2 =
 →CREATE DATABASE LINK権限が必要
 
 記述例：
-基本的には名前解決できる方のユーザ
+基本的には名前解決できる方のユーザがあるサーバ上で実行する
 
 CREATE DATABASE LINK リンク名
 CONNECT TO ユーザ名 IDENTIFIED BY パスワード
