@@ -176,6 +176,13 @@ ORCL2 =
 ---
 # データベースリンク
 
+プライベートデータベースリンク
+→CREATE DATABASE LINK権限が必要
+
+記述例：
+
 CREATE DATABASE LINK リンク名
 CONNECT TO ユーザ名 IDENTIFIED BY パスワード
 USING '接続記述子';
+
+異機種
