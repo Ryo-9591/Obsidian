@@ -13,7 +13,7 @@ tnsnames.ora、リスナー、ネーミングメソッド、ネットサービ�
 ### ローカルネーミング
 
 クライアント側にtnsnames.oraを置き、接続情報を得る方法
-ファイルパス：<ORACLE_HOME>/network/admin/tnsnames.ora
+ファイルパス：`<ORACLE_HOME>/network/admin/tnsnames.ora`
 
 Oracle Net Managerで編集できる
 
@@ -32,7 +32,7 @@ sqlplus <ユーザ名>/<パスワード>
 
 接続識別子に接続情報を直接記入する
 
-sql plus system/Password123@db.oracle.com:1521/oracl.world
+`sql plus system/Password123@db.oracle.com:1521/oracl.world`
 
 ---
 
@@ -55,7 +55,7 @@ LREGによって行われLOCAL＿LISTENER初期化パラメータにせってさ
 | orcl.world          | orcl                  |
 PORTが1521の場合、LOCAL_LISTENERを明示的に設定しないでいい
 
-サービスの登録確認をすると、status=**ready**になる
+サービスの登録確認をすると、`status=**ready**`になる
 
 ---
 ### 静的サービス登録
@@ -63,7 +63,7 @@ PORTが1521の場合、LOCAL_LISTENERを明示的に設定しないでいい
 listener.oraにあらかじめ「SID_LIST_<リスナー名>」というパラメータに記述しておく
 →インスタンスが停止してもサービス登録状態は続く
 
-サービスの登録確認をすると、status=**UNKNOWN**になる
+サービスの登録確認をすると、`status=**UNKNOWN**`になる
 
 ---
 
@@ -88,5 +88,7 @@ listener.oraにあらかじめ「SID_LIST_<リスナー名>」というパラメ
 →tnsnames.oraに記載したグローバルデータベース名があっているか？
 →サービス登録しているか？
 
-接続確認
-tnsping ゆー
+## 接続確認
+tnsping ユーティリティ
+
+`tnsping ORCL`
