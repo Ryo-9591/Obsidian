@@ -96,6 +96,25 @@ tnsping ユーティリティ
 ---
 # 接続時フェイルオーバーと接続時ロードバランシング
 
+
+接続時フェイルオーバー
+tnsnames.oraの内容：
+
+ORCL2 =
+  (DESCRIPTION =
+    (ADDRESS_LIST =
+      (ADDRESS = (PROTOCOL = TCP)(HOST = db.oracle.com)(PORT = 1521))
+      (ADDRESS = (PROTOCOL = TCP)(HOST = db.oracle.com)(PORT = 1522))
+    )
+    (CONNECT_DATA =
+      (SERVER = DEDICATED)
+      (SERVICE_NAME = orcl.world)
+    )
+  )
+
+接続時ロードバランシング
+tnsnames.oraの内容：
+
 ORCL2 =
   (DESCRIPTION =
     (ADDRESS_LIST =
