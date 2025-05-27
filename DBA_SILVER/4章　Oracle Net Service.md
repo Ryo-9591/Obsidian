@@ -109,6 +109,7 @@ tnsnames.oraの内容：
 
 ORCL2 =
   (DESCRIPTION =
+    (FAILOVER = ON)
     (ADDRESS_LIST =
       (ADDRESS = (PROTOCOL = TCP)(HOST = db.oracle.com)(PORT = 1521))
       (ADDRESS = (PROTOCOL = TCP)(HOST = db.oracle.com)(PORT = 1522))
@@ -118,6 +119,7 @@ ORCL2 =
       (SERVICE_NAME = orcl.world)
     )
   )
+
 
 ---
 ## 接続時ロードバランシング
@@ -128,17 +130,18 @@ tnsnames.oraの内容：
 
 ORCL2 =
   (DESCRIPTION =
+    (LOAD_BALANCE = ON)
+    (FAILOVER = OFF)
     (ADDRESS_LIST =
       (ADDRESS = (PROTOCOL = TCP)(HOST = db.oracle.com)(PORT = 1521))
       (ADDRESS = (PROTOCOL = TCP)(HOST = db.oracle.com)(PORT = 1522))
-      (FAILOVER = off)
-      (LOAD_BALANCE = on)
     )
     (CONNECT_DATA =
       (SERVER = DEDICATED)
       (SERVICE_NAME = orcl.world)
     )
   )
+
 
 ---
 ## 接続時フェイルオーバーと接続時ロードバランシングの併用
