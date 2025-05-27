@@ -96,8 +96,7 @@ tnsping ユーティリティ
 ---
 # 接続時フェイルオーバーと接続時ロードバランシング
 
-
-接続時フェイルオーバー
+## 接続時フェイルオーバー
 
 上から接続してだめなら2番目
 
@@ -115,7 +114,8 @@ ORCL2 =
     )
   )
 
-接続時ロードバランシング
+---
+## 接続時ロードバランシング
 
 負荷分散のためランダムに接続
 
@@ -126,6 +126,7 @@ ORCL2 =
     (ADDRESS_LIST =
       (ADDRESS = (PROTOCOL = TCP)(HOST = db.oracle.com)(PORT = 1521))
       (ADDRESS = (PROTOCOL = TCP)(HOST = db.oracle.com)(PORT = 1522))
+      (FAILOVER = off)
       (LOAD_BALANCE = on)
     )
     (CONNECT_DATA =
