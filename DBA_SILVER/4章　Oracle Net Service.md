@@ -75,4 +75,11 @@ listener.oraにあらかじめ「SID_LIST_<リスナー名>」というパラメ
 原因
 クライアント側の名前解決に失敗している
 →tnsnames.oraに接続識別子がちゃんと書かれているか？
-→tnsnames.oraを
+→tnsnames.oraを正しいファイルパスに置いているか？
+
+②TNS-12541:TNS:no listener
+→リスナーがない
+
+原因
+リスナーとの通信に失敗する
+→
