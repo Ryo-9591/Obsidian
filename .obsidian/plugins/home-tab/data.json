@@ -24,6 +24,10 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "無題のファイル.md",
+      "timestamp": 1748441234856
+    },
+    {
       "filepath": "TODO/2025-05-28.md",
       "timestamp": 1748388145086
     },
@@ -38,10 +42,6 @@
     {
       "filepath": "DBA_SILVER/3章　インスタンスの管理.md",
       "timestamp": 1748388010219
-    },
-    {
-      "filepath": "DBA_SILVER/2章　ツール.md",
-      "timestamp": 1748388006518
     }
   ],
   "bookmarkedFileStore": [],
