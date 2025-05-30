@@ -15,7 +15,7 @@
               "state": {
                 "file": "DBA_SILVER/6章　表領域について.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "6章　表領域について"
