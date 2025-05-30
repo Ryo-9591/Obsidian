@@ -24,12 +24,16 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
-      "filepath": "DBA_SILVER/6章　表領域について.md",
-      "timestamp": 1748611769976
+      "filepath": "DBA_SILVER/5章　ユーザ、ロール及び権限の管理.md",
+      "timestamp": 1748612168488
     },
     {
-      "filepath": "DBA_SILVER/5章　ユーザ、ロール及び権限の管理.md",
-      "timestamp": 1748611769425
+      "filepath": "DBA_SILVER/6章　表領域について.md",
+      "timestamp": 1748612164088
+    },
+    {
+      "filepath": "DBA_SILVER/7章　データ格納のための記憶域の利用.md",
+      "timestamp": 1748612154655
     },
     {
       "filepath": "DBA_SILVER/3章　インスタンスの管理.md",
@@ -38,10 +42,6 @@
     {
       "filepath": "DBA_SILVER/23章　タイムゾーン.md",
       "timestamp": 1748611751904
-    },
-    {
-      "filepath": "DBA_SILVER/8章　UNDOの管理.md",
-      "timestamp": 1748611750214
     }
   ],
   "bookmarkedFileStore": [],
