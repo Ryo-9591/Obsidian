@@ -1,35 +1,27 @@
 # Oracle Net ServiceとOracle Net Configuration Assistant
 ## Oracle Net Service
+
 幅広い範囲のOracle Net Servicesの設定を実行できるGUIツール
 ローカルのデータベースサーバーのネーミングメソッドを管理できる
 ## Oracle Net Configuration Assistant
+
 tnsnames.ora、リスナー、ネーミングメソッド、ネットサービス名、ディレクトリ使用を設定できるGUIツール
-
----
 # クライアントサーバーとデータベースサーバーの接続方法２種
-
 ## ①クライアントサーバー側で設定する方法
-
 ### ローカルネーミング
 
 クライアント側にtnsnames.oraを置き、接続情報を得る方法
 ファイルパス：`<ORACLE_HOME>/network/admin/tnsnames.ora`
-
 Oracle Net Managerで編集できる
-
 ### SQL Plusでリモート接続
 
 sqlplus <ユーザ名>/<パスワード>@<接続識別子>
-
 で接続
-
 ※ローカルだと
 sqlplus <ユーザ名>/<パスワード>
-
 ### 簡易接続ネーミング
 
 接続識別子に接続情報を直接記入する
-
 `sql plus system/Password123@db.oracle.com:1521/orcl.world`
 
 ## ② データベースサーバー側でサービスを登録しておく方法
