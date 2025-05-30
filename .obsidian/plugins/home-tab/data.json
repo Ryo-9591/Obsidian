@@ -24,6 +24,14 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "DBA_SILVER/6章　表領域について.md",
+      "timestamp": 1748611169102
+    },
+    {
+      "filepath": "DBA_SILVER/5章　ユーザ、ロール及び権限の管理.md",
+      "timestamp": 1748611165785
+    },
+    {
       "filepath": "DBA_SILVER/10章　データの扱い.md",
       "timestamp": 1748611117571
     },
@@ -34,14 +42,6 @@
     {
       "filepath": "DBA_SILVER/8章　UNDOの管理.md",
       "timestamp": 1748611112535
-    },
-    {
-      "filepath": "DBA_SILVER/1章　アーキテクチャの理解.md",
-      "timestamp": 1748611107989
-    },
-    {
-      "filepath": "DBA_SILVER/2章　ツール.md",
-      "timestamp": 1748611100325
     }
   ],
   "bookmarkedFileStore": [],
