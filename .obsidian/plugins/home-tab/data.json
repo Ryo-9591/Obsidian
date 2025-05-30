@@ -24,6 +24,10 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "DBA_SILVER/1章　アーキテクチャの理解.md",
+      "timestamp": 1748612731941
+    },
+    {
       "filepath": "DBA_SILVER/5章　ユーザ、ロール及び権限の管理.md",
       "timestamp": 1748612538934
     },
@@ -38,10 +42,6 @@
     {
       "filepath": "DBA_SILVER/2章　ツール.md",
       "timestamp": 1748612376609
-    },
-    {
-      "filepath": "DBA_SILVER/1章　アーキテクチャの理解.md",
-      "timestamp": 1748612373527
     }
   ],
   "bookmarkedFileStore": [],
