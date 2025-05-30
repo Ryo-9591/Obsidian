@@ -24,6 +24,10 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "DBA_SILVER/5章　ユーザ、ロール及び権限の管理.md",
+      "timestamp": 1748612538934
+    },
+    {
       "filepath": "DBA_SILVER/4章　Oracle Net Service.md",
       "timestamp": 1748612387757
     },
@@ -38,10 +42,6 @@
     {
       "filepath": "DBA_SILVER/1章　アーキテクチャの理解.md",
       "timestamp": 1748612373527
-    },
-    {
-      "filepath": "DBA_SILVER/6章　表領域について.md",
-      "timestamp": 1748612200136
     }
   ],
   "bookmarkedFileStore": [],

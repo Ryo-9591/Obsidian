@@ -51,7 +51,6 @@ listener.oraにあらかじめ「SID_LIST_<リスナー名>」というパラメ
 サービスの登録確認をすると、`status=UNKNOWN`になる
 
 # 接続失敗時のトラブルシューティング
-
 ## ①ORA-12154:TSN could not resolve service name
 →サービス名の解決ができない
 ### 原因
@@ -70,16 +69,13 @@ listener.oraにあらかじめ「SID_LIST_<リスナー名>」というパラメ
 データベースサーバ側でサービスが登録されていない
 →tnsnames.oraに記載したグローバルデータベース名があっているか？
 →サービス登録しているか？
-
 ## 接続確認
 tnsping ユーティリティ
-
 `tnsping ORCL`
 # TNS_ADMIN環境変数
 
 tnsnames.ora、listener.ora、sqlnet.oraをデフォルト以外の場所に置きたいときに使用
 # 接続時フェイルオーバーと接続時ロードバランシング
-
 ## 接続時フェイルオーバー
 
 上から接続してだめなら2番目
