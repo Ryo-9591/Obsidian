@@ -155,9 +155,9 @@ ORCL2 =
 # データベースリンク
 Oracleデータベースと別のOracleデータベースを連携させる仕組み
 
-①接続元データベースにOracle Net Serviceのせってｐ
-
-CREATE DATABASE LINK権限が必要
+①接続元データベースにOracle Net Service(tsnnames.ora)の設定
+②「CREATE DATABASE LINK文」を発行してデータベースリンクを作成
+→「CREATE DATABASE LINK権限」が必要
 
 記述例：
 基本的には名前解決できる方のユーザがあるサーバ上で実行する
