@@ -19,6 +19,12 @@ GUI、tnsnames.ora、リスナー、ネーミングメソッド、ネットサ�
 クライアント側にtnsnames.oraを置き、接続情報を得る方法
 ファイルパス：`<ORACLE_HOME>/network/admin/tnsnames.ora`
 Oracle Net Manager、NetCAで編集できる
+
+tnsnames.ora例：
+ORCL =
+　(DESCRIPTION = 
+　　(ADDRESS = (PROTOCOL =TCP)(HOST = ))
+　)
 ## SQL Plusでリモート接続
 `sqlplus <ユーザ名>/<パスワード>@<接続識別子>`で接続
 ※ローカルだと`sqlplus <ユーザ名>/<パスワード>`
