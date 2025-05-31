@@ -17,7 +17,7 @@
 #### SYSAUX表領域
 ・SYSTEm表領域の補佐
 ・管理情報を格納
-## 永続表領域の作成(smallfile表領域)
+## 永続表領域の作成
 
 CREATE TABELSPACE mytbs
 DATAFILE '/u1/app/oracle/mytbs01.dbf'　--１つ目
@@ -25,18 +25,8 @@ SIZE 100M
 AUTOEXTEND OFF ,　--自動拡張OFF
 '/u1/app/oracle/mytbs02.dbf'　--２つ目
 SIZE 200M
-AUTOEXTEND ON 　----自動拡張ON
-## 永続表領域の作成(smallfile表領域、)
+AUTOEXTEND ON ,　----自動拡張ON
 
-
-## 永続表領域の作成(bigfile表領域)
-
-CREATE TABLESPACE bigtbs 
-DATAFILE '/u01/app/oracle/bigtbs.dbf' 
-SIZE 50G
-
-※1つのデータファイルだけで構成
-※smallfile表領域への変更はできない
 
 
 ## ②UNDO表領域
