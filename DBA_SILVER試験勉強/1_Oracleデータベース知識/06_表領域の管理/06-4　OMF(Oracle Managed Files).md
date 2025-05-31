@@ -1,12 +1,11 @@
 # OMF(Oracle Managed Files)
 
-- 初期化パラメータで格納先を設定しておけば、**ファイル名・サイズ指定不要**。
-- `CREATE TABLESPACE` 時に `DATAFILE` 句を省略できる。
-- 削除時は `DROP TABLESPACE` だけで**データファイルごと削除**（OMF管理なら）
+・「DB_CREATE_FILE_DEST初期化パラメータ」で格納先を設定しておけば、ファイル名・サイズ指定不要
+・`CREATE TABLESPACE` 時に `DATAFILE` 句を省略できる
+・削除時は `DROP TABLESPACE` だけでデータファイルごと削除
 
 ①初期化パラメータでOMF管理するデータファイルの格納先を指定(必須)
 `ALTER SYSTEM SET DB_CREATE_FILE_DEST='/u01/app/oracle/omf';`
-
 
 | 初期化パラメータ                               | 管理対象のファイル                                                                 |
 | -------------------------------------- | ------------------------------------------------------------------------- |
