@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b46dfa01ac7e22b8",
+        "id": "7e4a08be5906ac53",
         "type": "tabs",
         "children": [
           {
-            "id": "aad8b1127b3dce68",
+            "id": "a6a5a5853ef1f13b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -137,12 +137,13 @@
       "graph:グラフビューを開く": false
     }
   },
-  "active": "aad8b1127b3dce68",
+  "active": "a6a5a5853ef1f13b",
   "lastOpenFiles": [
+    "DBA_SILVER/02-4　EM Express.md",
+    "DBA_SILVER/02-5　Oracle Enterprise Manager Cloud Control.md",
+    "DBA_SILVER/02-1　DBCA(Database Configuration Assistant).md",
     "DBA_SILVER/02-2　SQL Plus.md",
     "DBA_SILVER/02-1　ツール.md",
-    "DBA_SILVER/02-1　DBCA(Database Configuration Assistant).md",
-    "DBA_SILVER/02-1　ツール 4.md",
     "DBA_SILVER/02-3　SQL Developer.md",
     "DBA_SILVER/01-1　アーキテクチャ.md",
     "DBA_SILVER/03-1　インスタンスの管理.md",
@@ -168,7 +169,6 @@
     "Pasted image 20250531154320.png",
     "DBA_SILVER/関連/ユーザ作成(CREATE USER権限が必要).md",
     "DBA_SILVER/関連/ユーザの種類.md",
-    "DBA_SILVER/8章　UNDOの管理.md",
     "DBA_SILVER/関連",
     "DBA_SILVER/images/Pasted image 20250531141650.png",
     "DBA_SILVER/images/Pasted image 20250531140717.png",
