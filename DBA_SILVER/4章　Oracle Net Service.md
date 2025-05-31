@@ -63,11 +63,10 @@ SID_LIST_LISTENER=
    )
   )
 ### リスナーにインスタンス情報が登録されているか確認
-lsnctl services
+`lsnctl services`
 ・・・
 status=UNKNOWN　←成功していると「UNKNOWN」と出る！
 ・・・
-
 # 接続失敗時のトラブルシューティング
 ## ①ORA-12154:TSN could not resolve service name
 →サービス名の解決ができない
