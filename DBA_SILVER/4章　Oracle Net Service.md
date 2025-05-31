@@ -79,21 +79,19 @@ status=UNKNOWN　←成功していると「UNKNOWN」と出る！
 # 接続失敗時のトラブルシューティング
 ![[IMG_0070 1.jpg]]
 ## ①ORA-12154:TSN could not resolve service name
-→サービス名の解決ができない
-### 原因
-クライアント側に設定しているtnsnames.oraの問題で名前解決に失敗
-→tnsnames.oraにサービス名をちゃんと書いてるか？
-→正しいパスに置いているか？
+→クライアント側に設定しているtnsnames.oraの問題で名前解決に失敗
+
+・tnsnames.oraにサービス名をちゃんと書いてるか？
+・正しいパスに置いているか？
 ## ②TNS-12541:TNS:no listener
-### 原因
-クライアント側とデータベースサーバー側の問題
-tnsnames.oraかリスナーが悪く通信に失敗
-→tnsnames.oraに記載してIP、ポートがあっているか
-→リスナーが起動しているか？記載したポートで待ち受けているか
+→クライアント側とデータベースサーバー側の問題、tnsnames.oraかリスナーが悪く通信に失敗
+
+・tnsnames.oraに記載してIP、ポートがあっているか
+・リスナーが起動しているか？記載したポートで待ち受けているか
 ## ③ORA-12514:TNS:listener could not resolve SERVICE_NAME given in connect descriptor
-→接続識別子で記載されているサービスを認識できない
+→データベースサーバ側でサービスが登録されていないのでサービスが
 ### 原因
-データベースサーバ側でサービスが登録されていない
+
 →tnsnames.oraに記載したグローバルデータベース名があっているか？
 →サービス登録しているか？
 ## 接続確認
