@@ -48,8 +48,7 @@ PORTが1521の場合、LOCAL_LISTENERを明示的に設定しないでいい
 サービスの登録確認をすると、`status=ready`になる
 
 LOCAL_LISTENER初期化パラメータの例：
-
-
+`LOCAL_LISTENER=(ADDRESS = (PROTOCOL=TCP)(HOST=db.oracle.com)(PORT=1521))`
 
 
 
