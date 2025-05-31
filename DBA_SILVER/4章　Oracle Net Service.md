@@ -10,17 +10,7 @@ GUI、一元管理
 ## Oracle Net Manager
 GUI、ローカルのデータベースサーバーのネーミングメソッドを管理する
 ## Oracle Net Configuration Assistant
-GUI、tnsnames.oraファイルの構成を行える
-
-
-# Oracle Net ServiceとOracle Net Configuration Assistant
-## Oracle Net Service
-
-幅広い範囲のOracle Net Servicesの設定を実行できるGUIツール
-ローカルのデータベースサーバーのネーミングメソッドを管理できる
-## Oracle Net Configuration Assistant
-
-tnsnames.ora、リスナー、ネーミングメソッド、ネットサービス名、ディレクトリ使用を設定できるGUIツール
+GUI、tnsnames.ora、リスナー、ネーミングメソッド、ネットサービス名、ディレクトリ使用を設定できる
 # クライアントサーバーとデータベースサーバーの接続方法２種
 ## ①クライアントサーバー側で設定する方法
 ### ローカルネーミング
