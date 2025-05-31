@@ -24,24 +24,24 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
-      "filepath": "DBA_SILVER/02-3　SQL Developer.md",
-      "timestamp": 1748697891462
+      "filepath": "DBA_SILVER/01-1　アーキテクチャ.md",
+      "timestamp": 1748697958590
     },
     {
-      "filepath": "DBA_SILVER/02-4　EM Express.md",
-      "timestamp": 1748697889956
+      "filepath": "DBA_SILVER/04-1　Oracle Net Service.md",
+      "timestamp": 1748697947624
     },
     {
-      "filepath": "DBA_SILVER/02-5　Oracle Enterprise Manager Cloud Control.md",
-      "timestamp": 1748697885201
+      "filepath": "DBA_SILVER/04-2　共有サーバ.md",
+      "timestamp": 1748697945904
     },
     {
-      "filepath": "DBA_SILVER/02-1　DBCA(Database Configuration Assistant).md",
-      "timestamp": 1748697882297
+      "filepath": "DBA_SILVER/03-4　初期化パラメータ.md",
+      "timestamp": 1748697943970
     },
     {
-      "filepath": "DBA_SILVER/02-2　SQL Plus.md",
-      "timestamp": 1748697880422
+      "filepath": "DBA_SILVER/03-1　インスタンスの管理.md",
+      "timestamp": 1748697933714
     }
   ],
   "bookmarkedFileStore": [],
