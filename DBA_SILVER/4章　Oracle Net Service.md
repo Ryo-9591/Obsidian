@@ -80,9 +80,8 @@ status=UNKNOWN　←成功していると「UNKNOWN」と出る！
 ## ①ORA-12154:TSN could not resolve service name
 →サービス名の解決ができない
 ### 原因
-クライアント側の名前解決に失敗している
-→tnsnames.oraに接続識別子がちゃんと書かれているか？
-→tnsnames.oraを正しいファイルパスに置いているか？
+クライアント側に設定しているtsnnames.oraの問題で名前解決に失敗
+→tnsnames.oraに接続識別子がちゃんと書かれているか？正しいファイルパスに置いているか？
 ## ②TNS-12541:TNS:no listener
 →リスナーがない
 ### 原因
