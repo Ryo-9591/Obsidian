@@ -24,16 +24,24 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "DBA_SILVER試験勉強/1_Oracleデータベース知識/8章　UNDOの管理.md",
+      "timestamp": 1748706120753
+    },
+    {
+      "filepath": "DBA_SILVER試験勉強/1_Oracleデータベース知識/9章　データの移動.md",
+      "timestamp": 1748706119577
+    },
+    {
+      "filepath": "DBA_SILVER試験勉強/1_Oracleデータベース知識/7章　データ格納のための記憶域の利用.md",
+      "timestamp": 1748706118822
+    },
+    {
       "filepath": "DBA_SILVER試験勉強/1_Oracleデータベース知識/06_表領域の管理/06-2　永続表領域.md",
       "timestamp": 1748702033631
     },
     {
       "filepath": "DBA_SILVER試験勉強/1_Oracleデータベース知識/05_ユーザ、権限、ロール/05-2　権限.md",
       "timestamp": 1748701988253
-    },
-    {
-      "filepath": "DBA_SILVER試験勉強/1_Oracleデータベース知識/05_ユーザ、権限、ロール/05-3　ロール.md",
-      "timestamp": 1748701987889
     }
   ],
   "bookmarkedFileStore": [],
