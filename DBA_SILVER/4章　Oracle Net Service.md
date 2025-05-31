@@ -49,8 +49,17 @@ status=READY　←成功なら「READY」と出る！
 →インスタンスが停止してもサービス登録状態は続く
 
 listener.ora例：
-
-
+LISTENER =
+  (DESCRIPTION =
+      (ADDRESS = (PROTOCOL = TCP)(HOST = db.oracle.com)(PORT = 1521))
+    )
+   )
+SID_L
+    (CONNECT_DATA =
+      (SERVER = DEDICATED)
+      (SERVICE_NAME = orcl.world)
+    )
+  )
 
 
 
