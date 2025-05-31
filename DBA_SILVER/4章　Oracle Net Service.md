@@ -38,12 +38,10 @@ orcl.world・・・サービス名
 LOCAL_LISTENER初期化パラメータ例：
 `LOCAL_LISTENER=(ADDRESS = (PROTOCOL=TCP)(HOST=db.oracle.com)(PORT=1521))`
 ※ポート=1521の場合、LOCAL_LISTENER初期化パラメータを明示的に設定しないでいい
-
-確認(りすな)
-
+### リスナーにインスタンス情報が登録されているか確認
 `lsnrctl services`
 ・・・
-status=READY
+status=READY　←成功なら「READY」と出る！
 ・・・
 
 
