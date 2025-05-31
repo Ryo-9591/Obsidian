@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DBA_SILVER試験勉強/1_Oracleデータベース知識/07_セグメント、データブロック管理/07-1　データ格納のための記憶域の利用.md",
+                "file": "DBA_SILVER試験勉強/1_Oracleデータベース知識/06_表領域の管理/06-1　表領域.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "07-1　データ格納のための記憶域の利用"
+              "title": "06-1　表領域"
             }
           }
         ]
@@ -97,13 +97,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DBA_SILVER試験勉強/1_Oracleデータベース知識/07_セグメント、データブロック管理/07-1　データ格納のための記憶域の利用.md",
+                "file": "DBA_SILVER試験勉強/1_Oracleデータベース知識/06_表領域の管理/06-1　表領域.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "07-1　データ格納のための記憶域の利用のアウトライン"
+              "title": "06-1　表領域のアウトライン"
             }
           }
         ]
@@ -139,10 +139,10 @@
   },
   "active": "25d53d02687978a5",
   "lastOpenFiles": [
+    "DBA_SILVER試験勉強/1_Oracleデータベース知識/07_セグメント、データブロック管理/07-1　データ格納のための記憶域の利用.md",
     "DBA_SILVER試験勉強/1_Oracleデータベース知識/9章　データの移動.md",
     "DBA_SILVER試験勉強/1_Oracleデータベース知識/07_セグメント、データブロック管理",
     "DBA_SILVER試験勉強/1_Oracleデータベース知識/8章　UNDOの管理.md",
-    "DBA_SILVER試験勉強/1_Oracleデータベース知識/07_セグメント、データブロック管理/07-1　データ格納のための記憶域の利用.md",
     "DBA_SILVER試験勉強/1_Oracleデータベース知識/06_表領域の管理/06-4　OMF(Oracle Managed Files).md",
     "DBA_SILVER試験勉強/1_Oracleデータベース知識/06_表領域の管理/06-2　永続表領域.md",
     "DBA_SILVER試験勉強/1_Oracleデータベース知識/05_ユーザ、権限、ロール/05-2　権限.md",
