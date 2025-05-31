@@ -86,7 +86,8 @@ status=UNKNOWN　←成功していると「UNKNOWN」と出る！
 ## ②TNS-12541:TNS:no listener
 →リスナーがない
 ### 原因
-クライアント側とデータベースサーバーリスナーとの通信に失敗する
+クライアント側とデータベースサーバー側の問題
+tnsnames.oraかリスナーが悪く通信に失敗
 →tnsnames.oraに記載してIP、ポートがあっているか
 →リスナーが起動しているか？記載したポートで待ち受けているか
 ## ③ORA-12514:TNS:listener could not resolve SERVICE_NAME given in connect descriptor
