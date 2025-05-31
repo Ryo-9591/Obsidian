@@ -4,22 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "7e4a08be5906ac53",
+        "id": "9b760483dc18bb1a",
         "type": "tabs",
         "children": [
           {
-            "id": "a6a5a5853ef1f13b",
+            "id": "25d53d02687978a5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DBA_SILVER/04-1　Oracle Net Service.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "04-1　Oracle Net Service"
+              "type": "home-tab-view",
+              "state": {},
+              "icon": "search",
+              "title": "Home tab"
             }
           }
         ]
@@ -97,13 +92,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DBA_SILVER/04-1　Oracle Net Service.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "04-1　Oracle Net Serviceのアウトライン"
+              "title": "アウトライン"
             }
           }
         ]
@@ -137,24 +131,28 @@
       "graph:グラフビューを開く": false
     }
   },
-  "active": "a6a5a5853ef1f13b",
+  "active": "25d53d02687978a5",
   "lastOpenFiles": [
+    "無題のファイル.md",
+    "DBA_SILVER/images/Pasted image 20250531154320.png",
+    "IMG_0070 1.jpg",
+    "DBA_SILVER/images/IMG_0070.jpg",
+    "DBA_SILVER/06-4　OMF(Oracle Managed Files).md",
+    "DBA_SILVER/7章　データ格納のための記憶域の利用.md",
+    "DBA_SILVER/04-1　Oracle Net Service.md",
     "DBA_SILVER/03-4　初期化パラメータ.md",
     "DBA_SILVER/06-2　永続表領域.md",
     "DBA_SILVER/06-1　表領域.md",
     "DBA_SILVER/06-3　データファイル移動.md",
-    "DBA_SILVER/06-4　OMF(Oracle Managed Files).md",
     "DBA_SILVER/10章　データの扱い.md",
     "DBA_SILVER/9章　データの移動.md",
     "DBA_SILVER/8章　UNDOの管理.md",
-    "DBA_SILVER/7章　データ格納のための記憶域の利用.md",
     "DBA_SILVER/06-5　データファイル.md",
     "DBA_SILVER/06-4　一時表領域.md",
     "DBA_SILVER/06-3　UNDO表領域.md",
     "DBA_SILVER/05-6　セキュリティ.md",
     "DBA_SILVER/06-3　セグメント.md",
     "DBA_SILVER/01-1　アーキテクチャ.md",
-    "DBA_SILVER/04-1　Oracle Net Service.md",
     "DBA_SILVER/04-2　共有サーバ.md",
     "DBA_SILVER/03-1　インスタンスの管理.md",
     "DBA_SILVER/02-1　DBCA(Database Configuration Assistant).md",
@@ -164,11 +162,7 @@
     "DBA_SILVER/02-4　EM Express.md",
     "DBA_SILVER/02-1　ツール.md",
     "DBA_SILVER/05-1　ユーザ.md",
-    "DBA_SILVER/04-3　データベースリンク.md",
     "DBA_SILVER/6章",
-    "IMG_0070 1.jpg",
-    "IMG_0070.jpg",
-    "Pasted image 20250531154320.png",
     "DBA_SILVER/関連",
     "DBA_SILVER/images/Pasted image 20250531141650.png",
     "DBA_SILVER/images/Pasted image 20250531140717.png",
