@@ -24,8 +24,12 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
-      "filepath": "DBA_SILVER/6章　表領域について.md",
-      "timestamp": 1748695221029
+      "filepath": "DBA_SILVER/6章-1　表領域.md",
+      "timestamp": 1748696135938
+    },
+    {
+      "filepath": "DBA_SILVER/6章-2　セグメント.md",
+      "timestamp": 1748696134291
     },
     {
       "filepath": "DBA_SILVER/5章　ユーザ、ロール及び権限の管理.md",
@@ -38,10 +42,6 @@
     {
       "filepath": "DBA_SILVER/3章　インスタンスの管理.md",
       "timestamp": 1748695212124
-    },
-    {
-      "filepath": "DBA_SILVER/2章　ツール.md",
-      "timestamp": 1748692897444
     }
   ],
   "bookmarkedFileStore": [],
