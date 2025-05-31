@@ -24,6 +24,10 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "DBA_SILVER試験勉強/1_Oracleデータベース知識/06_表領域の管理/06-4　OMF(Oracle Managed Files).md",
+      "timestamp": 1748734582932
+    },
+    {
       "filepath": "DBA_SILVER試験勉強/1_Oracleデータベース知識/07_セグメント、データブロック管理/07-1　データブロック.md",
       "timestamp": 1748707370134
     },
@@ -38,10 +42,6 @@
     {
       "filepath": "DBA_SILVER試験勉強/1_Oracleデータベース知識/06_表領域の管理/06-1　表領域.md",
       "timestamp": 1748707114143
-    },
-    {
-      "filepath": "DBA_SILVER試験勉強/1_Oracleデータベース知識/9章　データの移動.md",
-      "timestamp": 1748706889967
     }
   ],
   "bookmarkedFileStore": [],
