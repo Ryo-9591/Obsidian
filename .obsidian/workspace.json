@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "無題のファイル.md",
+                "file": "DBA_SILVER/01_アーキテクチャの理解.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "無題のファイル"
+              "title": "01_アーキテクチャの理解"
             }
           },
           {
@@ -128,13 +128,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "無題のファイル.md",
+                "file": "DBA_SILVER/01_アーキテクチャの理解.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "無題のファイルのアウトライン"
+              "title": "01_アーキテクチャの理解のアウトライン"
             }
           }
         ]
@@ -170,16 +170,16 @@
   },
   "active": "3da30089d7ebf220",
   "lastOpenFiles": [
-    "DBA_SILVER/5章　ユーザ、ロール及び権限の管理.md",
+    "DBA_SILVER/02_ツール.md",
+    "DBA_SILVER/03_インスタンスの管理.md",
+    "DBA_SILVER/01_アーキテクチャの理解.md",
     "無題のファイル.md",
+    "DBA_SILVER/5章　ユーザ、ロール及び権限の管理.md",
     "DBA_SILVER/6章-1　表領域.md",
     "DBA_SILVER/6章-2　セグメント.md",
     "DBA_SILVER/7章　データ格納のための記憶域の利用.md",
     "DBA_SILVER/6章",
     "DBA_SILVER/4章　Oracle Net Service.md",
-    "DBA_SILVER/3章　インスタンスの管理.md",
-    "DBA_SILVER/2章　ツール.md",
-    "DBA_SILVER/1章　アーキテクチャの理解.md",
     "IMG_0070 1.jpg",
     "IMG_0070.jpg",
     "Pasted image 20250531154320.png",

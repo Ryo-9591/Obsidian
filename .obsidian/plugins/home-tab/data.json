@@ -24,24 +24,24 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "DBA_SILVER/01_アーキテクチャの理解.md",
+      "timestamp": 1748696964444
+    },
+    {
+      "filepath": "DBA_SILVER/02_ツール.md",
+      "timestamp": 1748696964083
+    },
+    {
+      "filepath": "DBA_SILVER/03_インスタンスの管理.md",
+      "timestamp": 1748696963611
+    },
+    {
       "filepath": "無題のファイル.md",
       "timestamp": 1748696901704
     },
     {
       "filepath": "DBA_SILVER/5章　ユーザ、ロール及び権限の管理.md",
       "timestamp": 1748696319870
-    },
-    {
-      "filepath": "DBA_SILVER/6章-1　表領域.md",
-      "timestamp": 1748696318064
-    },
-    {
-      "filepath": "DBA_SILVER/6章-2　セグメント.md",
-      "timestamp": 1748696316938
-    },
-    {
-      "filepath": "DBA_SILVER/7章　データ格納のための記憶域の利用.md",
-      "timestamp": 1748696243879
     }
   ],
   "bookmarkedFileStore": [],
