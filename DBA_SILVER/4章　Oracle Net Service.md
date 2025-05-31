@@ -72,7 +72,7 @@ SID_LIST_LISTENER=
    )
   )
 ### リスナーにインスタンス情報が登録されているか確認
-`lsnctl services`
+`lsnrctl services`
 ・・・
 status=UNKNOWN　←成功していると「UNKNOWN」と出る！
 ・・・
@@ -133,7 +133,7 @@ ORCL2 =
     )
   )
 ## 接続時フェイルオーバーと接続時ロードバランシングの併用
-ランダムに選んで接続
+ランダムに選んで接続し、
 
 tnsnames.oraの内容：
 ORCL2 =
