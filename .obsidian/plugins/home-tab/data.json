@@ -24,24 +24,24 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
-      "filepath": "DBA_SILVER/06-1　表領域.md",
-      "timestamp": 1748701671957
+      "filepath": "DBA_SILVER/7章　データ格納のための記憶域の利用.md",
+      "timestamp": 1748701871489
     },
     {
-      "filepath": "DBA_SILVER/05_ユーザ、権限、ロール/05-1　ユーザ.md",
-      "timestamp": 1748701637618
+      "filepath": "DBA_SILVER/2_SQL/10章　データの扱い.md",
+      "timestamp": 1748701866841
     },
     {
-      "filepath": "DBA_SILVER/04_Oracle Net Service/04-1　Oracle Net Service.md",
-      "timestamp": 1748701605320
+      "filepath": "DBA_SILVER/9章　データの移動.md",
+      "timestamp": 1748701862673
     },
     {
-      "filepath": "DBA_SILVER/03_インスタンス関連/03-1　インスタンスの管理.md",
-      "timestamp": 1748701570796
+      "filepath": "DBA_SILVER/2_SQL/11章　データの検索.md",
+      "timestamp": 1748701858710
     },
     {
-      "filepath": "DBA_SILVER/02_ツール/02-1　DBCA(Database Configuration Assistant).md",
-      "timestamp": 1748701549377
+      "filepath": "DBA_SILVER/2_SQL/12章　ファンクション.md",
+      "timestamp": 1748701857915
     }
   ],
   "bookmarkedFileStore": [],
