@@ -24,6 +24,14 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "DBA_SILVER/03-1　インスタンスの管理.md",
+      "timestamp": 1748701570796
+    },
+    {
+      "filepath": "DBA_SILVER/02_ツール/02-1　DBCA(Database Configuration Assistant).md",
+      "timestamp": 1748701549377
+    },
+    {
       "filepath": "DBA_SILVER/images/Pasted image 20250531154320.png",
       "timestamp": 1748701427510
     },
@@ -34,10 +42,6 @@
     {
       "filepath": "DBA_SILVER/06-4　OMF(Oracle Managed Files).md",
       "timestamp": 1748701410590
-    },
-    {
-      "filepath": "DBA_SILVER/7章　データ格納のための記憶域の利用.md",
-      "timestamp": 1748701398759
     }
   ],
   "bookmarkedFileStore": [],
