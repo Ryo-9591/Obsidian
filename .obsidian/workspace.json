@@ -4,37 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "d24b850e2a0ca7a7",
+        "id": "b46dfa01ac7e22b8",
         "type": "tabs",
         "children": [
           {
-            "id": "275df06d4b82b036",
+            "id": "aad8b1127b3dce68",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DBA_SILVER/06-1　表領域.md",
+                "file": "DBA_SILVER/02-1　ツール 1.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "06-1　表領域"
-            }
-          },
-          {
-            "id": "dc40891421b306e4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DBA_SILVER/05-3　ロール.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "05-3　ロール"
+              "title": "02-1　ツール 1"
             }
           }
         ]
@@ -112,13 +97,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DBA_SILVER/06-1　表領域.md",
+                "file": "DBA_SILVER/02-1　ツール 1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "06-1　表領域のアウトライン"
+              "title": "02-1　ツール 1のアウトライン"
             }
           }
         ]
@@ -152,27 +137,31 @@
       "graph:グラフビューを開く": false
     }
   },
-  "active": "275df06d4b82b036",
+  "active": "aad8b1127b3dce68",
   "lastOpenFiles": [
-    "DBA_SILVER/06-2　セグメント.md",
-    "DBA_SILVER/06-1　表領域.md",
-    "DBA_SILVER/01-1　アーキテクチャ.md",
+    "DBA_SILVER/02-1　ツール 4.md",
+    "DBA_SILVER/02-1　ツール 3.md",
+    "DBA_SILVER/02-1　ツール 2.md",
+    "DBA_SILVER/02-1　ツール 1.md",
     "DBA_SILVER/02-1　ツール.md",
+    "DBA_SILVER/01-1　アーキテクチャ.md",
     "DBA_SILVER/03-1　インスタンスの管理.md",
+    "DBA_SILVER/06-1　表領域.md",
+    "DBA_SILVER/05-6　セキュリティ.md",
+    "DBA_SILVER/06-2　セグメント.md",
+    "DBA_SILVER/7章　データ格納のための記憶域の利用.md",
     "DBA_SILVER/05-1　ユーザ.md",
     "DBA_SILVER/04-3　データベースリンク.md",
     "DBA_SILVER/05-2　権限.md",
     "DBA_SILVER/05-3　ロール.md",
     "DBA_SILVER/05-4　認証.md",
     "DBA_SILVER/05-5　クオータ.md",
-    "DBA_SILVER/05-6　セキュリティ.md",
     "DBA_SILVER/03-3　ADR(自動診断リポジトリ).md",
     "DBA_SILVER/04-1　Oracle Net Service.md",
     "DBA_SILVER/04-2　共有サーバ.md",
     "DBA_SILVER/03-4　初期化パラメータ.md",
     "DBA_SILVER/03-2　データディクショナリビューと動的パフォーマンス.md",
     "無題のファイル.md",
-    "DBA_SILVER/7章　データ格納のための記憶域の利用.md",
     "DBA_SILVER/6章",
     "IMG_0070 1.jpg",
     "IMG_0070.jpg",
@@ -181,12 +170,8 @@
     "DBA_SILVER/関連/ユーザの種類.md",
     "DBA_SILVER/8章　UNDOの管理.md",
     "DBA_SILVER/関連",
-    "2025-05-31.md",
     "DBA_SILVER/images/Pasted image 20250531141650.png",
     "DBA_SILVER/images/Pasted image 20250531140717.png",
-    "DBA_SILVER/9章　データの移動.md",
-    "DBA_SILVER/23章　タイムゾーン.md",
-    "DBA_SILVER/10章　データの扱い.md",
     "DBA_SILVER/images/Pasted image 20250527221634.png",
     "Qiita記事/【API使用量無料】Python × Gemini APIで作る！AIレシピ生成アプリ/img/apikey.png",
     "Qiita記事/【革命】スライド作成がAI任せに！Cursor×Marp最強タッグ💪",
