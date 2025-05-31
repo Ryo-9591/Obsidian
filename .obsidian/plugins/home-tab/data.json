@@ -24,6 +24,10 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "DBA_SILVER/06-1　表領域 1.md",
+      "timestamp": 1748698372950
+    },
+    {
       "filepath": "DBA_SILVER/06-1　表領域.md",
       "timestamp": 1748698071890
     },
@@ -38,10 +42,6 @@
     {
       "filepath": "DBA_SILVER/06-2　セグメント.md",
       "timestamp": 1748698027670
-    },
-    {
-      "filepath": "DBA_SILVER/04-1　Oracle Net Service.md",
-      "timestamp": 1748697947624
     }
   ],
   "bookmarkedFileStore": [],

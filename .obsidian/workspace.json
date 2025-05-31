@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DBA_SILVER/06-1　表領域.md",
+                "file": "DBA_SILVER/06-1　表領域 1.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "06-1　表領域"
+              "title": "06-1　表領域 1"
             }
           }
         ]
@@ -97,13 +97,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DBA_SILVER/06-1　表領域.md",
+                "file": "DBA_SILVER/06-1　表領域 1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "06-1　表領域のアウトライン"
+              "title": "06-1　表領域 1のアウトライン"
             }
           }
         ]
@@ -139,10 +139,11 @@
   },
   "active": "a6a5a5853ef1f13b",
   "lastOpenFiles": [
+    "DBA_SILVER/06-1　表領域.md",
+    "DBA_SILVER/06-1　表領域 1.md",
     "DBA_SILVER/01-1　アーキテクチャ.md",
     "DBA_SILVER/7章　データ格納のための記憶域の利用.md",
     "DBA_SILVER/06-2　セグメント.md",
-    "DBA_SILVER/06-1　表領域.md",
     "DBA_SILVER/04-1　Oracle Net Service.md",
     "DBA_SILVER/04-2　共有サーバ.md",
     "DBA_SILVER/03-4　初期化パラメータ.md",
@@ -168,7 +169,6 @@
     "IMG_0070.jpg",
     "Pasted image 20250531154320.png",
     "DBA_SILVER/関連/ユーザ作成(CREATE USER権限が必要).md",
-    "DBA_SILVER/関連/ユーザの種類.md",
     "DBA_SILVER/関連",
     "DBA_SILVER/images/Pasted image 20250531141650.png",
     "DBA_SILVER/images/Pasted image 20250531140717.png",
