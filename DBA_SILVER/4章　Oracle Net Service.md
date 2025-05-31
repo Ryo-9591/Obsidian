@@ -17,7 +17,7 @@ GUI、tnsnames.ora、リスナー、ネーミングメソッド、ネットサ�
 > クライアント側にもデータベースサーバ側にもOracle Net Serviceの設定が必要！！
 
 # クライアント側でのOracle Net Serviceの設定
-### ローカルネーミング
+## ローカルネーミング
 
 クライアント側にtnsnames.oraを置き、接続情報を得る方法
 ファイルパス：`<ORACLE_HOME>/network/admin/tnsnames.ora`
