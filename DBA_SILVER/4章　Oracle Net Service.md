@@ -6,8 +6,9 @@
 
 # Oracle Net Service設定に使用するツール３つ
 ## Oracle Enterprise Manager Cloud Control
-
+GUI、一元管理
 ## Oracle Net Manager
+GUI、ローカルのデータベースサーバーのネーミングメソッドを管理する
 ## Oracle Net Configuration Assistant
 
 
