@@ -24,6 +24,14 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "DBA_SILVER/04-1　Oracle Net Service.md",
+      "timestamp": 1748701376281
+    },
+    {
+      "filepath": "DBA_SILVER/03-4　初期化パラメータ.md",
+      "timestamp": 1748701369989
+    },
+    {
       "filepath": "DBA_SILVER/06-2　永続表領域.md",
       "timestamp": 1748701205382
     },
@@ -34,14 +42,6 @@
     {
       "filepath": "DBA_SILVER/06-3　データファイル移動.md",
       "timestamp": 1748701200570
-    },
-    {
-      "filepath": "DBA_SILVER/06-4　OMF(Oracle Managed Files).md",
-      "timestamp": 1748701195542
-    },
-    {
-      "filepath": "DBA_SILVER/10章　データの扱い.md",
-      "timestamp": 1748701193491
     }
   ],
   "bookmarkedFileStore": [],
