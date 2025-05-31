@@ -77,14 +77,14 @@ SID_LIST_LISTENER=
 status=UNKNOWN　←成功していると「UNKNOWN」と出る！
 ・・・
 # 接続失敗時のトラブルシューティング
+![[IMG_0070 1.jpg]]
 ## ①ORA-12154:TSN could not resolve service name
 →サービス名の解決ができない
 ### 原因
-クライアント側に設定しているtsnnames.oraの問題で名前解決に失敗
+クライアント側に設定しているtnsnames.oraの問題で名前解決に失敗
 →tnsnames.oraにサービス名をちゃんと書いてるか？
 →正しいパスに置いているか？
 ## ②TNS-12541:TNS:no listener
-→リスナーがない
 ### 原因
 クライアント側とデータベースサーバー側の問題
 tnsnames.oraかリスナーが悪く通信に失敗
