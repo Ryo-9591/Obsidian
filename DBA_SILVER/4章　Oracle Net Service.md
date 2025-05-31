@@ -18,16 +18,14 @@ GUI、tnsnames.ora、リスナー、ネーミングメソッド、ネットサ�
 
 # クライアント側でのOracle Net Serviceの設定
 ## ローカルネーミング
-
 クライアント側にtnsnames.oraを置き、接続情報を得る方法
 ファイルパス：`<ORACLE_HOME>/network/admin/tnsnames.ora`
-Oracle Net Managerで編集できる
-### SQL Plusでリモート接続
-
-sqlplus <ユーザ名>/<パスワード>@<接続識別子>
+Oracle Net Manager、NetCAで編集できる
+## SQL Plusでリモート接続
+`sqlplus <ユーザ名>/<パスワード>@<接続識別子>`
 で接続
 ※ローカルだと
-sqlplus <ユーザ名>/<パスワード>
+`sqlplus <ユーザ名>/<パスワード>`
 ### 簡易接続ネーミング
 
 接続識別子に接続情報を直接記入する
