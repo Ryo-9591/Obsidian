@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DBA_SILVER/04-3　データベースリンク.md",
+                "file": "DBA_SILVER/05-1　ユーザ、ロール及び権限の管理.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "04-3　データベースリンク"
+              "title": "05-1　ユーザ、ロール及び権限の管理"
             }
           }
         ],
@@ -113,13 +113,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DBA_SILVER/04-3　データベースリンク.md",
+                "file": "DBA_SILVER/05-1　ユーザ、ロール及び権限の管理.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "04-3　データベースリンクのアウトライン"
+              "title": "05-1　ユーザ、ロール及び権限の管理のアウトライン"
             }
           }
         ]
@@ -155,17 +155,17 @@
   },
   "active": "dc40891421b306e4",
   "lastOpenFiles": [
-    "DBA_SILVER/04-2　共有サーバ.md",
     "DBA_SILVER/04-1　Oracle Net Service.md",
+    "DBA_SILVER/04-2　共有サーバ.md",
+    "DBA_SILVER/04-3　データベースリンク.md",
+    "DBA_SILVER/01_アーキテクチャの理解.md",
+    "DBA_SILVER/02_ツール.md",
+    "DBA_SILVER/05-1　ユーザ、ロール及び権限の管理.md",
     "DBA_SILVER/03-4　初期化パラメータ.md",
     "DBA_SILVER/03-3　ADR(自動診断リポジトリ).md",
     "DBA_SILVER/03-2　データディクショナリビューと動的パフォーマンス.md",
     "DBA_SILVER/03-1　インスタンスの管理.md",
-    "DBA_SILVER/02_ツール.md",
-    "DBA_SILVER/01_アーキテクチャの理解.md",
-    "DBA_SILVER/04-3　データベースリンク.md",
     "DBA_SILVER/6章-1　表領域.md",
-    "DBA_SILVER/5章　ユーザ、ロール及び権限の管理.md",
     "無題のファイル.md",
     "DBA_SILVER/6章-2　セグメント.md",
     "DBA_SILVER/7章　データ格納のための記憶域の利用.md",

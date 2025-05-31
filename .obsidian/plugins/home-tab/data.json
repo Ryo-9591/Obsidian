@@ -24,24 +24,24 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
-      "filepath": "DBA_SILVER/04-3　データベースリンク.md",
-      "timestamp": 1748697366833
-    },
-    {
-      "filepath": "DBA_SILVER/04-2　共有サーバ.md",
-      "timestamp": 1748697366493
+      "filepath": "DBA_SILVER/5章　ユーザ、ロール及び権限の管理.md",
+      "timestamp": 1748697405519
     },
     {
       "filepath": "DBA_SILVER/04-1　Oracle Net Service.md",
-      "timestamp": 1748697366048
+      "timestamp": 1748697404940
     },
     {
-      "filepath": "DBA_SILVER/03-4　初期化パラメータ.md",
-      "timestamp": 1748697365491
+      "filepath": "DBA_SILVER/04-2　共有サーバ.md",
+      "timestamp": 1748697404596
     },
     {
-      "filepath": "DBA_SILVER/03-3　ADR(自動診断リポジトリ).md",
-      "timestamp": 1748697365115
+      "filepath": "DBA_SILVER/04-3　データベースリンク.md",
+      "timestamp": 1748697404230
+    },
+    {
+      "filepath": "DBA_SILVER/01_アーキテクチャの理解.md",
+      "timestamp": 1748697398005
     }
   ],
   "bookmarkedFileStore": [],
