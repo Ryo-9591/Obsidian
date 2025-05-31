@@ -34,6 +34,7 @@ orcl.world・・・サービス名
 # データベースサーバー側のOracle Net Serviceの設定
 ## 動的サービス登録
 インスタンスの内部プロセス「LREG」によって行われ「LOCAL＿LISTENER初期化パラメータ」に設定されたアドレスに対して定期的にサービス登録を行い、データベースサービス名とSIDを登録する
+→インスタンスが停止したらサービス登録ができない
 
 LOCAL_LISTENER初期化パラメータ例：
 `LOCAL_LISTENER=(ADDRESS = (PROTOCOL=TCP)(HOST=db.oracle.com)(PORT=1521))`
@@ -43,10 +44,7 @@ LOCAL_LISTENER初期化パラメータ例：
 ・・・
 status=READY　←成功なら「READY」と出る！
 ・・・
-# 静的サービス登録
-
-
-
+## 静的サービス登録
 listener.oraにあらかじめ「SID_LIST_<リスナー名>」というパラメータに記述しておく
 →インスタンスが停止してもサービス登録状態は続く
 
