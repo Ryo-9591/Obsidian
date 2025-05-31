@@ -24,12 +24,16 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
-      "filepath": "DBA_SILVER試験勉強/1_Oracleデータベース知識/06_表領域の管理/06-1　表領域.md",
-      "timestamp": 1748707114143
+      "filepath": "DBA_SILVER試験勉強/1_Oracleデータベース知識/07_セグメント、データブロック管理/07-1　データ格納のための記憶域の利用 1.md",
+      "timestamp": 1748707194013
     },
     {
       "filepath": "DBA_SILVER試験勉強/1_Oracleデータベース知識/07_セグメント、データブロック管理/07-1　データ格納のための記憶域の利用.md",
-      "timestamp": 1748706953881
+      "timestamp": 1748707136390
+    },
+    {
+      "filepath": "DBA_SILVER試験勉強/1_Oracleデータベース知識/06_表領域の管理/06-1　表領域.md",
+      "timestamp": 1748707114143
     },
     {
       "filepath": "DBA_SILVER試験勉強/1_Oracleデータベース知識/9章　データの移動.md",
@@ -38,10 +42,6 @@
     {
       "filepath": "DBA_SILVER試験勉強/1_Oracleデータベース知識/8章　UNDOの管理.md",
       "timestamp": 1748706888224
-    },
-    {
-      "filepath": "DBA_SILVER試験勉強/1_Oracleデータベース知識/06_表領域の管理/06-4　OMF(Oracle Managed Files).md",
-      "timestamp": 1748706465495
     }
   ],
   "bookmarkedFileStore": [],
