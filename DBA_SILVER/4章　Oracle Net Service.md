@@ -89,24 +89,20 @@ status=UNKNOWN　←成功していると「UNKNOWN」と出る！
 ・tnsnames.oraに記載してIP、ポートがあっているか
 ・リスナーが起動しているか？記載したポートで待ち受けているか
 ## ③ORA-12514:TNS:listener could not resolve SERVICE_NAME given in connect descriptor
-→データベースサーバ側でサービスが登録されていないのでサービスが
-### 原因
+→データベースサーバ側でサービスが登録されていないので通信に失敗
 
-→tnsnames.oraに記載したグローバルデータベース名があっているか？
-→サービス登録しているか？
+・tnsnames.oraに記載したグローバルデータベース名があっているか？
+・サービス登録しているか？
 ## 接続確認
 tnsping ユーティリティ
 `tnsping ORCL`
 # TNS_ADMIN環境変数
-
 tnsnames.ora、listener.ora、sqlnet.oraをデフォルト以外の場所に置きたいときに使用
 # 接続時フェイルオーバーと接続時ロードバランシング
 ## 接続時フェイルオーバー
-
 上から接続してだめなら2番目
 
 tnsnames.oraの内容：
-
 ORCL2 =
   (DESCRIPTION =
     (FAILOVER = ON)
@@ -120,11 +116,9 @@ ORCL2 =
     )
   )
 ## 接続時ロードバランシング
-
 負荷分散のためランダムに接続
 
 tnsnames.oraの内容：
-
 ORCL2 =
   (DESCRIPTION =
     (LOAD_BALANCE = ON)
@@ -139,11 +133,9 @@ ORCL2 =
     )
   )
 ## 接続時フェイルオーバーと接続時ロードバランシングの併用
-
 ランダムに選んで接続
 
 tnsnames.oraの内容：
-
 ORCL2 =
   (DESCRIPTION =
     (FAILOVER = ON)
