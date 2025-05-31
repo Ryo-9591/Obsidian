@@ -80,7 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 393.5124969482422
+    "width": 429.5124969482422
   },
   "right": {
     "id": "f533a687fa0a0077",
@@ -137,12 +137,12 @@
       "graph:グラフビューを開く": false
     }
   },
-  "active": "58392aaeeda87af9",
+  "active": "a6a5a5853ef1f13b",
   "lastOpenFiles": [
+    "DBA_SILVER/01-1　アーキテクチャ.md",
+    "DBA_SILVER/7章　データ格納のための記憶域の利用.md",
     "DBA_SILVER/06-2　セグメント.md",
     "DBA_SILVER/06-1　表領域.md",
-    "DBA_SILVER/7章　データ格納のための記憶域の利用.md",
-    "DBA_SILVER/01-1　アーキテクチャ.md",
     "DBA_SILVER/04-1　Oracle Net Service.md",
     "DBA_SILVER/04-2　共有サーバ.md",
     "DBA_SILVER/03-4　初期化パラメータ.md",
