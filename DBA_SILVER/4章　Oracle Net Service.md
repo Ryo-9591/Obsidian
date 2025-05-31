@@ -39,13 +39,9 @@ LOCAL_LISTENER初期化パラメータ例：
 `LOCAL_LISTENER=(ADDRESS = (PROTOCOL=TCP)(HOST=db.oracle.com)(PORT=1521))`
 ※ポート=1521の場合、LOCAL_LISTENER初期化パラメータを明示的に設定しないでいい
 
-| データベース名(データベースの識別子) | インスタンスSID(インスタンスの識別子) |
-| ------------------- | --------------------- |
-| orcl.world          | orcl                  |
+lsnrctl services
 
-
-
-サービスの登録確認をすると、`status=ready`になる
+～
 
 
 
