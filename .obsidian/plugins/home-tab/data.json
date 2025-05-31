@@ -24,12 +24,16 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
-      "filepath": "DBA_SILVER/06-2　永続表領域.md",
-      "timestamp": 1748700708924
+      "filepath": "DBA_SILVER/06-4　OMF管理.md",
+      "timestamp": 1748700774881
     },
     {
       "filepath": "DBA_SILVER/06-3　データ移動.md",
-      "timestamp": 1748700708355
+      "timestamp": 1748700766485
+    },
+    {
+      "filepath": "DBA_SILVER/06-2　永続表領域.md",
+      "timestamp": 1748700766121
     },
     {
       "filepath": "DBA_SILVER/06-1　表領域.md",
