@@ -164,8 +164,8 @@ CREATE DATABASE LINK文例：
 `CONNECT TO ユーザ名 IDENTIFIED BY パスワード`
 `USING '接続記述子';`
 # Oracle Database Gateway
-
-Oracleデータベースと別のサービス間でを使えば異機種間でのデータリンクができる
+Oracleデータベースと別のサービス間でデータベースリンクを確立する機能
+→異機種間サービスという
 
 
 
