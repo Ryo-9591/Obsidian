@@ -38,14 +38,18 @@ orcl.world・・・サービス名
 ## 動的サービス登録
 インスタンスの内部プロセス「LREG」によって行われ「LOCAL＿LISTENER初期化パラメータ」に設定されたアドレスに対して定期的にサービス登録を行い、データベースサービス名とSIDを登録する
 
-| データベース名(データベースの識別子) | インスタンスSID(インスタンスの識別子) |     |
-| ------------------- | --------------------- | --- |
-| orcl.world          | orcl                  |     |
-PORTが1521の場合、LOCAL_LISTENERを明示的に設定しないでいい
+LOCAL_LISTENER初期化パラメータ例：
+`LOCAL_LISTENER=(ADDRESS = (PROTOCOL=TCP)(HOST=db.oracle.com)(PORT=1521))`
+
+※ポートが1521の場合、LOCAL_LISTENERを明示的に設定しないでいい
+
+| データベース名(データベースの識別子) | インスタンスSID(インスタンスの識別子) |
+| ------------------- | --------------------- |
+| orcl.world          | orcl                  |
+P
 サービスの登録確認をすると、`status=ready`になる
 
-LOCAL_LISTENER初期化パラメータの例：
-`LOCAL_LISTENER=(ADDRESS = (PROTOCOL=TCP)(HOST=db.oracle.com)(PORT=1521))`
+
 
 
 
