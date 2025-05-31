@@ -28,7 +28,11 @@ Oracle Net Manager、NetCAで編集できる
 接続識別子に接続情報を直接記入する
 `sqlplus system/Password123@db.oracle.com:1521/orcl.world`
 
-
+system・・・ユーザ名
+Password123・・・パスワード
+db.oracle.com・・・ホスト名
+1521・・・ポート
+orcl.world・・・サービス名
 
 
 ## ② データベースサーバー側でサービスを登録しておく方法
