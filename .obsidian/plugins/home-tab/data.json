@@ -24,24 +24,24 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "DBA_SILVER/8章　UNDOの管理.md",
+      "timestamp": 1748672123755
+    },
+    {
+      "filepath": "DBA_SILVER/7章　データ格納のための記憶域の利用.md",
+      "timestamp": 1748672121945
+    },
+    {
       "filepath": "DBA_SILVER/1章　アーキテクチャの理解.md",
-      "timestamp": 1748672024093
+      "timestamp": 1748672116530
     },
     {
       "filepath": "DBA_SILVER/6章　表領域について.md",
       "timestamp": 1748671935728
     },
     {
-      "filepath": "DBA_SILVER/7章　データ格納のための記憶域の利用.md",
-      "timestamp": 1748670499571
-    },
-    {
       "filepath": "DBA_SILVER/5章　ユーザ、ロール及び権限の管理.md",
       "timestamp": 1748670387480
-    },
-    {
-      "filepath": "DBA_SILVER/2章　ツール.md",
-      "timestamp": 1748670381141
     }
   ],
   "bookmarkedFileStore": [],

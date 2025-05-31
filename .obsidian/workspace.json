@@ -11,10 +11,15 @@
             "id": "da79eacf4075c5e0",
             "type": "leaf",
             "state": {
-              "type": "home-tab-view",
-              "state": {},
-              "icon": "search",
-              "title": "Home tab"
+              "type": "markdown",
+              "state": {
+                "file": "DBA_SILVER/8章　UNDOの管理.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "8章　UNDOの管理"
             }
           }
         ]
@@ -92,12 +97,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "DBA_SILVER/8章　UNDOの管理.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "アウトライン"
+              "title": "8章　UNDOの管理のアウトライン"
             }
           }
         ]
@@ -133,9 +139,9 @@
   },
   "active": "da79eacf4075c5e0",
   "lastOpenFiles": [
+    "DBA_SILVER/7章　データ格納のための記憶域の利用.md",
     "DBA_SILVER/1章　アーキテクチャの理解.md",
     "DBA_SILVER/6章　表領域について.md",
-    "DBA_SILVER/7章　データ格納のための記憶域の利用.md",
     "DBA_SILVER/5章　ユーザ、ロール及び権限の管理.md",
     "DBA_SILVER/2章　ツール.md",
     "2025-05-31.md",
