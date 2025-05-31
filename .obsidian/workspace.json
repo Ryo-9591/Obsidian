@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DBA_SILVER/9章　データの移動.md",
+                "file": "DBA_SILVER/7章　データ格納のための記憶域の利用.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "9章　データの移動"
+              "title": "7章　データ格納のための記憶域の利用"
             }
           }
         ]
@@ -97,13 +97,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DBA_SILVER/9章　データの移動.md",
+                "file": "DBA_SILVER/7章　データ格納のための記憶域の利用.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "9章　データの移動のアウトライン"
+              "title": "7章　データ格納のための記憶域の利用のアウトライン"
             }
           }
         ]
@@ -138,6 +138,7 @@
   },
   "active": "c0b66b1516ad6256",
   "lastOpenFiles": [
+    "DBA_SILVER/9章　データの移動.md",
     "DBA_SILVER/8章　UNDOの管理.md",
     "DBA_SILVER/2章　ツール.md",
     "DBA_SILVER/1章　アーキテクチャの理解.md",
@@ -147,7 +148,6 @@
     "DBA_SILVER/6章　表領域について.md",
     "DBA_SILVER/7章　データ格納のための記憶域の利用.md",
     "DBA_SILVER/23章　タイムゾーン.md",
-    "DBA_SILVER/9章　データの移動.md",
     "DBA_SILVER/10章　データの扱い.md",
     "DBA_SILVER/20章　シーケンス、シノニム、索引.md",
     "DBA_SILVER/19章　DDLの理解.md",
