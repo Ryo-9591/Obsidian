@@ -24,6 +24,10 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "DBA_SILVER/1章　アーキテクチャの理解.md",
+      "timestamp": 1748672477336
+    },
+    {
       "filepath": "DBA_SILVER/7章　データ格納のための記憶域の利用.md",
       "timestamp": 1748672391089
     },
@@ -34,10 +38,6 @@
     {
       "filepath": "DBA_SILVER/5章　ユーザ、ロール及び権限の管理.md",
       "timestamp": 1748672363493
-    },
-    {
-      "filepath": "DBA_SILVER/1章　アーキテクチャの理解.md",
-      "timestamp": 1748672341088
     },
     {
       "filepath": "DBA_SILVER/2章　ツール.md",
