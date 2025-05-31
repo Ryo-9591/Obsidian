@@ -24,24 +24,24 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
-      "filepath": "DBA_SILVER/7章　データ格納のための記憶域の利用.md",
-      "timestamp": 1748701181204
-    },
-    {
-      "filepath": "DBA_SILVER/06-4　OMF(Oracle Managed Files).md",
-      "timestamp": 1748701180476
-    },
-    {
-      "filepath": "DBA_SILVER/06-3　データファイル移動.md",
-      "timestamp": 1748700814812
-    },
-    {
       "filepath": "DBA_SILVER/06-2　永続表領域.md",
-      "timestamp": 1748700805840
+      "timestamp": 1748701205382
     },
     {
       "filepath": "DBA_SILVER/06-1　表領域.md",
-      "timestamp": 1748700801916
+      "timestamp": 1748701203385
+    },
+    {
+      "filepath": "DBA_SILVER/06-3　データファイル移動.md",
+      "timestamp": 1748701200570
+    },
+    {
+      "filepath": "DBA_SILVER/06-4　OMF(Oracle Managed Files).md",
+      "timestamp": 1748701195542
+    },
+    {
+      "filepath": "DBA_SILVER/10章　データの扱い.md",
+      "timestamp": 1748701193491
     }
   ],
   "bookmarkedFileStore": [],
