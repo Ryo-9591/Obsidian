@@ -136,8 +136,10 @@
       "templates:テンプレートを挿入": false
     }
   },
-  "active": "58392aaeeda87af9",
+  "active": "c0b66b1516ad6256",
   "lastOpenFiles": [
+    "DBA_SILVER/6章　表領域について.md",
+    "DBA_SILVER/7章　データ格納のための記憶域の利用.md",
     "DBA_SILVER/images/Pasted image 20250531141650.png",
     "DBA_SILVER/images/Pasted image 20250531140717.png",
     "DBA_SILVER/9章　データの移動.md",
@@ -147,8 +149,6 @@
     "DBA_SILVER/5章　ユーザ、ロール及び権限の管理.md",
     "DBA_SILVER/4章　Oracle Net Service.md",
     "DBA_SILVER/3章　インスタンスの管理.md",
-    "DBA_SILVER/6章　表領域について.md",
-    "DBA_SILVER/7章　データ格納のための記憶域の利用.md",
     "DBA_SILVER/23章　タイムゾーン.md",
     "DBA_SILVER/10章　データの扱い.md",
     "DBA_SILVER/20章　シーケンス、シノニム、索引.md",
@@ -181,7 +181,6 @@
     "DBA_SILVER/images/Pasted image 20250521230930.png",
     "DBA_SILVER/images/Pasted image 20250522080048.png",
     "DBA_SILVER/images/Pasted image 20250522081348.png",
-    "DBA_SILVER/images/Pasted image 20250524223050.png",
     "DBA_SILVER/images",
     "TODO/無題のフォルダ",
     "TODO",
