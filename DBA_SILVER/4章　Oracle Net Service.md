@@ -5,10 +5,10 @@
 ・名前解決
 
 # Oracle Net Service設定に使用するツール３つ
+## Oracle Enterprise Manager Cloud Control
 
-Oracle Enterprise Manager Cloud Control
-Oracle Net Manager
-Oracle Net Configuration Assistant
+## Oracle Net Manager
+## Oracle Net Configuration Assistant
 
 
 
