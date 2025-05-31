@@ -24,8 +24,16 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
-      "filepath": "DBA_SILVER/05-2　権限 1.md",
-      "timestamp": 1748697485302
+      "filepath": "DBA_SILVER/05-4　認証 1.md",
+      "timestamp": 1748697553801
+    },
+    {
+      "filepath": "DBA_SILVER/05-4　認証.md",
+      "timestamp": 1748697513613
+    },
+    {
+      "filepath": "DBA_SILVER/05-3　ロール.md",
+      "timestamp": 1748697505325
     },
     {
       "filepath": "DBA_SILVER/05-2　権限.md",
@@ -34,14 +42,6 @@
     {
       "filepath": "DBA_SILVER/03-3　ADR(自動診断リポジトリ).md",
       "timestamp": 1748697475358
-    },
-    {
-      "filepath": "DBA_SILVER/05-1　ユーザ、ロール及び権限の管理.md",
-      "timestamp": 1748697405519
-    },
-    {
-      "filepath": "DBA_SILVER/04-1　Oracle Net Service.md",
-      "timestamp": 1748697404940
     }
   ],
   "bookmarkedFileStore": [],

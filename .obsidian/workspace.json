@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DBA_SILVER/05-3　ロール.md",
+                "file": "DBA_SILVER/05-5　クオータ.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "05-3　ロール"
+              "title": "05-5　クオータ"
             }
           },
           {
@@ -112,13 +112,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DBA_SILVER/05-3　ロール.md",
+                "file": "DBA_SILVER/05-5　クオータ.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "05-3　ロールのアウトライン"
+              "title": "05-5　クオータのアウトライン"
             }
           }
         ]
@@ -154,9 +154,11 @@
   },
   "active": "275df06d4b82b036",
   "lastOpenFiles": [
+    "DBA_SILVER/05-4　認証.md",
+    "DBA_SILVER/05-5　クオータ.md",
+    "DBA_SILVER/05-3　ロール.md",
     "DBA_SILVER/05-2　権限.md",
     "DBA_SILVER/03-3　ADR(自動診断リポジトリ).md",
-    "DBA_SILVER/05-3　ロール.md",
     "DBA_SILVER/05-1　ユーザ、ロール及び権限の管理.md",
     "DBA_SILVER/04-1　Oracle Net Service.md",
     "DBA_SILVER/04-2　共有サーバ.md",
@@ -185,8 +187,6 @@
     "DBA_SILVER/23章　タイムゾーン.md",
     "DBA_SILVER/10章　データの扱い.md",
     "DBA_SILVER/20章　シーケンス、シノニム、索引.md",
-    "DBA_SILVER/19章　DDLの理解.md",
-    "DBA_SILVER/18章　トランザクション.md",
     "DBA_SILVER/images/Pasted image 20250527221634.png",
     "Qiita記事/【API使用量無料】Python × Gemini APIで作る！AIレシピ生成アプリ/img/apikey.png",
     "Qiita記事/【革命】スライド作成がAI任せに！Cursor×Marp最強タッグ💪",
