@@ -24,6 +24,10 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "2025-05-31.md",
+      "timestamp": 1748670312622
+    },
+    {
       "filepath": "DBA_SILVER/7章　データ格納のための記憶域の利用.md",
       "timestamp": 1748670149919
     },
@@ -38,10 +42,6 @@
     {
       "filepath": "DBA_SILVER/9章　データの移動.md",
       "timestamp": 1748656712808
-    },
-    {
-      "filepath": "DBA_SILVER/8章　UNDOの管理.md",
-      "timestamp": 1748656697703
     }
   ],
   "bookmarkedFileStore": [],
