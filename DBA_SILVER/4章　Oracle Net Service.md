@@ -4,6 +4,10 @@
 ・データベース接続の確立
 ・名前解決
 
+# Oracle Net Service設定に使用するツール３つ
+
+・
+
 
 
 # Oracle Net ServiceとOracle Net Configuration Assistant
