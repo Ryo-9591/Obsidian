@@ -24,12 +24,16 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
-      "filepath": "DBA_SILVER/06-3　データ移動.md",
-      "timestamp": 1748700814812
+      "filepath": "DBA_SILVER/7章　データ格納のための記憶域の利用.md",
+      "timestamp": 1748701181204
     },
     {
       "filepath": "DBA_SILVER/06-4　OMF(Oracle Managed Files).md",
-      "timestamp": 1748700806901
+      "timestamp": 1748701180476
+    },
+    {
+      "filepath": "DBA_SILVER/06-3　データファイル移動.md",
+      "timestamp": 1748700814812
     },
     {
       "filepath": "DBA_SILVER/06-2　永続表領域.md",
