@@ -24,24 +24,24 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
-      "filepath": "DBA_SILVER/2章　ツール.md",
-      "timestamp": 1748672338853
+      "filepath": "DBA_SILVER/7章　データ格納のための記憶域の利用.md",
+      "timestamp": 1748672391089
     },
     {
-      "filepath": "DBA_SILVER/1章　アーキテクチャの理解.md",
-      "timestamp": 1748672337273
-    },
-    {
-      "filepath": "DBA_SILVER/関連/ユーザ作成(CREATE USER権限が必要).md",
-      "timestamp": 1748672336370
-    },
-    {
-      "filepath": "DBA_SILVER/関連/ユーザの種類.md",
-      "timestamp": 1748672326729
+      "filepath": "DBA_SILVER/6章　表領域について.md",
+      "timestamp": 1748672390472
     },
     {
       "filepath": "DBA_SILVER/5章　ユーザ、ロール及び権限の管理.md",
-      "timestamp": 1748672308429
+      "timestamp": 1748672363493
+    },
+    {
+      "filepath": "DBA_SILVER/1章　アーキテクチャの理解.md",
+      "timestamp": 1748672341088
+    },
+    {
+      "filepath": "DBA_SILVER/2章　ツール.md",
+      "timestamp": 1748672338853
     }
   ],
   "bookmarkedFileStore": [],
