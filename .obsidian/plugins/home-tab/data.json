@@ -24,24 +24,24 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "DBA_SILVER/06-1　表領域.md",
+      "timestamp": 1748698025898
+    },
+    {
+      "filepath": "DBA_SILVER/06-2　セグメント.md",
+      "timestamp": 1748698025376
+    },
+    {
+      "filepath": "DBA_SILVER/7章　データ格納のための記憶域の利用.md",
+      "timestamp": 1748698013225
+    },
+    {
       "filepath": "DBA_SILVER/01-1　アーキテクチャ.md",
       "timestamp": 1748697958590
     },
     {
       "filepath": "DBA_SILVER/04-1　Oracle Net Service.md",
       "timestamp": 1748697947624
-    },
-    {
-      "filepath": "DBA_SILVER/04-2　共有サーバ.md",
-      "timestamp": 1748697945904
-    },
-    {
-      "filepath": "DBA_SILVER/03-4　初期化パラメータ.md",
-      "timestamp": 1748697943970
-    },
-    {
-      "filepath": "DBA_SILVER/03-1　インスタンスの管理.md",
-      "timestamp": 1748697933714
     }
   ],
   "bookmarkedFileStore": [],
