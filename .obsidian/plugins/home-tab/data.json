@@ -24,24 +24,24 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
-      "filepath": "DBA_SILVER/7章　データ格納のための記憶域の利用.md",
-      "timestamp": 1748701871489
+      "filepath": "DBA_SILVER試験勉強/1_Oracleデータベース知識/05_ユーザ、権限、ロール/05-3　ロール.md",
+      "timestamp": 1748701987889
     },
     {
-      "filepath": "DBA_SILVER/2_SQL/10章　データの扱い.md",
-      "timestamp": 1748701866841
+      "filepath": "DBA_SILVER試験勉強/1_Oracleデータベース知識/05_ユーザ、権限、ロール/05-4　認証.md",
+      "timestamp": 1748701987237
     },
     {
-      "filepath": "DBA_SILVER/9章　データの移動.md",
-      "timestamp": 1748701862673
+      "filepath": "DBA_SILVER試験勉強/1_Oracleデータベース知識/05_ユーザ、権限、ロール/05-5　クオータ.md",
+      "timestamp": 1748701986852
     },
     {
-      "filepath": "DBA_SILVER/2_SQL/11章　データの検索.md",
-      "timestamp": 1748701858710
+      "filepath": "DBA_SILVER試験勉強/1_Oracleデータベース知識/05_ユーザ、権限、ロール/05-6　セキュリティ.md",
+      "timestamp": 1748701986036
     },
     {
-      "filepath": "DBA_SILVER/2_SQL/12章　ファンクション.md",
-      "timestamp": 1748701857915
+      "filepath": "DBA_SILVER試験勉強/1_Oracleデータベース知識/06_表領域の管理/06-2　永続表領域.md",
+      "timestamp": 1748701972870
     }
   ],
   "bookmarkedFileStore": [],
