@@ -10,7 +10,7 @@ GUI、一元管理
 ## Oracle Net Manager
 GUI、ローカルのデータベースサーバーのネーミングメソッドを管理する
 ## Oracle Net Configuration Assistant
-
+GUI、tnsnames.oraファイルの構成を行える
 
 
 # Oracle Net ServiceとOracle Net Configuration Assistant
