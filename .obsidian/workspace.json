@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DBA_SILVER/03-3　ADR(自動診断リポジトリ).md",
+                "file": "DBA_SILVER/05-3　ロール.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "03-3　ADR(自動診断リポジトリ)"
+              "title": "05-3　ロール"
             }
           },
           {
@@ -28,17 +28,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DBA_SILVER/05-1　ユーザ、ロール及び権限の管理.md",
+                "file": "DBA_SILVER/05-3　ロール.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "05-1　ユーザ、ロール及び権限の管理"
+              "title": "05-3　ロール"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -113,13 +112,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DBA_SILVER/05-1　ユーザ、ロール及び権限の管理.md",
+                "file": "DBA_SILVER/05-3　ロール.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "05-1　ユーザ、ロール及び権限の管理のアウトライン"
+              "title": "05-3　ロールのアウトライン"
             }
           }
         ]
@@ -153,16 +152,18 @@
       "graph:グラフビューを開く": false
     }
   },
-  "active": "dc40891421b306e4",
+  "active": "275df06d4b82b036",
   "lastOpenFiles": [
+    "DBA_SILVER/05-2　権限.md",
+    "DBA_SILVER/03-3　ADR(自動診断リポジトリ).md",
+    "DBA_SILVER/05-3　ロール.md",
+    "DBA_SILVER/05-1　ユーザ、ロール及び権限の管理.md",
     "DBA_SILVER/04-1　Oracle Net Service.md",
     "DBA_SILVER/04-2　共有サーバ.md",
     "DBA_SILVER/04-3　データベースリンク.md",
     "DBA_SILVER/01_アーキテクチャの理解.md",
     "DBA_SILVER/02_ツール.md",
-    "DBA_SILVER/05-1　ユーザ、ロール及び権限の管理.md",
     "DBA_SILVER/03-4　初期化パラメータ.md",
-    "DBA_SILVER/03-3　ADR(自動診断リポジトリ).md",
     "DBA_SILVER/03-2　データディクショナリビューと動的パフォーマンス.md",
     "DBA_SILVER/03-1　インスタンスの管理.md",
     "DBA_SILVER/6章-1　表領域.md",
@@ -186,8 +187,6 @@
     "DBA_SILVER/20章　シーケンス、シノニム、索引.md",
     "DBA_SILVER/19章　DDLの理解.md",
     "DBA_SILVER/18章　トランザクション.md",
-    "DBA_SILVER/17章　集合演算.md",
-    "DBA_SILVER/16章　副問合せ.md",
     "DBA_SILVER/images/Pasted image 20250527221634.png",
     "Qiita記事/【API使用量無料】Python × Gemini APIで作る！AIレシピ生成アプリ/img/apikey.png",
     "Qiita記事/【革命】スライド作成がAI任せに！Cursor×Marp最強タッグ💪",
