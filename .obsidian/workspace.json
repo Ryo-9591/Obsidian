@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DBA_SILVER/05-1　ユーザ.md",
+                "file": "DBA_SILVER/06-1　表領域.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "05-1　ユーザ"
+              "title": "06-1　表領域"
             }
           },
           {
@@ -112,13 +112,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DBA_SILVER/05-1　ユーザ.md",
+                "file": "DBA_SILVER/06-1　表領域.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "05-1　ユーザのアウトライン"
+              "title": "06-1　表領域のアウトライン"
             }
           }
         ]
@@ -154,8 +154,13 @@
   },
   "active": "275df06d4b82b036",
   "lastOpenFiles": [
-    "DBA_SILVER/04-3　データベースリンク.md",
+    "DBA_SILVER/06-2　セグメント.md",
+    "DBA_SILVER/06-1　表領域.md",
+    "DBA_SILVER/01-1　アーキテクチャ.md",
+    "DBA_SILVER/02-1　ツール.md",
+    "DBA_SILVER/03-1　インスタンスの管理.md",
     "DBA_SILVER/05-1　ユーザ.md",
+    "DBA_SILVER/04-3　データベースリンク.md",
     "DBA_SILVER/05-2　権限.md",
     "DBA_SILVER/05-3　ロール.md",
     "DBA_SILVER/05-4　認証.md",
@@ -164,14 +169,9 @@
     "DBA_SILVER/03-3　ADR(自動診断リポジトリ).md",
     "DBA_SILVER/04-1　Oracle Net Service.md",
     "DBA_SILVER/04-2　共有サーバ.md",
-    "DBA_SILVER/01_アーキテクチャの理解.md",
-    "DBA_SILVER/02_ツール.md",
     "DBA_SILVER/03-4　初期化パラメータ.md",
     "DBA_SILVER/03-2　データディクショナリビューと動的パフォーマンス.md",
-    "DBA_SILVER/03-1　インスタンスの管理.md",
-    "DBA_SILVER/6章-1　表領域.md",
     "無題のファイル.md",
-    "DBA_SILVER/6章-2　セグメント.md",
     "DBA_SILVER/7章　データ格納のための記憶域の利用.md",
     "DBA_SILVER/6章",
     "IMG_0070 1.jpg",
