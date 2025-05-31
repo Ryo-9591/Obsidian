@@ -24,6 +24,10 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "DBA_SILVER/7章　データ格納のための記憶域の利用.md",
+      "timestamp": 1748670499571
+    },
+    {
       "filepath": "DBA_SILVER/6章　表領域について.md",
       "timestamp": 1748670387925
     },
@@ -34,10 +38,6 @@
     {
       "filepath": "DBA_SILVER/2章　ツール.md",
       "timestamp": 1748670381141
-    },
-    {
-      "filepath": "DBA_SILVER/7章　データ格納のための記憶域の利用.md",
-      "timestamp": 1748670149919
     }
   ],
   "bookmarkedFileStore": [],
