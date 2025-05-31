@@ -24,24 +24,24 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "DBA_SILVER/6章　表領域について.md",
+      "timestamp": 1748695221029
+    },
+    {
       "filepath": "DBA_SILVER/5章　ユーザ、ロール及び権限の管理.md",
-      "timestamp": 1748692938338
+      "timestamp": 1748695215483
+    },
+    {
+      "filepath": "DBA_SILVER/4章　Oracle Net Service.md",
+      "timestamp": 1748695214487
+    },
+    {
+      "filepath": "DBA_SILVER/3章　インスタンスの管理.md",
+      "timestamp": 1748695212124
     },
     {
       "filepath": "DBA_SILVER/2章　ツール.md",
       "timestamp": 1748692897444
-    },
-    {
-      "filepath": "DBA_SILVER/1章　アーキテクチャの理解.md",
-      "timestamp": 1748692896435
-    },
-    {
-      "filepath": "DBA_SILVER/3章　インスタンスの管理.md",
-      "timestamp": 1748690794180
-    },
-    {
-      "filepath": "DBA_SILVER/4章　Oracle Net Service.md",
-      "timestamp": 1748690786082
     }
   ],
   "bookmarkedFileStore": [],
