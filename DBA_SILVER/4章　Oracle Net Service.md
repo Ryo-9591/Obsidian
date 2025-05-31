@@ -58,13 +58,16 @@ SID_LIST_LISTENER=
    (SID_LIST=
      (SID_DESC=
         (GLOBAL_DBNAME=orcl.world)
+        (SID_NAME=orcl)
      )
    )
   )
-
-
-
-サービスの登録確認をすると、`status=UNKNOWN`になる
+### リスナーにインスタンス情報が登録されているか確認
+lsnctl services
+・・・
+status=UNKNOWN
+・・・
+サービすると、`status=UNKNOWN`になる
 
 # 接続失敗時のトラブルシューティング
 ## ①ORA-12154:TSN could not resolve service name
