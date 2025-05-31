@@ -54,11 +54,12 @@ LISTENER =
       (ADDRESS = (PROTOCOL = TCP)(HOST = db.oracle.com)(PORT = 1521))
     )
    )
-SID_L
-    (CONNECT_DATA =
-      (SERVER = DEDICATED)
-      (SERVICE_NAME = orcl.world)
-    )
+SID_LIST_LISTENER=
+   (SID_LIST=
+     (SID_DESC=
+        (GLOBAL_DBNAME=orcl.world)
+     )
+   )
   )
 
 
