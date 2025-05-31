@@ -25,23 +25,23 @@
   "recentFilesStore": [
     {
       "filepath": "DBA_SILVER/06-2　永続表領域.md",
-      "timestamp": 1748700460258
+      "timestamp": 1748700484024
+    },
+    {
+      "filepath": "DBA_SILVER/06-5　データファイル.md",
+      "timestamp": 1748700482370
+    },
+    {
+      "filepath": "DBA_SILVER/06-4　一時表領域.md",
+      "timestamp": 1748700481306
     },
     {
       "filepath": "DBA_SILVER/06-3　UNDO表領域.md",
-      "timestamp": 1748700459513
+      "timestamp": 1748700462070
     },
     {
       "filepath": "DBA_SILVER/06-1　表領域.md",
       "timestamp": 1748700446277
-    },
-    {
-      "filepath": "DBA_SILVER/05-6　セキュリティ.md",
-      "timestamp": 1748700445812
-    },
-    {
-      "filepath": "DBA_SILVER/06-5　データファイル.md",
-      "timestamp": 1748700407171
     }
   ],
   "bookmarkedFileStore": [],
