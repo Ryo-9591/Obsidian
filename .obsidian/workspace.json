@@ -14,13 +14,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DBA_SILVER/03_インスタンスの管理.md",
+                "file": "DBA_SILVER/03-1　インスタンスの管理.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "03_インスタンスの管理"
+              "title": "03-1　インスタンスの管理"
             }
           }
         ]
@@ -36,13 +36,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DBA_SILVER/無題のファイル 1.md",
+                "file": "DBA_SILVER/03-2　データディクショナリビューと動的パフォーマンス.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "無題のファイル 1"
+              "title": "03-2　データディクショナリビューと動的パフォーマンス"
             }
           }
         ]
@@ -120,13 +120,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DBA_SILVER/無題のファイル 1.md",
+                "file": "DBA_SILVER/03-2　データディクショナリビューと動的パフォーマンス.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "無題のファイル 1のアウトライン"
+              "title": "03-2　データディクショナリビューと動的パフォーマンスのアウトライン"
             }
           }
         ]
@@ -162,8 +162,9 @@
   },
   "active": "e2af9a8305c21a14",
   "lastOpenFiles": [
-    "DBA_SILVER/03_インスタンスの管理.md",
-    "DBA_SILVER/無題のファイル 1.md",
+    "DBA_SILVER/03-3　ADR(自動診断リポジトリ).md",
+    "DBA_SILVER/03-2　データディクショナリビューと動的パフォーマンス.md",
+    "DBA_SILVER/03-1　インスタンスの管理.md",
     "DBA_SILVER/04-2　共有サーバ.md",
     "DBA_SILVER/04-3　データベースリンク.md",
     "DBA_SILVER/04-1　Oracle Net Service.md",
@@ -194,7 +195,6 @@
     "DBA_SILVER/17章　集合演算.md",
     "DBA_SILVER/16章　副問合せ.md",
     "DBA_SILVER/15章　結合.md",
-    "DBA_SILVER/14章　集計ファンクション.md",
     "DBA_SILVER/images/Pasted image 20250527221634.png",
     "Qiita記事/【API使用量無料】Python × Gemini APIで作る！AIレシピ生成アプリ/img/apikey.png",
     "Qiita記事/【革命】スライド作成がAI任せに！Cursor×Marp最強タッグ💪",

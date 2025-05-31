@@ -24,12 +24,16 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
-      "filepath": "DBA_SILVER/無題のファイル 1.md",
-      "timestamp": 1748697229165
+      "filepath": "DBA_SILVER/03-1　インスタンスの管理.md",
+      "timestamp": 1748697298693
     },
     {
-      "filepath": "DBA_SILVER/03_インスタンスの管理.md",
-      "timestamp": 1748697226446
+      "filepath": "DBA_SILVER/03-2　データディクショナリビューと動的パフォーマンス.md",
+      "timestamp": 1748697296960
+    },
+    {
+      "filepath": "DBA_SILVER/03-3　ADR(自動診断リポジトリ).md",
+      "timestamp": 1748697277711
     },
     {
       "filepath": "DBA_SILVER/04-2　共有サーバ.md",
@@ -38,10 +42,6 @@
     {
       "filepath": "DBA_SILVER/04-3　データベースリンク.md",
       "timestamp": 1748697206617
-    },
-    {
-      "filepath": "DBA_SILVER/04-1　Oracle Net Service.md",
-      "timestamp": 1748697206142
     }
   ],
   "bookmarkedFileStore": [],
