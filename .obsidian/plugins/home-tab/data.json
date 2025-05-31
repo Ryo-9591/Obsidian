@@ -24,24 +24,24 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
-      "filepath": "DBA_SILVER/04_Oracle Net Service.md",
-      "timestamp": 1748697029598
+      "filepath": "DBA_SILVER/04-1　Oracle Net Service.md",
+      "timestamp": 1748697088484
+    },
+    {
+      "filepath": "DBA_SILVER/04-2.md",
+      "timestamp": 1748697088068
+    },
+    {
+      "filepath": "DBA_SILVER/6章-1　表領域.md",
+      "timestamp": 1748697072167
+    },
+    {
+      "filepath": "DBA_SILVER/03_インスタンスの管理.md",
+      "timestamp": 1748697059355
     },
     {
       "filepath": "DBA_SILVER/5章　ユーザ、ロール及び権限の管理.md",
       "timestamp": 1748697027288
-    },
-    {
-      "filepath": "DBA_SILVER/01_アーキテクチャの理解.md",
-      "timestamp": 1748696977830
-    },
-    {
-      "filepath": "DBA_SILVER/02_ツール.md",
-      "timestamp": 1748696977398
-    },
-    {
-      "filepath": "DBA_SILVER/03_インスタンスの管理.md",
-      "timestamp": 1748696963611
     }
   ],
   "bookmarkedFileStore": [],
