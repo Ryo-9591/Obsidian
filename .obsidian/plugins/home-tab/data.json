@@ -24,7 +24,15 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
-      "filepath": "DBA_SILVER/03-1　インスタンスの管理.md",
+      "filepath": "DBA_SILVER/05-1　ユーザ.md",
+      "timestamp": 1748701637618
+    },
+    {
+      "filepath": "DBA_SILVER/04_Oracle Net Service/04-1　Oracle Net Service.md",
+      "timestamp": 1748701605320
+    },
+    {
+      "filepath": "DBA_SILVER/03_インスタンス関連/03-1　インスタンスの管理.md",
       "timestamp": 1748701570796
     },
     {
@@ -34,14 +42,6 @@
     {
       "filepath": "DBA_SILVER/images/Pasted image 20250531154320.png",
       "timestamp": 1748701427510
-    },
-    {
-      "filepath": "DBA_SILVER/images/IMG_0070.jpg",
-      "timestamp": 1748701419983
-    },
-    {
-      "filepath": "DBA_SILVER/06-4　OMF(Oracle Managed Files).md",
-      "timestamp": 1748701410590
     }
   ],
   "bookmarkedFileStore": [],
