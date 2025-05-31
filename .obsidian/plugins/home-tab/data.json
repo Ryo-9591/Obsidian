@@ -24,12 +24,16 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
-      "filepath": "DBA_SILVER/6章-1　表領域.md",
-      "timestamp": 1748696135938
+      "filepath": "DBA_SILVER/7章　データ格納のための記憶域の利用.md",
+      "timestamp": 1748696243879
     },
     {
       "filepath": "DBA_SILVER/6章-2　セグメント.md",
-      "timestamp": 1748696134291
+      "timestamp": 1748696242914
+    },
+    {
+      "filepath": "DBA_SILVER/6章-1　表領域.md",
+      "timestamp": 1748696135938
     },
     {
       "filepath": "DBA_SILVER/5章　ユーザ、ロール及び権限の管理.md",
@@ -38,10 +42,6 @@
     {
       "filepath": "DBA_SILVER/4章　Oracle Net Service.md",
       "timestamp": 1748695214487
-    },
-    {
-      "filepath": "DBA_SILVER/3章　インスタンスの管理.md",
-      "timestamp": 1748695212124
     }
   ],
   "bookmarkedFileStore": [],
