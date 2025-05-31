@@ -1,8 +1,8 @@
 {
   "lightStyle": "minimal-light",
-  "darkStyle": "minimal-dark-tonal",
+  "darkStyle": "minimal-dark-black",
   "lightScheme": "minimal-default-light",
-  "darkScheme": "minimal-things-dark",
+  "darkScheme": "minimal-catppuccin-dark",
   "editorFont": "",
   "lineHeight": 1.5,
   "lineWidth": 40,

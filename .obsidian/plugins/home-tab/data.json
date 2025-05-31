@@ -24,24 +24,20 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
-      "filepath": "2025-05-31.md",
-      "timestamp": 1748670312622
+      "filepath": "DBA_SILVER/6章　表領域について.md",
+      "timestamp": 1748670387925
+    },
+    {
+      "filepath": "DBA_SILVER/5章　ユーザ、ロール及び権限の管理.md",
+      "timestamp": 1748670387480
+    },
+    {
+      "filepath": "DBA_SILVER/2章　ツール.md",
+      "timestamp": 1748670381141
     },
     {
       "filepath": "DBA_SILVER/7章　データ格納のための記憶域の利用.md",
       "timestamp": 1748670149919
-    },
-    {
-      "filepath": "DBA_SILVER/6章　表領域について.md",
-      "timestamp": 1748669955489
-    },
-    {
-      "filepath": "DBA_SILVER/5章　ユーザ、ロール及び権限の管理.md",
-      "timestamp": 1748669955194
-    },
-    {
-      "filepath": "DBA_SILVER/9章　データの移動.md",
-      "timestamp": 1748656712808
     }
   ],
   "bookmarkedFileStore": [],
