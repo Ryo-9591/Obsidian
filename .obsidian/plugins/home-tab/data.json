@@ -24,24 +24,16 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "DBA_SILVER/06-2　永続表領域.md",
+      "timestamp": 1748700708924
+    },
+    {
+      "filepath": "DBA_SILVER/06-3　データ移動.md",
+      "timestamp": 1748700708355
+    },
+    {
       "filepath": "DBA_SILVER/06-1　表領域.md",
       "timestamp": 1748700640228
-    },
-    {
-      "filepath": "DBA_SILVER/06-3　UNDO表領域.md",
-      "timestamp": 1748700638853
-    },
-    {
-      "filepath": "DBA_SILVER/06-2　永続表領域.md",
-      "timestamp": 1748700621532
-    },
-    {
-      "filepath": "DBA_SILVER/06-4　一時表領域.md",
-      "timestamp": 1748700621112
-    },
-    {
-      "filepath": "DBA_SILVER/06-5　データファイル.md",
-      "timestamp": 1748700482370
     }
   ],
   "bookmarkedFileStore": [],
