@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DBA_SILVER/02-1　ツール 1.md",
+                "file": "DBA_SILVER/02-3　SQL Developer.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "02-1　ツール 1"
+              "title": "02-3　SQL Developer"
             }
           }
         ]
@@ -97,13 +97,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DBA_SILVER/02-1　ツール 1.md",
+                "file": "DBA_SILVER/02-3　SQL Developer.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "02-1　ツール 1のアウトライン"
+              "title": "02-3　SQL Developerのアウトライン"
             }
           }
         ]
@@ -139,11 +139,11 @@
   },
   "active": "aad8b1127b3dce68",
   "lastOpenFiles": [
-    "DBA_SILVER/02-1　ツール 4.md",
-    "DBA_SILVER/02-1　ツール 3.md",
-    "DBA_SILVER/02-1　ツール 2.md",
-    "DBA_SILVER/02-1　ツール 1.md",
+    "DBA_SILVER/02-2　SQL Plus.md",
     "DBA_SILVER/02-1　ツール.md",
+    "DBA_SILVER/02-1　DBCA(Database Configuration Assistant).md",
+    "DBA_SILVER/02-1　ツール 4.md",
+    "DBA_SILVER/02-3　SQL Developer.md",
     "DBA_SILVER/01-1　アーキテクチャ.md",
     "DBA_SILVER/03-1　インスタンスの管理.md",
     "DBA_SILVER/06-1　表領域.md",
