@@ -13,47 +13,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DBA_SILVER/5章　ユーザ、ロール及び権限の管理.md",
+                "file": "DBA_SILVER/04_Oracle Net Service.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "5章　ユーザ、ロール及び権限の管理"
-            }
-          },
-          {
-            "id": "3da30089d7ebf220",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DBA_SILVER/01_アーキテクチャの理解.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "01_アーキテクチャの理解"
-            }
-          },
-          {
-            "id": "fa19f164adae3750",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DBA_SILVER/6章-2　セグメント.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "6章-2　セグメント"
+              "title": "04_Oracle Net Service"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -128,13 +97,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DBA_SILVER/01_アーキテクチャの理解.md",
+                "file": "DBA_SILVER/04_Oracle Net Service.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "01_アーキテクチャの理解のアウトライン"
+              "title": "04_Oracle Net Serviceのアウトライン"
             }
           }
         ]
@@ -168,18 +137,18 @@
       "graph:グラフビューを開く": false
     }
   },
-  "active": "3da30089d7ebf220",
+  "active": "32faced7e06f1bc6",
   "lastOpenFiles": [
+    "DBA_SILVER/5章　ユーザ、ロール及び権限の管理.md",
+    "DBA_SILVER/04_Oracle Net Service.md",
+    "DBA_SILVER/01_アーキテクチャの理解.md",
     "DBA_SILVER/02_ツール.md",
     "DBA_SILVER/03_インスタンスの管理.md",
-    "DBA_SILVER/01_アーキテクチャの理解.md",
     "無題のファイル.md",
-    "DBA_SILVER/5章　ユーザ、ロール及び権限の管理.md",
     "DBA_SILVER/6章-1　表領域.md",
     "DBA_SILVER/6章-2　セグメント.md",
     "DBA_SILVER/7章　データ格納のための記憶域の利用.md",
     "DBA_SILVER/6章",
-    "DBA_SILVER/4章　Oracle Net Service.md",
     "IMG_0070 1.jpg",
     "IMG_0070.jpg",
     "Pasted image 20250531154320.png",
