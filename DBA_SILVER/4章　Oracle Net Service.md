@@ -6,7 +6,9 @@
 
 # Oracle Net Service設定に使用するツール３つ
 
-・
+Oracle Enterprise Manager Cloud Control
+Oracle Net Manager
+Oracle Net Configuration Assistant
 
 
 
