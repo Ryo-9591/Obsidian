@@ -23,7 +23,10 @@ Oracle Net Manager、NetCAで編集できる
 tnsnames.ora例：
 ORCL =
 　(DESCRIPTION = 
-　　(ADDRESS = (PROTOCOL =TCP)(HOST = ))
+　　(ADDRESS = (PROTOCOL =TCP)(HOST = db.oracle.com)(PORT = 1521))
+　　(CONNECT_DATA = 
+　　　(SERVICE_NAME = orcl.world)
+　　)
 　)
 ## SQL Plusでリモート接続
 `sqlplus <ユーザ名>/<パスワード>@<接続識別子>`で接続
