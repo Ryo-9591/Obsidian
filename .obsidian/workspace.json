@@ -140,8 +140,9 @@
   "active": "a6a5a5853ef1f13b",
   "lastOpenFiles": [
     "DBA_SILVER/06-3　UNDO表領域.md",
-    "DBA_SILVER/06-1　表領域.md",
     "DBA_SILVER/06-2　永続表領域.md",
+    "DBA_SILVER/8章　UNDOの管理.md",
+    "DBA_SILVER/06-1　表領域.md",
     "DBA_SILVER/7章　データ格納のための記憶域の利用.md",
     "DBA_SILVER/06-3　セグメント.md",
     "DBA_SILVER/01-1　アーキテクチャ.md",
@@ -164,7 +165,6 @@
     "DBA_SILVER/05-5　クオータ.md",
     "DBA_SILVER/03-3　ADR(自動診断リポジトリ).md",
     "DBA_SILVER/03-2　データディクショナリビューと動的パフォーマンス.md",
-    "無題のファイル.md",
     "DBA_SILVER/6章",
     "IMG_0070 1.jpg",
     "IMG_0070.jpg",

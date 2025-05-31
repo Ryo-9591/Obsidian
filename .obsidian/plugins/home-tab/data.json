@@ -25,11 +25,15 @@
   "recentFilesStore": [
     {
       "filepath": "DBA_SILVER/06-2　永続表領域.md",
-      "timestamp": 1748698874312
+      "timestamp": 1748699760623
     },
     {
       "filepath": "DBA_SILVER/06-3　UNDO表領域.md",
-      "timestamp": 1748698866065
+      "timestamp": 1748699760137
+    },
+    {
+      "filepath": "DBA_SILVER/8章　UNDOの管理.md",
+      "timestamp": 1748699748605
     },
     {
       "filepath": "DBA_SILVER/06-1　表領域.md",
@@ -38,10 +42,6 @@
     {
       "filepath": "DBA_SILVER/7章　データ格納のための記憶域の利用.md",
       "timestamp": 1748698856357
-    },
-    {
-      "filepath": "DBA_SILVER/01-1　アーキテクチャ.md",
-      "timestamp": 1748698041570
     }
   ],
   "bookmarkedFileStore": [],
