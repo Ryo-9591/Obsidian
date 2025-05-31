@@ -159,14 +159,13 @@ Oracleデータベースと別のOracleデータベースを連携させる仕�
 ②「CREATE DATABASE LINK文」を発行してデータベースリンクを作成
 →「CREATE DATABASE LINK権限」が必要
 
-記述例：
-基本的には名前解決できる方のユーザがあるサーバ上で実行する
+CREATE DATABASE LINK文例：
+`CREATE DATABASE LINK リンク名`
+`CONNECT TO ユーザ名 IDENTIFIED BY パスワード`
+`USING '接続記述子';`
+# Oracle Database Gateway
 
-CREATE DATABASE LINK リンク名
-CONNECT TO ユーザ名 IDENTIFIED BY パスワード
-USING '接続記述子';
-
-※Oracle Database Gatewayを使えば異機種間でのデータリンクができる
+Oracleデータベースと別のサービス間でを使えば異機種間でのデータリンクができる
 
 
 
