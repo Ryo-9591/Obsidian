@@ -153,8 +153,11 @@ ORCL2 =
 # 共有サーバでのそれぞれのパーツの役割
 ![[Pasted image 20250527221634.png]]
 # データベースリンク
-プライベートデータベースリンク
-→CREATE DATABASE LINK権限が必要
+Oracleデータベースと別のOracleデータベースを連携させる仕組み
+
+①接続元データベースにOracle Net Serviceのせってｐ
+
+CREATE DATABASE LINK権限が必要
 
 記述例：
 基本的には名前解決できる方のユーザがあるサーバ上で実行する
