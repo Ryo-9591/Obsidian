@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DBA_SILVER/05_ユーザ、オール、権限/05-1　ユーザ.md",
+                "file": "DBA_SILVER/06_表領域の管理/06-1　表領域.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "05-1　ユーザ"
+              "title": "06-1　表領域"
             }
           }
         ]
@@ -97,13 +97,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DBA_SILVER/05_ユーザ、オール、権限/05-1　ユーザ.md",
+                "file": "DBA_SILVER/06_表領域の管理/06-1　表領域.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "05-1　ユーザのアウトライン"
+              "title": "06-1　表領域のアウトライン"
             }
           }
         ]
@@ -139,8 +139,11 @@
   },
   "active": "58392aaeeda87af9",
   "lastOpenFiles": [
+    "無題のフォルダ",
+    "DBA_SILVER/05_ユーザ、権限、ロール/05-1　ユーザ.md",
+    "DBA_SILVER/06_表領域の管理",
     "DBA_SILVER/04_Oracle Net Service/04-1　Oracle Net Service.md",
-    "DBA_SILVER/05_ユーザ、オール、権限",
+    "DBA_SILVER/05_ユーザ、権限、ロール",
     "DBA_SILVER/03_インスタンス関連/03-1　インスタンスの管理.md",
     "DBA_SILVER/04_Oracle Net Service",
     "DBA_SILVER/02_ツール/02-1　DBCA(Database Configuration Assistant).md",
@@ -151,19 +154,19 @@
     "DBA_SILVER/images/Pasted image 20250531154320.png",
     "IMG_0070 1.jpg",
     "DBA_SILVER/images/IMG_0070.jpg",
-    "DBA_SILVER/06-4　OMF(Oracle Managed Files).md",
+    "DBA_SILVER/06_表領域の管理/06-4　OMF(Oracle Managed Files).md",
     "DBA_SILVER/7章　データ格納のための記憶域の利用.md",
     "DBA_SILVER/03_インスタンス関連/03-4　初期化パラメータ.md",
-    "DBA_SILVER/06-2　永続表領域.md",
-    "DBA_SILVER/06-1　表領域.md",
-    "DBA_SILVER/06-3　データファイル移動.md",
+    "DBA_SILVER/06_表領域の管理/06-2　永続表領域.md",
+    "DBA_SILVER/06_表領域の管理/06-1　表領域.md",
+    "DBA_SILVER/06_表領域の管理/06-3　データファイル移動.md",
     "DBA_SILVER/10章　データの扱い.md",
     "DBA_SILVER/9章　データの移動.md",
     "DBA_SILVER/8章　UNDOの管理.md",
     "DBA_SILVER/06-5　データファイル.md",
     "DBA_SILVER/06-4　一時表領域.md",
     "DBA_SILVER/06-3　UNDO表領域.md",
-    "DBA_SILVER/05_ユーザ、オール、権限/05-6　セキュリティ.md",
+    "DBA_SILVER/05_ユーザ、権限、ロール/05-6　セキュリティ.md",
     "DBA_SILVER/06-3　セグメント.md",
     "DBA_SILVER/01_アーキテクチャ/01-1　アーキテクチャ.md",
     "DBA_SILVER/04_Oracle Net Service/04-2　共有サーバ.md",
@@ -171,7 +174,6 @@
     "DBA_SILVER/02_ツール/02-3　SQL Developer.md",
     "DBA_SILVER/02_ツール/02-5　Oracle Enterprise Manager Cloud Control.md",
     "DBA_SILVER/02_ツール/02-4　EM Express.md",
-    "DBA_SILVER/02-1　ツール.md",
     "DBA_SILVER/6章",
     "DBA_SILVER/関連",
     "DBA_SILVER/images/Pasted image 20250531141650.png",
@@ -181,7 +183,6 @@
     "Qiita記事/【革命】スライド作成がAI任せに！Cursor×Marp最強タッグ💪",
     "Qiita記事/Cursor君！スライド作っといて！",
     "Qiita記事/【API使用量無料】Python × Gemini APIで作る！AIレシピ生成アプリ/img/app.png",
-    "Qiita記事/【API使用量無料】Python × Gemini APIで作る！AIレシピ生成アプリ/img",
     "無題のファイル.canvas",
     "DBA_SILVER/images/Pasted image 20250517084154.png",
     "DBA_SILVER/images/Pasted image 20250521230831.png",

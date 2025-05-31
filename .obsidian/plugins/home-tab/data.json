@@ -24,7 +24,11 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
-      "filepath": "DBA_SILVER/05-1　ユーザ.md",
+      "filepath": "DBA_SILVER/06-1　表領域.md",
+      "timestamp": 1748701671957
+    },
+    {
+      "filepath": "DBA_SILVER/05_ユーザ、権限、ロール/05-1　ユーザ.md",
       "timestamp": 1748701637618
     },
     {
@@ -38,10 +42,6 @@
     {
       "filepath": "DBA_SILVER/02_ツール/02-1　DBCA(Database Configuration Assistant).md",
       "timestamp": 1748701549377
-    },
-    {
-      "filepath": "DBA_SILVER/images/Pasted image 20250531154320.png",
-      "timestamp": 1748701427510
     }
   ],
   "bookmarkedFileStore": [],
