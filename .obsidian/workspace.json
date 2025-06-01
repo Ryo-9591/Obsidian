@@ -4,17 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "97adb7e4d1e4df4f",
+        "id": "564376955a0e7e8e",
         "type": "tabs",
         "children": [
           {
-            "id": "e1cd7a3fb36b2625",
+            "id": "fd1716beb792375c",
             "type": "leaf",
             "state": {
-              "type": "home-tab-view",
-              "state": {},
-              "icon": "search",
-              "title": "Home tab"
+              "type": "markdown",
+              "state": {
+                "file": "DBA_SILVER試験勉強/2_SQL/13章　変換ファンクション.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "13章　変換ファンクション"
             }
           }
         ]
@@ -75,7 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 269.50499725341797
+    "width": 338.5124969482422
   },
   "right": {
     "id": "f533a687fa0a0077",
@@ -92,12 +97,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "DBA_SILVER試験勉強/2_SQL/13章　変換ファンクション.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "アウトライン"
+              "title": "13章　変換ファンクションのアウトライン"
             }
           }
         ]
@@ -121,7 +127,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 515.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -132,7 +138,7 @@
       "obsidian-kanban:カンバンボードを新規作成": false
     }
   },
-  "active": "e1cd7a3fb36b2625",
+  "active": "fd1716beb792375c",
   "lastOpenFiles": [
     "DBA_SILVER試験勉強/2_SQL/13章　変換ファンクション.md",
     "DBA_SILVER試験勉強/2_SQL/11章　データの検索.md",
