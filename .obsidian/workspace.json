@@ -6,7 +6,6 @@
       {
         "id": "322ae41373b0ecbb",
         "type": "tabs",
-        "dimension": 59.194831013916506,
         "children": [
           {
             "id": "0df9d32d1b8c52f6",
@@ -21,25 +20,6 @@
               },
               "icon": "lucide-file",
               "title": "11章　データの検索"
-            }
-          }
-        ]
-      },
-      {
-        "id": "b22e910acb16dbd4",
-        "type": "tabs",
-        "dimension": 40.8051689860835,
-        "children": [
-          {
-            "id": "731e73f76ad345ed",
-            "type": "leaf",
-            "state": {
-              "type": "surfing-view",
-              "state": {
-                "url": "https://chatgpt.com/"
-              },
-              "icon": "lucide-file",
-              "title": "ChatGPT"
             }
           }
         ]
@@ -118,16 +98,35 @@
       }
     ],
     "direction": "horizontal",
-    "width": 247.5124969482422,
-    "collapsed": true
+    "width": 247.5124969482422
   },
   "right": {
     "id": "f533a687fa0a0077",
     "type": "split",
-    "children": [],
+    "children": [
+      {
+        "id": "cf84f65d523b9c55",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "731e73f76ad345ed",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "surfing-view",
+              "state": {
+                "url": "https://chatgpt.com/"
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "ChatGPT"
+            }
+          }
+        ]
+      }
+    ],
     "direction": "horizontal",
-    "width": 222.5,
-    "collapsed": true
+    "width": 582.5
   },
   "left-ribbon": {
     "hiddenItems": {
