@@ -24,6 +24,10 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "2025-06-01.md",
+      "timestamp": 1748759646644
+    },
+    {
       "filepath": "DBA_SILVER試験勉強/2_SQL/10章　データの扱い.md",
       "timestamp": 1748759584107
     },
@@ -38,10 +42,6 @@
     {
       "filepath": "DBA_SILVER試験勉強/1_Oracleデータベース知識/01_アーキテクチャ/01-2　サーバプロセス.md",
       "timestamp": 1748754756184
-    },
-    {
-      "filepath": "DBA_SILVER試験勉強/1_Oracleデータベース知識/01_アーキテクチャ/01-1　アーキテクチャ.md",
-      "timestamp": 1748754727958
     }
   ],
   "bookmarkedFileStore": [],
