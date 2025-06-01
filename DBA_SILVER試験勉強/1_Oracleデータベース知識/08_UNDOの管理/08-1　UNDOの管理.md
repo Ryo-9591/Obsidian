@@ -1,3 +1,6 @@
+# UNDO表領域
+変更前の過去データ(UNDOでー)をUNDOセグメントの
+
 # UNDO表領域として表領域を使いたいときの手順
 
 ①UNDO_MANAGEMET初期化パラメータ=AUTOに設定
