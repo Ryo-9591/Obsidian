@@ -1,8 +1,14 @@
 # Oracle Data Pump
 データをOracleデータベース外部にエクスポート/インポートするツール
 ## Oracle Data Pumpの操作インターフェース
-### Ctrl+cで対話型インターフェースへ遷移できる(処理はバックグラウンドで実行される)
 
+### Oracle Data Pumpでのデータエクスポート
+
+
+
+
+
+### Ctrl+cで対話型インターフェースへ遷移できる(処理はバックグラウンドで実行される)
 `expdp system/Password123 FULL=y DUMPFILE=DATA_PUMP_DIR:full.dmp`　--ジョブ起動
 
 `Ctrl + c`　--対話型インターフェースに遷移
