@@ -5,17 +5,17 @@ OSファイルシステム上のデータをOracleデータベースの表にロ
 
 ①ロード先の表明やデータファイルの形式を制御ファイルに記載
 
-制御ファイルの記述例：
+制御ファイルの記述例(sample.ctl)：
 `LOAD DATA`
-`INFILE 'data.csv'`
-`INFO TABLE tbl01`
-`APPEND　追加ロード`
+`INFILE 'data.csv'`　--データファイルはdata.csv
+`INFO TABLE tbl01`　--ロード先の表
+`APPEND`　--
 `FIELDS TERMINATED BY ' , '`
 `(no , name)`　
 
 ②「sqlldr」コマンドで制御ファイルをもとにOracleデータベースにロード
 
-sqlldr user1/pass1 control
+`sqlldr user1/pass1 control='sample.ctl'`
 
 ③ロード処理が終わるとログファイル、廃棄ファイル、不良ファイルが出力
 
