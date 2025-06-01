@@ -21,24 +21,24 @@
               "icon": "lucide-file",
               "title": "02-4　EM Express"
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "5f86b0ba13518037",
+        "type": "tabs",
+        "children": [
           {
-            "id": "f8ffe88c277a3f07",
+            "id": "6dbc64693f3861bb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "無題のファイル.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
+              "type": "marp-preview-view",
+              "state": {},
               "icon": "lucide-file",
-              "title": "無題のファイル"
+              "title": "Deck Preview"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -152,10 +152,11 @@
       "graph:グラフビューを開く": false,
       "obsidian-kanban:カンバンボードを新規作成": false,
       "obsidian-memos:Thino": false,
-      "markdown-importer:Markdownインポーターを開く": false
+      "markdown-importer:Markdownインポーターを開く": false,
+      "marp-slides:Show Slide Preview": false
     }
   },
-  "active": "f8ffe88c277a3f07",
+  "active": "6dbc64693f3861bb",
   "lastOpenFiles": [
     "無題のファイル.md",
     "DBA_SILVER試験勉強/1_Oracleデータベース知識/02_ツール/02-4　EM Express.md",
