@@ -24,7 +24,11 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
-      "filepath": "無題のカンバン.md",
+      "filepath": "README.md",
+      "timestamp": 1748779375331
+    },
+    {
+      "filepath": "KANBAN.md",
       "timestamp": 1748779132750
     },
     {
@@ -38,10 +42,6 @@
     {
       "filepath": "DBA_SILVER試験勉強/2_SQL/10_データの扱い/10-1　DUAL表.md",
       "timestamp": 1748777946829
-    },
-    {
-      "filepath": "DBA_SILVER試験勉強/2_SQL/10_データの扱い/10-0　データの扱い.md",
-      "timestamp": 1748777946077
     }
   ],
   "bookmarkedFileStore": [],
