@@ -21,8 +21,19 @@
               "icon": "lucide-file",
               "title": "11章　データの検索"
             }
+          },
+          {
+            "id": "6dfb405c369caf72",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新規タブ"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,13 +108,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DBA_SILVER試験勉強/2_SQL/11章　データの検索.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "11章　データの検索のアウトライン"
+              "title": "アウトライン"
             }
           },
           {
@@ -150,8 +160,9 @@
       "obsidian-memos:Thino": false
     }
   },
-  "active": "0df9d32d1b8c52f6",
+  "active": "6dfb405c369caf72",
   "lastOpenFiles": [
+    "DBA_SILVER試験勉強/2_SQL/11章　データの検索.md",
     "KANBAN.md",
     "IMG_0070 1.jpg.md",
     "README.md",
@@ -159,7 +170,6 @@
     "無題のカンバン.md",
     "無題のファイル.md",
     "DBA_SILVER試験勉強/2_SQL/13章　変換ファンクション.md",
-    "DBA_SILVER試験勉強/2_SQL/11章　データの検索.md",
     "DBA_SILVER試験勉強/3_模試/模試　2025-06-01.md",
     "DBA_SILVER試験勉強/2_SQL/22章　制約と一時表.md",
     "DBA_SILVER試験勉強/2_SQL/10_データの扱い/10-1　DUAL表.md",
