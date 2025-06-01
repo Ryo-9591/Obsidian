@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DBA_SILVER試験勉強/1_Oracleデータベース知識/09_データの移動/09-1　データの移動 1.md",
+                "file": "DBA_SILVER試験勉強/1_Oracleデータベース知識/09_データの移動/09-1　Oracle Data Pump.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "09-1　データの移動 1"
+              "title": "09-1　Oracle Data Pump"
             }
           }
         ]
@@ -97,13 +97,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DBA_SILVER試験勉強/1_Oracleデータベース知識/09_データの移動/09-1　データの移動 1.md",
+                "file": "DBA_SILVER試験勉強/1_Oracleデータベース知識/09_データの移動/09-1　Oracle Data Pump.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "09-1　データの移動 1のアウトライン"
+              "title": "09-1　Oracle Data Pumpのアウトライン"
             }
           }
         ]
@@ -139,8 +139,9 @@
   },
   "active": "25d53d02687978a5",
   "lastOpenFiles": [
+    "DBA_SILVER試験勉強/1_Oracleデータベース知識/09_データの移動/09-2　SQL Loader.md",
     "DBA_SILVER試験勉強/1_Oracleデータベース知識/09_データの移動/09-1　データの移動.md",
-    "DBA_SILVER試験勉強/1_Oracleデータベース知識/09_データの移動/09-1　データの移動 1.md",
+    "DBA_SILVER試験勉強/1_Oracleデータベース知識/09_データの移動/09-1　Oracle Data Pump.md",
     "DBA_SILVER試験勉強/1_Oracleデータベース知識/08_UNDOの管理/08-2　一時UNDO機能.md",
     "DBA_SILVER試験勉強/1_Oracleデータベース知識/09_データの移動",
     "DBA_SILVER試験勉強/1_Oracleデータベース知識/08_UNDOの管理/08-1　UNDO表領域.md",
@@ -173,7 +174,6 @@
     "DBA_SILVER試験勉強/1_Oracleデータベース知識/05_ユーザ、権限、ロール",
     "DBA_SILVER試験勉強/1_Oracleデータベース知識/03_インスタンス関連/03-1　インスタンスの管理.md",
     "DBA_SILVER試験勉強/1_Oracleデータベース知識/04_Oracle Net Service",
-    "DBA_SILVER試験勉強/1_Oracleデータベース知識/02_ツール/02-1　DBCA(Database Configuration Assistant).md",
     "DBA_SILVER試験勉強/1_Oracleデータベース知識/03_インスタンス関連",
     "DBA_SILVER試験勉強/1_Oracleデータベース知識/02_ツール",
     "DBA_SILVER試験勉強/images/Pasted image 20250531154320.png",
