@@ -24,6 +24,10 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "DBA_SILVER試験勉強/2_SQL/22章　制約と一時表.md",
+      "timestamp": 1748778848152
+    },
+    {
       "filepath": "DBA_SILVER試験勉強/2_SQL/10_データの扱い/10-1　DUAL表.md",
       "timestamp": 1748777946829
     },
@@ -38,10 +42,6 @@
     {
       "filepath": "DBA_SILVER試験勉強/2_SQL/20_索引、シーケンス、シノニム/20-0　シーケンス、シノニム、索引.md",
       "timestamp": 1748777572694
-    },
-    {
-      "filepath": "DBA_SILVER試験勉強/2_SQL/20_索引、シーケンス、シノニム/20-2　シーケンス.md",
-      "timestamp": 1748777571447
     }
   ],
   "bookmarkedFileStore": [],
