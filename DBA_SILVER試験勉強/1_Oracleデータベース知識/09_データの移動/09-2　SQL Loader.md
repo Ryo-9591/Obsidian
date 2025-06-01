@@ -12,6 +12,12 @@ OSファイルシステム上のデータをOracleデータベースの表にロ
 `APPEND`　--ロード方法(追加ロード)
 `FIELDS TERMINATED BY ' , '`　--カンマ区切りでフィールドに分割
 `(no , name)`　--フィールドデータをno列、name列にロード
+### ロード方法
+#### APPEND
+ロード先に追加する形でロード
+#### TRUNCATE
+ロード先のデータを消してから追加
+#### REPLA
 ## ②「sqlldr」コマンドで制御ファイルをもとにOracleデータベースにロード
 
 `sqlldr user1/pass1 control='sample.ctl'`
