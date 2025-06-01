@@ -4,22 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "564376955a0e7e8e",
+        "id": "6f3d21938f1bcf01",
         "type": "tabs",
         "children": [
           {
-            "id": "fd1716beb792375c",
+            "id": "97134f4d41a90214",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DBA_SILVER試験勉強/2_SQL/13章　変換ファンクション.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "13章　変換ファンクション"
+              "title": "新規タブ"
             }
           }
         ]
@@ -97,13 +92,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DBA_SILVER試験勉強/2_SQL/13章　変換ファンクション.md",
+                "file": "無題のファイル.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "13章　変換ファンクションのアウトライン"
+              "title": "無題のファイルのアウトライン"
             }
           }
         ]
@@ -135,11 +130,14 @@
       "daily-notes:今日のデイリーノートを開く": false,
       "templates:テンプレートを挿入": false,
       "graph:グラフビューを開く": false,
-      "obsidian-kanban:カンバンボードを新規作成": false
+      "obsidian-kanban:カンバンボードを新規作成": false,
+      "obsidian-memos:Thino": false
     }
   },
-  "active": "fd1716beb792375c",
+  "active": "58392aaeeda87af9",
   "lastOpenFiles": [
+    "無題のファイル.md",
+    "2025-06-01.md",
     "DBA_SILVER試験勉強/2_SQL/13章　変換ファンクション.md",
     "DBA_SILVER試験勉強/2_SQL/11章　データの検索.md",
     "DBA_SILVER試験勉強/3_模試/模試　2025-06-01.md",
@@ -169,10 +167,8 @@
     "DBA_SILVER試験勉強/3_模試",
     "DBA_SILVER試験勉強/1_Oracleデータベース知識/01_アーキテクチャ/01-4　バックグラウンドプロセス.md",
     "DBA_SILVER試験勉強/1_Oracleデータベース知識/01_アーキテクチャ/01-3　SGA.md",
-    "DBA_SILVER試験勉強/1_Oracleデータベース知識/01_アーキテクチャ/01-2　サーバプロセス.md",
     "DBA_SILVER試験勉強/images/Pasted image 20250601135654.png",
     "DBA_SILVER試験勉強/images/Pasted image 20250601135603.png",
-    "DBA_SILVER試験勉強/1_Oracleデータベース知識/09_データの移動/09-3　外部表.md",
     "DBA_SILVER試験勉強/1_Oracleデータベース知識/09_データの移動",
     "DBA_SILVER試験勉強/1_Oracleデータベース知識/08_UNDOの管理",
     "DBA_SILVER試験勉強/images/Pasted image 20250601100838.png",
