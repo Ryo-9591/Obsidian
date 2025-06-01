@@ -33,13 +33,3 @@ UNDO表領域作成例：
 `ALTER SYSTEM SET UNDO_TABLESPACE=undotbs03 ;`
 
 ※有効化できるUNDO表領域は1つ
-# UNDO管理問題
-
-
-
-
-
-
-
-
----

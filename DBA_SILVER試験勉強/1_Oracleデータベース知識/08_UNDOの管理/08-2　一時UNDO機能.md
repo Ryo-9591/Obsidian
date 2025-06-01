@@ -1,4 +1,9 @@
-# 一時UNDO表領域の有効化
+# 一時UNDO表領域
+データ
+
+
+
+の有効化
 
 TEMP_UNDO_ENABLED=trueに設定
 設定すると・・・
