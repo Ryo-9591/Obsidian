@@ -23,11 +23,10 @@ UNDO表領域作成例：
 `ALTER SYSTEM SET UNDO_RETENTION=900 ;`　--UNDOの保存期間900秒
 
 ※UNDO表領域が埋まっているときに新しいトランザクションが発行されるとORA-30036エラーが出る
-→RETENTION GUARANTEEが設定されている
+→「RETENTION GUARANTEE」が設定されている
 ### UNDO保存期間の保証
 
-UNDO保存期間(UNDO_RETENTION)に設定した秒数だけ必ず保存されるので、
-　　　新しくUNDO表領域が上書きできない！
+「UNDO_RETENTION初期化パラメータ」に設置した秒数「UNDO保存期間」の保証を
 NOGUARANTEEだと・・・
 保存期間内でも古いUNDOを上書きできる
 
