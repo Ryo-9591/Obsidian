@@ -24,6 +24,10 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "DBA_SILVER試験勉強/3_模試/2025-06-01.md",
+      "timestamp": 1748774582815
+    },
+    {
       "filepath": "DBA_SILVER試験勉強/2_SQL/12_単一行ファンクション/12-1　文字ファンクション.md",
       "timestamp": 1748773846182
     },
@@ -38,10 +42,6 @@
     {
       "filepath": "DBA_SILVER試験勉強/2_SQL/14章　集計ファンクション.md",
       "timestamp": 1748773473574
-    },
-    {
-      "filepath": "DBA_SILVER試験勉強/2_SQL/13章　変換ファンクション.md",
-      "timestamp": 1748773472852
     }
   ],
   "bookmarkedFileStore": [],
