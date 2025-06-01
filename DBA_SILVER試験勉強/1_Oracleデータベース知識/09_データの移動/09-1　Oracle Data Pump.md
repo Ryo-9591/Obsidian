@@ -2,7 +2,7 @@
 データをOracleデータベース外部にエクスポート/インポートするツール
 ## Oracle Data Pumpの操作インターフェース
 ### コマンドライン
-expdp user0/P
+expdp user0/Pass123 SCHEMAS=user0 DUMPFILE=dmp_dir:test1.dmp LOGFILE=dmp_dir:test1.log
 ### パラメータファイル
 ### 対話型
 `expdp system/Password123 FULL=y DUMPFILE=DATA_PUMP_DIR:full.dmp`--エクスポート開始
