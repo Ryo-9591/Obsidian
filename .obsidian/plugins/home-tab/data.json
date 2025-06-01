@@ -24,24 +24,24 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
-      "filepath": "DBA_SILVER試験勉強/2_SQL/20_シーケンス、シノニム、索引/20章　シーケンス、シノニム、索引.md",
-      "timestamp": 1748777472857
+      "filepath": "DBA_SILVER試験勉強/2_SQL/20_索引、シーケンス、シノニム/20-2　シーケンス.md",
+      "timestamp": 1748777538040
     },
     {
-      "filepath": "DBA_SILVER試験勉強/2_SQL/20_シーケンス、シノニム、索引/20-1　索引.md",
-      "timestamp": 1748777460304
+      "filepath": "DBA_SILVER試験勉強/2_SQL/20_索引、シーケンス、シノニム/20-1　索引.md",
+      "timestamp": 1748777527830
     },
     {
-      "filepath": "DBA_SILVER試験勉強/2_SQL/12_単一行ファンクション/12-2　数値ファンクション.md",
-      "timestamp": 1748777447979
+      "filepath": "DBA_SILVER試験勉強/2_SQL/20_索引、シーケンス、シノニム/20-3　シノニム.md",
+      "timestamp": 1748777515613
+    },
+    {
+      "filepath": "DBA_SILVER試験勉強/2_SQL/11章　データの検索.md",
+      "timestamp": 1748777502216
     },
     {
       "filepath": "DBA_SILVER試験勉強/2_SQL/12_単一行ファンクション/12-1　文字ファンクション.md",
-      "timestamp": 1748777445604
-    },
-    {
-      "filepath": "DBA_SILVER試験勉強/2_SQL/12_単一行ファンクション/12-0　ファンクション.md",
-      "timestamp": 1748777437950
+      "timestamp": 1748777495805
     }
   ],
   "bookmarkedFileStore": [],

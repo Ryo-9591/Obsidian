@@ -36,13 +36,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DBA_SILVER試験勉強/2_SQL/20_シーケンス、シノニム、索引/20章　シーケンス、シノニム、索引.md",
+                "file": "DBA_SILVER試験勉強/2_SQL/20_索引、シーケンス、シノニム/20-2　シーケンス.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "20章　シーケンス、シノニム、索引"
+              "title": "20-2　シーケンス"
             }
           }
         ]
@@ -120,13 +120,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DBA_SILVER試験勉強/2_SQL/20_シーケンス、シノニム、索引/20章　シーケンス、シノニム、索引.md",
+                "file": "DBA_SILVER試験勉強/2_SQL/20_索引、シーケンス、シノニム/20-2　シーケンス.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "20章　シーケンス、シノニム、索引のアウトライン"
+              "title": "20-2　シーケンスのアウトライン"
             }
           }
         ]
@@ -162,12 +162,15 @@
   },
   "active": "d6eeead5f31bcd87",
   "lastOpenFiles": [
-    "DBA_SILVER試験勉強/2_SQL/20_シーケンス、シノニム、索引/20-1　索引.md",
-    "DBA_SILVER試験勉強/2_SQL/20_シーケンス、シノニム、索引/20章　シーケンス、シノニム、索引.md",
-    "DBA_SILVER試験勉強/2_SQL/12_単一行ファンクション/12-2　数値ファンクション.md",
+    "DBA_SILVER試験勉強/2_SQL/20_索引、シーケンス、シノニム/20-1　索引.md",
+    "DBA_SILVER試験勉強/2_SQL/20_索引、シーケンス、シノニム/20-2　シーケンス.md",
+    "DBA_SILVER試験勉強/2_SQL/20_索引、シーケンス、シノニム/20-3　シノニム.md",
+    "DBA_SILVER試験勉強/2_SQL/11章　データの検索.md",
     "DBA_SILVER試験勉強/2_SQL/12_単一行ファンクション/12-1　文字ファンクション.md",
+    "DBA_SILVER試験勉強/2_SQL/20_索引、シーケンス、シノニム/20-0　シーケンス、シノニム、索引.md",
+    "DBA_SILVER試験勉強/2_SQL/12_単一行ファンクション/12-2　数値ファンクション.md",
     "DBA_SILVER試験勉強/2_SQL/12_単一行ファンクション/12-0　ファンクション.md",
-    "DBA_SILVER試験勉強/2_SQL/20_シーケンス、シノニム、索引",
+    "DBA_SILVER試験勉強/2_SQL/20_索引、シーケンス、シノニム",
     "DBA_SILVER試験勉強/3_模試/2025-06-01.md",
     "DBA_SILVER試験勉強/2_SQL/12_単一行ファンクション",
     "DBA_SILVER試験勉強/2_SQL/14章　集計ファンクション.md",
@@ -192,10 +195,7 @@
     "DBA_SILVER試験勉強/1_Oracleデータベース知識/09_データの移動/09-1　データの移動.md",
     "DBA_SILVER試験勉強/1_Oracleデータベース知識/09_データの移動/09-2　SQL Loader.md",
     "DBA_SILVER試験勉強/1_Oracleデータベース知識/09_データの移動/09-1　Oracle Data Pump.md",
-    "DBA_SILVER試験勉強/1_Oracleデータベース知識/08_UNDOの管理/08-2　一時UNDO機能.md",
     "DBA_SILVER試験勉強/1_Oracleデータベース知識/09_データの移動",
-    "DBA_SILVER試験勉強/1_Oracleデータベース知識/08_UNDOの管理/08-1　UNDO表領域.md",
-    "DBA_SILVER試験勉強/1_Oracleデータベース知識/07_セグメント、データブロック管理/07-1　データブロック.md",
     "DBA_SILVER試験勉強/1_Oracleデータベース知識/08_UNDOの管理",
     "DBA_SILVER試験勉強/images/Pasted image 20250601100838.png",
     "DBA_SILVER試験勉強/1_Oracleデータベース知識/07_セグメント、データブロック管理",
