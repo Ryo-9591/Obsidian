@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DBA_SILVER試験勉強/1_Oracleデータベース知識/07_セグメント、データブロック管理/07-2　セグメント.md",
+                "file": "DBA_SILVER試験勉強/1_Oracleデータベース知識/07_セグメント、データブロック管理/07-3　表の圧縮.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "07-2　セグメント"
+              "title": "07-3　表の圧縮"
             }
           }
         ]
@@ -97,13 +97,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DBA_SILVER試験勉強/1_Oracleデータベース知識/07_セグメント、データブロック管理/07-2　セグメント.md",
+                "file": "DBA_SILVER試験勉強/1_Oracleデータベース知識/07_セグメント、データブロック管理/07-3　表の圧縮.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "07-2　セグメントのアウトライン"
+              "title": "07-3　表の圧縮のアウトライン"
             }
           }
         ]
@@ -139,8 +139,9 @@
   },
   "active": "25d53d02687978a5",
   "lastOpenFiles": [
-    "DBA_SILVER試験勉強/1_Oracleデータベース知識/8章　UNDOの管理.md",
     "DBA_SILVER試験勉強/1_Oracleデータベース知識/07_セグメント、データブロック管理/07-2　セグメント.md",
+    "DBA_SILVER試験勉強/1_Oracleデータベース知識/07_セグメント、データブロック管理/07-3　表の圧縮.md",
+    "DBA_SILVER試験勉強/1_Oracleデータベース知識/8章　UNDOの管理.md",
     "DBA_SILVER試験勉強/images/Pasted image 20250601100838.png",
     "DBA_SILVER試験勉強/1_Oracleデータベース知識/07_セグメント、データブロック管理/07-1　データブロック.md",
     "DBA_SILVER試験勉強/1_Oracleデータベース知識/07_セグメント、データブロック管理/07-1　データ格納のための記憶域の利用.md",
