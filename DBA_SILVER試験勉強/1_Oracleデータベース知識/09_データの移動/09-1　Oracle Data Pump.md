@@ -3,15 +3,13 @@
 ## Oracle Data Pumpの操作インターフェース
 ### Ctrl+cで対話型インターフェースへ遷移できる(処理はバックグラウンドで実行される)
 
+`expdp system/Password123 FULL=y DUMPFILE=DATA_PUMP_DIR:full.dmp`　--ジョブ起動
 
-Export > expdp system/Password123 FULL=y DUMPFILE=DATA_PUMP_DIR:full.dmp　→ジョブ起動
-Export > [Ctrl + c]　→対話型インターフェースに遷移
+`Ctrl + c`　--対話型インターフェースに遷移
 
 実行中の処理は止まらない・・・
 
-Export > exit　→対話型インターフェース終了
-
-[終了]
+exit　→対話型インターフェース終了
 ## アタッチしたジョブを制御できる
 [開始]
 
