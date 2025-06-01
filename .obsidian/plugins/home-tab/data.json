@@ -24,7 +24,11 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
-      "filepath": "DBA_SILVER試験勉強/2_SQL/12章　ファンクション.md",
+      "filepath": "DBA_SILVER試験勉強/2_SQL/12_単一行ファンクション/12-0　ファンクション 1.md",
+      "timestamp": 1748773529777
+    },
+    {
+      "filepath": "DBA_SILVER試験勉強/2_SQL/12_単一行ファンクション/12-0　ファンクション.md",
       "timestamp": 1748773474290
     },
     {
@@ -38,10 +42,6 @@
     {
       "filepath": "DBA_SILVER試験勉強/2_SQL/10_データの扱い/10-1　DUAL表.md",
       "timestamp": 1748773393371
-    },
-    {
-      "filepath": "DBA_SILVER試験勉強/2_SQL/10_データの扱い/10-0　データの扱い.md",
-      "timestamp": 1748773392748
     }
   ],
   "bookmarkedFileStore": [],
