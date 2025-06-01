@@ -24,12 +24,12 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
-      "filepath": "DBA_SILVER試験勉強/1_Oracleデータベース知識/08-1　UNDOの管理.md",
-      "timestamp": 1748742652437
+      "filepath": "DBA_SILVER試験勉強/1_Oracleデータベース知識/07_セグメント、データブロック管理/07-4　索引使用不可.md",
+      "timestamp": 1748742656144
     },
     {
-      "filepath": "DBA_SILVER試験勉強/1_Oracleデータベース知識/07_セグメント、データブロック管理/07-4　索引使用不可.md",
-      "timestamp": 1748742648740
+      "filepath": "DBA_SILVER試験勉強/1_Oracleデータベース知識/08-1　UNDOの管理.md",
+      "timestamp": 1748742652437
     },
     {
       "filepath": "DBA_SILVER試験勉強/1_Oracleデータベース知識/07_セグメント、データブロック管理/07-3　表の圧縮.md",
