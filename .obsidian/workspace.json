@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DBA_SILVER試験勉強/2_SQL/11章　データの検索.md",
+                "file": "DBA_SILVER試験勉強/1_Oracleデータベース知識/01_アーキテクチャ/01-3　SGA.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "11章　データの検索"
+              "title": "01-3　SGA"
             }
           }
         ]
@@ -140,9 +140,11 @@
   },
   "active": "86d5c0d43be2c0be",
   "lastOpenFiles": [
+    "DBA_SILVER試験勉強/1_Oracleデータベース知識/01_アーキテクチャ/01-2　サーバプロセス.md",
+    "DBA_SILVER試験勉強/1_Oracleデータベース知識/01_アーキテクチャ/01-1　アーキテクチャ.md",
+    "DBA_SILVER試験勉強/2_SQL/11章　データの検索.md",
     "DBA_SILVER試験勉強/3_模試/模試　2025-06-01.md",
     "README.md",
-    "DBA_SILVER試験勉強/2_SQL/11章　データの検索.md",
     "KANBAN.md",
     "download.svg",
     "IMG_0070 1.jpg.md",
@@ -168,7 +170,6 @@
     "DBA_SILVER試験勉強/1_Oracleデータベース知識/02_ツール/02-4　EM Express.md",
     "DBA_SILVER試験勉強/1_Oracleデータベース知識/02_ツール/02-5　Oracle Enterprise Manager Cloud Control.md",
     "DBA_SILVER試験勉強/images/Pasted image 20250601190329.png",
-    "DBA_SILVER試験勉強/1_Oracleデータベース知識/01_アーキテクチャ/01-1　アーキテクチャ.md",
     "DBA_SILVER試験勉強/1_Oracleデータベース知識/07_セグメント、データブロック管理/07-2　セグメントの管理(拡張、縮小).md",
     "DBA_SILVER試験勉強/3_模試",
     "DBA_SILVER試験勉強/images/Pasted image 20250601135654.png",
