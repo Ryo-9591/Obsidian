@@ -24,12 +24,16 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
-      "filepath": "DBA_SILVER試験勉強/1_Oracleデータベース知識/01_アーキテクチャ/01-2　SGA.md",
-      "timestamp": 1748754246375
+      "filepath": "DBA_SILVER試験勉強/1_Oracleデータベース知識/01_アーキテクチャ/01-1　アーキテクチャ 1.md",
+      "timestamp": 1748754505126
     },
     {
       "filepath": "DBA_SILVER試験勉強/1_Oracleデータベース知識/01_アーキテクチャ/01-1　アーキテクチャ.md",
-      "timestamp": 1748754241970
+      "timestamp": 1748754503880
+    },
+    {
+      "filepath": "DBA_SILVER試験勉強/1_Oracleデータベース知識/01_アーキテクチャ/01-2　SGA.md",
+      "timestamp": 1748754246375
     },
     {
       "filepath": "DBA_SILVER試験勉強/1_Oracleデータベース知識/09_データの移動/09-3　外部表.md",
@@ -38,10 +42,6 @@
     {
       "filepath": "DBA_SILVER試験勉強/1_Oracleデータベース知識/09_データの移動/09-2　SQL Loader.md",
       "timestamp": 1748753077693
-    },
-    {
-      "filepath": "DBA_SILVER試験勉強/1_Oracleデータベース知識/09_データの移動/09-1　Oracle Data Pump.md",
-      "timestamp": 1748750805159
     }
   ],
   "bookmarkedFileStore": [],
