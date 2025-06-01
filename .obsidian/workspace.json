@@ -36,10 +36,10 @@
             "state": {
               "type": "surfing-view",
               "state": {
-                "url": "https://www.google.com/"
+                "url": "https://chatgpt.com/"
               },
               "icon": "lucide-file",
-              "title": "Google"
+              "title": "ChatGPT"
             }
           }
         ]

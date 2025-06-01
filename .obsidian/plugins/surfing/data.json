@@ -1,24 +1,19 @@
 {
   "defaultSearchEngine": "google",
-  "customSearchEngine": [
-    {
-      "name": "duckduckgo",
-      "url": "https://duckduckgo.com/?q="
-    }
-  ],
-  "hoverPopover": true,
+  "customSearchEngine": [],
+  "hoverPopover": false,
   "ignoreList": [
     "notion",
     "craft"
   ],
-  "alwaysShowCustomSearch": false,
+  "alwaysShowCustomSearch": true,
   "showOtherSearchEngines": false,
   "showSearchBarInPage": false,
   "markdownPath": "/",
   "customHighlightFormat": false,
   "highlightFormat": "[{CONTENT}]({URL})",
   "highlightInSameTab": false,
-  "openInSameTab": true,
+  "openInSameTab": false,
   "showRefreshButton": false,
   "openInObsidianWeb": false,
   "useCustomIcons": false,
