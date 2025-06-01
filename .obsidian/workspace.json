@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3bf000f05f2212a5",
+        "id": "97adb7e4d1e4df4f",
         "type": "tabs",
         "children": [
           {
-            "id": "c7ed4002c80d8c71",
+            "id": "e1cd7a3fb36b2625",
             "type": "leaf",
             "state": {
               "type": "home-tab-view",
@@ -132,11 +132,13 @@
       "obsidian-kanban:カンバンボードを新規作成": false
     }
   },
-  "active": "c7ed4002c80d8c71",
+  "active": "e1cd7a3fb36b2625",
   "lastOpenFiles": [
+    "DBA_SILVER試験勉強/2_SQL/13章　変換ファンクション.md",
+    "DBA_SILVER試験勉強/2_SQL/11章　データの検索.md",
+    "DBA_SILVER試験勉強/3_模試/模試　2025-06-01.md",
     "KANBAN.md",
     "README.md",
-    "DBA_SILVER試験勉強/3_模試/模試　2025-06-01.md",
     "DBA_SILVER試験勉強/2_SQL/22章　制約と一時表.md",
     "DBA_SILVER試験勉強/2_SQL/10_データの扱い/10-1　DUAL表.md",
     "DBA_SILVER試験勉強/2_SQL/10_データの扱い/10-0　データの扱い.md",
@@ -144,14 +146,12 @@
     "DBA_SILVER試験勉強/2_SQL/20_索引、シーケンス、シノニム/20-0　シーケンス、シノニム、索引.md",
     "DBA_SILVER試験勉強/2_SQL/20_索引、シーケンス、シノニム/20-2　シーケンス.md",
     "DBA_SILVER試験勉強/2_SQL/20_索引、シーケンス、シノニム/20-3　シノニム.md",
-    "DBA_SILVER試験勉強/2_SQL/11章　データの検索.md",
     "DBA_SILVER試験勉強/2_SQL/12_単一行ファンクション/12-1　文字ファンクション.md",
     "DBA_SILVER試験勉強/2_SQL/12_単一行ファンクション/12-2　数値ファンクション.md",
     "DBA_SILVER試験勉強/2_SQL/12_単一行ファンクション/12-0　ファンクション.md",
     "DBA_SILVER試験勉強/2_SQL/20_索引、シーケンス、シノニム",
     "DBA_SILVER試験勉強/2_SQL/12_単一行ファンクション",
     "DBA_SILVER試験勉強/2_SQL/14章　集計ファンクション.md",
-    "DBA_SILVER試験勉強/2_SQL/13章　変換ファンクション.md",
     "DBA_SILVER試験勉強/2_SQL/10_データの扱い",
     "DBA_SILVER試験勉強/1_Oracleデータベース知識/03_インスタンス関連/03-2　データディクショナリビューと動的パフォーマンス.md",
     "DBA_SILVER試験勉強/1_Oracleデータベース知識/02_ツール/02-4　EM Express.md",
