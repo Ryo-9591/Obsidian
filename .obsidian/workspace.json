@@ -6,6 +6,7 @@
       {
         "id": "322ae41373b0ecbb",
         "type": "tabs",
+        "dimension": 66.33771929824562,
         "children": [
           {
             "id": "0df9d32d1b8c52f6",
@@ -23,6 +24,25 @@
             }
           }
         ]
+      },
+      {
+        "id": "b22e910acb16dbd4",
+        "type": "tabs",
+        "dimension": 33.66228070175439,
+        "children": [
+          {
+            "id": "731e73f76ad345ed",
+            "type": "leaf",
+            "state": {
+              "type": "surfing-view",
+              "state": {
+                "url": "https://chatgpt.com/"
+              },
+              "icon": "lucide-file",
+              "title": "ChatGPT"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -34,7 +54,7 @@
       {
         "id": "5f4d272b2ea836e3",
         "type": "tabs",
-        "dimension": 73.49498327759197,
+        "dimension": 73.47280334728033,
         "children": [
           {
             "id": "9ac9ed207c82c160",
@@ -51,18 +71,6 @@
               },
               "icon": "lucide-search",
               "title": "検索"
-            }
-          },
-          {
-            "id": "731e73f76ad345ed",
-            "type": "leaf",
-            "state": {
-              "type": "surfing-view",
-              "state": {
-                "url": "https://chatgpt.com/"
-              },
-              "icon": "lucide-file",
-              "title": "ChatGPT"
             }
           },
           {
@@ -89,12 +97,12 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       },
       {
         "id": "199a16cf7c4e5e91",
         "type": "tabs",
-        "dimension": 26.505016722408026,
+        "dimension": 26.527196652719663,
         "children": [
           {
             "id": "f013d527e4f4af81",
@@ -110,7 +118,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 327.5124969482422
+    "width": 247.5124969482422
   },
   "right": {
     "id": "f533a687fa0a0077",
@@ -130,9 +138,10 @@
       "obsidian-memos:Thino": false
     }
   },
-  "active": "58392aaeeda87af9",
+  "active": "731e73f76ad345ed",
   "lastOpenFiles": [
     "DBA_SILVER試験勉強/2_SQL/11章　データの検索.md",
+    "download.svg",
     "KANBAN.md",
     "IMG_0070 1.jpg.md",
     "README.md",
@@ -161,7 +170,6 @@
     "DBA_SILVER試験勉強/images/Pasted image 20250601190329.png",
     "DBA_SILVER試験勉強/1_Oracleデータベース知識/01_アーキテクチャ/01-1　アーキテクチャ.md",
     "DBA_SILVER試験勉強/1_Oracleデータベース知識/07_セグメント、データブロック管理/07-2　セグメントの管理(拡張、縮小).md",
-    "DBA_SILVER試験勉強/1_Oracleデータベース知識/06_表領域の管理/06-1　表領域.md",
     "DBA_SILVER試験勉強/3_模試",
     "DBA_SILVER試験勉強/images/Pasted image 20250601135654.png",
     "DBA_SILVER試験勉強/images/Pasted image 20250601135603.png",
@@ -177,7 +185,6 @@
     "DBA_SILVER試験勉強/images/IMG_0070.jpg",
     "DBA_SILVER試験勉強/images/Pasted image 20250531141650.png",
     "DBA_SILVER試験勉強/images/Pasted image 20250531140717.png",
-    "DBA_SILVER試験勉強/images/Pasted image 20250527221634.png",
     "無題のファイル.canvas",
     "Untitled.canvas",
     "Untitled 1.canvas"
