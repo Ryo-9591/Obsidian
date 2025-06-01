@@ -17,6 +17,9 @@
                 "kanbanViewState": {
                   "kanban-plugin": "board",
                   "list-collapse": [
+                    false,
+                    false,
+                    false,
                     false
                   ]
                 }
@@ -83,7 +86,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 215.5124969482422
+    "width": 269.50499725341797
   },
   "right": {
     "id": "f533a687fa0a0077",
@@ -141,7 +144,7 @@
       "obsidian-kanban:カンバンボードを新規作成": false
     }
   },
-  "active": "58392aaeeda87af9",
+  "active": "4157194f5197d31a",
   "lastOpenFiles": [
     "DBA_SILVER試験勉強/3_模試/模試　2025-06-01.md",
     "KANBAN.md",

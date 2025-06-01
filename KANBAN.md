@@ -10,10 +10,22 @@ kanban-plugin: board
 - [ ] sa
 
 
+## 
+
+
+
+## 
+
+
+
+## 
+
+
+
 
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false]}
+{"kanban-plugin":"board","list-collapse":[false,false,false,false]}
 ```
 %%
