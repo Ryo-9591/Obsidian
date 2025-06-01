@@ -6,7 +6,7 @@
       {
         "id": "070f1ca1a10953b2",
         "type": "tabs",
-        "dimension": 14.399999999999999,
+        "dimension": 16.553846153846155,
         "children": [
           {
             "id": "4157194f5197d31a",
@@ -28,7 +28,7 @@
       {
         "id": "e7dfcbdeb6ede963",
         "type": "tabs",
-        "dimension": 85.6,
+        "dimension": 83.44615384615385,
         "children": [
           {
             "id": "d6eeead5f31bcd87",
@@ -36,13 +36,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DBA_SILVER試験勉強/2_SQL/20_索引、シーケンス、シノニム/20-0　シーケンス、シノニム、索引.md",
+                "file": "DBA_SILVER試験勉強/2_SQL/10_データの扱い/10-1　DUAL表.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "20-0　シーケンス、シノニム、索引"
+              "title": "10-1　DUAL表"
             }
           }
         ]
@@ -120,13 +120,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DBA_SILVER試験勉強/2_SQL/20_索引、シーケンス、シノニム/20-0　シーケンス、シノニム、索引.md",
+                "file": "DBA_SILVER試験勉強/2_SQL/10_データの扱い/10-1　DUAL表.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "20-0　シーケンス、シノニム、索引のアウトライン"
+              "title": "10-1　DUAL表のアウトライン"
             }
           }
         ]
@@ -162,12 +162,13 @@
   },
   "active": "d6eeead5f31bcd87",
   "lastOpenFiles": [
+    "DBA_SILVER試験勉強/2_SQL/10_データの扱い/10-0　データの扱い.md",
     "DBA_SILVER試験勉強/2_SQL/20_索引、シーケンス、シノニム/20-1　索引.md",
+    "DBA_SILVER試験勉強/2_SQL/20_索引、シーケンス、シノニム/20-0　シーケンス、シノニム、索引.md",
     "DBA_SILVER試験勉強/2_SQL/20_索引、シーケンス、シノニム/20-2　シーケンス.md",
     "DBA_SILVER試験勉強/2_SQL/20_索引、シーケンス、シノニム/20-3　シノニム.md",
     "DBA_SILVER試験勉強/2_SQL/11章　データの検索.md",
     "DBA_SILVER試験勉強/2_SQL/12_単一行ファンクション/12-1　文字ファンクション.md",
-    "DBA_SILVER試験勉強/2_SQL/20_索引、シーケンス、シノニム/20-0　シーケンス、シノニム、索引.md",
     "DBA_SILVER試験勉強/2_SQL/12_単一行ファンクション/12-2　数値ファンクション.md",
     "DBA_SILVER試験勉強/2_SQL/12_単一行ファンクション/12-0　ファンクション.md",
     "DBA_SILVER試験勉強/2_SQL/20_索引、シーケンス、シノニム",
@@ -176,7 +177,6 @@
     "DBA_SILVER試験勉強/2_SQL/14章　集計ファンクション.md",
     "DBA_SILVER試験勉強/2_SQL/13章　変換ファンクション.md",
     "DBA_SILVER試験勉強/2_SQL/10_データの扱い/10-1　DUAL表.md",
-    "DBA_SILVER試験勉強/2_SQL/10_データの扱い/10-0　データの扱い.md",
     "DBA_SILVER試験勉強/2_SQL/10_データの扱い",
     "DBA_SILVER試験勉強/1_Oracleデータベース知識/03_インスタンス関連/03-2　データディクショナリビューと動的パフォーマンス.md",
     "DBA_SILVER試験勉強/1_Oracleデータベース知識/02_ツール/02-4　EM Express.md",
