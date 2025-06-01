@@ -24,24 +24,24 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
-      "filepath": "DBA_SILVER試験勉強/2_SQL/20_索引、シーケンス、シノニム/20-2　シーケンス.md",
-      "timestamp": 1748777538040
+      "filepath": "DBA_SILVER試験勉強/2_SQL/20_索引、シーケンス、シノニム/20-0　シーケンス、シノニム、索引.md",
+      "timestamp": 1748777572694
     },
     {
       "filepath": "DBA_SILVER試験勉強/2_SQL/20_索引、シーケンス、シノニム/20-1　索引.md",
-      "timestamp": 1748777527830
+      "timestamp": 1748777571882
+    },
+    {
+      "filepath": "DBA_SILVER試験勉強/2_SQL/20_索引、シーケンス、シノニム/20-2　シーケンス.md",
+      "timestamp": 1748777571447
     },
     {
       "filepath": "DBA_SILVER試験勉強/2_SQL/20_索引、シーケンス、シノニム/20-3　シノニム.md",
-      "timestamp": 1748777515613
+      "timestamp": 1748777554705
     },
     {
       "filepath": "DBA_SILVER試験勉強/2_SQL/11章　データの検索.md",
       "timestamp": 1748777502216
-    },
-    {
-      "filepath": "DBA_SILVER試験勉強/2_SQL/12_単一行ファンクション/12-1　文字ファンクション.md",
-      "timestamp": 1748777495805
     }
   ],
   "bookmarkedFileStore": [],
