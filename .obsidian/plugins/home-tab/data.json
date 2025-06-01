@@ -25,11 +25,15 @@
   "recentFilesStore": [
     {
       "filepath": "DBA_SILVER試験勉強/2_SQL/12_単一行ファンクション/12-0　ファンクション 1.md",
-      "timestamp": 1748773529777
+      "timestamp": 1748773817772
     },
     {
       "filepath": "DBA_SILVER試験勉強/2_SQL/12_単一行ファンクション/12-0　ファンクション.md",
-      "timestamp": 1748773474290
+      "timestamp": 1748773816396
+    },
+    {
+      "filepath": "DBA_SILVER試験勉強/2_SQL/12_単一行ファンクション/12-2　数値ファンクション.md",
+      "timestamp": 1748773529777
     },
     {
       "filepath": "DBA_SILVER試験勉強/2_SQL/14章　集計ファンクション.md",
@@ -38,10 +42,6 @@
     {
       "filepath": "DBA_SILVER試験勉強/2_SQL/13章　変換ファンクション.md",
       "timestamp": 1748773472852
-    },
-    {
-      "filepath": "DBA_SILVER試験勉強/2_SQL/10_データの扱い/10-1　DUAL表.md",
-      "timestamp": 1748773393371
     }
   ],
   "bookmarkedFileStore": [],
