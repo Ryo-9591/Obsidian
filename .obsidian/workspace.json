@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DBA_SILVER試験勉強/1_Oracleデータベース知識/08_UNDOの管理/08-2　一時UNDO機能.md",
+                "file": "DBA_SILVER試験勉強/1_Oracleデータベース知識/09_データの移動/09-1　データの移動 1.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "08-2　一時UNDO機能"
+              "title": "09-1　データの移動 1"
             }
           }
         ]
@@ -97,13 +97,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DBA_SILVER試験勉強/1_Oracleデータベース知識/08_UNDOの管理/08-2　一時UNDO機能.md",
+                "file": "DBA_SILVER試験勉強/1_Oracleデータベース知識/09_データの移動/09-1　データの移動 1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "08-2　一時UNDO機能のアウトライン"
+              "title": "09-1　データの移動 1のアウトライン"
             }
           }
         ]
@@ -139,9 +139,11 @@
   },
   "active": "25d53d02687978a5",
   "lastOpenFiles": [
-    "DBA_SILVER試験勉強/1_Oracleデータベース知識/08_UNDOの管理/08-1　UNDO表領域.md",
+    "DBA_SILVER試験勉強/1_Oracleデータベース知識/09_データの移動/09-1　データの移動.md",
+    "DBA_SILVER試験勉強/1_Oracleデータベース知識/09_データの移動/09-1　データの移動 1.md",
     "DBA_SILVER試験勉強/1_Oracleデータベース知識/08_UNDOの管理/08-2　一時UNDO機能.md",
-    "DBA_SILVER試験勉強/1_Oracleデータベース知識/9章　データの移動.md",
+    "DBA_SILVER試験勉強/1_Oracleデータベース知識/09_データの移動",
+    "DBA_SILVER試験勉強/1_Oracleデータベース知識/08_UNDOの管理/08-1　UNDO表領域.md",
     "DBA_SILVER試験勉強/1_Oracleデータベース知識/07_セグメント、データブロック管理/07-1　データブロック.md",
     "DBA_SILVER試験勉強/1_Oracleデータベース知識/08_UNDOの管理",
     "DBA_SILVER試験勉強/1_Oracleデータベース知識/07_セグメント、データブロック管理/07-3　領域の節約(表圧縮、索引使用不可).md",
@@ -174,8 +176,6 @@
     "DBA_SILVER試験勉強/1_Oracleデータベース知識/02_ツール/02-1　DBCA(Database Configuration Assistant).md",
     "DBA_SILVER試験勉強/1_Oracleデータベース知識/03_インスタンス関連",
     "DBA_SILVER試験勉強/1_Oracleデータベース知識/02_ツール",
-    "DBA_SILVER試験勉強/1_Oracleデータベース知識/01_アーキテクチャ",
-    "無題のファイル.md",
     "DBA_SILVER試験勉強/images/Pasted image 20250531154320.png",
     "IMG_0070 1.jpg",
     "DBA_SILVER試験勉強/images/IMG_0070.jpg",

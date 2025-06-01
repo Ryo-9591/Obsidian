@@ -24,6 +24,14 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "DBA_SILVER試験勉強/1_Oracleデータベース知識/09_データの移動/09-1　データの移動 1.md",
+      "timestamp": 1748745335763
+    },
+    {
+      "filepath": "DBA_SILVER試験勉強/1_Oracleデータベース知識/09_データの移動/09-1　データの移動.md",
+      "timestamp": 1748745318999
+    },
+    {
       "filepath": "DBA_SILVER試験勉強/1_Oracleデータベース知識/08_UNDOの管理/08-2　一時UNDO機能.md",
       "timestamp": 1748744886205
     },
@@ -32,16 +40,8 @@
       "timestamp": 1748744133280
     },
     {
-      "filepath": "DBA_SILVER試験勉強/1_Oracleデータベース知識/9章　データの移動.md",
-      "timestamp": 1748743568822
-    },
-    {
       "filepath": "DBA_SILVER試験勉強/1_Oracleデータベース知識/07_セグメント、データブロック管理/07-1　データブロック.md",
       "timestamp": 1748742876779
-    },
-    {
-      "filepath": "DBA_SILVER試験勉強/1_Oracleデータベース知識/07_セグメント、データブロック管理/07-3　領域の節約(表圧縮、索引使用不可).md",
-      "timestamp": 1748742801717
     }
   ],
   "bookmarkedFileStore": [],
