@@ -5,9 +5,18 @@ OSファイルシステム上のデータをOracleデータベースの表にロ
 
 ①ロード先の表明やデータファイルの形式を制御ファイルに記載
 
-制御ファイルのきｊｙ
+制御ファイルの記述例：
+`LOAD DATA`
+`INFILE 'data.csv'`
+`INFO TABLE tbl01`
+`APPEND　追加ロード`
+`FIELDS TERMINATED BY ' , '`
+`(no , name)`　
 
 ②「sqlldr」コマンドで制御ファイルをもとにOracleデータベースにロード
+
+sqlldr user1/pass1 control
+
 ③ロード処理が終わるとログファイル、廃棄ファイル、不良ファイルが出力
 
 | 対象      | 説明                    |
@@ -21,12 +30,7 @@ OSファイルシステム上のデータをOracleデータベースの表にロ
 ---
 # 制御ファイルの記述例
 
-LOAD DATA
-INFILE 'data.csv'　　データファイル
-INFO TABLE tbl01　ロード先
-APPEND　追加ロード
-FIELDS TERMINATED BY ' , '　カンマ区切りでフィールドを分割
-(no , name)　フィールドのデータをno列,name列にロード
+
 
 ---
 # SQL* Loaderによるcsvファイルのロード
