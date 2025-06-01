@@ -24,6 +24,10 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "無題のカンバン.md",
+      "timestamp": 1748779012336
+    },
+    {
       "filepath": "DBA_SILVER試験勉強/2_SQL/22章　制約と一時表.md",
       "timestamp": 1748778848152
     },
@@ -38,10 +42,6 @@
     {
       "filepath": "DBA_SILVER試験勉強/2_SQL/20_索引、シーケンス、シノニム/20-1　索引.md",
       "timestamp": 1748777944422
-    },
-    {
-      "filepath": "DBA_SILVER試験勉強/2_SQL/20_索引、シーケンス、シノニム/20-0　シーケンス、シノニム、索引.md",
-      "timestamp": 1748777572694
     }
   ],
   "bookmarkedFileStore": [],
