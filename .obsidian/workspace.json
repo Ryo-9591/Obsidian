@@ -21,23 +21,8 @@
               "icon": "lucide-file",
               "title": "11章　データの検索"
             }
-          },
-          {
-            "id": "731e73f76ad345ed",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "surfing-view",
-              "state": {
-                "url": "https://chatgpt.com/"
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "ChatGPT"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -49,6 +34,7 @@
       {
         "id": "5f4d272b2ea836e3",
         "type": "tabs",
+        "dimension": 73.49498327759197,
         "children": [
           {
             "id": "9ac9ed207c82c160",
@@ -65,6 +51,18 @@
               },
               "icon": "lucide-search",
               "title": "検索"
+            }
+          },
+          {
+            "id": "731e73f76ad345ed",
+            "type": "leaf",
+            "state": {
+              "type": "surfing-view",
+              "state": {
+                "url": "https://chatgpt.com/"
+              },
+              "icon": "lucide-file",
+              "title": "ChatGPT"
             }
           },
           {
@@ -91,52 +89,12 @@
             }
           }
         ],
-        "currentTab": 2
-      }
-    ],
-    "direction": "horizontal",
-    "width": 311.5124969482422
-  },
-  "right": {
-    "id": "f533a687fa0a0077",
-    "type": "split",
-    "children": [
-      {
-        "id": "44a3782912f16ed6",
-        "type": "tabs",
-        "dimension": 72.07425343018564,
-        "children": [
-          {
-            "id": "56ca91a5e36007ae",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "アウトライン"
-            }
-          },
-          {
-            "id": "53ef66066666a53f",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
-          }
-        ],
-        "currentTab": 1
+        "currentTab": 3
       },
       {
-        "id": "98987d0d1df65784",
+        "id": "199a16cf7c4e5e91",
         "type": "tabs",
-        "dimension": 27.925746569814365,
+        "dimension": 26.505016722408026,
         "children": [
           {
             "id": "f013d527e4f4af81",
@@ -152,7 +110,15 @@
       }
     ],
     "direction": "horizontal",
-    "width": 255.5
+    "width": 327.5124969482422
+  },
+  "right": {
+    "id": "f533a687fa0a0077",
+    "type": "split",
+    "children": [],
+    "direction": "horizontal",
+    "width": 222.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -164,7 +130,7 @@
       "obsidian-memos:Thino": false
     }
   },
-  "active": "731e73f76ad345ed",
+  "active": "58392aaeeda87af9",
   "lastOpenFiles": [
     "DBA_SILVER試験勉強/2_SQL/11章　データの検索.md",
     "KANBAN.md",
