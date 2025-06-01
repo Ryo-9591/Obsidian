@@ -24,24 +24,24 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "DBA_SILVER試験勉強/2_SQL/10章　データの扱い.md",
+      "timestamp": 1748759584107
+    },
+    {
+      "filepath": "DBA_SILVER試験勉強/1_Oracleデータベース知識/01_アーキテクチャ/01-4　バックグラウンドプロセス.md",
+      "timestamp": 1748759580669
+    },
+    {
+      "filepath": "DBA_SILVER試験勉強/1_Oracleデータベース知識/01_アーキテクチャ/01-3　SGA.md",
+      "timestamp": 1748759579977
+    },
+    {
       "filepath": "DBA_SILVER試験勉強/1_Oracleデータベース知識/01_アーキテクチャ/01-2　サーバプロセス.md",
       "timestamp": 1748754756184
     },
     {
-      "filepath": "DBA_SILVER試験勉強/1_Oracleデータベース知識/01_アーキテクチャ/01-3　SGA.md",
-      "timestamp": 1748754755801
-    },
-    {
-      "filepath": "DBA_SILVER試験勉強/1_Oracleデータベース知識/01_アーキテクチャ/01-4　バックグラウンドプロセス.md",
-      "timestamp": 1748754749932
-    },
-    {
       "filepath": "DBA_SILVER試験勉強/1_Oracleデータベース知識/01_アーキテクチャ/01-1　アーキテクチャ.md",
       "timestamp": 1748754727958
-    },
-    {
-      "filepath": "DBA_SILVER試験勉強/1_Oracleデータベース知識/09_データの移動/09-3　外部表.md",
-      "timestamp": 1748753470259
     }
   ],
   "bookmarkedFileStore": [],
