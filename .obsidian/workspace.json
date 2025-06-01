@@ -4,17 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "c5eee2a40845bf30",
+        "id": "29c161c8cc92bbb5",
         "type": "tabs",
         "children": [
           {
-            "id": "a51e884de34076e1",
+            "id": "4d37bb0f02ecf840",
             "type": "leaf",
             "state": {
-              "type": "thino_view",
-              "state": {},
-              "icon": "Memos",
-              "title": "Thino"
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
             }
           }
         ]
@@ -92,12 +97,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "アウトライン"
+              "title": "READMEのアウトライン"
             }
           }
         ]
@@ -133,16 +139,16 @@
       "obsidian-memos:Thino": false
     }
   },
-  "active": "58392aaeeda87af9",
+  "active": "4d37bb0f02ecf840",
   "lastOpenFiles": [
-    "無題のカンバン.md",
     "KANBAN.md",
-    "無題のファイル.md",
+    "README.md",
     "2025-06-01.md",
+    "無題のカンバン.md",
+    "無題のファイル.md",
     "DBA_SILVER試験勉強/2_SQL/13章　変換ファンクション.md",
     "DBA_SILVER試験勉強/2_SQL/11章　データの検索.md",
     "DBA_SILVER試験勉強/3_模試/模試　2025-06-01.md",
-    "README.md",
     "DBA_SILVER試験勉強/2_SQL/22章　制約と一時表.md",
     "DBA_SILVER試験勉強/2_SQL/10_データの扱い/10-1　DUAL表.md",
     "DBA_SILVER試験勉強/2_SQL/10_データの扱い/10-0　データの扱い.md",
