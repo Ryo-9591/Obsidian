@@ -25,7 +25,11 @@
   "recentFilesStore": [
     {
       "filepath": "無題のカンバン.md",
-      "timestamp": 1748779012336
+      "timestamp": 1748779132750
+    },
+    {
+      "filepath": "DBA_SILVER試験勉強/3_模試/模試　2025-06-01.md",
+      "timestamp": 1748779107956
     },
     {
       "filepath": "DBA_SILVER試験勉強/2_SQL/22章　制約と一時表.md",
@@ -38,10 +42,6 @@
     {
       "filepath": "DBA_SILVER試験勉強/2_SQL/10_データの扱い/10-0　データの扱い.md",
       "timestamp": 1748777946077
-    },
-    {
-      "filepath": "DBA_SILVER試験勉強/2_SQL/20_索引、シーケンス、シノニム/20-1　索引.md",
-      "timestamp": 1748777944422
     }
   ],
   "bookmarkedFileStore": [],
