@@ -25,11 +25,15 @@
   "recentFilesStore": [
     {
       "filepath": "DBA_SILVER試験勉強/1_Oracleデータベース知識/07_セグメント、データブロック管理/07-1　データブロック.md",
-      "timestamp": 1748738672235
+      "timestamp": 1748738675219
+    },
+    {
+      "filepath": "DBA_SILVER試験勉強/1_Oracleデータベース知識/07_セグメント、データブロック管理/07-2　セグメント.md",
+      "timestamp": 1748738674126
     },
     {
       "filepath": "DBA_SILVER試験勉強/1_Oracleデータベース知識/07_セグメント、データブロック管理/07-1　データ格納のための記憶域の利用.md",
-      "timestamp": 1748738670649
+      "timestamp": 1748738673160
     },
     {
       "filepath": "DBA_SILVER試験勉強/1_Oracleデータベース知識/01_アーキテクチャ/01-1　アーキテクチャ.md",
@@ -38,10 +42,6 @@
     {
       "filepath": "DBA_SILVER試験勉強/1_Oracleデータベース知識/06_表領域の管理/06-3　データファイル移動.md",
       "timestamp": 1748734638125
-    },
-    {
-      "filepath": "DBA_SILVER試験勉強/1_Oracleデータベース知識/06_表領域の管理/06-1　表領域.md",
-      "timestamp": 1748734637722
     }
   ],
   "bookmarkedFileStore": [],
