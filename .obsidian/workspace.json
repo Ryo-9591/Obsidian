@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "6f3d21938f1bcf01",
+        "id": "c5eee2a40845bf30",
         "type": "tabs",
         "children": [
           {
-            "id": "97134f4d41a90214",
+            "id": "a51e884de34076e1",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "thino_view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "新規タブ"
+              "icon": "Memos",
+              "title": "Thino"
             }
           }
         ]
@@ -92,13 +92,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "無題のファイル.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "無題のファイルのアウトライン"
+              "title": "アウトライン"
             }
           }
         ]
@@ -136,12 +135,13 @@
   },
   "active": "58392aaeeda87af9",
   "lastOpenFiles": [
+    "無題のカンバン.md",
+    "KANBAN.md",
     "無題のファイル.md",
     "2025-06-01.md",
     "DBA_SILVER試験勉強/2_SQL/13章　変換ファンクション.md",
     "DBA_SILVER試験勉強/2_SQL/11章　データの検索.md",
     "DBA_SILVER試験勉強/3_模試/模試　2025-06-01.md",
-    "KANBAN.md",
     "README.md",
     "DBA_SILVER試験勉強/2_SQL/22章　制約と一時表.md",
     "DBA_SILVER試験勉強/2_SQL/10_データの扱い/10-1　DUAL表.md",
@@ -166,7 +166,6 @@
     "DBA_SILVER試験勉強/1_Oracleデータベース知識/06_表領域の管理/06-1　表領域.md",
     "DBA_SILVER試験勉強/3_模試",
     "DBA_SILVER試験勉強/1_Oracleデータベース知識/01_アーキテクチャ/01-4　バックグラウンドプロセス.md",
-    "DBA_SILVER試験勉強/1_Oracleデータベース知識/01_アーキテクチャ/01-3　SGA.md",
     "DBA_SILVER試験勉強/images/Pasted image 20250601135654.png",
     "DBA_SILVER試験勉強/images/Pasted image 20250601135603.png",
     "DBA_SILVER試験勉強/1_Oracleデータベース知識/09_データの移動",
