@@ -9,9 +9,9 @@ OSファイルシステム上のデータをOracleデータベースの表にロ
 `LOAD DATA`
 `INFILE 'data.csv'`　--データファイルはdata.csv
 `INFO TABLE tbl01`　--ロード先の表
-`APPEND`　--
-`FIELDS TERMINATED BY ' , '`
-`(no , name)`　
+`APPEND`　--ロード方法(追加ロード)
+`FIELDS TERMINATED BY ' , '`　--カンマ区切りでフィールドに分割
+`(no , name)`　--フィールドデータをno列、name列に
 
 ②「sqlldr」コマンドで制御ファイルをもとにOracleデータベースにロード
 
