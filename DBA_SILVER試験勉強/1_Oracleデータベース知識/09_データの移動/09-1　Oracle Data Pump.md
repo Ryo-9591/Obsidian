@@ -8,9 +8,6 @@
 
 `exit`　--対話型インターフェース終了
 
-## アタッチしたジョブを制御できる
-[開始]
-
 Export > expdp system/Password123 attach=SYS_EXPORT_FULL_01　→アタッチして対話型インターフェースへ
 
 Export > STOP_JOB=IMMEDIATE　→アタッチしたジョブを即時停止
