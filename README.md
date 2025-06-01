@@ -2,13 +2,6 @@
 
 このリポジトリは、Obsidianを使用した個人的なノート管理システムです。
 
-## プロジェクト構成
-
-- `DBA_SILVER試験勉強/` - DBA SILVER試験の学習ノート
-- `Qiita記事/` - Qiitaに投稿する記事の下書きやメモ
-- `.obsidian/` - Obsidianの設定ファイル
-- `KANBAN.md` - タスク管理用のカンバンボード
-
 ## 使用方法
 
 1. [Obsidian](https://obsidian.md/)をインストール

@@ -4,22 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "29c161c8cc92bbb5",
+        "id": "4fee01f9daff8d86",
         "type": "tabs",
         "children": [
           {
-            "id": "4d37bb0f02ecf840",
+            "id": "f5e75d72da7fe3b5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "README"
+              "title": "新規タブ"
             }
           }
         ]
@@ -97,13 +92,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "READMEのアウトライン"
+              "title": "アウトライン"
             }
           }
         ]
@@ -139,10 +133,10 @@
       "obsidian-memos:Thino": false
     }
   },
-  "active": "4d37bb0f02ecf840",
+  "active": "f5e75d72da7fe3b5",
   "lastOpenFiles": [
-    "KANBAN.md",
     "README.md",
+    "KANBAN.md",
     "2025-06-01.md",
     "無題のカンバン.md",
     "無題のファイル.md",
