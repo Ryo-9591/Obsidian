@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4fee01f9daff8d86",
+        "id": "6cdacf6b7fe5c4f2",
         "type": "tabs",
         "children": [
           {
-            "id": "f5e75d72da7fe3b5",
+            "id": "434af884051741b5",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -75,7 +75,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 338.5124969482422
+    "width": 405.5124969482422
   },
   "right": {
     "id": "f533a687fa0a0077",
@@ -99,8 +99,19 @@
               "icon": "lucide-list",
               "title": "アウトライン"
             }
+          },
+          {
+            "id": "53ef66066666a53f",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "98987d0d1df65784",
@@ -121,7 +132,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 255.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -133,8 +144,9 @@
       "obsidian-memos:Thino": false
     }
   },
-  "active": "f5e75d72da7fe3b5",
+  "active": "58392aaeeda87af9",
   "lastOpenFiles": [
+    "IMG_0070 1.jpg.md",
     "README.md",
     "KANBAN.md",
     "2025-06-01.md",
@@ -165,7 +177,6 @@
     "DBA_SILVER試験勉強/1_Oracleデータベース知識/07_セグメント、データブロック管理/07-2　セグメントの管理(拡張、縮小).md",
     "DBA_SILVER試験勉強/1_Oracleデータベース知識/06_表領域の管理/06-1　表領域.md",
     "DBA_SILVER試験勉強/3_模試",
-    "DBA_SILVER試験勉強/1_Oracleデータベース知識/01_アーキテクチャ/01-4　バックグラウンドプロセス.md",
     "DBA_SILVER試験勉強/images/Pasted image 20250601135654.png",
     "DBA_SILVER試験勉強/images/Pasted image 20250601135603.png",
     "DBA_SILVER試験勉強/1_Oracleデータベース知識/09_データの移動",
