@@ -12,16 +12,24 @@
 ※最後のエクステントがトランザクションで埋まったら、追加でエクステントが割り当てられるか、最初のエクステントに上書きされる
 # UNDO表領域の作成
 ## ①「UNDO_MANAGEMET初期化パラメータ」をAUTOに設定
-②CREATE UNDO TABLESPACE文を実行してUNDO表領域を作成
-③UNDO_TABLESPACE初期化パラメータ=UNDO表領域の名前に設定
+## ②CREATE UNDO TABLESPACE文を実行してUNDO表領域を作成
+
+UNDO表領域作成例：
+
+`CREATE UNDO TABLESPACE undotbs03`
+`DATAFILE 'ファイルパス' ''
+SIZE 100M`
+`AUTOEXTEND OFF`
+`RETENTION GUARANTEE ;`
+
+
+
+## ③「UNDO_TABLESPACE初期化パラメータ」をUNDO表領域の名前に設定
 
 ※有効化できるUNDO表領域は1つ
 # UNDO管理問題
 
-CREATE UNDO TABLESPACE undotbs03
-DATAFILE 'ファイルパス' SIZE 100M
-AUTOEXTEND OFF
-RETENTION GUARANTEE ;
+
 
 ALTER SYSTEM SET UNDO_TABLESPACE=undotbs03 ;
 ALTER SYSTEM SET UNDO_RETENTION=900 ;
