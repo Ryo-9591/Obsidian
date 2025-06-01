@@ -1,36 +1,10 @@
-# Data Pumpの操作インターフェース
-
-## Ctrl+cで対話型インターフェースへ遷移できる(処理はバックグラウンドで実行される)
-[開始]
-
-Export > expdp system/Password123 FULL=y DUMPFILE=DATA_PUMP_DIR:full.dmp　→ジョブ起動
-Export > [Ctrl + c]　→対話型インターフェースに遷移
-
-実行中の処理は止まらない・・・
-
-Export > exit　→対話型インターフェース終了
-
-[終了]
-## アタッチしたジョブを制御できる
-[開始]
-
-Export > expdp system/Password123 attach=SYS_EXPORT_FULL_01　→アタッチして対話型インターフェースへ
-
-Export > STOP_JOB=IMMEDIATE　→アタッチしたジョブを即時停止
-Export > START_JOB　→ジョブを再開
-Export > STATUS
-Export > EXECUTING　→実行中
-
-[終了]
-
----
-# SQL* Loaderとは
-
+# SQL* Loader
 OSファイルシステム上のデータをOracleデータベースの表にロードするツール
-
-概念図：
 ![[Pasted image 20250517084154.png]]
-　　
+SQL 
+
+
+
 | 対象      | 説明                    |
 | ------- | --------------------- |
 | データファイル | ロード対象のデータを含むファイル      |

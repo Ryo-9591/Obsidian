@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DBA_SILVER試験勉強/1_Oracleデータベース知識/09_データの移動/09-1　Oracle Data Pump.md",
+                "file": "DBA_SILVER試験勉強/1_Oracleデータベース知識/09_データの移動/09-2　SQL Loader.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "09-1　Oracle Data Pump"
+              "title": "09-2　SQL Loader"
             }
           }
         ]
@@ -97,13 +97,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DBA_SILVER試験勉強/1_Oracleデータベース知識/09_データの移動/09-1　Oracle Data Pump.md",
+                "file": "DBA_SILVER試験勉強/1_Oracleデータベース知識/09_データの移動/09-2　SQL Loader.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "09-1　Oracle Data Pumpのアウトライン"
+              "title": "09-2　SQL Loaderのアウトライン"
             }
           }
         ]
@@ -139,8 +139,8 @@
   },
   "active": "25d53d02687978a5",
   "lastOpenFiles": [
-    "DBA_SILVER試験勉強/1_Oracleデータベース知識/09_データの移動/09-1　データの移動.md",
     "DBA_SILVER試験勉強/1_Oracleデータベース知識/09_データの移動/09-1　Oracle Data Pump.md",
+    "DBA_SILVER試験勉強/1_Oracleデータベース知識/09_データの移動/09-1　データの移動.md",
     "DBA_SILVER試験勉強/1_Oracleデータベース知識/09_データの移動/09-2　SQL Loader.md",
     "DBA_SILVER試験勉強/1_Oracleデータベース知識/08_UNDOの管理/08-2　一時UNDO機能.md",
     "DBA_SILVER試験勉強/1_Oracleデータベース知識/09_データの移動",
