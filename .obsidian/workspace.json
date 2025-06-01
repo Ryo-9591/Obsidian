@@ -6,7 +6,7 @@
       {
         "id": "322ae41373b0ecbb",
         "type": "tabs",
-        "dimension": 66.33771929824562,
+        "dimension": 58.69781312127237,
         "children": [
           {
             "id": "0df9d32d1b8c52f6",
@@ -28,7 +28,7 @@
       {
         "id": "b22e910acb16dbd4",
         "type": "tabs",
-        "dimension": 33.66228070175439,
+        "dimension": 41.30218687872764,
         "children": [
           {
             "id": "731e73f76ad345ed",
@@ -36,10 +36,10 @@
             "state": {
               "type": "surfing-view",
               "state": {
-                "url": "https://chatgpt.com/"
+                "url": "https://www.google.com/"
               },
               "icon": "lucide-file",
-              "title": "ChatGPT"
+              "title": "Google"
             }
           }
         ]
