@@ -6,7 +6,7 @@
       {
         "id": "322ae41373b0ecbb",
         "type": "tabs",
-        "dimension": 58.69781312127237,
+        "dimension": 59.194831013916506,
         "children": [
           {
             "id": "0df9d32d1b8c52f6",
@@ -28,7 +28,7 @@
       {
         "id": "b22e910acb16dbd4",
         "type": "tabs",
-        "dimension": 41.30218687872764,
+        "dimension": 40.8051689860835,
         "children": [
           {
             "id": "731e73f76ad345ed",
@@ -118,7 +118,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 247.5124969482422
+    "width": 247.5124969482422,
+    "collapsed": true
   },
   "right": {
     "id": "f533a687fa0a0077",
@@ -138,7 +139,7 @@
       "obsidian-memos:Thino": false
     }
   },
-  "active": "731e73f76ad345ed",
+  "active": "0df9d32d1b8c52f6",
   "lastOpenFiles": [
     "DBA_SILVER試験勉強/2_SQL/11章　データの検索.md",
     "download.svg",
