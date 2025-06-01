@@ -23,13 +23,15 @@
             }
           },
           {
-            "id": "28c9cfa88c113ec9",
+            "id": "731e73f76ad345ed",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "surfing-view",
               "state": {
                 "url": "https://chatgpt.com/"
               },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "ChatGPT"
             }
@@ -162,7 +164,7 @@
       "obsidian-memos:Thino": false
     }
   },
-  "active": "28c9cfa88c113ec9",
+  "active": "731e73f76ad345ed",
   "lastOpenFiles": [
     "DBA_SILVER試験勉強/2_SQL/11章　データの検索.md",
     "KANBAN.md",
