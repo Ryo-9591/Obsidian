@@ -25,16 +25,10 @@ UNDO表領域作成例：
 ※UNDO表領域が埋まっているときに新しいトランザクションが発行されるとORA-30036エラーが出る
 →「RETENTION GUARANTEE」が設定されている
 ### UNDO保存期間の保証
-
-「UNDO_RETENTION初期化パラメータ」に設置した秒数「UNDO保存期間」の保証を
-NOGUARANTEEだと・・・
+#### RETEMTION GUARANTEE
+「UNDO_RETENTION初期化パラメータ」に設置した秒数「UNDO保存期間」の保証をする
+#### RETENTION NOGUARANTEE
 保存期間内でも古いUNDOを上書きできる
-
-2. AUTOEXTEND OFFが設定されている
-　　→UNDO表領域の自動拡張ができない
-ONだと・・・
-自動拡張になるのでエラーは起きない
-
 ## ③「UNDO_TABLESPACE初期化パラメータ」をUNDO表領域の名前に設定
 `ALTER SYSTEM SET UNDO_TABLESPACE=undotbs03 ;`
 
