@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DBA_SILVER試験勉強/3_模試/2025-06-01.md",
+                "file": "DBA_SILVER試験勉強/1_Oracleデータベース知識/02_ツール/02-4　EM Express.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2025-06-01"
+              "title": "02-4　EM Express"
             }
           }
         ]
@@ -97,13 +97,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DBA_SILVER試験勉強/3_模試/2025-06-01.md",
+                "file": "DBA_SILVER試験勉強/1_Oracleデータベース知識/02_ツール/02-4　EM Express.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2025-06-01のアウトライン"
+              "title": "02-4　EM Expressのアウトライン"
             }
           }
         ]
@@ -137,11 +137,13 @@
       "graph:グラフビューを開く": false
     }
   },
-  "active": "58392aaeeda87af9",
+  "active": "25d53d02687978a5",
   "lastOpenFiles": [
+    "DBA_SILVER試験勉強/1_Oracleデータベース知識/02_ツール/02-5　Oracle Enterprise Manager Cloud Control.md",
+    "DBA_SILVER試験勉強/1_Oracleデータベース知識/02_ツール/02-4　EM Express.md",
+    "DBA_SILVER試験勉強/3_模試/2025-06-01.md",
     "DBA_SILVER試験勉強/1_Oracleデータベース知識/01_アーキテクチャ/01-1　アーキテクチャ.md",
     "DBA_SILVER試験勉強/1_Oracleデータベース知識/07_セグメント、データブロック管理/07-2　セグメントの管理(拡張、縮小).md",
-    "DBA_SILVER試験勉強/3_模試/2025-06-01.md",
     "DBA_SILVER試験勉強/1_Oracleデータベース知識/06_表領域の管理/06-1　表領域.md",
     "DBA_SILVER試験勉強/3_模試",
     "DBA_SILVER試験勉強/2_SQL/10章　データの扱い.md",
@@ -170,7 +172,6 @@
     "DBA_SILVER試験勉強/1_Oracleデータベース知識/05_ユーザ、権限、ロール/05-2　権限.md",
     "DBA_SILVER試験勉強/1_Oracleデータベース知識/05_ユーザ、権限、ロール/05-3　ロール.md",
     "DBA_SILVER試験勉強/1_Oracleデータベース知識/05_ユーザ、権限、ロール/05-4　認証.md",
-    "DBA_SILVER試験勉強/1_Oracleデータベース知識/05_ユーザ、権限、ロール/05-5　クオータ.md",
     "DBA_SILVER試験勉強/2_SQL",
     "DBA_SILVER試験勉強/1_Oracleデータベース知識",
     "DBA_SILVER試験勉強/1_Oracleデータベース知識/06_表領域の管理",
