@@ -115,18 +115,18 @@
             "state": {
               "type": "surfing-view",
               "state": {
-                "url": "https://chatgpt.com/"
+                "url": "https://chatgpt.com/c/683c4a76-8048-800b-9ce6-04acbc4e6bf9"
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "ChatGPT"
+              "title": "EM Express 機能概要"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 582.5
+    "width": 757.5
   },
   "left-ribbon": {
     "hiddenItems": {
