@@ -16,8 +16,9 @@ OSファイルシステム上のデータをOracleデータベースの表にロ
 #### APPEND
 ロード先に追加する形でロード
 #### TRUNCATE
-ロード先のデータを消してから追加
-#### REPLA
+ロード先の表をTRUNCATEしてからロード
+#### REPLACE
+ロー先の表のデータをDELETEしてからロード
 ## ②「sqlldr」コマンドで制御ファイルをもとにOracleデータベースにロード
 
 `sqlldr user1/pass1 control='sample.ctl'`
