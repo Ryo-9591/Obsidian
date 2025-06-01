@@ -26,10 +26,12 @@
             "id": "6dfb405c369caf72",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "surfing-view",
+              "state": {
+                "url": "https://openai.com/ja-JP/chatgpt/overview/"
+              },
               "icon": "lucide-file",
-              "title": "新規タブ"
+              "title": "ChatGPT | OpenAI"
             }
           }
         ],
