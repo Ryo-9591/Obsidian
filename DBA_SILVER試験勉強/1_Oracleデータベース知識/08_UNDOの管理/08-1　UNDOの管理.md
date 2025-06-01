@@ -22,19 +22,6 @@ UNDO表領域作成例：
 `RETENTION GUARANTEE ;`　--UNDO保存期間の保証
 `ALTER SYSTEM SET UNDO_RETENTION=900 ;`　--UNDOの保存期間900秒
 
-
-
-## ③「UNDO_TABLESPACE初期化パラメータ」をUNDO表領域の名前に設定
-`ALTER SYSTEM SET UNDO_TABLESPACE=undotbs03 ;`
-
-※有効化できるUNDO表領域は1つ
-# UNDO管理問題
-
-
-
-
-
-
 UNDO表領域が埋まっているときに新しいトランザクションが発行されると・・・
 
 ①ORA-30036エラーが出る
@@ -51,25 +38,17 @@ NOGUARANTEEだと・・・
 ONだと・・・
 自動拡張になるのでエラーは起きない
 
+## ③「UNDO_TABLESPACE初期化パラメータ」をUNDO表領域の名前に設定
+`ALTER SYSTEM SET UNDO_TABLESPACE=undotbs03 ;`
+
+※有効化できるUNDO表領域は1つ
+# UNDO管理問題
+
+
+
+
+
+
+
+
 ---
-# 一時UNDO表領域の有効化
-
-TEMP_UNDO_ENABLED=trueに設定
-設定すると・・・
-一時表領域に格納したデータを変更した際にUNDOの出力先をUNDO表領域から一時表領域に変更できる
-→
-REDOが生成されず(そもそも一時表領域に格納されているデータ変更にはREDOが生成されない)
-UNDOのみ生成(一時表領域に)
-
----
-## UNDOセグメント
-・UNDOセグメントには１つまたは複数のトランザクションが対応する
-
-上記２つの動作をする
-
-
-上記２つが常にその表領域に格納されるわけではない・・・
-例外がある・・・
-
-・一時UNDO機能を使用したときに、UNDOセグメントが一時表領域に格納される
-・一時表領域を作成中、一時セグメントが永続表領域に作成される
