@@ -1,5 +1,5 @@
 # Oracle Data Pump
-
+データをOracleデータベース外部にエクスポート/インポートするツール
 
 
 # Oracle Data Pumpの操作インターフェース
