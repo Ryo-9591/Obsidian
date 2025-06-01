@@ -24,6 +24,10 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "DBA_SILVER試験勉強/1_Oracleデータベース知識/01_アーキテクチャ/01-1　アーキテクチャ 1.md",
+      "timestamp": 1748754229037
+    },
+    {
       "filepath": "DBA_SILVER試験勉強/1_Oracleデータベース知識/01_アーキテクチャ/01-1　アーキテクチャ.md",
       "timestamp": 1748753479476
     },
@@ -38,10 +42,6 @@
     {
       "filepath": "DBA_SILVER試験勉強/1_Oracleデータベース知識/09_データの移動/09-1　Oracle Data Pump.md",
       "timestamp": 1748750805159
-    },
-    {
-      "filepath": "DBA_SILVER試験勉強/1_Oracleデータベース知識/08_UNDOの管理/08-2　一時UNDO機能.md",
-      "timestamp": 1748744886205
     }
   ],
   "bookmarkedFileStore": [],
