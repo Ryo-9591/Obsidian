@@ -1,6 +1,5 @@
 # SQL Developer
-
-外部ツール
+![[Pasted image 20250603080913.png]]
 
 ・インスタンスの起動停止
 ・初期化パラメータの設定：SPFILE、PFILEをGUIで編集
