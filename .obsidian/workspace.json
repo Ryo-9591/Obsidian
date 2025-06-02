@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_DBA_SILVER試験勉強/1_Oracleデータベース知識/02_ツール/02-2　SQL Plus.md",
+                "file": "01_DBA_SILVER試験勉強/1_Oracleデータベース知識/02_ツール/02-3　SQL Developer.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "02-2　SQL Plus"
+              "title": "02-3　SQL Developer"
             }
           }
         ]
@@ -98,7 +98,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 228.5124969482422
+    "width": 275.50499725341797
   },
   "right": {
     "id": "f533a687fa0a0077",
@@ -142,6 +142,7 @@
   },
   "active": "86d5c0d43be2c0be",
   "lastOpenFiles": [
+    "01_DBA_SILVER試験勉強/1_Oracleデータベース知識/02_ツール/02-2　SQL Plus.md",
     "01_DBA_SILVER試験勉強/1_Oracleデータベース知識/02_ツール/02-1　DBCA(Database Configuration Assistant).md",
     "01_DBA_SILVER試験勉強/1_Oracleデータベース知識/02_ツール/02-5　Oracle Enterprise Manager Cloud Control.md",
     "99_ignore項目/PKSHA面談準備.md",
@@ -149,7 +150,6 @@
     "01_DBA_SILVER試験勉強/1_Oracleデータベース知識/02_ツール/02-4　EM Express.md",
     "無題のファイル.md",
     "01_DBA_SILVER試験勉強/1_Oracleデータベース知識/02_ツール/02-3　SQL Developer.md",
-    "01_DBA_SILVER試験勉強/1_Oracleデータベース知識/02_ツール/02-2　SQL Plus.md",
     "01_DBA_SILVER試験勉強/1_Oracleデータベース知識/01_アーキテクチャ/01-3　SGA.md",
     "01_DBA_SILVER試験勉強/1_Oracleデータベース知識/01_アーキテクチャ/01-4　バックグラウンドプロセス.md",
     "01_DBA_SILVER試験勉強/1_Oracleデータベース知識/01_アーキテクチャ/01-2　サーバプロセス.md",
