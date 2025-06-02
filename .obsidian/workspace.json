@@ -115,11 +115,11 @@
             "state": {
               "type": "surfing-view",
               "state": {
-                "url": "https://chatgpt.com/c/683e1921-8844-800b-be0b-d09e956b9fd1"
+                "url": "https://chatgpt.com/c/6835ae84-40d0-800b-8235-df9feda011e9"
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "面談質問項目整理"
+              "title": "ChatGPT"
             }
           }
         ]
@@ -140,16 +140,16 @@
       "marp-slides:Show Slide Preview": false
     }
   },
-  "active": "86d5c0d43be2c0be",
+  "active": "731e73f76ad345ed",
   "lastOpenFiles": [
-    "01_DBA_SILVER試験勉強/1_Oracleデータベース知識/02_ツール/02-2　SQL Plus.md",
+    "01_DBA_SILVER試験勉強/1_Oracleデータベース知識/02_ツール/02-3　SQL Developer.md",
     "01_DBA_SILVER試験勉強/1_Oracleデータベース知識/02_ツール/02-1　DBCA(Database Configuration Assistant).md",
+    "01_DBA_SILVER試験勉強/1_Oracleデータベース知識/02_ツール/02-2　SQL Plus.md",
     "01_DBA_SILVER試験勉強/1_Oracleデータベース知識/02_ツール/02-5　Oracle Enterprise Manager Cloud Control.md",
     "99_ignore項目/PKSHA面談準備.md",
     "99_ignore項目",
     "01_DBA_SILVER試験勉強/1_Oracleデータベース知識/02_ツール/02-4　EM Express.md",
     "無題のファイル.md",
-    "01_DBA_SILVER試験勉強/1_Oracleデータベース知識/02_ツール/02-3　SQL Developer.md",
     "01_DBA_SILVER試験勉強/1_Oracleデータベース知識/01_アーキテクチャ/01-3　SGA.md",
     "01_DBA_SILVER試験勉強/1_Oracleデータベース知識/01_アーキテクチャ/01-4　バックグラウンドプロセス.md",
     "01_DBA_SILVER試験勉強/1_Oracleデータベース知識/01_アーキテクチャ/01-2　サーバプロセス.md",
