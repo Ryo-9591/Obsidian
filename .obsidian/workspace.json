@@ -98,7 +98,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 247.5124969482422
+    "width": 229.5124969482422
   },
   "right": {
     "id": "f533a687fa0a0077",
@@ -126,7 +126,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 849.5
+    "width": 963.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -140,7 +140,7 @@
       "marp-slides:Show Slide Preview": false
     }
   },
-  "active": "58392aaeeda87af9",
+  "active": "86d5c0d43be2c0be",
   "lastOpenFiles": [
     "99_ignore項目",
     "01_DBA_SILVER試験勉強/1_Oracleデータベース知識/02_ツール/02-5　Oracle Enterprise Manager Cloud Control.md",
