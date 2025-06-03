@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "79008e2ad03bbabc",
+        "id": "9629894a047d599b",
         "type": "tabs",
-        "dimension": 66.41137855579868,
+        "dimension": 69.71649484536083,
         "children": [
           {
-            "id": "8ae203f33481df1a",
+            "id": "1f6604480f1bd9d1",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -21,9 +21,9 @@
         ]
       },
       {
-        "id": "753ddca79770909c",
+        "id": "1a27933349e95a59",
         "type": "tabs",
-        "dimension": 33.58862144420131,
+        "dimension": 30.283505154639172,
         "children": [
           {
             "id": "731e73f76ad345ed",
@@ -49,33 +49,9 @@
     "type": "split",
     "children": [
       {
-        "id": "ac942e2cd16c2ac2",
-        "type": "tabs",
-        "dimension": 36.73640167364017,
-        "children": [
-          {
-            "id": "9ac9ed207c82c160",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              },
-              "icon": "lucide-search",
-              "title": "検索"
-            }
-          }
-        ]
-      },
-      {
         "id": "5f4d272b2ea836e3",
         "type": "tabs",
-        "dimension": 36.65271966527197,
+        "dimension": 74.1638795986622,
         "children": [
           {
             "id": "8f5f925db3d74ff2",
@@ -99,6 +75,23 @@
               "icon": "lucide-folder-closed",
               "title": "ファイルエクスプローラ"
             }
+          },
+          {
+            "id": "9ac9ed207c82c160",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "検索"
+            }
           }
         ],
         "currentTab": 1
@@ -106,7 +99,7 @@
       {
         "id": "199a16cf7c4e5e91",
         "type": "tabs",
-        "dimension": 26.610878661087867,
+        "dimension": 25.83612040133779,
         "children": [
           {
             "id": "f013d527e4f4af81",
@@ -122,7 +115,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 327.5124969482422
   },
   "right": {
     "id": "f533a687fa0a0077",
@@ -162,8 +155,9 @@
       "marp-slides:Show Slide Preview": false
     }
   },
-  "active": "8ae203f33481df1a",
+  "active": "58392aaeeda87af9",
   "lastOpenFiles": [
+    "2025-06-03.md",
     "99_ignore項目/PKSHA面談準備.md",
     "面談メモ.md",
     "99_ignore項目/か.md",
@@ -192,7 +186,6 @@
     "01_DBA_SILVER試験勉強/2_SQL/10_データの扱い/10-1　DUAL表.md",
     "01_DBA_SILVER試験勉強/2_SQL/10_データの扱い/10-0　データの扱い.md",
     "01_DBA_SILVER試験勉強/2_SQL/20_索引、シーケンス、シノニム/20-1　索引.md",
-    "01_DBA_SILVER試験勉強/2_SQL/20_索引、シーケンス、シノニム/20-0　シーケンス、シノニム、索引.md",
     "01_DBA_SILVER試験勉強/2_SQL/20_索引、シーケンス、シノニム",
     "01_DBA_SILVER試験勉強/2_SQL/12_単一行ファンクション",
     "01_DBA_SILVER試験勉強/2_SQL/10_データの扱い",
