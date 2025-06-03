@@ -14,13 +14,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_DBA_SILVER試験勉強/2_SQL/20_索引、シーケンス、シノニム/20-3　シノニム.md",
+                "file": "01_DBA_SILVER試験勉強/2_SQL/20_索引、シーケンス、シノニム/20-1　索引.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "20-3　シノニム"
+              "title": "20-1　索引"
             }
           }
         ]
@@ -136,13 +136,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01_DBA_SILVER試験勉強/2_SQL/20_索引、シーケンス、シノニム/20-3　シノニム.md",
+                "file": "01_DBA_SILVER試験勉強/2_SQL/20_索引、シーケンス、シノニム/20-1　索引.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "20-3　シノニムのアウトライン"
+              "title": "20-1　索引のアウトライン"
             }
           }
         ]
@@ -163,9 +163,10 @@
   },
   "active": "1f6604480f1bd9d1",
   "lastOpenFiles": [
-    "01_DBA_SILVER試験勉強/2_SQL/20_索引、シーケンス、シノニム/20-2　シーケンス.md",
-    "01_DBA_SILVER試験勉強/2_SQL/20_索引、シーケンス、シノニム/20-1　索引.md",
     "01_DBA_SILVER試験勉強/2_SQL/20_索引、シーケンス、シノニム/20-0　シーケンス、シノニム、索引.md",
+    "01_DBA_SILVER試験勉強/2_SQL/20_索引、シーケンス、シノニム/20-1　索引.md",
+    "01_DBA_SILVER試験勉強/2_SQL/20_索引、シーケンス、シノニム/20-3　シノニム.md",
+    "01_DBA_SILVER試験勉強/2_SQL/20_索引、シーケンス、シノニム/20-2　シーケンス.md",
     "01_DBA_SILVER試験勉強/1_Oracleデータベース知識/02_ツール/02-5　Oracle Enterprise Manager Cloud Control.md",
     "01_DBA_SILVER試験勉強/1_Oracleデータベース知識/02_ツール/02-4　EM Express.md",
     "01_DBA_SILVER試験勉強/1_Oracleデータベース知識/02_ツール/02-3　SQL Developer.md",
@@ -191,7 +192,6 @@
     "2025-06-01.md",
     "無題のカンバン.md",
     "01_DBA_SILVER試験勉強/2_SQL/13章　変換ファンクション.md",
-    "01_DBA_SILVER試験勉強/2_SQL/22章　制約と一時表.md",
     "01_DBA_SILVER試験勉強/2_SQL/20_索引、シーケンス、シノニム",
     "01_DBA_SILVER試験勉強/2_SQL/12_単一行ファンクション",
     "01_DBA_SILVER試験勉強/2_SQL/10_データの扱い",
