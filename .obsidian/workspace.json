@@ -4,44 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "9629894a047d599b",
+        "id": "1a27933349e95a59",
         "type": "tabs",
-        "dimension": 77.17391304347827,
         "children": [
           {
-            "id": "1f6604480f1bd9d1",
+            "id": "731e73f76ad345ed",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_DBA_SILVER試験勉強/2_SQL/13章　変換ファンクション.md",
+                "file": "01_DBA_SILVER試験勉強/2_SQL/19章　DDLの理解.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "13章　変換ファンクション"
-            }
-          }
-        ]
-      },
-      {
-        "id": "1a27933349e95a59",
-        "type": "tabs",
-        "dimension": 22.82608695652174,
-        "children": [
-          {
-            "id": "731e73f76ad345ed",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "surfing-view",
-              "state": {
-                "url": "https://chatgpt.com/c/683e1921-8844-800b-be0b-d09e956b9fd1"
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "面談質問項目整理"
+              "title": "19章　DDLの理解"
             }
           }
         ]
@@ -136,13 +114,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01_DBA_SILVER試験勉強/2_SQL/13章　変換ファンクション.md",
+                "file": "01_DBA_SILVER試験勉強/2_SQL/19章　DDLの理解.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "13章　変換ファンクションのアウトライン"
+              "title": "19章　DDLの理解のアウトライン"
             }
           }
         ]
@@ -161,8 +139,13 @@
       "marp-slides:Show Slide Preview": false
     }
   },
-  "active": "1f6604480f1bd9d1",
+  "active": "731e73f76ad345ed",
   "lastOpenFiles": [
+    "01_DBA_SILVER試験勉強/2_SQL/18章　トランザクション.md",
+    "01_DBA_SILVER試験勉強/2_SQL/17章　集合演算.md",
+    "01_DBA_SILVER試験勉強/2_SQL/16章　副問合せ.md",
+    "01_DBA_SILVER試験勉強/2_SQL/15章　結合.md",
+    "01_DBA_SILVER試験勉強/2_SQL/13章　変換ファンクション.md",
     "01_DBA_SILVER試験勉強/2_SQL/22_制約と一時表/22章　制約と一時表.md",
     "01_DBA_SILVER試験勉強/2_SQL/23_タイムゾーン",
     "01_DBA_SILVER試験勉強/2_SQL/21_ビュー/21章　ビュー.md",
@@ -189,12 +172,7 @@
     "01_DBA_SILVER試験勉強/1_Oracleデータベース知識/01_アーキテクチャ/01-2　サーバプロセス.md",
     "01_DBA_SILVER試験勉強/1_Oracleデータベース知識/01_アーキテクチャ/01-1　アーキテクチャ.md",
     "01_DBA_SILVER試験勉強/2_SQL/11章　データの検索.md",
-    "01_DBA_SILVER試験勉強/3_模試/模試　2025-06-01.md",
-    "README.md",
-    "KANBAN.md",
     "download.svg",
-    "IMG_0070 1.jpg.md",
-    "2025-06-01.md",
     "01_DBA_SILVER試験勉強/2_SQL/20_索引、シーケンス、シノニム",
     "01_DBA_SILVER試験勉強/2_SQL/12_単一行ファンクション",
     "01_DBA_SILVER試験勉強/2_SQL/10_データの扱い",
