@@ -51,7 +51,8 @@
               "title": "面談質問項目整理"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -150,13 +151,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "99_ignore項目/PKSHA面談準備.md",
+                "file": "か.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "PKSHA面談準備のアウトライン"
+              "title": "かのアウトライン"
             }
           }
         ]
@@ -175,10 +176,10 @@
       "marp-slides:Show Slide Preview": false
     }
   },
-  "active": "9e2bc4fd1c306582",
+  "active": "ff5072881a2a170d",
   "lastOpenFiles": [
-    "か.md",
     "99_ignore項目/PKSHA面談準備.md",
+    "か.md",
     "面談メモ.md",
     "99_ignore項目/github.md",
     "01_DBA_SILVER試験勉強/1_Oracleデータベース知識/02_ツール/02-1　DBCA(Database Configuration Assistant).md",
