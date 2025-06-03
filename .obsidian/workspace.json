@@ -23,20 +23,6 @@
             }
           },
           {
-            "id": "731e73f76ad345ed",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "surfing-view",
-              "state": {
-                "url": "https://chatgpt.com/c/683e1921-8844-800b-be0b-d09e956b9fd1"
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "面談質問項目整理"
-            }
-          },
-          {
             "id": "ff5072881a2a170d",
             "type": "leaf",
             "state": {
@@ -49,6 +35,20 @@
               },
               "icon": "lucide-file",
               "title": "か"
+            }
+          },
+          {
+            "id": "731e73f76ad345ed",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "surfing-view",
+              "state": {
+                "url": "https://chatgpt.com/c/683e1921-8844-800b-be0b-d09e956b9fd1"
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "ChatGPT"
             }
           }
         ]
