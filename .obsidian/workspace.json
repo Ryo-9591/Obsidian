@@ -35,6 +35,16 @@
               "icon": "lucide-file",
               "title": "面談質問項目整理"
             }
+          },
+          {
+            "id": "ff5072881a2a170d",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新規タブ"
+            }
           }
         ]
       }
