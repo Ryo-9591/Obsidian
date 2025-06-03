@@ -6,16 +6,21 @@
       {
         "id": "9629894a047d599b",
         "type": "tabs",
-        "dimension": 69.71649484536083,
+        "dimension": 77.17391304347827,
         "children": [
           {
             "id": "1f6604480f1bd9d1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "01_DBA_SILVER試験勉強/1_Oracleデータベース知識/02_ツール/02-1　DBCA(Database Configuration Assistant).md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "新規タブ"
+              "title": "02-1　DBCA(Database Configuration Assistant)"
             }
           }
         ]
@@ -23,7 +28,7 @@
       {
         "id": "1a27933349e95a59",
         "type": "tabs",
-        "dimension": 30.283505154639172,
+        "dimension": 22.82608695652174,
         "children": [
           {
             "id": "731e73f76ad345ed",
@@ -131,12 +136,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "01_DBA_SILVER試験勉強/1_Oracleデータベース知識/02_ツール/02-1　DBCA(Database Configuration Assistant).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "アウトライン"
+              "title": "02-1　DBCA(Database Configuration Assistant)のアウトライン"
             }
           }
         ]
@@ -155,7 +161,7 @@
       "marp-slides:Show Slide Preview": false
     }
   },
-  "active": "58392aaeeda87af9",
+  "active": "1f6604480f1bd9d1",
   "lastOpenFiles": [
     "2025-06-03.md",
     "99_ignore項目/PKSHA面談準備.md",
