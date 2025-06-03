@@ -40,10 +40,15 @@
             "id": "ff5072881a2a170d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "か.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "新規タブ"
+              "title": "か"
             }
           }
         ]
@@ -172,6 +177,7 @@
   },
   "active": "9e2bc4fd1c306582",
   "lastOpenFiles": [
+    "か.md",
     "99_ignore項目/PKSHA面談準備.md",
     "面談メモ.md",
     "99_ignore項目/github.md",
@@ -200,7 +206,6 @@
     "01_DBA_SILVER試験勉強/2_SQL/10_データの扱い/10-0　データの扱い.md",
     "01_DBA_SILVER試験勉強/2_SQL/20_索引、シーケンス、シノニム/20-1　索引.md",
     "01_DBA_SILVER試験勉強/2_SQL/20_索引、シーケンス、シノニム/20-0　シーケンス、シノニム、索引.md",
-    "01_DBA_SILVER試験勉強/2_SQL/20_索引、シーケンス、シノニム/20-2　シーケンス.md",
     "01_DBA_SILVER試験勉強/2_SQL/20_索引、シーケンス、シノニム",
     "01_DBA_SILVER試験勉強/2_SQL/12_単一行ファンクション",
     "01_DBA_SILVER試験勉強/2_SQL/10_データの扱い",
