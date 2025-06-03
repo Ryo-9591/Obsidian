@@ -14,13 +14,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_DBA_SILVER試験勉強/2_SQL/20_索引、シーケンス、シノニム/20-1　索引.md",
+                "file": "01_DBA_SILVER試験勉強/2_SQL/21_ビュー/21章　ビュー.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "20-1　索引"
+              "title": "21章　ビュー"
             }
           }
         ]
@@ -136,13 +136,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01_DBA_SILVER試験勉強/2_SQL/20_索引、シーケンス、シノニム/20-1　索引.md",
+                "file": "01_DBA_SILVER試験勉強/2_SQL/21_ビュー/21章　ビュー.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "20-1　索引のアウトライン"
+              "title": "21章　ビューのアウトライン"
             }
           }
         ]
@@ -163,10 +163,12 @@
   },
   "active": "58392aaeeda87af9",
   "lastOpenFiles": [
+    "01_DBA_SILVER試験勉強/2_SQL/制約と一時表",
+    "01_DBA_SILVER試験勉強/2_SQL/20_索引、シーケンス、シノニム/20-1　索引.md",
+    "01_DBA_SILVER試験勉強/2_SQL/21_ビュー",
     "01_DBA_SILVER試験勉強/2_SQL/20_索引、シーケンス、シノニム/20-2　シーケンス.md",
     "01_DBA_SILVER試験勉強/2_SQL/20_索引、シーケンス、シノニム/20-0　シーケンス、シノニム、索引.md",
     "01_DBA_SILVER試験勉強/2_SQL/20_索引、シーケンス、シノニム/20-3　シノニム.md",
-    "01_DBA_SILVER試験勉強/2_SQL/20_索引、シーケンス、シノニム/20-1　索引.md",
     "01_DBA_SILVER試験勉強/1_Oracleデータベース知識/02_ツール/02-5　Oracle Enterprise Manager Cloud Control.md",
     "01_DBA_SILVER試験勉強/1_Oracleデータベース知識/02_ツール/02-4　EM Express.md",
     "01_DBA_SILVER試験勉強/1_Oracleデータベース知識/02_ツール/02-3　SQL Developer.md",
@@ -191,7 +193,6 @@
     "IMG_0070 1.jpg.md",
     "2025-06-01.md",
     "無題のカンバン.md",
-    "01_DBA_SILVER試験勉強/2_SQL/13章　変換ファンクション.md",
     "01_DBA_SILVER試験勉強/2_SQL/20_索引、シーケンス、シノニム",
     "01_DBA_SILVER試験勉強/2_SQL/12_単一行ファンクション",
     "01_DBA_SILVER試験勉強/2_SQL/10_データの扱い",
@@ -204,7 +205,6 @@
     "01_DBA_SILVER試験勉強/images/Pasted image 20250601100838.png",
     "01_DBA_SILVER試験勉強/1_Oracleデータベース知識/07_セグメント、データブロック管理",
     "01_DBA_SILVER試験勉強/2_SQL",
-    "01_DBA_SILVER試験勉強/1_Oracleデータベース知識",
     "01_DBA_SILVER試験勉強/images/Pasted image 20250531154320.png",
     "IMG_0070 1.jpg",
     "01_DBA_SILVER試験勉強/images/IMG_0070.jpg",
