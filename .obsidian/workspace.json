@@ -21,26 +21,19 @@
               "icon": "lucide-file",
               "title": "PKSHA面談準備"
             }
-          }
-        ]
-      },
-      {
-        "id": "05e38f31f2ce6f29",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "501face276a0d4d9",
+            "id": "731e73f76ad345ed",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "markdown",
+              "type": "surfing-view",
               "state": {
-                "file": "面談メモ.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "url": "https://chatgpt.com/c/6835ae84-40d0-800b-8235-df9feda011e9"
               },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "面談メモ"
+              "title": "Oracle接続方法の概要"
             }
           }
         ]
@@ -53,9 +46,9 @@
     "type": "split",
     "children": [
       {
-        "id": "5f4d272b2ea836e3",
+        "id": "ac942e2cd16c2ac2",
         "type": "tabs",
-        "dimension": 73.47280334728033,
+        "dimension": 36.73640167364017,
         "children": [
           {
             "id": "9ac9ed207c82c160",
@@ -73,7 +66,14 @@
               "icon": "lucide-search",
               "title": "検索"
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "5f4d272b2ea836e3",
+        "type": "tabs",
+        "dimension": 36.73640167364017,
+        "children": [
           {
             "id": "8f5f925db3d74ff2",
             "type": "leaf",
@@ -98,7 +98,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "199a16cf7c4e5e91",
@@ -119,7 +119,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 205.50499725341797
+    "width": 200
   },
   "right": {
     "id": "f533a687fa0a0077",
@@ -129,20 +129,6 @@
         "id": "cf84f65d523b9c55",
         "type": "tabs",
         "children": [
-          {
-            "id": "731e73f76ad345ed",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "surfing-view",
-              "state": {
-                "url": "https://chatgpt.com/c/6835ae84-40d0-800b-8235-df9feda011e9"
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Oracle接続方法の概要"
-            }
-          },
           {
             "id": "213c34e22c3ac938",
             "type": "leaf",
@@ -162,7 +148,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -173,10 +160,10 @@
       "marp-slides:Show Slide Preview": false
     }
   },
-  "active": "501face276a0d4d9",
+  "active": "9ac9ed207c82c160",
   "lastOpenFiles": [
-    "99_ignore項目/PKSHA面談準備.md",
     "面談メモ.md",
+    "99_ignore項目/PKSHA面談準備.md",
     "99_ignore項目/github.md",
     "01_DBA_SILVER試験勉強/1_Oracleデータベース知識/02_ツール/02-1　DBCA(Database Configuration Assistant).md",
     "01_DBA_SILVER試験勉強/1_Oracleデータベース知識/02_ツール/02-2　SQL Plus.md",
