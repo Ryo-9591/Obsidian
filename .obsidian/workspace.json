@@ -6,7 +6,7 @@
       {
         "id": "c7db24890d7975d1",
         "type": "tabs",
-        "dimension": 56.72310756972112,
+        "dimension": 52.49003984063745,
         "children": [
           {
             "id": "fda836068cf54e61",
@@ -28,7 +28,7 @@
       {
         "id": "2ecc0420add528eb",
         "type": "tabs",
-        "dimension": 43.276892430278885,
+        "dimension": 47.50996015936255,
         "children": [
           {
             "id": "68719f81e6d2194a",
@@ -136,12 +136,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "01_DBA_SILVER試験勉強/1_Oracleデータベース知識/02_ツール/02-1　DBCA(Database Configuration Assistant).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "アウトライン"
+              "title": "02-1　DBCA(Database Configuration Assistant)のアウトライン"
             }
           },
           {
@@ -170,14 +171,14 @@
       "marp-slides:Show Slide Preview": false
     }
   },
-  "active": "68719f81e6d2194a",
+  "active": "fda836068cf54e61",
   "lastOpenFiles": [
+    "01_DBA_SILVER試験勉強/1_Oracleデータベース知識/02_ツール/02-3　SQL Developer.md",
+    "01_DBA_SILVER試験勉強/1_Oracleデータベース知識/02_ツール/02-2　SQL Plus.md",
     "01_DBA_SILVER試験勉強/1_Oracleデータベース知識/02_ツール/02-1　DBCA(Database Configuration Assistant).md",
     "01_DBA_SILVER試験勉強/images/Pasted image 20250605080226.png",
     "01_DBA_SILVER試験勉強/1_Oracleデータベース知識/02_ツール/02-5　Oracle Enterprise Manager Cloud Control.md",
     "01_DBA_SILVER試験勉強/1_Oracleデータベース知識/02_ツール/02-4　EM Express.md",
-    "01_DBA_SILVER試験勉強/1_Oracleデータベース知識/02_ツール/02-3　SQL Developer.md",
-    "01_DBA_SILVER試験勉強/1_Oracleデータベース知識/02_ツール/02-2　SQL Plus.md",
     "01_DBA_SILVER試験勉強/2_SQL/15_結合/15章　結合.md",
     "01_DBA_SILVER試験勉強/2_SQL/14_集計ファンクション/14章　集計ファンクション.md",
     "01_DBA_SILVER試験勉強/2_SQL/13_変換ファンクション/13章　変換ファンクション.md",
