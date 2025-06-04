@@ -6,7 +6,7 @@
       {
         "id": "c7db24890d7975d1",
         "type": "tabs",
-        "dimension": 57.071713147410364,
+        "dimension": 63.79482071713147,
         "children": [
           {
             "id": "fda836068cf54e61",
@@ -14,13 +14,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_DBA_SILVER試験勉強/3_模試/模試　2025-06-01.md",
+                "file": "01_DBA_SILVER試験勉強/2_SQL/13章　変換ファンクション.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "模試　2025-06-01"
+              "title": "13章　変換ファンクション"
             }
           }
         ]
@@ -28,7 +28,7 @@
       {
         "id": "2ecc0420add528eb",
         "type": "tabs",
-        "dimension": 42.92828685258964,
+        "dimension": 36.20517928286853,
         "children": [
           {
             "id": "68719f81e6d2194a",
@@ -136,13 +136,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01_DBA_SILVER試験勉強/3_模試/模試　2025-06-01.md",
+                "file": "01_DBA_SILVER試験勉強/2_SQL/13章　変換ファンクション.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "模試　2025-06-01のアウトライン"
+              "title": "13章　変換ファンクションのアウトライン"
             }
           },
           {
@@ -173,6 +173,7 @@
   },
   "active": "fda836068cf54e61",
   "lastOpenFiles": [
+    "01_DBA_SILVER試験勉強/3_模試/模試　2025-06-01.md",
     "01_DBA_SILVER試験勉強/2_SQL/10_データの扱い/10-5　データ型.md",
     "01_DBA_SILVER試験勉強/2_SQL/10_データの扱い/10-0　データの扱い.md",
     "01_DBA_SILVER試験勉強/2_SQL/10_データの扱い/10-4　連結演算子.md",
@@ -198,7 +199,6 @@
     "01_DBA_SILVER試験勉強/1_Oracleデータベース知識/08_UNDOの管理/08-1　UNDO表領域.md",
     "2025-06-05.md",
     "01_DBA_SILVER試験勉強/2_SQL/10_データの扱い/10-1　列別名.md",
-    "01_DBA_SILVER試験勉強/2_SQL/11_データ検索/11-01　置換変数.md",
     "01_DBA_SILVER試験勉強/2_SQL/11_データ検索",
     "01_DBA_SILVER試験勉強/2_SQL/23_タイムゾーン",
     "01_DBA_SILVER試験勉強/2_SQL/22_制約と一時表",
