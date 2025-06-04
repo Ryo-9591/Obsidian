@@ -18,13 +18,13 @@
 ①デプロイタイプ　　　　データベースの作成時のテンプレートを指定
 ②データベース識別情報　グローバルデータベース名とSIDを指定
 ③記憶域オプション　　　ファイルシステム or 自動ストレージ管理、OMFを使用するかも
-1. 高速リカバリ　　　　　リカバリのサイズの指定、アーカイブログモードにするかどうか
-2. ネットワーク　　　　　リスナーを指定
-3. Oracle Data Vault　　　 Oracle Data Vault、Oracle Label Securityを使用するか
-4. 構成オプション　　　　メモリー領域のサイズ、データブロックのサイズ、起動プロセスの最大数、キャラクタセット、サンプルスキーマ
-5. 管理オプション　　　　Em Expressを構成するか、Enterprise Manager Cloud Controlの管理対象に登録するか
-6. ユーザ資格証明　　　　SYS,SYSTEMのパスワードを入力する
-7. OMF（Oracle Managed Files）を明示的にON/OFFできる
+④高速リカバリ　　　　　リカバリのサイズの指定、アーカイブログモードにするかどうか
+⑤ネットワーク　　　　　リスナーを指定
+⑥Oracle Data Vault　　　 Oracle Data Vault、Oracle Label Securityを使用するか
+⑦構成オプション　　　　メモリー領域のサイズ、データブロックのサイズ、起動プロセスの最大数、キャラクタセット、サンプルスキーマ
+⑧管理オプション　　　　Em Expressを構成するか、Enterprise Manager Cloud Controlの管理対象に登録するか
+⑨ユーザ資格証明　　　　SYS,SYSTEMのパスワードを入力する
+➉OMF（Oracle Managed Files）を明示的にON/OFFできる
 
 ## ③既存データベースの構成変更　
 1. 専用サーバ構成から共有サーバ構成への変更
