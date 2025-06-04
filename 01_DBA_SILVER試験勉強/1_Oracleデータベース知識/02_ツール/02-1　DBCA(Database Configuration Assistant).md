@@ -1,4 +1,5 @@
 # DBCA(Database Configuration Assistant)
+![[Pasted image 20250605080226.png]]
 ## ①標準構成を用いたデータベースの作成
 
 1. グローバルデータベース名

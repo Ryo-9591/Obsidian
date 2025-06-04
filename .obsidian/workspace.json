@@ -136,13 +136,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01_DBA_SILVER試験勉強/1_Oracleデータベース知識/02_ツール/02-1　DBCA(Database Configuration Assistant).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "02-1　DBCA(Database Configuration Assistant)のアウトライン"
+              "title": "アウトライン"
             }
           },
           {
@@ -171,13 +170,14 @@
       "marp-slides:Show Slide Preview": false
     }
   },
-  "active": "fda836068cf54e61",
+  "active": "68719f81e6d2194a",
   "lastOpenFiles": [
+    "01_DBA_SILVER試験勉強/1_Oracleデータベース知識/02_ツール/02-1　DBCA(Database Configuration Assistant).md",
+    "01_DBA_SILVER試験勉強/images/Pasted image 20250605080226.png",
     "01_DBA_SILVER試験勉強/1_Oracleデータベース知識/02_ツール/02-5　Oracle Enterprise Manager Cloud Control.md",
     "01_DBA_SILVER試験勉強/1_Oracleデータベース知識/02_ツール/02-4　EM Express.md",
     "01_DBA_SILVER試験勉強/1_Oracleデータベース知識/02_ツール/02-3　SQL Developer.md",
     "01_DBA_SILVER試験勉強/1_Oracleデータベース知識/02_ツール/02-2　SQL Plus.md",
-    "01_DBA_SILVER試験勉強/1_Oracleデータベース知識/02_ツール/02-1　DBCA(Database Configuration Assistant).md",
     "01_DBA_SILVER試験勉強/2_SQL/15_結合/15章　結合.md",
     "01_DBA_SILVER試験勉強/2_SQL/14_集計ファンクション/14章　集計ファンクション.md",
     "01_DBA_SILVER試験勉強/2_SQL/13_変換ファンクション/13章　変換ファンクション.md",
@@ -205,7 +205,6 @@
     "01_DBA_SILVER試験勉強/1_Oracleデータベース知識/04_Oracle Net Service/04-2　共有サーバ.md",
     "01_DBA_SILVER試験勉強/1_Oracleデータベース知識/04_Oracle Net Service/04-1　Oracle Net Service.md",
     "01_DBA_SILVER試験勉強/1_Oracleデータベース知識/05_ユーザ、権限、ロール/05-1　ユーザ.md",
-    "01_DBA_SILVER試験勉強/1_Oracleデータベース知識/06_表領域の管理/06-4　OMF(Oracle Managed Files).md",
     "01_DBA_SILVER試験勉強/2_SQL/11_データ検索",
     "01_DBA_SILVER試験勉強/2_SQL/23_タイムゾーン",
     "01_DBA_SILVER試験勉強/2_SQL/22_制約と一時表",
@@ -218,7 +217,6 @@
     "01_DBA_SILVER試験勉強/images/Pasted image 20250531154320.png",
     "IMG_0070 1.jpg",
     "01_DBA_SILVER試験勉強/images/IMG_0070.jpg",
-    "01_DBA_SILVER試験勉強/images/Pasted image 20250531141650.png",
     "無題のファイル.canvas",
     "Untitled.canvas",
     "Untitled 1.canvas"
