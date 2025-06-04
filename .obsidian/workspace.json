@@ -14,13 +14,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_DBA_SILVER試験勉強/2_SQL/10_データの扱い/10-5　データ型.md",
+                "file": "01_DBA_SILVER試験勉強/2_SQL/14_集計ファンクション/14章　集計ファンクション.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "10-5　データ型"
+              "title": "14章　集計ファンクション"
             }
           }
         ]
@@ -136,13 +136,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01_DBA_SILVER試験勉強/2_SQL/10_データの扱い/10-5　データ型.md",
+                "file": "01_DBA_SILVER試験勉強/2_SQL/14_集計ファンクション/14章　集計ファンクション.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "10-5　データ型のアウトライン"
+              "title": "14章　集計ファンクションのアウトライン"
             }
           },
           {
@@ -173,10 +173,16 @@
   },
   "active": "58392aaeeda87af9",
   "lastOpenFiles": [
-    "13_変換ファンクション",
-    "01_DBA_SILVER試験勉強/2_SQL/13章　変換ファンクション.md",
-    "01_DBA_SILVER試験勉強/3_模試/模試　2025-06-01.md",
+    "無題のフォルダ",
+    "01_DBA_SILVER試験勉強/2_SQL/17_集合演算",
+    "01_DBA_SILVER試験勉強/2_SQL/16_副問合せ",
+    "01_DBA_SILVER試験勉強/2_SQL/15_結合",
+    "01_DBA_SILVER試験勉強/2_SQL/15_結合/15章　結合.md",
     "01_DBA_SILVER試験勉強/2_SQL/10_データの扱い/10-5　データ型.md",
+    "01_DBA_SILVER試験勉強/2_SQL/14_集計ファンクション",
+    "01_DBA_SILVER試験勉強/2_SQL/13_変換ファンクション",
+    "01_DBA_SILVER試験勉強/2_SQL/13_変換ファンクション/13章　変換ファンクション.md",
+    "01_DBA_SILVER試験勉強/3_模試/模試　2025-06-01.md",
     "01_DBA_SILVER試験勉強/2_SQL/10_データの扱い/10-0　データの扱い.md",
     "01_DBA_SILVER試験勉強/2_SQL/10_データの扱い/10-4　連結演算子.md",
     "01_DBA_SILVER試験勉強/2_SQL/10_データの扱い/10-3　DUAL表.md",
@@ -198,7 +204,6 @@
     "01_DBA_SILVER試験勉強/1_Oracleデータベース知識/07_セグメント、データブロック管理/07-1　データブロック.md",
     "01_DBA_SILVER試験勉強/1_Oracleデータベース知識/07_セグメント、データブロック管理/07-3　領域の節約(表圧縮、索引使用不可).md",
     "01_DBA_SILVER試験勉強/1_Oracleデータベース知識/07_セグメント、データブロック管理/07-2　セグメントの管理(拡張、縮小).md",
-    "01_DBA_SILVER試験勉強/1_Oracleデータベース知識/08_UNDOの管理/08-1　UNDO表領域.md",
     "01_DBA_SILVER試験勉強/2_SQL/11_データ検索",
     "01_DBA_SILVER試験勉強/2_SQL/23_タイムゾーン",
     "01_DBA_SILVER試験勉強/2_SQL/22_制約と一時表",
@@ -206,14 +211,9 @@
     "01_DBA_SILVER試験勉強/images/Pasted image 20250603080913.png",
     "99_ignore項目",
     "download.svg",
-    "01_DBA_SILVER試験勉強/2_SQL/20_索引、シーケンス、シノニム",
-    "01_DBA_SILVER試験勉強/2_SQL/12_単一行ファンクション",
-    "01_DBA_SILVER試験勉強/2_SQL/10_データの扱い",
     "01_DBA_SILVER試験勉強/images/Pasted image 20250601190329.png",
-    "01_DBA_SILVER試験勉強/3_模試",
     "01_DBA_SILVER試験勉強/images/Pasted image 20250601135654.png",
     "01_DBA_SILVER試験勉強/images/Pasted image 20250601135603.png",
-    "01_DBA_SILVER試験勉強/1_Oracleデータベース知識/09_データの移動",
     "01_DBA_SILVER試験勉強/images/Pasted image 20250601100838.png",
     "01_DBA_SILVER試験勉強/images/Pasted image 20250531154320.png",
     "IMG_0070 1.jpg",
