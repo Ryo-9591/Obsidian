@@ -1,4 +1,5 @@
 # DBCA(Database Configuration Assistant)
+データベースを作成するツール、作成以外にもいろいろできる
 ![[Pasted image 20250605080624.png]]
 ## ①標準構成を用いたデータベースの作成
 1. グローバルデータベース名
