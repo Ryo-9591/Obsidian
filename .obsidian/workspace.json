@@ -136,12 +136,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "01_DBA_SILVER試験勉強/2_SQL/10_データの扱い/10-4　連結演算子.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "アウトライン"
+              "title": "10-4　連結演算子のアウトライン"
             }
           },
           {
@@ -170,7 +171,7 @@
       "marp-slides:Show Slide Preview": false
     }
   },
-  "active": "68719f81e6d2194a",
+  "active": "fda836068cf54e61",
   "lastOpenFiles": [
     "01_DBA_SILVER試験勉強/2_SQL/10_データの扱い/10-4　連結演算子.md",
     "2025-06-05.md",
