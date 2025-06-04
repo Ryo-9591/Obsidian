@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_DBA_SILVER試験勉強/2_SQL/10_データの扱い/10-0　データの扱い 1.md",
+                "file": "01_DBA_SILVER試験勉強/2_SQL/10_データの扱い/10-4　データ型.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "10-0　データの扱い 1"
+              "title": "10-4　データ型"
             }
           }
         ]
@@ -114,13 +114,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01_DBA_SILVER試験勉強/2_SQL/10_データの扱い/10-0　データの扱い 1.md",
+                "file": "01_DBA_SILVER試験勉強/2_SQL/10_データの扱い/10-4　データ型.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "10-0　データの扱い 1のアウトライン"
+              "title": "10-4　データ型のアウトライン"
             }
           }
         ]
@@ -142,7 +142,7 @@
   "active": "731e73f76ad345ed",
   "lastOpenFiles": [
     "01_DBA_SILVER試験勉強/2_SQL/10_データの扱い/10-0　データの扱い.md",
-    "01_DBA_SILVER試験勉強/2_SQL/10_データの扱い/10-0　データの扱い 1.md",
+    "01_DBA_SILVER試験勉強/2_SQL/10_データの扱い/10-4　データ型.md",
     "01_DBA_SILVER試験勉強/2_SQL/10_データの扱い/10-2　DESCRIBEコマンド.md",
     "01_DBA_SILVER試験勉強/2_SQL/10_データの扱い/10-1　列別名.md",
     "01_DBA_SILVER試験勉強/2_SQL/10_データの扱い/10-3　DUAL表.md",
