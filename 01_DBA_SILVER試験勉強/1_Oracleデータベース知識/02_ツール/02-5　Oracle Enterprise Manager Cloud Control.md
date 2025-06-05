@@ -7,7 +7,7 @@ Webベースで管理コンソールを提供するwebアプリ
 ### OMR(Oracle Management)
 管理情報や、収集したデータを管理するデータベース
 ### OMA(Oracle Management Agent)
-管理対象サーバ
+管理対象サーバ上の管理ターゲットの制御および情報の収集
 
 
 DBCAから条件(OMS（Oracle Management Service）とOMA（Agent）)ありで登録可能
