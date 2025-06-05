@@ -34,18 +34,9 @@
 ### ⑥構成オプション
 メモリー領域のサイズ、データブロックのサイズ、起動プロセスの最大数、キャラクタセット、サンプルスキーマ
 ![[Pasted image 20250605215331.png]]
-⑧管理オプション　　　　Em Expressを構成するか、Enterprise Manager Cloud Controlの管理対象に登録するか
+### ⑦管理オプション　　　　
+Em Expressを構成するか、Enterprise Manager Cloud Controlの管理対象に登録するか
 ![[Pasted image 20250605215440.png]]
-⑨ユーザ資格証明　　　　SYS,SYSTEMのパスワードを入力する
-➉OMF（Oracle Managed Files）を明示的にON/OFFできる
-
-## ③既存データベースの構成変更　
-1. 専用サーバ構成から共有サーバ構成への変更
-2. データベースを複製するためのテンプレートを作成
-
-④データベース削除
-⑤テンプレの作成と削除
-⑥PDBの管理
-## Enterprise Manager Cloud Controlへの登録の条件
+### Enterprise Manager Cloud Controlへの登録の条件
 利用可能なEnterprise Manager Management サーバーが存在し、
 ホストにOracle Management Agentもインストールされている場合
