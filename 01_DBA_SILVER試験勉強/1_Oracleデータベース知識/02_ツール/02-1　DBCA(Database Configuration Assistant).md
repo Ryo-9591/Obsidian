@@ -31,7 +31,8 @@
 ### ⑤ネットワーク　　　　　
 リスナーを指定
 ![[Pasted image 20250605215052.png]]
-⑥Oracle Data Vault　　　 Oracle Data Vault、Oracle Label Securityを使用するか
+### ⑥Oracle Data Vault　　　 
+Oracle Data Vault、Oracle Label Securityを使用するか
 ⑦構成オプション　　　　メモリー領域のサイズ、データブロックのサイズ、起動プロセスの最大数、キャラクタセット、サンプルスキーマ
 ⑧管理オプション　　　　Em Expressを構成するか、Enterprise Manager Cloud Controlの管理対象に登録するか
 ⑨ユーザ資格証明　　　　SYS,SYSTEMのパスワードを入力する
