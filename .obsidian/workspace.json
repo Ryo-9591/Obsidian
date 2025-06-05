@@ -14,13 +14,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_DBA_SILVER試験勉強/1_Oracleデータベース知識/01_アーキテクチャ/01-1　アーキテクチャ.md",
+                "file": "01_DBA_SILVER試験勉強/1_Oracleデータベース知識/02_ツール/02-1　DBCA(Database Configuration Assistant).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "01-1　アーキテクチャ"
+              "title": "02-1　DBCA(Database Configuration Assistant)"
             }
           }
         ]
@@ -43,8 +43,21 @@
               "icon": "lucide-file",
               "title": "Oracle接続方法の概要"
             }
+          },
+          {
+            "id": "f758e1811c84ed8f",
+            "type": "leaf",
+            "state": {
+              "type": "surfing-view",
+              "state": {
+                "url": "https://qiita.com/nigmom/items/c67b0abb7fd1da486c3b"
+              },
+              "icon": "lucide-file",
+              "title": "DBCA によるデータベースの作成（Oracle Database 19c） #oracle19c - Qiita"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -136,13 +149,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01_DBA_SILVER試験勉強/1_Oracleデータベース知識/01_アーキテクチャ/01-1　アーキテクチャ.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "01-1　アーキテクチャのアウトライン"
+              "title": "アウトライン"
             }
           },
           {
@@ -171,12 +183,16 @@
       "marp-slides:Show Slide Preview": false
     }
   },
-  "active": "58392aaeeda87af9",
+  "active": "f758e1811c84ed8f",
   "lastOpenFiles": [
+    "01_DBA_SILVER試験勉強/1_Oracleデータベース知識/02_ツール/02-1　DBCA(Database Configuration Assistant).md",
+    "01_DBA_SILVER試験勉強/1_Oracleデータベース知識/09_データの移動/09-1　Oracle Data Pump.md",
+    "01_DBA_SILVER試験勉強/1_Oracleデータベース知識/09_データの移動/09-2　SQL Loader.md",
+    "01_DBA_SILVER試験勉強/1_Oracleデータベース知識/09_データの移動/09-3　外部表.md",
+    "01_DBA_SILVER試験勉強/1_Oracleデータベース知識/01_アーキテクチャ/01-1　アーキテクチャ.md",
     "01_DBA_SILVER試験勉強/1_Oracleデータベース知識/01_アーキテクチャ/01-2　サーバプロセス.md",
     "01_DBA_SILVER試験勉強/1_Oracleデータベース知識/01_アーキテクチャ/01-4　バックグラウンドプロセス.md",
     "01_DBA_SILVER試験勉強/1_Oracleデータベース知識/01_アーキテクチャ/01-3　SGA.md",
-    "01_DBA_SILVER試験勉強/1_Oracleデータベース知識/02_ツール/02-1　DBCA(Database Configuration Assistant).md",
     "01_DBA_SILVER試験勉強/1_Oracleデータベース知識/02_ツール/02-2　SQL Plus.md",
     "01_DBA_SILVER試験勉強/1_Oracleデータベース知識/02_ツール/02-5　Oracle Enterprise Manager Cloud Control.md",
     "01_DBA_SILVER試験勉強/1_Oracleデータベース知識/02_ツール/02-3　SQL Developer.md",
@@ -207,10 +223,6 @@
     "01_DBA_SILVER試験勉強/2_SQL/10_データの扱い/10-2　DESCRIBEコマンド.md",
     "01_DBA_SILVER試験勉強/1_Oracleデータベース知識/03_インスタンス関連/03-4　初期化パラメータ.md",
     "01_DBA_SILVER試験勉強/1_Oracleデータベース知識/03_インスタンス関連/03-3　ADR(自動診断リポジトリ).md",
-    "01_DBA_SILVER試験勉強/1_Oracleデータベース知識/03_インスタンス関連/03-2　データディクショナリビューと動的パフォーマンス.md",
-    "01_DBA_SILVER試験勉強/1_Oracleデータベース知識/03_インスタンス関連/03-1　インスタンスの管理.md",
-    "01_DBA_SILVER試験勉強/1_Oracleデータベース知識/04_Oracle Net Service/04-3　データベースリンク.md",
-    "01_DBA_SILVER試験勉強/1_Oracleデータベース知識/04_Oracle Net Service/04-2　共有サーバ.md",
     "01_DBA_SILVER試験勉強/2_SQL/11_データ検索",
     "01_DBA_SILVER試験勉強/2_SQL/23_タイムゾーン",
     "01_DBA_SILVER試験勉強/2_SQL/22_制約と一時表",
