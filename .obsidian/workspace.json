@@ -149,13 +149,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01_DBA_SILVER試験勉強/1_Oracleデータベース知識/02_ツール/02-5　Oracle Enterprise Manager Cloud Control.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "02-5　Oracle Enterprise Manager Cloud Controlのアウトライン"
+              "title": "アウトライン"
             }
           },
           {
@@ -184,8 +183,9 @@
       "marp-slides:Show Slide Preview": false
     }
   },
-  "active": "8ca48c5249933ae6",
+  "active": "f758e1811c84ed8f",
   "lastOpenFiles": [
+    "01_DBA_SILVER試験勉強/1_Oracleデータベース知識/02_ツール/02-5　Oracle Enterprise Manager Cloud Control.md",
     "01_DBA_SILVER試験勉強/1_Oracleデータベース知識/02_ツール/02-2　SQL Plus.md",
     "01_DBA_SILVER試験勉強/1_Oracleデータベース知識/02_ツール/02-1　DBCA(Database Configuration Assistant).md",
     "Pasted image 20250605215440.png",
@@ -200,7 +200,6 @@
     "01_DBA_SILVER試験勉強/1_Oracleデータベース知識/01_アーキテクチャ/01-2　サーバプロセス.md",
     "01_DBA_SILVER試験勉強/1_Oracleデータベース知識/01_アーキテクチャ/01-4　バックグラウンドプロセス.md",
     "01_DBA_SILVER試験勉強/1_Oracleデータベース知識/01_アーキテクチャ/01-3　SGA.md",
-    "01_DBA_SILVER試験勉強/1_Oracleデータベース知識/02_ツール/02-5　Oracle Enterprise Manager Cloud Control.md",
     "01_DBA_SILVER試験勉強/1_Oracleデータベース知識/02_ツール/02-3　SQL Developer.md",
     "01_DBA_SILVER試験勉強/images/Pasted image 20250605081147.png",
     "01_DBA_SILVER試験勉強/images/Pasted image 20250605082231.png",

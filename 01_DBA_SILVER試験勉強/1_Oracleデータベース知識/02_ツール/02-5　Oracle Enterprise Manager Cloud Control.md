@@ -1,4 +1,5 @@
 # Oracle Enterprise Manager Cloud Control
+複数のサーバーに配置された複数のデータベースを一元管理できるツール
 
 DBCAから条件(OMS（Oracle Management Service）とOMA（Agent）)ありで登録可能
 外部ツール(データベースオープンじゃなくてもいい)
