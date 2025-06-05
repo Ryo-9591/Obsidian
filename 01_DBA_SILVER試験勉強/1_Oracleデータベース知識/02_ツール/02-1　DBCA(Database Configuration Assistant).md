@@ -25,9 +25,12 @@
 ファイルシステム or 自動ストレージ管理、OMFを使用するかも選べる
 ![[Pasted image 20250605214657.png]]
 ### ④高速リカバリ　　　　　
-リカバリのサイズの指定、アーカイブログモードにするかどうか
+高速リカバリの場所とサイズの指定
+アーカイブログモード有効化するかどうか
 ![[Pasted image 20250605214926.png]]
-⑤ネットワーク　　　　　リスナーを指定
+### ⑤ネットワーク　　　　　
+リスナーを指定
+![[Pasted image 20250605215052.png]]
 ⑥Oracle Data Vault　　　 Oracle Data Vault、Oracle Label Securityを使用するか
 ⑦構成オプション　　　　メモリー領域のサイズ、データブロックのサイズ、起動プロセスの最大数、キャラクタセット、サンプルスキーマ
 ⑧管理オプション　　　　Em Expressを構成するか、Enterprise Manager Cloud Controlの管理対象に登録するか
