@@ -152,13 +152,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01_DBA_SILVER試験勉強/2_SQL/20_索引、シーケンス、シノニム/20-1　索引.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "20-1　索引のアウトライン"
+              "title": "アウトライン"
             }
           },
           {
@@ -187,8 +186,9 @@
       "marp-slides:Show Slide Preview": false
     }
   },
-  "active": "656832cae7000806",
+  "active": "68719f81e6d2194a",
   "lastOpenFiles": [
+    "01_DBA_SILVER試験勉強/2_SQL/20_索引、シーケンス、シノニム/20-1　索引.md",
     "01_DBA_SILVER試験勉強/2_SQL/20_索引、シーケンス、シノニム/20-2　シーケンス.md",
     "01_DBA_SILVER試験勉強/2_SQL/21_ビュー/21-01　ビュー.md",
     "01_DBA_SILVER試験勉強/2_SQL/19_DDLの理解/19-01　DDLの理解.md",
@@ -197,7 +197,6 @@
     "4-01　スキーマオブジェクトとセグメントを持つオブジェクト.md",
     "01_DBA_SILVER試験勉強/4_その他",
     "01_DBA_SILVER試験勉強/images/Pasted image 20250605214657.png",
-    "01_DBA_SILVER試験勉強/2_SQL/20_索引、シーケンス、シノニム/20-1　索引.md",
     "01_DBA_SILVER試験勉強/2_SQL/18_トランザクション/18-01　トランザクション.md",
     "01_DBA_SILVER試験勉強/2_SQL/17_集合演算/17章　集合演算.md",
     "01_DBA_SILVER試験勉強/2_SQL/16_副問合せ/16章　副問合せ.md",
