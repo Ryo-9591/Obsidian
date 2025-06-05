@@ -29,13 +29,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_DBA_SILVER試験勉強/2_SQL/21_ビュー/21-01　ビュー.md",
+                "file": "01_DBA_SILVER試験勉強/2_SQL/20_索引、シーケンス、シノニム/20-1　索引.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "21-01　ビュー"
+              "title": "20-1　索引"
             }
           }
         ],
@@ -152,13 +152,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01_DBA_SILVER試験勉強/2_SQL/21_ビュー/21-01　ビュー.md",
+                "file": "01_DBA_SILVER試験勉強/2_SQL/20_索引、シーケンス、シノニム/20-1　索引.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "21-01　ビューのアウトライン"
+              "title": "20-1　索引のアウトライン"
             }
           },
           {
@@ -189,11 +189,12 @@
   },
   "active": "656832cae7000806",
   "lastOpenFiles": [
+    "01_DBA_SILVER試験勉強/2_SQL/20_索引、シーケンス、シノニム/20-2　シーケンス.md",
+    "01_DBA_SILVER試験勉強/2_SQL/21_ビュー/21-01　ビュー.md",
     "01_DBA_SILVER試験勉強/2_SQL/19_DDLの理解/19-01　DDLの理解.md",
     "01_DBA_SILVER試験勉強/2_SQL/19_DDLの理解/19-02　CREATE TABLE AS SELECT文.md",
     "01_DBA_SILVER試験勉強/2_SQL/19_DDLの理解/19-03　ALTER TABLE文.md",
     "4-01　スキーマオブジェクトとセグメントを持つオブジェクト.md",
-    "01_DBA_SILVER試験勉強/2_SQL/21_ビュー/21-01　ビュー.md",
     "01_DBA_SILVER試験勉強/4_その他",
     "01_DBA_SILVER試験勉強/images/Pasted image 20250605214657.png",
     "01_DBA_SILVER試験勉強/2_SQL/20_索引、シーケンス、シノニム/20-1　索引.md",
@@ -221,7 +222,6 @@
     "01_DBA_SILVER試験勉強/1_Oracleデータベース知識/01_アーキテクチャ/01-1　アーキテクチャ.md",
     "01_DBA_SILVER試験勉強/1_Oracleデータベース知識/01_アーキテクチャ/01-2　サーバプロセス.md",
     "01_DBA_SILVER試験勉強/1_Oracleデータベース知識/01_アーキテクチャ/01-4　バックグラウンドプロセス.md",
-    "01_DBA_SILVER試験勉強/1_Oracleデータベース知識/01_アーキテクチャ/01-3　SGA.md",
     "01_DBA_SILVER試験勉強/images/Pasted image 20250605081147.png",
     "01_DBA_SILVER試験勉強/images/Pasted image 20250605082231.png",
     "01_DBA_SILVER試験勉強/images/Pasted image 20250605082215.png",
