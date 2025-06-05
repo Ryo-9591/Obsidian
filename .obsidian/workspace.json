@@ -149,13 +149,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01_DBA_SILVER試験勉強/1_Oracleデータベース知識/02_ツール/02-1　DBCA(Database Configuration Assistant).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "02-1　DBCA(Database Configuration Assistant)のアウトライン"
+              "title": "アウトライン"
             }
           },
           {
@@ -184,7 +183,7 @@
       "marp-slides:Show Slide Preview": false
     }
   },
-  "active": "8ca48c5249933ae6",
+  "active": "f758e1811c84ed8f",
   "lastOpenFiles": [
     "01_DBA_SILVER試験勉強/1_Oracleデータベース知識/02_ツール/02-1　DBCA(Database Configuration Assistant).md",
     "01_DBA_SILVER試験勉強/1_Oracleデータベース知識/09_データの移動/09-1　Oracle Data Pump.md",
