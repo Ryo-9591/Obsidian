@@ -4,4 +4,5 @@
 `ALTER TABLE employees MODIFY salary NUMBER(10, 2);`
 # ALTER TABLE DROP(列の削除)
 `ALTER TABLE employees DROP COLUMN hire_date;`
-# ALTER TABLE SET UNUSED(列のみしよう) 
+# ALTER TABLE SET UNUSED(列の未使用化)
+ALTER TABLE emp2 SET UNUSED 
