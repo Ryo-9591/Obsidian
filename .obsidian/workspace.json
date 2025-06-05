@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "c7db24890d7975d1",
+        "id": "2ecc0420add528eb",
         "type": "tabs",
-        "dimension": 57.96812749003985,
+        "dimension": 56.72310756972112,
         "children": [
           {
-            "id": "fda836068cf54e61",
+            "id": "8ca48c5249933ae6",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -26,9 +26,9 @@
         ]
       },
       {
-        "id": "2ecc0420add528eb",
+        "id": "8a72c66c10f2b9f3",
         "type": "tabs",
-        "dimension": 42.03187250996016,
+        "dimension": 43.276892430278885,
         "children": [
           {
             "id": "68719f81e6d2194a",
@@ -171,11 +171,12 @@
       "marp-slides:Show Slide Preview": false
     }
   },
-  "active": "fda836068cf54e61",
+  "active": "8ca48c5249933ae6",
   "lastOpenFiles": [
-    "Pasted image 20250605082215.png",
+    "01_DBA_SILVER試験勉強/images/Pasted image 20250605081147.png",
     "01_DBA_SILVER試験勉強/1_Oracleデータベース知識/02_ツール/02-1　DBCA(Database Configuration Assistant).md",
-    "Pasted image 20250605081147.png",
+    "01_DBA_SILVER試験勉強/images/Pasted image 20250605082231.png",
+    "01_DBA_SILVER試験勉強/images/Pasted image 20250605082215.png",
     "01_DBA_SILVER試験勉強/images/Pasted image 20250605080624.png",
     "01_DBA_SILVER試験勉強/1_Oracleデータベース知識/02_ツール/02-3　SQL Developer.md",
     "01_DBA_SILVER試験勉強/1_Oracleデータベース知識/02_ツール/02-2　SQL Plus.md",
@@ -217,8 +218,6 @@
     "01_DBA_SILVER試験勉強/images/Pasted image 20250601190329.png",
     "01_DBA_SILVER試験勉強/images/Pasted image 20250601135654.png",
     "01_DBA_SILVER試験勉強/images/Pasted image 20250601135603.png",
-    "01_DBA_SILVER試験勉強/images/Pasted image 20250601100838.png",
-    "01_DBA_SILVER試験勉強/images/Pasted image 20250531154320.png",
     "無題のファイル.canvas",
     "Untitled.canvas",
     "Untitled 1.canvas"
