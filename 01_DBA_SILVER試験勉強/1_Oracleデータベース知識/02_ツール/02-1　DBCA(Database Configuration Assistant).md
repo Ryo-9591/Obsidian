@@ -35,6 +35,7 @@
 メモリー領域のサイズ、データブロックのサイズ、起動プロセスの最大数、キャラクタセット、サンプルスキーマ
 ![[Pasted image 20250605215331.png]]
 ⑧管理オプション　　　　Em Expressを構成するか、Enterprise Manager Cloud Controlの管理対象に登録するか
+![[Pasted image 20250605215440.png]]
 ⑨ユーザ資格証明　　　　SYS,SYSTEMのパスワードを入力する
 ➉OMF（Oracle Managed Files）を明示的にON/OFFできる
 
