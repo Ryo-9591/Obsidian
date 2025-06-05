@@ -2,7 +2,10 @@
 複数のサーバーに配置された複数のデータベースを一元管理できるツール
 ![[Pasted image 20250605215829.png]]
 ## 構成要素
-### OMS(Oracle Managen)
+### OMS(Oracle Management Service)
+Webでーすで
+### OMR(Oracle Management)
+### OMA(Oracle Management Agent)
 
 
 DBCAから条件(OMS（Oracle Management Service）とOMA（Agent）)ありで登録可能
