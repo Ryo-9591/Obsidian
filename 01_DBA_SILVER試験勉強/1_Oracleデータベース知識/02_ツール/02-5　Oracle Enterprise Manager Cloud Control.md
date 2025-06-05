@@ -3,9 +3,11 @@
 ![[Pasted image 20250605215829.png]]
 ## 構成要素
 ### OMS(Oracle Management Service)
-Webでーすで
+Webベースで管理コンソールを提供するwebアプリ
 ### OMR(Oracle Management)
+管理情報や、収集したデータを管理するデータベース
 ### OMA(Oracle Management Agent)
+管理対象サーバ
 
 
 DBCAから条件(OMS（Oracle Management Service）とOMA（Agent）)ありで登録可能
