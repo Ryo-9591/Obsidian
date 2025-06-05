@@ -136,12 +136,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "01_DBA_SILVER試験勉強/2_SQL/19_DDLの理解/19-03　ALTER TABLE文.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "アウトライン"
+              "title": "19-03　ALTER TABLE文のアウトライン"
             }
           },
           {
@@ -170,7 +171,7 @@
       "marp-slides:Show Slide Preview": false
     }
   },
-  "active": "68719f81e6d2194a",
+  "active": "8ca48c5249933ae6",
   "lastOpenFiles": [
     "01_DBA_SILVER試験勉強/2_SQL/19_DDLの理解/19-03　ALTER TABLE文.md",
     "01_DBA_SILVER試験勉強/2_SQL/19_DDLの理解/19-02　CREATE TABLE AS SELECT文.md",
