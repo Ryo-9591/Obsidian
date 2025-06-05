@@ -136,13 +136,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01_DBA_SILVER試験勉強/2_SQL/20_索引、シーケンス、シノニム/20-3　シノニム.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "20-3　シノニムのアウトライン"
+              "title": "アウトライン"
             }
           },
           {
@@ -171,8 +170,9 @@
       "marp-slides:Show Slide Preview": false
     }
   },
-  "active": "8ca48c5249933ae6",
+  "active": "68719f81e6d2194a",
   "lastOpenFiles": [
+    "01_DBA_SILVER試験勉強/2_SQL/20_索引、シーケンス、シノニム/20-3　シノニム.md",
     "01_DBA_SILVER試験勉強/2_SQL/21_ビュー/21-01　ビュー.md",
     "01_DBA_SILVER試験勉強/2_SQL/20_索引、シーケンス、シノニム/20-2　シーケンス.md",
     "01_DBA_SILVER試験勉強/2_SQL/20_索引、シーケンス、シノニム/20-1　索引.md",
@@ -205,7 +205,6 @@
     "01_DBA_SILVER試験勉強/1_Oracleデータベース知識/09_データの移動/09-3　外部表.md",
     "01_DBA_SILVER試験勉強/1_Oracleデータベース知識/01_アーキテクチャ/01-1　アーキテクチャ.md",
     "01_DBA_SILVER試験勉強/1_Oracleデータベース知識/01_アーキテクチャ/01-2　サーバプロセス.md",
-    "01_DBA_SILVER試験勉強/1_Oracleデータベース知識/01_アーキテクチャ/01-4　バックグラウンドプロセス.md",
     "01_DBA_SILVER試験勉強/images/Pasted image 20250605081147.png",
     "01_DBA_SILVER試験勉強/images/Pasted image 20250605082231.png",
     "01_DBA_SILVER試験勉強/images/Pasted image 20250605082215.png",
