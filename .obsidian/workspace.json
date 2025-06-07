@@ -29,14 +29,26 @@
             "state": {
               "type": "surfing-view",
               "state": {
-                "url": "https://qiita.com/plusultra/items/b4d8a6fdfb158be5249b"
+                "url": "https://www.google.com/search?sca_esv=723c346dfe62eecb&sxsrf=AE3TifP6jtxx2NTeEh-T6Mq2-tX8VvCECw:1749259317670&q=oracle+%E8%A1%8C%E5%9C%A7%E7%B8%AE&udm=2&fbs=AIIjpHwrI3PsKwSxtSsB0JN4vFZqoa9_NaJGTCZVdyMd5pWCd47aI_Mzn7XJSl1LyIJrlzj50JSOsgPy2hp-R5CZ5hhmVtEC0-lQrxVOBzn0A12s4TNb6enpcHP4Hgke7gqdW1akGcmD4upFlzKiwoYefqkpHXwB5rSwifzHWsUvoZI1pvCJmcCP40lOWKInBAhfaEbOQzR9ny9RdvpYUuLX239jSBe1chB9cFYeZsYi9-mf-yIdXyw&sa=X&ved=2ahUKEwimkP_hkt6NAxVKhlYBHZDkMVMQtKgLegQIDxAB&cshid=1749259394182066&biw=924&bih=1016&dpr=1.04#vhid=BTMkdpkkUY7o7M&vssid=mosaic"
               },
               "icon": "lucide-file",
-              "title": "テーブル圧縮の効果を試す (Oracle Database) #oracle - Qiita"
+              "title": "oracle 行圧縮 - Google 検索"
+            }
+          },
+          {
+            "id": "bfbaf584daf51f24",
+            "type": "leaf",
+            "state": {
+              "type": "surfing-view",
+              "state": {
+                "url": "https://speakerdeck.com/oracle4engineer/oracle-advanced-compression-and-transparent-data-encryption?slide=9"
+              },
+              "icon": "lucide-file",
+              "title": "Oracle Advanced Compression and Transparent Data Encryption - Speaker Deck"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "1ae93134dafa4069",
@@ -206,7 +218,7 @@
       "marp-slides:Show Slide Preview": false
     }
   },
-  "active": "5c9d12b053ad7da4",
+  "active": "bfbaf584daf51f24",
   "lastOpenFiles": [
     "01_DBA_SILVER試験勉強/1_Oracleデータベース知識/07_セグメント、データブロック管理/07-3　領域の節約(表圧縮、索引使用不可).md",
     "01_DBA_SILVER試験勉強/1_Oracleデータベース知識/06_表領域の管理/06-3　データファイル移動.md",
