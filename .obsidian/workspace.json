@@ -6,7 +6,7 @@
       {
         "id": "8a72c66c10f2b9f3",
         "type": "tabs",
-        "dimension": 59.72850678733032,
+        "dimension": 46.253229974160206,
         "children": [
           {
             "id": "11d0ac7a89840e3f",
@@ -36,26 +36,6 @@
             }
           },
           {
-            "id": "bfbaf584daf51f24",
-            "type": "leaf",
-            "state": {
-              "type": "surfing-view",
-              "state": {
-                "url": "https://speakerdeck.com/oracle4engineer/oracle-advanced-compression-and-transparent-data-encryption?slide=8"
-              },
-              "icon": "lucide-file",
-              "title": "Oracle Advanced Compression and Transparent Data Encryption - Speaker Deck"
-            }
-          }
-        ],
-        "currentTab": 2
-      },
-      {
-        "id": "1ae93134dafa4069",
-        "type": "tabs",
-        "dimension": 12.928248222365871,
-        "children": [
-          {
             "id": "4a59cfb5052bd61b",
             "type": "leaf",
             "state": {
@@ -75,7 +55,7 @@
       {
         "id": "d4e8b2a5086247ef",
         "type": "tabs",
-        "dimension": 27.343244990303813,
+        "dimension": 53.746770025839794,
         "children": [
           {
             "id": "68719f81e6d2194a",
@@ -90,8 +70,21 @@
               "icon": "lucide-file",
               "title": "Oracle接続方法の概要"
             }
+          },
+          {
+            "id": "bfbaf584daf51f24",
+            "type": "leaf",
+            "state": {
+              "type": "surfing-view",
+              "state": {
+                "url": "https://speakerdeck.com/oracle4engineer/oracle-advanced-compression-and-transparent-data-encryption?slide=8"
+              },
+              "icon": "lucide-file",
+              "title": "Oracle Advanced Compression and Transparent Data Encryption - Speaker Deck"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -167,7 +160,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 251.5124969482422
+    "width": 200
   },
   "right": {
     "id": "f533a687fa0a0077",
@@ -218,7 +211,7 @@
       "marp-slides:Show Slide Preview": false
     }
   },
-  "active": "bfbaf584daf51f24",
+  "active": "11d0ac7a89840e3f",
   "lastOpenFiles": [
     "01_DBA_SILVER試験勉強/1_Oracleデータベース知識/07_セグメント、データブロック管理/07-3　領域の節約(表圧縮、索引使用不可).md",
     "01_DBA_SILVER試験勉強/1_Oracleデータベース知識/06_表領域の管理/06-3　データファイル移動.md",
