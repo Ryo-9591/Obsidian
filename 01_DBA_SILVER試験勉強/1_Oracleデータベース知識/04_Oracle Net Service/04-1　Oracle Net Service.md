@@ -77,7 +77,6 @@ SID_LIST_LISTENER=
 status=UNKNOWN　←成功していると「<font color="#ffff00">UNKNOWN</font>」と出る！
 ・・・
 # 接続失敗時のトラブルシューティング
-![[IMG_0070 1.jpg]]
 ## ①ORA-12154:TSN could not resolve service name
 →クライアント側に設定しているtnsnames.oraの問題で名前解決に失敗
 
