@@ -6,7 +6,7 @@
       {
         "id": "8a72c66c10f2b9f3",
         "type": "tabs",
-        "dimension": 46.253229974160206,
+        "dimension": 42.5,
         "children": [
           {
             "id": "11d0ac7a89840e3f",
@@ -34,7 +34,14 @@
               "icon": "lucide-file",
               "title": "oracle 行圧縮 - Google 検索"
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "ea619856e1e44d29",
+        "type": "tabs",
+        "dimension": 18.3125,
+        "children": [
           {
             "id": "4a59cfb5052bd61b",
             "type": "leaf",
@@ -55,7 +62,7 @@
       {
         "id": "d4e8b2a5086247ef",
         "type": "tabs",
-        "dimension": 53.746770025839794,
+        "dimension": 39.1875,
         "children": [
           {
             "id": "68719f81e6d2194a",
