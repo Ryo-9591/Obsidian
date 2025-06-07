@@ -22,21 +22,8 @@
               "icon": "lucide-file",
               "title": "22-02　外部キー"
             }
-          },
-          {
-            "id": "5c9d12b053ad7da4",
-            "type": "leaf",
-            "state": {
-              "type": "surfing-view",
-              "state": {
-                "url": "https://www.google.com/search?sca_esv=723c346dfe62eecb&sxsrf=AE3TifP6jtxx2NTeEh-T6Mq2-tX8VvCECw:1749259317670&q=oracle+%E8%A1%8C%E5%9C%A7%E7%B8%AE&udm=2&fbs=AIIjpHwrI3PsKwSxtSsB0JN4vFZqoa9_NaJGTCZVdyMd5pWCd47aI_Mzn7XJSl1LyIJrlzj50JSOsgPy2hp-R5CZ5hhmVtEC0-lQrxVOBzn0A12s4TNb6enpcHP4Hgke7gqdW1akGcmD4upFlzKiwoYefqkpHXwB5rSwifzHWsUvoZI1pvCJmcCP40lOWKInBAhfaEbOQzR9ny9RdvpYUuLX239jSBe1chB9cFYeZsYi9-mf-yIdXyw&sa=X&ved=2ahUKEwimkP_hkt6NAxVKhlYBHZDkMVMQtKgLegQIDxAB&cshid=1749259394182066&biw=924&bih=1016&dpr=1.04#vhid=BTMkdpkkUY7o7M&vssid=mosaic"
-              },
-              "icon": "lucide-file",
-              "title": "oracle 行圧縮 - Google 検索"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "d4e8b2a5086247ef",
@@ -212,7 +199,7 @@
       "marp-slides:Show Slide Preview": false
     }
   },
-  "active": "5c9d12b053ad7da4",
+  "active": "68719f81e6d2194a",
   "lastOpenFiles": [
     "01_DBA_SILVER試験勉強/2_SQL/22_制約と一時表/22-02　外部キー.md",
     "01_DBA_SILVER試験勉強/2_SQL/22_制約と一時表/22-01　制約と一時表.md",
