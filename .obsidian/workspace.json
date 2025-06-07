@@ -6,7 +6,7 @@
       {
         "id": "8a72c66c10f2b9f3",
         "type": "tabs",
-        "dimension": 52.027543993879114,
+        "dimension": 54.22138836772983,
         "children": [
           {
             "id": "11d0ac7a89840e3f",
@@ -40,7 +40,7 @@
       {
         "id": "d4e8b2a5086247ef",
         "type": "tabs",
-        "dimension": 47.972456006120886,
+        "dimension": 45.77861163227016,
         "children": [
           {
             "id": "4a59cfb5052bd61b",
@@ -83,7 +83,8 @@
               "title": "Oracle Advanced Compression and Transparent Data Encryption - Speaker Deck"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -210,8 +211,9 @@
       "marp-slides:Show Slide Preview": false
     }
   },
-  "active": "11d0ac7a89840e3f",
+  "active": "68719f81e6d2194a",
   "lastOpenFiles": [
+    "01_DBA_SILVER試験勉強/2_SQL/22_制約と一時表/22-01　制約と一時表.md",
     "01_DBA_SILVER試験勉強/2_SQL/21_ビュー/21-01　ビュー.md",
     "01_DBA_SILVER試験勉強/1_Oracleデータベース知識/07_セグメント、データブロック管理/07-3　領域の節約(表圧縮、索引使用不可).md",
     "01_DBA_SILVER試験勉強/1_Oracleデータベース知識/06_表領域の管理/06-3　データファイル移動.md",
@@ -228,7 +230,6 @@
     "01_DBA_SILVER試験勉強/2_SQL/20_索引、シーケンス、シノニム/20-3　シノニム.md",
     "01_DBA_SILVER試験勉強/2_SQL/19_DDLの理解/19-03　ALTER TABLE文.md",
     "01_DBA_SILVER試験勉強/2_SQL/18_トランザクション/18-01　トランザクション.md",
-    "01_DBA_SILVER試験勉強/2_SQL/22_制約と一時表/22-01　制約と一時表.md",
     "01_DBA_SILVER試験勉強/4_その他/4-01　スキーマオブジェクトとセグメントを持つオブジェクト.md",
     "01_DBA_SILVER試験勉強/2_SQL/20_索引、シーケンス、シノニム/20-1　索引.md",
     "01_DBA_SILVER試験勉強/2_SQL/20_索引、シーケンス、シノニム/20-2　シーケンス.md",
