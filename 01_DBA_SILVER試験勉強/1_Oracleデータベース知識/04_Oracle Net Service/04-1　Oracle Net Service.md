@@ -51,7 +51,7 @@ LOCAL_LISTENER初期化パラメータ例：
 ### リスナーにインスタンス情報が登録されているか確認
 `lsnrctl services`
 ・・・
-status=READY　←成功なら「READY」と出る！
+status=READY　←成功なら「<font color="#ffff00">READY</font>」と出る！
 ・・・
 ## 静的サービス登録
 「listener.ora」にあらかじめ「SID_LIST_<リスナー名>」というパラメータに記述しておく
@@ -74,7 +74,7 @@ SID_LIST_LISTENER=
 ### リスナーにインスタンス情報が登録されているか確認
 `lsnrctl services`
 ・・・
-status=UNKNOWN　←成功していると「UNKNOWN」と出る！
+status=UNKNOWN　←成功していると「<font color="#ffff00">UNKNOWN</font>」と出る！
 ・・・
 # 接続失敗時のトラブルシューティング
 ![[IMG_0070 1.jpg]]
