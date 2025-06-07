@@ -14,13 +14,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_DBA_SILVER試験勉強/2_SQL/22_制約と一時表/22-01　制約と一時表.md",
+                "file": "01_DBA_SILVER試験勉強/2_SQL/22_制約と一時表/22-04　一時表.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "22-01　制約と一時表"
+              "title": "22-04　一時表"
             }
           }
         ]
@@ -200,8 +200,8 @@
   },
   "active": "11d0ac7a89840e3f",
   "lastOpenFiles": [
-    "01_DBA_SILVER試験勉強/2_SQL/22_制約と一時表/22-04　一時表.md",
     "01_DBA_SILVER試験勉強/2_SQL/22_制約と一時表/22-01　制約と一時表.md",
+    "01_DBA_SILVER試験勉強/2_SQL/22_制約と一時表/22-04　一時表.md",
     "01_DBA_SILVER試験勉強/2_SQL/22_制約と一時表/22-03　チェック制約.md",
     "01_DBA_SILVER試験勉強/3_模試/模試　2025-06-07.md",
     "01_DBA_SILVER試験勉強/2_SQL/22_制約と一時表/22-02　外部キー制約.md",
