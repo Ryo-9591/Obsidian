@@ -71,8 +71,7 @@
               "title": "Oracle Advanced Compression and Transparent Data Encryption - Speaker Deck"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -199,7 +198,7 @@
       "marp-slides:Show Slide Preview": false
     }
   },
-  "active": "68719f81e6d2194a",
+  "active": "4a59cfb5052bd61b",
   "lastOpenFiles": [
     "01_DBA_SILVER試験勉強/2_SQL/22_制約と一時表/22-04　一時表.md",
     "01_DBA_SILVER試験勉強/2_SQL/22_制約と一時表/22-01　制約と一時表.md",
