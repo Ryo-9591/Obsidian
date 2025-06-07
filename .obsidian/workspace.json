@@ -6,7 +6,7 @@
       {
         "id": "8a72c66c10f2b9f3",
         "type": "tabs",
-        "dimension": 54.29864253393665,
+        "dimension": 51.00193923723335,
         "children": [
           {
             "id": "11d0ac7a89840e3f",
@@ -28,7 +28,7 @@
       {
         "id": "1ae93134dafa4069",
         "type": "tabs",
-        "dimension": 17.129928894634777,
+        "dimension": 17.8409825468649,
         "children": [
           {
             "id": "4a59cfb5052bd61b",
@@ -50,7 +50,7 @@
       {
         "id": "d4e8b2a5086247ef",
         "type": "tabs",
-        "dimension": 28.57142857142857,
+        "dimension": 31.157078215901745,
         "children": [
           {
             "id": "68719f81e6d2194a",
@@ -65,8 +65,21 @@
               "icon": "lucide-file",
               "title": "Oracle接続方法の概要"
             }
+          },
+          {
+            "id": "5c9d12b053ad7da4",
+            "type": "leaf",
+            "state": {
+              "type": "surfing-view",
+              "state": {
+                "url": "https://www.google.com/search?q=oracle%20%E8%A1%8C%E5%9C%A7%E7%B8%AE"
+              },
+              "icon": "lucide-file",
+              "title": "oracle 行圧縮 - Google 検索"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -193,8 +206,9 @@
       "marp-slides:Show Slide Preview": false
     }
   },
-  "active": "11d0ac7a89840e3f",
+  "active": "5c9d12b053ad7da4",
   "lastOpenFiles": [
+    "01_DBA_SILVER試験勉強/1_Oracleデータベース知識/07_セグメント、データブロック管理/07-3　領域の節約(表圧縮、索引使用不可).md",
     "01_DBA_SILVER試験勉強/1_Oracleデータベース知識/06_表領域の管理/06-3　データファイル移動.md",
     "01_DBA_SILVER試験勉強/1_Oracleデータベース知識/09_データの移動/09-1　Oracle Data Pump.md",
     "01_DBA_SILVER試験勉強/1_Oracleデータベース知識/09_データの移動/09-3　外部表.md",
@@ -222,7 +236,6 @@
     "01_DBA_SILVER試験勉強/2_SQL/16_副問合せ/16章　副問合せ.md",
     "01_DBA_SILVER試験勉強/2_SQL/15_結合/15章　結合.md",
     "01_DBA_SILVER試験勉強/2_SQL/10_データの扱い/10-2　DESCRIBEコマンド.md",
-    "01_DBA_SILVER試験勉強/2_SQL/10_データの扱い/10-1　列別名.md",
     "01_DBA_SILVER試験勉強/images/Pasted image 20250605215829.png",
     "01_DBA_SILVER試験勉強/images/Pasted image 20250605215440.png",
     "01_DBA_SILVER試験勉強/images/Pasted image 20250605215331.png",
