@@ -6,7 +6,7 @@
       {
         "id": "8a72c66c10f2b9f3",
         "type": "tabs",
-        "dimension": 69.90291262135922,
+        "dimension": 52.13592233009708,
         "children": [
           {
             "id": "4a59cfb5052bd61b",
@@ -28,7 +28,7 @@
       {
         "id": "d4e8b2a5086247ef",
         "type": "tabs",
-        "dimension": 30.097087378640776,
+        "dimension": 47.86407766990291,
         "children": [
           {
             "id": "68719f81e6d2194a",
@@ -171,8 +171,9 @@
       "marp-slides:Show Slide Preview": false
     }
   },
-  "active": "4a59cfb5052bd61b",
+  "active": "68719f81e6d2194a",
   "lastOpenFiles": [
+    "01_DBA_SILVER試験勉強/2_SQL/23_タイムゾーン/23-01　タイムゾーン.md",
     "01_DBA_SILVER試験勉強/1_Oracleデータベース知識/01_アーキテクチャ/01-1　アーキテクチャ.md",
     "01_DBA_SILVER試験勉強/1_Oracleデータベース知識/01_アーキテクチャ/01-2　サーバプロセス.md",
     "01_DBA_SILVER試験勉強/4_その他/1-01　スキーマオブジェクトとセグメントを持つオブジェクト.md",
@@ -180,7 +181,6 @@
     "99_ignore項目/か.md",
     "01_DBA_SILVER試験勉強/1_Oracleデータベース知識/08_UNDOの管理/08-1　UNDO表領域.md",
     "README.md",
-    "01_DBA_SILVER試験勉強/2_SQL/23_タイムゾーン/23-01　タイムゾーン.md",
     "01_DBA_SILVER試験勉強/2_SQL/15_結合/15章　結合.md",
     "01_DBA_SILVER試験勉強/2_SQL/10_データの扱い/10-1　列別名.md",
     "01_DBA_SILVER試験勉強/2_SQL/18_トランザクション/18-01　トランザクション.md",
