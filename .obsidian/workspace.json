@@ -14,13 +14,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_DBA_SILVER試験勉強/1_Oracleデータベース知識/08_UNDOの管理/08-1　UNDO表領域.md",
+                "file": "01_DBA_SILVER試験勉強/4_その他/1-01　スキーマオブジェクトとセグメントを持つオブジェクト.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "08-1　UNDO表領域"
+              "title": "1-01　スキーマオブジェクトとセグメントを持つオブジェクト"
             }
           }
         ]
@@ -173,6 +173,10 @@
   },
   "active": "4a59cfb5052bd61b",
   "lastOpenFiles": [
+    "99_ignore項目/PKSHA面談準備.md",
+    "99_ignore項目/か.md",
+    "01_DBA_SILVER試験勉強/4_その他/1-01　スキーマオブジェクトとセグメントを持つオブジェクト.md",
+    "01_DBA_SILVER試験勉強/1_Oracleデータベース知識/08_UNDOの管理/08-1　UNDO表領域.md",
     "README.md",
     "01_DBA_SILVER試験勉強/2_SQL/23_タイムゾーン/23-01　タイムゾーン.md",
     "01_DBA_SILVER試験勉強/2_SQL/15_結合/15章　結合.md",
@@ -195,10 +199,6 @@
     "01_DBA_SILVER試験勉強/1_Oracleデータベース知識/04_Oracle Net Service/04-3　データベースリンク.md",
     "01_DBA_SILVER試験勉強/3_模試/模試　2025-06-01.md",
     "01_DBA_SILVER試験勉強/2_SQL/20_索引、シーケンス、シノニム/20-3　シノニム.md",
-    "01_DBA_SILVER試験勉強/2_SQL/19_DDLの理解/19-03　ALTER TABLE文.md",
-    "01_DBA_SILVER試験勉強/4_その他/4-01　スキーマオブジェクトとセグメントを持つオブジェクト.md",
-    "01_DBA_SILVER試験勉強/2_SQL/20_索引、シーケンス、シノニム/20-1　索引.md",
-    "01_DBA_SILVER試験勉強/2_SQL/20_索引、シーケンス、シノニム/20-2　シーケンス.md",
     "01_DBA_SILVER試験勉強/4_その他",
     "01_DBA_SILVER試験勉強/images/Pasted image 20250605214657.png",
     "01_DBA_SILVER試験勉強/images/Pasted image 20250605215829.png",
