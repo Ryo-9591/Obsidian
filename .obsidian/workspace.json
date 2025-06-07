@@ -6,7 +6,7 @@
       {
         "id": "8a72c66c10f2b9f3",
         "type": "tabs",
-        "dimension": 51.00193923723335,
+        "dimension": 59.72850678733032,
         "children": [
           {
             "id": "11d0ac7a89840e3f",
@@ -22,13 +22,26 @@
               "icon": "lucide-file",
               "title": "07-3　領域の節約(表圧縮、索引使用不可)"
             }
+          },
+          {
+            "id": "5c9d12b053ad7da4",
+            "type": "leaf",
+            "state": {
+              "type": "surfing-view",
+              "state": {
+                "url": "https://qiita.com/plusultra/items/b4d8a6fdfb158be5249b"
+              },
+              "icon": "lucide-file",
+              "title": "テーブル圧縮の効果を試す (Oracle Database) #oracle - Qiita"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "1ae93134dafa4069",
         "type": "tabs",
-        "dimension": 17.8409825468649,
+        "dimension": 12.928248222365871,
         "children": [
           {
             "id": "4a59cfb5052bd61b",
@@ -50,7 +63,7 @@
       {
         "id": "d4e8b2a5086247ef",
         "type": "tabs",
-        "dimension": 31.157078215901745,
+        "dimension": 27.343244990303813,
         "children": [
           {
             "id": "68719f81e6d2194a",
@@ -65,21 +78,8 @@
               "icon": "lucide-file",
               "title": "Oracle接続方法の概要"
             }
-          },
-          {
-            "id": "5c9d12b053ad7da4",
-            "type": "leaf",
-            "state": {
-              "type": "surfing-view",
-              "state": {
-                "url": "https://www.google.com/search?q=oracle%20%E8%A1%8C%E5%9C%A7%E7%B8%AE"
-              },
-              "icon": "lucide-file",
-              "title": "oracle 行圧縮 - Google 検索"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
