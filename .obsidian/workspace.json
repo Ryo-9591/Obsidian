@@ -6,10 +6,32 @@
       {
         "id": "8a72c66c10f2b9f3",
         "type": "tabs",
-        "dimension": 52.002583979328165,
+        "dimension": 54.29864253393665,
         "children": [
           {
             "id": "11d0ac7a89840e3f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01_DBA_SILVER試験勉強/1_Oracleデータベース知識/04_Oracle Net Service/04-1　Oracle Net Service.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "04-1　Oracle Net Service"
+            }
+          }
+        ]
+      },
+      {
+        "id": "1ae93134dafa4069",
+        "type": "tabs",
+        "dimension": 17.129928894634777,
+        "children": [
+          {
+            "id": "4a59cfb5052bd61b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -28,7 +50,7 @@
       {
         "id": "d4e8b2a5086247ef",
         "type": "tabs",
-        "dimension": 47.997416020671835,
+        "dimension": 28.57142857142857,
         "children": [
           {
             "id": "68719f81e6d2194a",
@@ -173,8 +195,11 @@
   },
   "active": "11d0ac7a89840e3f",
   "lastOpenFiles": [
-    "01_DBA_SILVER試験勉強/3_模試/模試　2025-06-01.md",
     "01_DBA_SILVER試験勉強/3_模試/模試　2025-06-07.md",
+    "01_DBA_SILVER試験勉強/1_Oracleデータベース知識/04_Oracle Net Service/04-1　Oracle Net Service.md",
+    "01_DBA_SILVER試験勉強/1_Oracleデータベース知識/04_Oracle Net Service/04-2　共有サーバ.md",
+    "01_DBA_SILVER試験勉強/1_Oracleデータベース知識/04_Oracle Net Service/04-3　データベースリンク.md",
+    "01_DBA_SILVER試験勉強/3_模試/模試　2025-06-01.md",
     "01_DBA_SILVER試験勉強/2_SQL/23_タイムゾーン/23-01　タイムゾーン.md",
     "01_DBA_SILVER試験勉強/2_SQL/20_索引、シーケンス、シノニム/20-3　シノニム.md",
     "01_DBA_SILVER試験勉強/2_SQL/19_DDLの理解/19-03　ALTER TABLE文.md",
@@ -203,9 +228,6 @@
     "01_DBA_SILVER試験勉強/images/Pasted image 20250605215331.png",
     "01_DBA_SILVER試験勉強/images/Pasted image 20250605215052.png",
     "01_DBA_SILVER試験勉強/images/Pasted image 20250605214926.png",
-    "01_DBA_SILVER試験勉強/1_Oracleデータベース知識/09_データの移動/09-1　Oracle Data Pump.md",
-    "01_DBA_SILVER試験勉強/1_Oracleデータベース知識/09_データの移動/09-2　SQL Loader.md",
-    "01_DBA_SILVER試験勉強/1_Oracleデータベース知識/09_データの移動/09-3　外部表.md",
     "01_DBA_SILVER試験勉強/images/Pasted image 20250605081147.png",
     "01_DBA_SILVER試験勉強/images/Pasted image 20250605082231.png",
     "01_DBA_SILVER試験勉強/images/Pasted image 20250605082215.png",
