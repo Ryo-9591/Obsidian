@@ -14,13 +14,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_DBA_SILVER試験勉強/01_Oracleデータベース知識/01_アーキテクチャ/01-1　アーキテクチャ.md",
+                "file": "01_DBA_SILVER試験勉強/01_Oracleデータベース知識/03_インスタンス関連/03-1　インスタンスの管理.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "01-1　アーキテクチャ"
+              "title": "03-1　インスタンスの管理"
             }
           }
         ]
@@ -136,13 +136,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01_DBA_SILVER試験勉強/01_Oracleデータベース知識/01_アーキテクチャ/01-1　アーキテクチャ.md",
+                "file": "01_DBA_SILVER試験勉強/01_Oracleデータベース知識/03_インスタンス関連/03-1　インスタンスの管理.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "01-1　アーキテクチャのアウトライン"
+              "title": "03-1　インスタンスの管理のアウトライン"
             }
           },
           {
@@ -173,20 +173,20 @@
   },
   "active": "a7b6f2b179639b8f",
   "lastOpenFiles": [
-    "01_DBA_SILVER試験勉強/01_Oracleデータベース知識/01_アーキテクチャ/01-4　バックグラウンドプロセス.md",
+    "01_DBA_SILVER試験勉強/01_Oracleデータベース知識/03_インスタンス関連/03-2　データディクショナリビューと動的パフォーマンス.md",
     "01_DBA_SILVER試験勉強/01_Oracleデータベース知識/03_インスタンス関連/03-1　インスタンスの管理.md",
+    "01_DBA_SILVER試験勉強/01_Oracleデータベース知識/01_アーキテクチャ/01-1　アーキテクチャ.md",
+    "01_DBA_SILVER試験勉強/01_Oracleデータベース知識/01_アーキテクチャ/01-4　バックグラウンドプロセス.md",
     "01_DBA_SILVER試験勉強/01_Oracleデータベース知識/02_ツール/02-2　SQL Plus.md",
     "01_DBA_SILVER試験勉強/01_Oracleデータベース知識/02_ツール/02-1　DBCA(Database Configuration Assistant).md",
     "01_DBA_SILVER試験勉強/01_Oracleデータベース知識/01_アーキテクチャ/01-2　サーバプロセス.md",
     "01_DBA_SILVER試験勉強/01_Oracleデータベース知識/01_アーキテクチャ/01-3　SGA.md",
-    "01_DBA_SILVER試験勉強/01_Oracleデータベース知識/01_アーキテクチャ/01-1　アーキテクチャ.md",
     "01_DBA_SILVER試験勉強/01_Oracleデータベース知識/05_ユーザ、権限、ロール/05-7　プロファイル.md",
     "01_DBA_SILVER試験勉強/01_Oracleデータベース知識/04_Oracle Net Service/04-2　共有サーバ.md",
     "01_DBA_SILVER試験勉強/01_Oracleデータベース知識/04_Oracle Net Service/04-3　データベースリンク.md",
     "99_ignore項目/か.md",
     "01_DBA_SILVER試験勉強/04_AI生成問題/03_表領域管理.md",
     "01_DBA_SILVER試験勉強/04_AI生成問題/11_データベース開発.md",
-    "01_DBA_SILVER試験勉強/01_Oracleデータベース知識/03_インスタンス関連/03-2　データディクショナリビューと動的パフォーマンス.md",
     "01_DBA_SILVER試験勉強/04_AI生成問題/02_インスタンス管理.md",
     "01_DBA_SILVER試験勉強/01_Oracleデータベース知識/03_インスタンス関連/03-3　ADR(自動診断リポジトリ).md",
     "01_DBA_SILVER試験勉強/04_AI生成問題/01_アーキテクチャ.md",
