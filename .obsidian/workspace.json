@@ -14,13 +14,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_DBA_SILVER試験勉強/02_SQL/10_データの扱い/10-1　列別名.md",
+                "file": "99_ignore項目/github.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "10-1　列別名"
+              "title": "github"
             }
           }
         ]
@@ -136,13 +136,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01_DBA_SILVER試験勉強/02_SQL/10_データの扱い/10-1　列別名.md",
+                "file": "99_ignore項目/github.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "10-1　列別名のアウトライン"
+              "title": "githubのアウトライン"
             }
           },
           {
@@ -173,6 +173,8 @@
   },
   "active": "58392aaeeda87af9",
   "lastOpenFiles": [
+    "README.md",
+    "01_DBA_SILVER試験勉強/02_SQL/10_データの扱い/10-1　列別名.md",
     "01_DBA_SILVER試験勉強/01_Oracleデータベース知識/03_インスタンス関連/03-1　インスタンスの管理.md",
     "01_DBA_SILVER試験勉強/01_Oracleデータベース知識/05_ユーザ、権限、ロール/05-7　プロファイル.md",
     "01_DBA_SILVER試験勉強/01_Oracleデータベース知識/05_ユーザ、権限、ロール/05-6　セキュリティ.md",
@@ -197,8 +199,6 @@
     "01_DBA_SILVER試験勉強/01_Oracleデータベース知識/04_Oracle Net Service/04-2　共有サーバ.md",
     "01_DBA_SILVER試験勉強/01_Oracleデータベース知識/04_Oracle Net Service/04-3　データベースリンク.md",
     "01_DBA_SILVER試験勉強/01_Oracleデータベース知識/04_Oracle Net Service/04-1　Oracle Net Service.md",
-    "01_DBA_SILVER試験勉強/01_Oracleデータベース知識/03_インスタンス関連/03-2　データディクショナリビューと動的パフォーマンス.md",
-    "01_DBA_SILVER試験勉強/01_Oracleデータベース知識/03_インスタンス関連/03-3　ADR(自動診断リポジトリ).md",
     "01_DBA_SILVER試験勉強/04_AI生成問題",
     "01_DBA_SILVER試験勉強/03_模試",
     "01_DBA_SILVER試験勉強/02_SQL/21_ビュー",
