@@ -6,7 +6,7 @@
       {
         "id": "d4e8b2a5086247ef",
         "type": "tabs",
-        "dimension": 63.37931034482759,
+        "dimension": 58.060109289617486,
         "children": [
           {
             "id": "a7b6f2b179639b8f",
@@ -28,7 +28,7 @@
       {
         "id": "2c55f351c21760d7",
         "type": "tabs",
-        "dimension": 36.62068965517241,
+        "dimension": 41.939890710382514,
         "children": [
           {
             "id": "68719f81e6d2194a",
@@ -136,12 +136,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "01_DBA_SILVER試験勉強/04_AI生成問題/03_表領域管理.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "アウトライン"
+              "title": "03_表領域管理のアウトライン"
             }
           },
           {
@@ -170,10 +171,10 @@
       "marp-slides:Show Slide Preview": false
     }
   },
-  "active": "68719f81e6d2194a",
+  "active": "a7b6f2b179639b8f",
   "lastOpenFiles": [
-    "01_DBA_SILVER試験勉強/04_AI生成問題/11_データベース開発.md",
     "01_DBA_SILVER試験勉強/04_AI生成問題/03_表領域管理.md",
+    "01_DBA_SILVER試験勉強/04_AI生成問題/11_データベース開発.md",
     "01_DBA_SILVER試験勉強/01_Oracleデータベース知識/03_インスタンス関連/03-2　データディクショナリビューと動的パフォーマンス.md",
     "01_DBA_SILVER試験勉強/04_AI生成問題/02_インスタンス管理.md",
     "01_DBA_SILVER試験勉強/01_Oracleデータベース知識/03_インスタンス関連/03-3　ADR(自動診断リポジトリ).md",
