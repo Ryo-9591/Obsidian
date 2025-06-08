@@ -14,13 +14,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "01_Knowledge/DBA_SILVER試験勉強/01_Oracleデータベース知識/01_アーキテクチャ/01-1　アーキテクチャ.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "01-1　アーキテクチャ"
             }
           }
         ]
@@ -136,13 +136,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
+                "file": "01_Knowledge/DBA_SILVER試験勉強/01_Oracleデータベース知識/01_アーキテクチャ/01-1　アーキテクチャ.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "READMEのアウトライン"
+              "title": "01-1　アーキテクチャのアウトライン"
             }
           },
           {
@@ -171,8 +171,9 @@
       "marp-slides:Show Slide Preview": false
     }
   },
-  "active": "58392aaeeda87af9",
+  "active": "a7b6f2b179639b8f",
   "lastOpenFiles": [
+    "README.md",
     "04_Daily",
     "01_Knowledge/DBA_GOLD試験勉強",
     "01_Knowledge/DBA_Gold",
@@ -193,7 +194,6 @@
     "03_Article/02_Qiita記事/【API使用量無料】Python × Gemini APIで作る！AIレシピ生成アプリ/typing_generator.md",
     "03_Article/02_Qiita記事/【API使用量無料】Python × Gemini APIで作る！AIレシピ生成アプリ/img",
     "03_Article/02_Qiita記事/【革命】スライド作成がAI任せに！Cursor×Marp最強タッグ💪",
-    "03_Article/02_Qiita記事/【API使用量無料】Python × Gemini APIで作る！AIレシピ生成アプリ",
     "01_Knowledge/DBA_SILVER試験勉強/02_SQL/23_タイムゾーン/23-02　期間データ型.md",
     "01_Knowledge/DBA_SILVER試験勉強/02_SQL/23_タイムゾーン/23-01　タイムゾーン.md",
     "01_Knowledge/DBA_SILVER試験勉強/02_SQL/22_制約と一時表/22-04　一時表.md",
