@@ -36,6 +36,25 @@ DEPARTMENTS (DEPARTMENT_ID, DEPARTMENT_NAME)
    GROUP BY d.DEPARTMENT_NAME;
    ```
 
+<details>
+<summary>答えと解説</summary>
+
+### 答え
+2. ```sql
+   SELECT d.DEPARTMENT_NAME, AVG(e.SALARY)
+   FROM EMPLOYEES e
+   JOIN DEPARTMENTS d ON e.DEPARTMENT_ID = d.DEPARTMENT_ID
+   GROUP BY d.DEPARTMENT_NAME;
+   ```
+
+### 解説
+- 選択肢1：古い形式の結合構文を使用しており、推奨されない
+- 選択肢2：標準的なINNER JOINを使用し、部署ごとの平均給与を正しく計算
+- 選択肢3：LEFT JOINを使用すると、部署に所属していない社員も含まれる
+- 選択肢4：RIGHT JOINを使用すると、社員が存在しない部署も含まれる
+
+</details>
+
 ## 問題2
 以下のテーブル構造がある場合、給与が部署の平均給与より高い社員を抽出するSQL文として正しいものを2つ選びなさい。
 
@@ -95,6 +114,22 @@ DEPARTMENTS (DEPARTMENT_ID, DEPARTMENT_NAME)
    );
    ```
 
+<details>
+<summary>答えと解説</summary>
+
+### 答え
+1. 相関サブクエリを使用した方法
+2. インラインビューを使用した方法
+
+### 解説
+- 選択肢1：相関サブクエリを使用して、各社員の部署の平均給与と比較
+- 選択肢2：インラインビューで部署ごとの平均給与を計算し、JOINで結合
+- 選択肢3：全社の平均給与と比較しており、部署ごとの比較ではない
+- 選択肢4：不要なDEPARTMENTSテーブルとの結合を含む
+- 選択肢5：GROUP BYを含むサブクエリは単一の値を返さないためエラー
+
+</details>
+
 ## 問題3
 以下のテーブル構造がある場合、各部署の給与の合計が1000000を超える部署を抽出するSQL文として正しいものを1つ選びなさい。
 
@@ -134,6 +169,26 @@ DEPARTMENTS (DEPARTMENT_ID, DEPARTMENT_NAME)
    HAVING SUM(e.SALARY) > 1000000
    GROUP BY d.DEPARTMENT_NAME;
    ```
+
+<details>
+<summary>答えと解説</summary>
+
+### 答え
+1. ```sql
+   SELECT d.DEPARTMENT_NAME, SUM(e.SALARY)
+   FROM EMPLOYEES e
+   JOIN DEPARTMENTS d ON e.DEPARTMENT_ID = d.DEPARTMENT_ID
+   GROUP BY d.DEPARTMENT_NAME
+   HAVING SUM(e.SALARY) > 1000000;
+   ```
+
+### 解説
+- 選択肢1：正しい構文。GROUP BYの後にHAVING句を使用
+- 選択肢2：WHERE句で集計関数を使用できない
+- 選択肢3：WHERE句はGROUP BYの前に配置する必要がある
+- 選択肢4：HAVING句はGROUP BYの後に配置する必要がある
+
+</details>
 
 ## 問題4
 以下のテーブル構造がある場合、各部署の給与の合計が1000000を超える部署の社員数を抽出するSQL文として正しいものを2つ選びなさい。
@@ -188,6 +243,22 @@ DEPARTMENTS (DEPARTMENT_ID, DEPARTMENT_NAME)
    HAVING COUNT(e.EMPLOYEE_ID) > 1000000;
    ```
 
+<details>
+<summary>答えと解説</summary>
+
+### 答え
+1. HAVING句を使用した方法
+2. サブクエリを使用した方法
+
+### 解説
+- 選択肢1：正しい構文。HAVING句で給与合計の条件を指定
+- 選択肢2：正しい構文。サブクエリで条件を満たす部署を特定
+- 選択肢3：WHERE句で集計関数を使用できない
+- 選択肢4：HAVING句はGROUP BYの後に配置する必要がある
+- 選択肢5：社員数の条件になっている
+
+</details>
+
 ## 問題5
 以下のテーブル構造がある場合、各部署の給与の合計が1000000を超える部署の社員数を抽出するSQL文として正しいものを1つ選びなさい。
 
@@ -232,6 +303,26 @@ DEPARTMENTS (DEPARTMENT_ID, DEPARTMENT_NAME)
    HAVING SUM(e.SALARY) > 1000000
    GROUP BY d.DEPARTMENT_NAME;
    ```
+
+<details>
+<summary>答えと解説</summary>
+
+### 答え
+1. ```sql
+   SELECT d.DEPARTMENT_NAME, COUNT(e.EMPLOYEE_ID)
+   FROM EMPLOYEES e
+   JOIN DEPARTMENTS d ON e.DEPARTMENT_ID = d.DEPARTMENT_ID
+   GROUP BY d.DEPARTMENT_NAME
+   HAVING SUM(e.SALARY) > 1000000;
+   ```
+
+### 解説
+- 選択肢1：最も簡潔で効率的な方法。HAVING句で条件を指定
+- 選択肢2：正しいが、サブクエリを使用するため複雑
+- 選択肢3：WHERE句で集計関数を使用できない
+- 選択肢4：HAVING句はGROUP BYの後に配置する必要がある
+
+</details>
 
 SQL実践について、以下の選択肢から正しいものを1つ選びなさい。
 
