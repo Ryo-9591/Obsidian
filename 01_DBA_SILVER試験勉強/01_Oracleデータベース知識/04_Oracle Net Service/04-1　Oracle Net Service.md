@@ -1,8 +1,120 @@
 # Oracle Net Service
-クライアントからOracleデータベースに接続する仕組み
-## 役割
-・データベース接続の確立
-・名前解決
+
+## 1. 概要
+Oracle Net Serviceは、クライアントからOracleデータベースに接続するための仕組みです。
+
+### 1.1 主な役割
+- データベース接続の確立
+- 名前解決
+- ネットワーク通信の管理
+
+## 2. 設定ツール
+
+### 2.1 Oracle Enterprise Manager Cloud Control
+- GUIベースの管理ツール
+- 複数データベースの一元管理が可能
+
+### 2.2 Oracle Net Manager
+- GUIベースの設定ツール
+- ローカルのデータベースサーバーのネーミングメソッドを管理
+
+### 2.3 Oracle Net Configuration Assistant
+- GUIベースの設定ツール
+- 以下の設定が可能：
+  - tnsnames.ora
+  - リスナー
+  - ネーミングメソッド
+  - ネットサービス名
+  - ディレクトリ使用
+
+## 3. 接続設定
+
+### 3.1 クライアント側の設定
+
+#### 3.1.1 ローカルネーミング
+- クライアント側にtnsnames.oraを配置
+- ファイルパス：`<ORACLE_HOME>/network/admin/tnsnames.ora`
+- 設定例：
+```tnsnames
+ORCL =
+  (DESCRIPTION = 
+    (ADDRESS = (PROTOCOL =TCP)(HOST = db.oracle.com)(PORT = 1521))
+    (CONNECT_DATA = 
+      (SERVICE_NAME = orcl.world)
+    )
+  )
+```
+
+#### 3.1.2 簡易接続ネーミング
+- 接続識別子に直接接続情報を記述
+- 形式：`sqlplus system/Password123@db.oracle.com:1521/orcl.world`
+  - system：ユーザ名
+  - Password123：パスワード
+  - db.oracle.com：ホスト名
+  - 1521：ポート
+  - orcl.world：サービス名
+
+### 3.2 サーバー側の設定
+
+#### 3.2.1 動的サービス登録
+- LREGプロセスによる自動登録
+- LOCAL_LISTENER初期化パラメータで設定
+- インスタンス停止時は登録不可
+- 確認方法：`lsnrctl services`（status=READY）
+
+#### 3.2.2 静的サービス登録
+- listener.oraに手動で設定
+- インスタンス停止時も登録状態を維持
+- 確認方法：`lsnrctl services`（status=UNKNOWN）
+
+## 4. トラブルシューティング
+
+### 4.1 一般的なエラー
+
+#### 4.1.1 ORA-12154
+- 原因：tnsnames.oraの問題
+- 確認事項：
+  - サービス名の記述
+  - ファイルの配置場所
+
+#### 4.1.2 TNS-12541
+- 原因：通信設定の問題
+- 確認事項：
+  - IPアドレスとポート番号
+  - リスナーの起動状態
+
+#### 4.1.3 ORA-12514
+- 原因：サービス未登録
+- 確認事項：
+  - グローバルデータベース名
+  - サービス登録状態
+
+### 4.2 接続確認
+- tnspingユーティリティの使用
+- 例：`tnsping ORCL`
+
+## 5. 高可用性機能
+
+### 5.1 接続時フェイルオーバー
+- プライマリ接続失敗時にセカンダリに接続
+- FAILOVER = ONで設定
+
+### 5.2 接続時ロードバランシング
+- 負荷分散のためのランダム接続
+- LOAD_BALANCE = ONで設定
+
+### 5.3 透過的アプリケーションフェイルオーバー(TAF)
+- 接続切断時の自動再接続
+- 実行中のSELECT文を継続
+- 接続時フェイルオーバーと併用可能
+
+## 6. 環境変数
+- TNS_ADMIN：設定ファイルの代替配置場所を指定
+- 対象ファイル：
+  - tnsnames.ora
+  - listener.ora
+  - sqlnet.ora
+
 # Oracle Net Service設定に使用するツール３つ
 ## Oracle Enterprise Manager Cloud Control
 GUI、一元管理
