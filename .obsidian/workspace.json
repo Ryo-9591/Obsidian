@@ -14,13 +14,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_DBA_SILVER試験勉強/01_Oracleデータベース知識/05_ユーザ、権限、ロール/05-7　プロファイル.md",
+                "file": "01_DBA_SILVER試験勉強/01_Oracleデータベース知識/01_アーキテクチャ/01-1　アーキテクチャ.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "05-7　プロファイル"
+              "title": "01-1　アーキテクチャ"
             }
           }
         ]
@@ -43,21 +43,8 @@
               "icon": "lucide-file",
               "title": "Oracle接続方法の概要"
             }
-          },
-          {
-            "id": "31cfe1c6b37f912e",
-            "type": "leaf",
-            "state": {
-              "type": "surfing-view",
-              "state": {
-                "url": "https://signon.oracle.com/signin"
-              },
-              "icon": "lucide-file",
-              "title": "Oracleにサインイン"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -149,13 +136,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01_DBA_SILVER試験勉強/01_Oracleデータベース知識/05_ユーザ、権限、ロール/05-7　プロファイル.md",
+                "file": "01_DBA_SILVER試験勉強/01_Oracleデータベース知識/01_アーキテクチャ/01-1　アーキテクチャ.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "05-7　プロファイルのアウトライン"
+              "title": "01-1　アーキテクチャのアウトライン"
             }
           },
           {
