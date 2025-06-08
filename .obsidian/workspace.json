@@ -14,13 +14,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_DBA_SILVER試験勉強/04_AI生成問題/02_インスタンス管理.md",
+                "file": "01_DBA_SILVER試験勉強/01_Oracleデータベース知識/03_インスタンス関連/03-2　データディクショナリビューと動的パフォーマンス.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "02_インスタンス管理"
+              "title": "03-2　データディクショナリビューと動的パフォーマンス"
             }
           }
         ]
@@ -136,13 +136,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01_DBA_SILVER試験勉強/04_AI生成問題/02_インスタンス管理.md",
+                "file": "01_DBA_SILVER試験勉強/01_Oracleデータベース知識/03_インスタンス関連/03-2　データディクショナリビューと動的パフォーマンス.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "02_インスタンス管理のアウトライン"
+              "title": "03-2　データディクショナリビューと動的パフォーマンスのアウトライン"
             }
           },
           {
@@ -173,9 +173,9 @@
   },
   "active": "a7b6f2b179639b8f",
   "lastOpenFiles": [
+    "01_DBA_SILVER試験勉強/04_AI生成問題/02_インスタンス管理.md",
     "01_DBA_SILVER試験勉強/01_Oracleデータベース知識/03_インスタンス関連/03-2　データディクショナリビューと動的パフォーマンス.md",
     "01_DBA_SILVER試験勉強/01_Oracleデータベース知識/03_インスタンス関連/03-3　ADR(自動診断リポジトリ).md",
-    "01_DBA_SILVER試験勉強/04_AI生成問題/02_インスタンス管理.md",
     "01_DBA_SILVER試験勉強/04_AI生成問題/01_アーキテクチャ.md",
     "01_DBA_SILVER試験勉強/01_Oracleデータベース知識/01_アーキテクチャ/01-1　アーキテクチャ.md",
     "01_DBA_SILVER試験勉強/1_Oracleデータベース知識/03_インスタンス関連/03-4　初期化パラメータ.md",
