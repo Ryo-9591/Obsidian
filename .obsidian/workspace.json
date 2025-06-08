@@ -14,13 +14,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_DBA_SILVER試験勉強/01_Oracleデータベース知識/04_Oracle Net Service/04-2　共有サーバ.md",
+                "file": "01_DBA_SILVER試験勉強/01_Oracleデータベース知識/05_ユーザ、権限、ロール/05-2　権限.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "04-2　共有サーバ"
+              "title": "05-2　権限"
             }
           }
         ]
@@ -136,13 +136,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01_DBA_SILVER試験勉強/01_Oracleデータベース知識/04_Oracle Net Service/04-2　共有サーバ.md",
+                "file": "01_DBA_SILVER試験勉強/01_Oracleデータベース知識/05_ユーザ、権限、ロール/05-2　権限.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "04-2　共有サーバのアウトライン"
+              "title": "05-2　権限のアウトライン"
             }
           },
           {
@@ -173,6 +173,8 @@
   },
   "active": "a7b6f2b179639b8f",
   "lastOpenFiles": [
+    "01_DBA_SILVER試験勉強/01_Oracleデータベース知識/05_ユーザ、権限、ロール/05-1　ユーザ.md",
+    "01_DBA_SILVER試験勉強/01_Oracleデータベース知識/04_Oracle Net Service/04-2　共有サーバ.md",
     "01_DBA_SILVER試験勉強/01_Oracleデータベース知識/04_Oracle Net Service/04-3　データベースリンク.md",
     "01_DBA_SILVER試験勉強/01_Oracleデータベース知識/04_Oracle Net Service/04-1　Oracle Net Service.md",
     "01_DBA_SILVER試験勉強/01_Oracleデータベース知識/03_インスタンス関連/03-4　初期化パラメータ.md",
@@ -186,7 +188,6 @@
     "01_DBA_SILVER試験勉強/01_Oracleデータベース知識/01_アーキテクチャ/01-2　サーバプロセス.md",
     "01_DBA_SILVER試験勉強/01_Oracleデータベース知識/01_アーキテクチャ/01-3　SGA.md",
     "01_DBA_SILVER試験勉強/01_Oracleデータベース知識/05_ユーザ、権限、ロール/05-7　プロファイル.md",
-    "01_DBA_SILVER試験勉強/01_Oracleデータベース知識/04_Oracle Net Service/04-2　共有サーバ.md",
     "99_ignore項目/か.md",
     "01_DBA_SILVER試験勉強/04_AI生成問題/03_表領域管理.md",
     "01_DBA_SILVER試験勉強/04_AI生成問題/11_データベース開発.md",
@@ -198,7 +199,6 @@
     "01_DBA_SILVER試験勉強/04_AI生成問題/11_SQL.md",
     "01_DBA_SILVER試験勉強/04_AI生成問題/22_データベースリカバリ.md",
     "01_DBA_SILVER試験勉強/04_AI生成問題/21_データベースバックアップ.md",
-    "01_DBA_SILVER試験勉強/04_AI生成問題/20_データベース監視.md",
     "01_DBA_SILVER試験勉強/04_AI生成問題",
     "01_DBA_SILVER試験勉強/03_模試",
     "01_DBA_SILVER試験勉強/02_SQL/21_ビュー",
