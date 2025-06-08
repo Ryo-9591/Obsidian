@@ -136,13 +136,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01_DBA_SILVER試験勉強/1_Oracleデータベース知識/03_インスタンス関連/03-4　初期化パラメータ.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "03-4　初期化パラメータのアウトライン"
+              "title": "アウトライン"
             }
           },
           {
@@ -171,8 +170,9 @@
       "marp-slides:Show Slide Preview": false
     }
   },
-  "active": "a7b6f2b179639b8f",
+  "active": "68719f81e6d2194a",
   "lastOpenFiles": [
+    "01_DBA_SILVER試験勉強/1_Oracleデータベース知識/03_インスタンス関連/03-4　初期化パラメータ.md",
     "01_DBA_SILVER試験勉強/1_Oracleデータベース知識/05_ユーザ、権限、ロール/05-4　認証.md",
     "01_DBA_SILVER試験勉強/1_Oracleデータベース知識/05_ユーザ、権限、ロール/05-7　プロファイル.md",
     "01_DBA_SILVER試験勉強/1_Oracleデータベース知識/04_Oracle Net Service/04-1　Oracle Net Service.md",
@@ -202,7 +202,6 @@
     "01_DBA_SILVER試験勉強/2_SQL/21_ビュー/21-01　ビュー.md",
     "01_DBA_SILVER試験勉強/2_SQL/20_索引、シーケンス、シノニム/20-2　シーケンス.md",
     "01_DBA_SILVER試験勉強/2_SQL/20_索引、シーケンス、シノニム/20-3　シノニム.md",
-    "01_DBA_SILVER試験勉強/2_SQL/20_索引、シーケンス、シノニム/20-1　索引.md",
     "01_DBA_SILVER試験勉強/04_資格試験準備セミナーORACLE MASTER Silver DBA 2019",
     "01_DBA_SILVER試験勉強/4_その他",
     "01_DBA_SILVER試験勉強/images/Pasted image 20250605214657.png",
