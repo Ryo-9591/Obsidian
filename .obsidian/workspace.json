@@ -6,7 +6,7 @@
       {
         "id": "d4e8b2a5086247ef",
         "type": "tabs",
-        "dimension": 70.88204038257173,
+        "dimension": 59.67056323060574,
         "children": [
           {
             "id": "a7b6f2b179639b8f",
@@ -28,7 +28,7 @@
       {
         "id": "2c55f351c21760d7",
         "type": "tabs",
-        "dimension": 29.11795961742827,
+        "dimension": 40.32943676939426,
         "children": [
           {
             "id": "68719f81e6d2194a",
@@ -136,13 +136,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "99_ignore項目/github.md",
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "githubのアウトライン"
+              "title": "READMEのアウトライン"
             }
           },
           {
@@ -173,6 +173,7 @@
   },
   "active": "58392aaeeda87af9",
   "lastOpenFiles": [
+    "99_ignore項目/github.md",
     "README.md",
     "01_DBA_SILVER試験勉強/02_SQL/10_データの扱い/10-1　列別名.md",
     "01_DBA_SILVER試験勉強/01_Oracleデータベース知識/03_インスタンス関連/03-1　インスタンスの管理.md",
@@ -198,7 +199,6 @@
     "01_DBA_SILVER試験勉強/01_Oracleデータベース知識/06_表領域の管理/06-4　OMF(Oracle Managed Files).md",
     "01_DBA_SILVER試験勉強/01_Oracleデータベース知識/04_Oracle Net Service/04-2　共有サーバ.md",
     "01_DBA_SILVER試験勉強/01_Oracleデータベース知識/04_Oracle Net Service/04-3　データベースリンク.md",
-    "01_DBA_SILVER試験勉強/01_Oracleデータベース知識/04_Oracle Net Service/04-1　Oracle Net Service.md",
     "01_DBA_SILVER試験勉強/04_AI生成問題",
     "01_DBA_SILVER試験勉強/03_模試",
     "01_DBA_SILVER試験勉強/02_SQL/21_ビュー",
