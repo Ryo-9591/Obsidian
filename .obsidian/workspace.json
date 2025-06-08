@@ -6,7 +6,7 @@
       {
         "id": "d4e8b2a5086247ef",
         "type": "tabs",
-        "dimension": 48.8125,
+        "dimension": 41.875,
         "children": [
           {
             "id": "a7b6f2b179639b8f",
@@ -28,7 +28,7 @@
       {
         "id": "2c55f351c21760d7",
         "type": "tabs",
-        "dimension": 51.1875,
+        "dimension": 58.12500000000001,
         "children": [
           {
             "id": "68719f81e6d2194a",
@@ -50,10 +50,10 @@
             "state": {
               "type": "surfing-view",
               "state": {
-                "url": "https://learn.oracle.com/ols/course/oracle-database-sql-i-oracle-database-sql-workshop-i-jp/84763/89879"
+                "url": "https://signon.oracle.com/signin"
               },
               "icon": "lucide-file",
-              "title": "Oracle Database: SQL 基礎 I : Oracle Database: SQL Workshop I (JP) | Learn Oracle | Oracle Training and Certification"
+              "title": "Oracleにサインイン"
             }
           }
         ],
