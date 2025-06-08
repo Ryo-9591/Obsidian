@@ -6,7 +6,7 @@
       {
         "id": "d4e8b2a5086247ef",
         "type": "tabs",
-        "dimension": 69.03448275862068,
+        "dimension": 60.06896551724138,
         "children": [
           {
             "id": "a7b6f2b179639b8f",
@@ -28,7 +28,7 @@
       {
         "id": "2c55f351c21760d7",
         "type": "tabs",
-        "dimension": 30.96551724137931,
+        "dimension": 39.93103448275862,
         "children": [
           {
             "id": "68719f81e6d2194a",
@@ -136,13 +136,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01_DBA_SILVER試験勉強/1_Oracleデータベース知識/05_ユーザ、権限、ロール/05-7　プロファイル.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "05-7　プロファイルのアウトライン"
+              "title": "アウトライン"
             }
           },
           {
@@ -171,11 +170,11 @@
       "marp-slides:Show Slide Preview": false
     }
   },
-  "active": "a7b6f2b179639b8f",
+  "active": "68719f81e6d2194a",
   "lastOpenFiles": [
+    "01_DBA_SILVER試験勉強/1_Oracleデータベース知識/05_ユーザ、権限、ロール/05-7　プロファイル.md",
     "01_DBA_SILVER試験勉強/1_Oracleデータベース知識/05_ユーザ、権限、ロール/05-5　クオータ.md",
     "01_DBA_SILVER試験勉強/1_Oracleデータベース知識/05_ユーザ、権限、ロール/05-6　セキュリティ.md",
-    "01_DBA_SILVER試験勉強/1_Oracleデータベース知識/05_ユーザ、権限、ロール/05-7　プロファイル.md",
     "01_DBA_SILVER試験勉強/1_Oracleデータベース知識/05_ユーザ、権限、ロール/05-2　権限.md",
     "01_DBA_SILVER試験勉強/1_Oracleデータベース知識/05_ユーザ、権限、ロール/05-4　認証.md",
     "01_DBA_SILVER試験勉強/1_Oracleデータベース知識/05_ユーザ、権限、ロール/05-3　ロール.md",
