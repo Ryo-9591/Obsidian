@@ -6,7 +6,7 @@
       {
         "id": "d4e8b2a5086247ef",
         "type": "tabs",
-        "dimension": 60.06896551724138,
+        "dimension": 50.06896551724138,
         "children": [
           {
             "id": "a7b6f2b179639b8f",
@@ -28,7 +28,7 @@
       {
         "id": "2c55f351c21760d7",
         "type": "tabs",
-        "dimension": 39.93103448275862,
+        "dimension": 49.93103448275862,
         "children": [
           {
             "id": "68719f81e6d2194a",
@@ -136,12 +136,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "01_DBA_SILVER試験勉強/1_Oracleデータベース知識/03_インスタンス関連/03-4　初期化パラメータ.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "アウトライン"
+              "title": "03-4　初期化パラメータのアウトライン"
             }
           },
           {
@@ -170,7 +171,7 @@
       "marp-slides:Show Slide Preview": false
     }
   },
-  "active": "68719f81e6d2194a",
+  "active": "a7b6f2b179639b8f",
   "lastOpenFiles": [
     "01_DBA_SILVER試験勉強/1_Oracleデータベース知識/03_インスタンス関連/03-4　初期化パラメータ.md",
     "01_DBA_SILVER試験勉強/1_Oracleデータベース知識/05_ユーザ、権限、ロール/05-4　認証.md",
