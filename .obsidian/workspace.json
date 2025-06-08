@@ -6,7 +6,7 @@
       {
         "id": "d4e8b2a5086247ef",
         "type": "tabs",
-        "dimension": 58.060109289617486,
+        "dimension": 48.8125,
         "children": [
           {
             "id": "a7b6f2b179639b8f",
@@ -28,7 +28,7 @@
       {
         "id": "2c55f351c21760d7",
         "type": "tabs",
-        "dimension": 41.939890710382514,
+        "dimension": 51.1875,
         "children": [
           {
             "id": "68719f81e6d2194a",
@@ -43,8 +43,21 @@
               "icon": "lucide-file",
               "title": "Oracle接続方法の概要"
             }
+          },
+          {
+            "id": "31cfe1c6b37f912e",
+            "type": "leaf",
+            "state": {
+              "type": "surfing-view",
+              "state": {
+                "url": "https://learn.oracle.com/ols/course/oracle-database-sql-i-oracle-database-sql-workshop-i-jp/84763/89879"
+              },
+              "icon": "lucide-file",
+              "title": "Oracle Database: SQL 基礎 I : Oracle Database: SQL Workshop I (JP) | Learn Oracle | Oracle Training and Certification"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -120,7 +133,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 334.50499725341797
+    "width": 200
   },
   "right": {
     "id": "f533a687fa0a0077",
@@ -136,13 +149,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01_DBA_SILVER試験勉強/01_Oracleデータベース知識/05_ユーザ、権限、ロール/05-7　プロファイル.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "05-7　プロファイルのアウトライン"
+              "title": "アウトライン"
             }
           },
           {
@@ -171,8 +183,9 @@
       "marp-slides:Show Slide Preview": false
     }
   },
-  "active": "a7b6f2b179639b8f",
+  "active": "31cfe1c6b37f912e",
   "lastOpenFiles": [
+    "01_DBA_SILVER試験勉強/01_Oracleデータベース知識/05_ユーザ、権限、ロール/05-7　プロファイル.md",
     "01_DBA_SILVER試験勉強/01_Oracleデータベース知識/04_Oracle Net Service/04-2　共有サーバ.md",
     "01_DBA_SILVER試験勉強/01_Oracleデータベース知識/04_Oracle Net Service/04-3　データベースリンク.md",
     "01_DBA_SILVER試験勉強/01_Oracleデータベース知識/03_インスタンス関連/03-1　インスタンスの管理.md",
@@ -198,7 +211,6 @@
     "01_DBA_SILVER試験勉強/04_AI生成問題/15_データベースセキュリティ.md",
     "01_DBA_SILVER試験勉強/04_AI生成問題/14_データベースリカバリ.md",
     "01_DBA_SILVER試験勉強/04_AI生成問題/13_データベースバックアップ.md",
-    "01_DBA_SILVER試験勉強/04_AI生成問題/12_データベース監視.md",
     "01_DBA_SILVER試験勉強/04_AI生成問題",
     "01_DBA_SILVER試験勉強/03_模試",
     "01_DBA_SILVER試験勉強/02_SQL/21_ビュー",
