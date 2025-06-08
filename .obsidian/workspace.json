@@ -14,13 +14,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_DBA_SILVER試験勉強/1_Oracleデータベース知識/03_インスタンス関連/03-3　ADR(自動診断リポジトリ).md",
+                "file": "01_DBA_SILVER試験勉強/1_Oracleデータベース知識/03_インスタンス関連/03-4　初期化パラメータ.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "03-3　ADR(自動診断リポジトリ)"
+              "title": "03-4　初期化パラメータ"
             }
           }
         ]
@@ -120,7 +120,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 348.5124969482422
+    "width": 334.50499725341797
   },
   "right": {
     "id": "f533a687fa0a0077",
@@ -136,13 +136,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01_DBA_SILVER試験勉強/1_Oracleデータベース知識/03_インスタンス関連/03-3　ADR(自動診断リポジトリ).md",
+                "file": "01_DBA_SILVER試験勉強/1_Oracleデータベース知識/03_インスタンス関連/03-4　初期化パラメータ.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "03-3　ADR(自動診断リポジトリ)のアウトライン"
+              "title": "03-4　初期化パラメータのアウトライン"
             }
           },
           {
@@ -173,10 +173,13 @@
   },
   "active": "a7b6f2b179639b8f",
   "lastOpenFiles": [
+    "01_DBA_SILVER試験勉強/1_Oracleデータベース知識/04_Oracle Net Service/04-1　Oracle Net Service.md",
     "01_DBA_SILVER試験勉強/1_Oracleデータベース知識/03_インスタンス関連/03-4　初期化パラメータ.md",
+    "01_DBA_SILVER試験勉強/1_Oracleデータベース知識/03_インスタンス関連/03-3　ADR(自動診断リポジトリ).md",
+    "01_DBA_SILVER試験勉強/1_Oracleデータベース知識/03_インスタンス関連/03-1　インスタンスの管理.md",
+    "01_DBA_SILVER試験勉強/1_Oracleデータベース知識/03_インスタンス関連/03-2　データディクショナリビューと動的パフォーマンス.md",
     "01_DBA_SILVER試験勉強/1_Oracleデータベース知識/05_ユーザ、権限、ロール/05-4　認証.md",
     "01_DBA_SILVER試験勉強/1_Oracleデータベース知識/05_ユーザ、権限、ロール/05-7　プロファイル.md",
-    "01_DBA_SILVER試験勉強/1_Oracleデータベース知識/04_Oracle Net Service/04-1　Oracle Net Service.md",
     "01_DBA_SILVER試験勉強/1_Oracleデータベース知識/05_ユーザ、権限、ロール/05-5　クオータ.md",
     "01_DBA_SILVER試験勉強/1_Oracleデータベース知識/05_ユーザ、権限、ロール/05-6　セキュリティ.md",
     "01_DBA_SILVER試験勉強/1_Oracleデータベース知識/05_ユーザ、権限、ロール/05-2　権限.md",
@@ -200,9 +203,6 @@
     "Pasted image 20250607151127.png",
     "Pasted image 20250607150606.png",
     "01_DBA_SILVER試験勉強/2_SQL/22_制約と一時表/22-01　制約と一時表.md",
-    "01_DBA_SILVER試験勉強/2_SQL/21_ビュー/21-01　ビュー.md",
-    "01_DBA_SILVER試験勉強/2_SQL/20_索引、シーケンス、シノニム/20-2　シーケンス.md",
-    "01_DBA_SILVER試験勉強/2_SQL/20_索引、シーケンス、シノニム/20-3　シノニム.md",
     "01_DBA_SILVER試験勉強/04_資格試験準備セミナーORACLE MASTER Silver DBA 2019",
     "01_DBA_SILVER試験勉強/4_その他",
     "01_DBA_SILVER試験勉強/images/Pasted image 20250605214657.png",

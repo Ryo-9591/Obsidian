@@ -1,4 +1,4 @@
-# Oracle Net Serviceとは・・・
+# Oracle Net Service
 クライアントからOracleデータベースに接続する仕組み
 ## 役割
 ・データベース接続の確立
