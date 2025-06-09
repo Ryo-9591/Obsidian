@@ -27,6 +27,7 @@ UNDO表領域作成例：
 ### UNDO保存期間の保証
 #### RETEMTION GUARANTEE
 「UNDO_RETENTION初期化パラメータ」に設置した秒数「UNDO保存期間」の保証をする
+コミットされてからUNDO_RETENTION初期化パラメータ分だけ保存されそのあとは
 #### RETENTION NOGUARANTEE
 保存期間内でも古いUNDOを上書きできる
 ## ③「UNDO_TABLESPACE初期化パラメータ」をUNDO表領域の名前に設定
