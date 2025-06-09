@@ -120,7 +120,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 276.50499725341797
   },
   "right": {
     "id": "f533a687fa0a0077",
@@ -171,7 +171,7 @@
       "marp-slides:Show Slide Preview": false
     }
   },
-  "active": "a7b6f2b179639b8f",
+  "active": "58392aaeeda87af9",
   "lastOpenFiles": [
     "README.md",
     "04_Daily",
