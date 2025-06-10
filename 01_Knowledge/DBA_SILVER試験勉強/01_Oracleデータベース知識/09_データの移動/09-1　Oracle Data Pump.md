@@ -28,7 +28,7 @@
 
 impdp system/oracle
 SCHEMAS=hr,oe　
-REMAP_SCHEMA=hr_dev:hr　--
+REMAP_SCHEMA=hr_dev:hr　--別スキーマにインポートするときに指定
 DUMPFILE=orcl.dmp
 EXCLUDE=FUNCTION
 TABLE_EXISTS_ACTION=APPEND
