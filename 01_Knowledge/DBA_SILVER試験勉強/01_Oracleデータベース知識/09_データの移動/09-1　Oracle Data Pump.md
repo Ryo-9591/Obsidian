@@ -18,4 +18,8 @@
 # エクスポート例
 
 expdp scott/tiger
-DUMFILE=directory01:exp
+DUMFILE=directory01:exp_%U.dmp
+FILESIZE=1G
+PARALLEL=2
+LOGFILE=directory01:/exp_01.log
+JOB_NAME=exp_01
