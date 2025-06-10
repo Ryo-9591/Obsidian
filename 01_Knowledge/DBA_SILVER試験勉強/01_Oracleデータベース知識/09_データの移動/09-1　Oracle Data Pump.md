@@ -20,6 +20,6 @@
 expdp scott/tiger　--動作モードの指定がないためスキーマモード
 DUMFILE=directory01:exp_%U.dmp　
 FILESIZE=1G　--ダンプファイルの最大サイズは1G
-PARALLEL=2　--
-LOGFILE=directory01:/exp_01.log
-JOB_NAME=exp_01
+PARALLEL=2　--パラレル処理のスレッド数
+LOGFILE=directory01:/exp_01.log　
+JOB_NAME=exp_01　--ジョブ名を指定、しないと「SYS_EXPORT」からはじま
