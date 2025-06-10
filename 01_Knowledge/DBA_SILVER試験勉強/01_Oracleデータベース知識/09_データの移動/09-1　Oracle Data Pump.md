@@ -14,3 +14,4 @@
 `STOP_JOB=IMMEDIATE`　→アタッチしたジョブを即時停止
 `START_JOB`　→ジョブを再開
 `STATUS`　--ステートタス表示(EXECUTING(実行中))
+
