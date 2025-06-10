@@ -23,3 +23,5 @@
 `PARALLEL=2　--パラレル処理のスレッド数`
 `LOGFILE=directory01:/exp_01.log`　
 `JOB_NAME=exp_01　--ジョブ名を指定、しないと「SYS_EXPORT」から始まるジョブ名が自動でつく`
+
+いんぽーとれい
