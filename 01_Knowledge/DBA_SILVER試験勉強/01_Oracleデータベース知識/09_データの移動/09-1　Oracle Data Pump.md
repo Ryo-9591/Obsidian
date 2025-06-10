@@ -27,7 +27,9 @@
 # インポート例
 
 impdp system/oracle
-SCHEMAS=hr,oe
-REMAP_SCHEMA=hr_dev:hr
+SCHEMAS=hr,oe　
+REMAP_SCHEMA=hr_dev:hr　--
 DUMPFILE=orcl.dmp
-EXCLUDE
+EXCLUDE=FUNCTION
+TABLE_EXISTS_ACTION=APPEND
+LOGFILE=impdp01.log
