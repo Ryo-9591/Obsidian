@@ -173,8 +173,9 @@
   },
   "active": "a7b6f2b179639b8f",
   "lastOpenFiles": [
-    "01_Knowledge/DBA_SILVER試験勉強/01_Oracleデータベース知識/09_データの移動/09-1　Oracle Data Pump.md",
+    "01_Knowledge/DBA_SILVER試験勉強/01_Oracleデータベース知識/09_データの移動/09-3　外部表.md",
     "01_Knowledge/DBA_SILVER試験勉強/01_Oracleデータベース知識/09_データの移動/09-2　SQL Loader.md",
+    "01_Knowledge/DBA_SILVER試験勉強/01_Oracleデータベース知識/09_データの移動/09-1　Oracle Data Pump.md",
     "01_Knowledge/DBA_SILVER試験勉強/01_Oracleデータベース知識/08_UNDOの管理/08-2　一時UNDO機能.md",
     "01_Knowledge/DBA_SILVER試験勉強/01_Oracleデータベース知識/08_UNDOの管理/08-1　UNDO表領域.md",
     "01_Knowledge/DBA_SILVER試験勉強/01_Oracleデータベース知識/01_アーキテクチャ/01-1　アーキテクチャ.md",
@@ -212,7 +213,6 @@
     "01_Knowledge/DBA_SILVER試験勉強/02_SQL/19_DDLの理解/19-03　ALTER TABLE文.md",
     "01_Knowledge/DBA_SILVER試験勉強/02_SQL/19_DDLの理解/19-02　CREATE TABLE AS SELECT文.md",
     "01_Knowledge/DBA_SILVER試験勉強/02_SQL/19_DDLの理解/19-01　DDLの理解.md",
-    "01_Knowledge/DBA_SILVER試験勉強/02_SQL/18_トランザクション/18-01　トランザクション.md",
     "01_Knowledge/DBA_SILVER試験勉強/images/Pasted image 20250605215829.png",
     "01_Knowledge/DBA_SILVER試験勉強/images/Pasted image 20250605215440.png",
     "01_Knowledge/DBA_SILVER試験勉強/images/Pasted image 20250605215331.png",
