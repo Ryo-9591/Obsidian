@@ -26,10 +26,11 @@
 
 # インポート例
 
-impdp system/oracle
-SCHEMAS=hr,oe　
-REMAP_SCHEMA=hr_dev:hr　--別スキーマにインポートするときに指定
-DUMPFILE=orcl.dmp
-EXCLUDE=FUNCTION
-TABLE_EXISTS_ACTION=APPEND
-LOGFILE=impdp01.log
+`impdp system/oracle`
+`SCHEMAS=hr,oe`　
+`REMAP_SCHEMA=hr_dev:hr　--別スキーマにインポートするときに指定`
+`DUMPFILE=orcl.dmp`
+`EXCLUDE=FUNCTION　--除外したい処理対象`
+`TABLE_EXISTS_ACTION=APPEND　--インポート時にすでにテーブルがある場合の挙動`
+`LOGFILE=impdp01.log`
+
