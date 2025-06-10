@@ -136,13 +136,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01_Knowledge/DBA_SILVER試験勉強/01_Oracleデータベース知識/09_データの移動/09-3　外部表.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "09-3　外部表のアウトライン"
+              "title": "アウトライン"
             }
           },
           {
@@ -171,11 +170,11 @@
       "marp-slides:Show Slide Preview": false
     }
   },
-  "active": "a7b6f2b179639b8f",
+  "active": "68719f81e6d2194a",
   "lastOpenFiles": [
+    "01_Knowledge/DBA_SILVER試験勉強/01_Oracleデータベース知識/09_データの移動/09-3　外部表.md",
     "01_Knowledge/DBA_SILVER試験勉強/01_Oracleデータベース知識/09_データの移動/09-2　SQL Loader.md",
     "01_Knowledge/DBA_SILVER試験勉強/01_Oracleデータベース知識/09_データの移動/09-1　Oracle Data Pump.md",
-    "01_Knowledge/DBA_SILVER試験勉強/01_Oracleデータベース知識/09_データの移動/09-3　外部表.md",
     "01_Knowledge/DBA_SILVER試験勉強/01_Oracleデータベース知識/08_UNDOの管理/08-2　一時UNDO機能.md",
     "01_Knowledge/DBA_SILVER試験勉強/01_Oracleデータベース知識/08_UNDOの管理/08-1　UNDO表領域.md",
     "01_Knowledge/DBA_SILVER試験勉強/01_Oracleデータベース知識/01_アーキテクチャ/01-1　アーキテクチャ.md",
