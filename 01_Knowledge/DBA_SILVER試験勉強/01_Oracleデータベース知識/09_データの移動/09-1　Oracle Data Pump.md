@@ -15,3 +15,7 @@
 `START_JOB`　→ジョブを再開
 `STATUS`　--ステートタス表示(EXECUTING(実行中))
 
+# エクスポート例
+
+expdp scott/tiger
+DUMFILE=directory01:exp
