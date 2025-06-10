@@ -24,4 +24,10 @@
 `LOGFILE=directory01:/exp_01.log`　
 `JOB_NAME=exp_01　--ジョブ名を指定、しないと「SYS_EXPORT」から始まるジョブ名が自動でつく`
 
-いんぽーとれい
+# インポート例
+
+impdp system/oracle
+SCHEMAS=hr,oe
+REMAP_SCHEMA=hr_dev:hr
+DUMPFILE=orcl.dmp
+EXCLUDE
