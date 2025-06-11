@@ -14,13 +14,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_Knowledge/DBA_SILVER試験勉強/01_Oracleデータベース知識/09_データの移動/09-3　外部表.md",
+                "file": "01_Knowledge/DBA_SILVER試験勉強/01_Oracleデータベース知識/03_インスタンス関連/03-4　初期化パラメータ.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "09-3　外部表"
+              "title": "03-4　初期化パラメータ"
             }
           }
         ]
@@ -136,12 +136,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "01_Knowledge/DBA_SILVER試験勉強/01_Oracleデータベース知識/03_インスタンス関連/03-4　初期化パラメータ.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "アウトライン"
+              "title": "03-4　初期化パラメータのアウトライン"
             }
           },
           {
@@ -170,7 +171,7 @@
       "marp-slides:Show Slide Preview": false
     }
   },
-  "active": "68719f81e6d2194a",
+  "active": "a7b6f2b179639b8f",
   "lastOpenFiles": [
     "01_Knowledge/DBA_SILVER試験勉強/01_Oracleデータベース知識/09_データの移動/09-3　外部表.md",
     "01_Knowledge/DBA_SILVER試験勉強/01_Oracleデータベース知識/09_データの移動/09-2　SQL Loader.md",
