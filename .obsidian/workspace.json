@@ -14,13 +14,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_Knowledge/DBA_SILVER試験勉強/02_SQL/12,13_ファンクション/12-2　数値ファンクション.md",
+                "file": "01_Knowledge/DBA_SILVER試験勉強/02_SQL/12,13_ファンクション/12-1　文字ファンクション.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "12-2　数値ファンクション"
+              "title": "12-1　文字ファンクション"
             }
           }
         ]
@@ -173,11 +173,11 @@
   },
   "active": "a7b6f2b179639b8f",
   "lastOpenFiles": [
+    "01_Knowledge/DBA_SILVER試験勉強/02_SQL/12,13_ファンクション/12-2　数値ファンクション.md",
     "01_Knowledge/DBA_SILVER試験勉強/02_SQL/12,13_ファンクション/12-1　文字ファンクション.md",
     "01_Knowledge/DBA_SILVER試験勉強/02_SQL/12,13_ファンクション/12-5　NULL関連ファンクション.md",
     "01_Knowledge/DBA_SILVER試験勉強/02_SQL/12,13_ファンクション/12-4　変換ファンクション.md",
     "01_Knowledge/DBA_SILVER試験勉強/02_SQL/12,13_ファンクション/12-3　日時ファンクション.md",
-    "01_Knowledge/DBA_SILVER試験勉強/02_SQL/12,13_ファンクション/12-2　数値ファンクション.md",
     "01_Knowledge/DBA_SILVER試験勉強/01_Oracleデータベース知識/04_Oracle Net Service/04-3　データベースリンク.md",
     "01_Knowledge/DBA_SILVER試験勉強/02_SQL/14_集計ファンクション/14-01　集計ファンクション.md",
     "01_Knowledge/DBA_SILVER試験勉強/02_SQL/12,13_ファンクション/12-0　ファンクション.md",
