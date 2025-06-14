@@ -14,13 +14,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_Knowledge/DBA_SILVER試験勉強/02_SQL/12,13_ファンクション/12-3　日時ファンクション 1.md",
+                "file": "01_Knowledge/DBA_SILVER試験勉強/02_SQL/12,13_ファンクション/12-4　変換ファンクション.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "12-3　日時ファンクション 1"
+              "title": "12-4　変換ファンクション"
             }
           }
         ]
@@ -173,12 +173,13 @@
   },
   "active": "a7b6f2b179639b8f",
   "lastOpenFiles": [
-    "01_Knowledge/DBA_SILVER試験勉強/02_SQL/14_集計ファンクション/14-01　集計ファンクション.md",
-    "01_Knowledge/DBA_SILVER試験勉強/02_SQL/12,13_ファンクション/12-3　日時ファンクション 1.md",
     "01_Knowledge/DBA_SILVER試験勉強/02_SQL/12,13_ファンクション/12-3　日時ファンクション.md",
-    "01_Knowledge/DBA_SILVER試験勉強/02_SQL/12,13_ファンクション/13-02　NULL関連ファンクション.md",
-    "01_Knowledge/DBA_SILVER試験勉強/02_SQL/12,13_ファンクション/12-1　文字ファンクション.md",
     "01_Knowledge/DBA_SILVER試験勉強/02_SQL/12,13_ファンクション/12-2　数値ファンクション.md",
+    "01_Knowledge/DBA_SILVER試験勉強/02_SQL/12,13_ファンクション/12-1　文字ファンクション.md",
+    "01_Knowledge/DBA_SILVER試験勉強/02_SQL/12,13_ファンクション/12-5　NULL関連ファンクション.md",
+    "01_Knowledge/DBA_SILVER試験勉強/02_SQL/12,13_ファンクション/12-4　変換ファンクション.md",
+    "01_Knowledge/DBA_SILVER試験勉強/01_Oracleデータベース知識/04_Oracle Net Service/04-3　データベースリンク.md",
+    "01_Knowledge/DBA_SILVER試験勉強/02_SQL/14_集計ファンクション/14-01　集計ファンクション.md",
     "01_Knowledge/DBA_SILVER試験勉強/02_SQL/12,13_ファンクション/12-0　ファンクション.md",
     "01_Knowledge/DBA_SILVER試験勉強/02_SQL/12,13_ファンクション/13-01　変換ファンクション.md",
     "01_Knowledge/DBA_SILVER試験勉強/02_SQL/15_結合/15-01　結合.md",
@@ -203,7 +204,6 @@
     "01_Knowledge/DBA_Gold",
     "03_Article/Qiita記事/【API使用量無料】Python × Gemini APIで作る！AIレシピ生成アプリ/img/app.png",
     "03_Article/Qiita記事/【API使用量無料】Python × Gemini APIで作る！AIレシピ生成アプリ/img/apikey.png",
-    "03_Article/Qiita記事/【API使用量無料】Python × Gemini APIで作る！AIレシピ生成アプリ/typing_generator.md",
     "03_Article/Qiita記事/【API使用量無料】Python × Gemini APIで作る！AIレシピ生成アプリ/img",
     "03_Article/Qiita記事/【API使用量無料】Python × Gemini APIで作る！AIレシピ生成アプリ",
     "03_Article/Qiita記事/【革命】スライド作成がAI任せに！Cursor×Marp最強タッグ💪",
