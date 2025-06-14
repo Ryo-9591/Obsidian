@@ -37,11 +37,11 @@
             "state": {
               "type": "surfing-view",
               "state": {
-                "url": "https://chatgpt.com/"
+                "url": "https://chatgpt.com/c/6835ae84-40d0-800b-8235-df9feda011e9"
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "ChatGPT"
+              "title": "Oracle接続方法の概要"
             }
           }
         ]
