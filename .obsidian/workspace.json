@@ -14,13 +14,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_Knowledge/DBA_SILVER試験勉強/02_SQL/12_単一行ファンクション/12-1　文字ファンクション.md",
+                "file": "01_Knowledge/DBA_SILVER試験勉強/02_SQL/13_変換ファンクション/13-02　NULL関連ファンクション.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "12-1　文字ファンクション"
+              "title": "13-02　NULL関連ファンクション"
             }
           }
         ]
@@ -173,10 +173,11 @@
   },
   "active": "a7b6f2b179639b8f",
   "lastOpenFiles": [
-    "01_Knowledge/DBA_SILVER試験勉強/02_SQL/12_単一行ファンクション/12-2　数値ファンクション.md",
-    "01_Knowledge/DBA_SILVER試験勉強/02_SQL/12_単一行ファンクション/12-1　文字ファンクション.md",
-    "01_Knowledge/DBA_SILVER試験勉強/02_SQL/12_単一行ファンクション/12-0　ファンクション.md",
     "01_Knowledge/DBA_SILVER試験勉強/02_SQL/13_変換ファンクション/13-01　変換ファンクション.md",
+    "01_Knowledge/DBA_SILVER試験勉強/02_SQL/13_変換ファンクション/13-02　NULL関連ファンクション.md",
+    "01_Knowledge/DBA_SILVER試験勉強/02_SQL/12_単一行ファンクション/12-1　文字ファンクション.md",
+    "01_Knowledge/DBA_SILVER試験勉強/02_SQL/12_単一行ファンクション/12-2　数値ファンクション.md",
+    "01_Knowledge/DBA_SILVER試験勉強/02_SQL/12_単一行ファンクション/12-0　ファンクション.md",
     "01_Knowledge/DBA_SILVER試験勉強/02_SQL/14_集計ファンクション/14-01　集計ファンクション.md",
     "01_Knowledge/DBA_SILVER試験勉強/02_SQL/15_結合/15-01　結合.md",
     "01_Knowledge/DBA_SILVER試験勉強/02_SQL/16_副問合せ/16-01　副問合せ.md",
@@ -210,7 +211,6 @@
     "03_Article/Qiita記事",
     "03_Article/02_Qiita記事/【API使用量無料】Python × Gemini APIで作る！AIレシピ生成アプリ/img/app.png",
     "03_Article/02_Qiita記事/【API使用量無料】Python × Gemini APIで作る！AIレシピ生成アプリ/img/apikey.png",
-    "03_Article/02_Qiita記事/【革命】スライド作成がAI任せに！Cursor×Marp最強タッグ💪/article2.md",
     "03_Article/02_Qiita記事/【API使用量無料】Python × Gemini APIで作る！AIレシピ生成アプリ/img",
     "03_Article/02_Qiita記事/【革命】スライド作成がAI任せに！Cursor×Marp最強タッグ💪",
     "01_Knowledge/DBA_SILVER試験勉強/images/Pasted image 20250605215829.png",
