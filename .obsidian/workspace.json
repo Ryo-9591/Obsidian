@@ -6,7 +6,7 @@
       {
         "id": "d4e8b2a5086247ef",
         "type": "tabs",
-        "dimension": 58.043335521996056,
+        "dimension": 57.322730284956926,
         "children": [
           {
             "id": "a7b6f2b179639b8f",
@@ -28,7 +28,7 @@
       {
         "id": "2c55f351c21760d7",
         "type": "tabs",
-        "dimension": 41.956664478003944,
+        "dimension": 42.677269715043074,
         "children": [
           {
             "id": "68719f81e6d2194a",
@@ -173,8 +173,8 @@
   },
   "active": "a7b6f2b179639b8f",
   "lastOpenFiles": [
-    "01_Knowledge/DBA_SILVER試験勉強/02_SQL/18_トランザクション/18-02　DML.md",
     "01_Knowledge/DBA_SILVER試験勉強/02_SQL/18_トランザクション/18-01　トランザクション.md",
+    "01_Knowledge/DBA_SILVER試験勉強/02_SQL/18_トランザクション/18-02　DML.md",
     "01_Knowledge/DBA_SILVER試験勉強/02_SQL/19_DDLの理解/19-01　DDLの理解.md",
     "01_Knowledge/DBA_SILVER試験勉強/02_SQL/19_DDLの理解/19-04　索引構成表と表クラスタ.md",
     "01_Knowledge/DBA_SILVER試験勉強/02_SQL/19_DDLの理解/19-03　ALTER TABLE文.md",
