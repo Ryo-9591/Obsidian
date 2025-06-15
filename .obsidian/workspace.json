@@ -33,7 +33,7 @@
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "ChatGPT"
+              "title": "Oracle接続方法の概要"
             }
           }
         ]
@@ -165,8 +165,9 @@
   },
   "active": "a7b6f2b179639b8f",
   "lastOpenFiles": [
-    "01_Knowledge/DBA_SILVER試験勉強/02_SQL/12,13_ファンクション/12-5　NULL関連ファンクション.md",
+    "01_Knowledge/DBA_SILVER試験勉強/02_SQL/22_制約と一時表/22-01　制約と一時表.md",
     "01_Knowledge/DBA_SILVER試験勉強/03_模試/模試　2025-06-15.md",
+    "01_Knowledge/DBA_SILVER試験勉強/02_SQL/12,13_ファンクション/12-5　NULL関連ファンクション.md",
     "01_Knowledge/DBA_SILVER試験勉強/02_SQL/12,13_ファンクション/12-3　日時ファンクション.md",
     "01_Knowledge/DBA_SILVER試験勉強/02_SQL/12,13_ファンクション/12-4　変換ファンクション.md",
     "01_Knowledge/DBA_SILVER試験勉強/02_SQL/14_集計ファンクション/14-01　集計ファンクション.md",
@@ -190,7 +191,6 @@
     "01_Knowledge/DBA_SILVER試験勉強/01_Oracleデータベース知識/09_データの移動/09-2　SQL Loader.md",
     "01_Knowledge/DBA_SILVER試験勉強/01_Oracleデータベース知識/09_データの移動/09-1　Oracle Data Pump.md",
     "01_Knowledge/DBA_SILVER試験勉強/01_Oracleデータベース知識/08_UNDOの管理/08-2　一時UNDO機能.md",
-    "01_Knowledge/DBA_SILVER試験勉強/01_Oracleデータベース知識/08_UNDOの管理/08-1　UNDO表領域.md",
     "04_Daily",
     "01_Knowledge/DBA_GOLD試験勉強",
     "01_Knowledge/DBA_Gold",
