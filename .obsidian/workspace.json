@@ -6,7 +6,6 @@
       {
         "id": "d4e8b2a5086247ef",
         "type": "tabs",
-        "dimension": 57.322730284956926,
         "children": [
           {
             "id": "a7b6f2b179639b8f",
@@ -22,14 +21,7 @@
               "icon": "lucide-file",
               "title": "模試　2025-06-15"
             }
-          }
-        ]
-      },
-      {
-        "id": "2c55f351c21760d7",
-        "type": "tabs",
-        "dimension": 42.677269715043074,
-        "children": [
+          },
           {
             "id": "68719f81e6d2194a",
             "type": "leaf",
@@ -41,7 +33,7 @@
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "Oracle接続方法の概要"
+              "title": "ChatGPT"
             }
           }
         ]
