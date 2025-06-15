@@ -14,13 +14,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_Knowledge/DBA_SILVER試験勉強/01_Oracleデータベース知識/02_ツール/02-1　DBCA(Database Configuration Assistant).md",
+                "file": "01_Knowledge/DBA_SILVER試験勉強/01_Oracleデータベース知識/02_ツール/02-5　Oracle Enterprise Manager Cloud Control.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "02-1　DBCA(Database Configuration Assistant)"
+              "title": "02-5　Oracle Enterprise Manager Cloud Control"
             }
           }
         ]
@@ -173,6 +173,10 @@
   },
   "active": "a7b6f2b179639b8f",
   "lastOpenFiles": [
+    "01_Knowledge/DBA_SILVER試験勉強/01_Oracleデータベース知識/02_ツール/02-4　EM Express.md",
+    "01_Knowledge/DBA_SILVER試験勉強/01_Oracleデータベース知識/02_ツール/02-3　SQL Developer.md",
+    "01_Knowledge/DBA_SILVER試験勉強/01_Oracleデータベース知識/02_ツール/02-2　SQL Plus.md",
+    "01_Knowledge/DBA_SILVER試験勉強/01_Oracleデータベース知識/02_ツール/02-1　DBCA(Database Configuration Assistant).md",
     "01_Knowledge/DBA_SILVER試験勉強/01_Oracleデータベース知識/01_アーキテクチャ/01-4　バックグラウンドプロセス.md",
     "01_Knowledge/DBA_SILVER試験勉強/01_Oracleデータベース知識/03_インスタンス関連/03-3　ADR(自動診断リポジトリ).md",
     "01_Knowledge/DBA_SILVER試験勉強/01_Oracleデータベース知識/03_インスタンス関連/03-2　データディクショナリビューと動的パフォーマンス.md",
@@ -195,10 +199,6 @@
     "01_Knowledge/DBA_SILVER試験勉強/02_SQL/12,13_ファンクション/12-0　ファンクション.md",
     "01_Knowledge/DBA_SILVER試験勉強/02_SQL/12,13_ファンクション/13-01　変換ファンクション.md",
     "01_Knowledge/DBA_SILVER試験勉強/02_SQL/15_結合/15-01　結合.md",
-    "01_Knowledge/DBA_SILVER試験勉強/02_SQL/16_副問合せ/16-01　副問合せ.md",
-    "01_Knowledge/DBA_SILVER試験勉強/02_SQL/18_トランザクション/18-02　DML.md",
-    "01_Knowledge/DBA_SILVER試験勉強/02_SQL/18_トランザクション/18-01　トランザクション.md",
-    "01_Knowledge/DBA_SILVER試験勉強/02_SQL/19_DDLの理解/19-01　DDLの理解.md",
     "04_Daily",
     "01_Knowledge/DBA_GOLD試験勉強",
     "01_Knowledge/DBA_Gold",
