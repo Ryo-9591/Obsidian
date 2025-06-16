@@ -6,7 +6,7 @@
       {
         "id": "d4e8b2a5086247ef",
         "type": "tabs",
-        "dimension": 68.04252657911195,
+        "dimension": 55.313700384122924,
         "children": [
           {
             "id": "a7b6f2b179639b8f",
@@ -28,7 +28,7 @@
       {
         "id": "fcd541510d91c67b",
         "type": "tabs",
-        "dimension": 31.957473420888054,
+        "dimension": 44.686299615877076,
         "children": [
           {
             "id": "68719f81e6d2194a",
@@ -171,8 +171,9 @@
       "marp-slides:Show Slide Preview": false
     }
   },
-  "active": "a7b6f2b179639b8f",
+  "active": "68719f81e6d2194a",
   "lastOpenFiles": [
+    "01_Knowledge/DBA_SILVER試験勉強/02_SQL/23_タイムゾーン/23-01　タイムゾーン.md",
     "01_Knowledge/DBA_SILVER試験勉強/02_SQL/22_制約と一時表/22-04　一時表.md",
     "01_Knowledge/DBA_SILVER試験勉強/02_SQL/22_制約と一時表/22-01　制約と一時表.md",
     "01_Knowledge/DBA_SILVER試験勉強/02_SQL/21_ビュー/21-01　ビュー.md",
@@ -198,7 +199,6 @@
     "01_Knowledge/DBA_SILVER試験勉強/02_SQL/12,13_ファンクション/12-1　文字ファンクション.md",
     "01_Knowledge/DBA_SILVER試験勉強/02_SQL/17_集合演算/17-1　集合演算.md",
     "01_Knowledge/DBA_SILVER試験勉強/02_SQL/11_データ検索/11-01　置換変数.md",
-    "01_Knowledge/DBA_SILVER試験勉強/01_Oracleデータベース知識/04_Oracle Net Service/04-3　データベースリンク.md",
     "04_Daily",
     "01_Knowledge/DBA_GOLD試験勉強",
     "01_Knowledge/DBA_Gold",
