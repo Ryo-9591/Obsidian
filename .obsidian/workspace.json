@@ -6,7 +6,7 @@
       {
         "id": "d4e8b2a5086247ef",
         "type": "tabs",
-        "dimension": 59.65277777777778,
+        "dimension": 68.04252657911195,
         "children": [
           {
             "id": "a7b6f2b179639b8f",
@@ -28,7 +28,7 @@
       {
         "id": "fcd541510d91c67b",
         "type": "tabs",
-        "dimension": 40.34722222222222,
+        "dimension": 31.957473420888054,
         "children": [
           {
             "id": "68719f81e6d2194a",
@@ -173,6 +173,7 @@
   },
   "active": "a7b6f2b179639b8f",
   "lastOpenFiles": [
+    "01_Knowledge/DBA_SILVER試験勉強/01_Oracleデータベース知識/02_ツール/02-5　Oracle Enterprise Manager Cloud Control.md",
     "01_Knowledge/DBA_SILVER試験勉強/01_Oracleデータベース知識/02_ツール/02-4　EM Express.md",
     "01_Knowledge/DBA_SILVER試験勉強/01_Oracleデータベース知識/02_ツール/02-3　SQL Developer.md",
     "01_Knowledge/DBA_SILVER試験勉強/01_Oracleデータベース知識/02_ツール/02-2　SQL Plus.md",
@@ -198,7 +199,6 @@
     "01_Knowledge/DBA_SILVER試験勉強/01_Oracleデータベース知識/04_Oracle Net Service/04-3　データベースリンク.md",
     "01_Knowledge/DBA_SILVER試験勉強/02_SQL/12,13_ファンクション/12-0　ファンクション.md",
     "01_Knowledge/DBA_SILVER試験勉強/02_SQL/12,13_ファンクション/13-01　変換ファンクション.md",
-    "01_Knowledge/DBA_SILVER試験勉強/02_SQL/15_結合/15-01　結合.md",
     "04_Daily",
     "01_Knowledge/DBA_GOLD試験勉強",
     "01_Knowledge/DBA_Gold",
