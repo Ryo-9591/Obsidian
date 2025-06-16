@@ -14,13 +14,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_Knowledge/DBA_SILVER試験勉強/02_SQL/10_データの扱い/10-2　連結演算子.md",
+                "file": "01_Knowledge/DBA_SILVER試験勉強/02_SQL/10_データの扱い/10-1　列別名.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "10-2　連結演算子"
+              "title": "10-1　列別名"
             }
           }
         ]
@@ -173,9 +173,9 @@
   },
   "active": "a7b6f2b179639b8f",
   "lastOpenFiles": [
-    "01_Knowledge/DBA_SILVER試験勉強/02_SQL/10_データの扱い/10-1　列別名.md",
     "01_Knowledge/DBA_SILVER試験勉強/02_SQL/10_データの扱い/10-2　連結演算子.md",
     "01_Knowledge/DBA_SILVER試験勉強/02_SQL/10_データの扱い/10-3　TO_DATEファンクション.md",
+    "01_Knowledge/DBA_SILVER試験勉強/02_SQL/10_データの扱い/10-1　列別名.md",
     "01_Knowledge/DBA_SILVER試験勉強/02_SQL/12,13_ファンクション/12-2　数値ファンクション.md",
     "01_Knowledge/DBA_SILVER試験勉強/02_SQL/12,13_ファンクション/12-1　文字ファンクション.md",
     "01_Knowledge/DBA_SILVER試験勉強/02_SQL/12,13_ファンクション/12-4　変換ファンクション.md",
