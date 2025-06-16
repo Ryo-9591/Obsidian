@@ -5,6 +5,8 @@
 # ALTER TABLE DROP(列の削除)
 `ALTER TABLE employees DROP COLUMN hire_date;`
 # ALTER TABLE SET UNUSED(列の未使用化)
+列を削除には時間がかかる
+→未使用にするのはすぐなので未使用
 `ALTER TABLE emp2 SET UNUSED COLUMN sal;`
 # ALTER TABLE DROP UNUSED(未使用化した列を削除)
 `ALTER TABLE emp2 DROP UNUSED COLUMNS;`
