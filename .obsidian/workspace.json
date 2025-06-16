@@ -14,13 +14,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_Knowledge/DBA_SILVER試験勉強/01_Oracleデータベース知識/01_アーキテクチャ/01-3　SGA.md",
+                "file": "01_Knowledge/DBA_SILVER試験勉強/01_Oracleデータベース知識/01_アーキテクチャ/01-3　SGAとバックグラウンドプロセス.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "01-3　SGA"
+              "title": "01-3　SGAとバックグラウンドプロセス"
             }
           }
         ]
@@ -174,7 +174,7 @@
   "active": "a7b6f2b179639b8f",
   "lastOpenFiles": [
     "01_Knowledge/DBA_SILVER試験勉強/01_Oracleデータベース知識/01_アーキテクチャ/01-4　バックグラウンドプロセス.md",
-    "01_Knowledge/DBA_SILVER試験勉強/01_Oracleデータベース知識/01_アーキテクチャ/01-3　SGA.md",
+    "01_Knowledge/DBA_SILVER試験勉強/01_Oracleデータベース知識/01_アーキテクチャ/01-3　SGAとバックグラウンドプロセス.md",
     "01_Knowledge/DBA_SILVER試験勉強/01_Oracleデータベース知識/01_アーキテクチャ/01-2　サーバプロセス.md",
     "01_Knowledge/DBA_SILVER試験勉強/01_Oracleデータベース知識/01_アーキテクチャ/01-1　アーキテクチャ.md",
     "01_Knowledge/DBA_SILVER試験勉強/03_模試/模試　2025-06-15.md",
