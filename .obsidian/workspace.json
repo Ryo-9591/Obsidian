@@ -6,7 +6,7 @@
       {
         "id": "d4e8b2a5086247ef",
         "type": "tabs",
-        "dimension": 66.2382600098863,
+        "dimension": 53.33662876915473,
         "children": [
           {
             "id": "a7b6f2b179639b8f",
@@ -28,7 +28,7 @@
       {
         "id": "fcd541510d91c67b",
         "type": "tabs",
-        "dimension": 33.761739990113696,
+        "dimension": 46.66337123084528,
         "children": [
           {
             "id": "68719f81e6d2194a",
@@ -171,12 +171,12 @@
       "marp-slides:Show Slide Preview": false
     }
   },
-  "active": "a7b6f2b179639b8f",
+  "active": "68719f81e6d2194a",
   "lastOpenFiles": [
+    "01_Knowledge/DBA_SILVER試験勉強/02_SQL/10_データの扱い/10-4　連結演算子.md",
     "01_Knowledge/DBA_SILVER試験勉強/02_SQL/10_データの扱い/10-1　列別名.md",
     "01_Knowledge/DBA_SILVER試験勉強/02_SQL/10_データの扱い/10-3　DUAL表.md",
     "01_Knowledge/DBA_SILVER試験勉強/02_SQL/10_データの扱い/10-2　DESCRIBEコマンド.md",
-    "01_Knowledge/DBA_SILVER試験勉強/02_SQL/10_データの扱い/10-4　連結演算子.md",
     "01_Knowledge/DBA_SILVER試験勉強/01_Oracleデータベース知識/02_ツール/02-5　Oracle Enterprise Manager Cloud Control.md",
     "01_Knowledge/DBA_SILVER試験勉強/01_Oracleデータベース知識/02_ツール/02-4　EM Express.md",
     "01_Knowledge/DBA_SILVER試験勉強/01_Oracleデータベース知識/02_ツール/02-3　SQL Developer.md",
