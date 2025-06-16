@@ -171,8 +171,9 @@
       "marp-slides:Show Slide Preview": false
     }
   },
-  "active": "a7b6f2b179639b8f",
+  "active": "68719f81e6d2194a",
   "lastOpenFiles": [
+    "01_Knowledge/DBA_SILVER試験勉強/02_SQL/12,13_ファンクション/12-3　日時ファンクション.md",
     "01_Knowledge/DBA_SILVER試験勉強/02_SQL/12,13_ファンクション/12-1　文字ファンクション.md",
     "01_Knowledge/DBA_SILVER試験勉強/02_SQL/11_データ検索/11-01　置換変数.md",
     "01_Knowledge/DBA_SILVER試験勉強/02_SQL/11_データ検索/11-03　ORDER BY.md",
@@ -198,7 +199,6 @@
     "01_Knowledge/DBA_SILVER試験勉強/01_Oracleデータベース知識/01_アーキテクチャ/01-4　バックグラウンドプロセス.md",
     "01_Knowledge/DBA_SILVER試験勉強/01_Oracleデータベース知識/03_インスタンス関連/03-3　ADR(自動診断リポジトリ).md",
     "01_Knowledge/DBA_SILVER試験勉強/01_Oracleデータベース知識/03_インスタンス関連/03-2　データディクショナリビューと動的パフォーマンス.md",
-    "01_Knowledge/DBA_SILVER試験勉強/01_Oracleデータベース知識/03_インスタンス関連/03-1　インスタンスの管理.md",
     "04_Daily",
     "01_Knowledge/DBA_GOLD試験勉強",
     "01_Knowledge/DBA_Gold",
