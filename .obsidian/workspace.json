@@ -14,13 +14,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_Knowledge/DBA_SILVER試験勉強/01_Oracleデータベース知識/02_ツール/02-5　Oracle Enterprise Manager Cloud Control.md",
+                "file": "01_Knowledge/DBA_SILVER試験勉強/02_SQL/21_ビュー/21-01　ビュー.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "02-5　Oracle Enterprise Manager Cloud Control"
+              "title": "21-01　ビュー"
             }
           }
         ]
