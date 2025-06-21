@@ -6,7 +6,7 @@
       {
         "id": "d4e8b2a5086247ef",
         "type": "tabs",
-        "dimension": 60.84415584415584,
+        "dimension": 60.844155844155836,
         "children": [
           {
             "id": "b63b160919f0d5b7",
@@ -41,7 +41,7 @@
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "Surfing"
+              "title": "ChatGPT"
             }
           }
         ]
