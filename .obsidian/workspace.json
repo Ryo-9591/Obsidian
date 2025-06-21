@@ -14,13 +14,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_Knowledge/DBA_SILVER試験勉強/01_Oracleデータベース知識/02_ツール/02-1　DBCA(Database Configuration Assistant).md",
+                "file": "01_Knowledge/DBA_SILVER試験勉強/01_Oracleデータベース知識/02_ツール/02-2　SQL Plus.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "02-1　DBCA(Database Configuration Assistant)"
+              "title": "02-2　SQL Plus"
             }
           }
         ]
@@ -173,6 +173,7 @@
   },
   "active": "b63b160919f0d5b7",
   "lastOpenFiles": [
+    "01_Knowledge/DBA_SILVER試験勉強/01_Oracleデータベース知識/02_ツール/02-1　DBCA(Database Configuration Assistant).md",
     "01_Knowledge/DBA_SILVER試験勉強/01_Oracleデータベース知識/01_アーキテクチャ/01-1　SGAとバックグラウンドプロセス.md",
     "01_Knowledge/DBA_SILVER試験勉強/最終確認.md",
     "01_Knowledge/DBA_SILVER試験勉強/02_SQL/12,13_ファンクション/12-5　NULL関連ファンクション.md",
@@ -198,7 +199,6 @@
     "01_Knowledge/DBA_SILVER試験勉強/01_Oracleデータベース知識/06_表領域の管理/06-2　永続表領域.md",
     "01_Knowledge/DBA_SILVER試験勉強/01_Oracleデータベース知識/06_表領域の管理/06-1　表領域.md",
     "01_Knowledge/DBA_SILVER試験勉強/01_Oracleデータベース知識/05_ユーザ、権限、ロール/05-7　プロファイル.md",
-    "01_Knowledge/DBA_SILVER試験勉強/01_Oracleデータベース知識/05_ユーザ、権限、ロール/05-6　セキュリティ.md",
     "01_Knowledge/DBA_SILVER試験勉強/images/Pasted image 20250616192450.png",
     "04_Daily",
     "01_Knowledge/DBA_GOLD試験勉強",
