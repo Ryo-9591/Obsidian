@@ -60,7 +60,7 @@ status=READY　←成功なら「<font color="#ffff00">READY</font>」と出る�
 listener.ora例：
 LISTENER =
   (DESCRIPTION =
-      (ADDRESS = (PROTOCOL = TCP)(HOST = db.oracle.com)(PORT = 1521))
+      (ADDRESS = (PROTOCOL = TCP)(HOST = db.oracle.co)(PORT = 1521))
     )
    )
 SID_LIST_LISTENER=
