@@ -13,6 +13,7 @@
 | DB_CREATE_FILE_DEST                    | データファイル<br>一時ファイル<br>制御ファイルとREDOファイル<br>(DB_CREATE_ONLINE_LOG_DEST_nが未設定) |
 | DB_CREATE_ONLINE_LOG_DEST_n(n=1,2,...) | 制御ファイルとREDOファイル                                                           |
 | DB_RECOVERY_FILE_DEST                  | リカバリ関連ファイル<br>制御ファイルとREDOファイル                                             |
+|                                        |                                                                           |
 ### ②表領域作成
 `CREATE TABLESPACE omf_tbs DATAFILE SIZE100M;`
 ## OMF管理表領域の削除
