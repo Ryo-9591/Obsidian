@@ -2,9 +2,7 @@
 OSファイルシステム上のデータをOracleデータベースの表にロードするツール
 ![[Pasted image 20250517084154.png]]
 # SQL Loaderの動作
-
 ## ①ロード先の表明やデータファイルの形式を制御ファイルに記載
-
 制御ファイルの記述例(sample.ctl)：
 `LOAD DATA`
 `INFILE 'data.csv'`　--データファイルはdata.csv
@@ -20,7 +18,6 @@ OSファイルシステム上のデータをOracleデータベースの表にロ
 #### REPLACE
 ロー先の表のデータをDELETEしてからロード
 ## ②「sqlldr」コマンドで制御ファイルをもとにOracleデータベースにロード
-
 `sqlldr user1/pass1 control='sample.ctl'`
 ## ③ロード処理が終わるとログファイル、廃棄ファイル、不良ファイルが出力
 ### ログファイル
@@ -35,7 +32,6 @@ OSファイルシステム上のデータをOracleデータベースの表にロ
 ## SQL Loaderエクスプレスモードの動作
 
 `sqlldr user1/pass1 TABLE=data`
-
 ・「TABLE句指定したテーブル名.dat」でロードされる
 ・自動的にAPPENDモード
 ・ロードの並列度も自動で設定
