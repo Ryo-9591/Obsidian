@@ -43,8 +43,21 @@
               "icon": "lucide-file",
               "title": "Surfing"
             }
+          },
+          {
+            "id": "a7b6f2b179639b8f",
+            "type": "leaf",
+            "state": {
+              "type": "surfing-view",
+              "state": {
+                "url": "https://chatgpt.com/c/6835ae84-40d0-800b-8235-df9feda011e9"
+              },
+              "icon": "lucide-file",
+              "title": "Oracle接続方法の概要"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -170,43 +183,6 @@
       "graph:グラフビューを開く": false,
       "marp-slides:Show Slide Preview": false
     }
-  },
-  "floating": {
-    "id": "d37179f83a892385",
-    "type": "floating",
-    "children": [
-      {
-        "id": "8d46e9a656a98726",
-        "type": "window",
-        "children": [
-          {
-            "id": "953ec41b74a78336",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "a7b6f2b179639b8f",
-                "type": "leaf",
-                "state": {
-                  "type": "surfing-view",
-                  "state": {
-                    "url": "https://chatgpt.com/c/6835ae84-40d0-800b-8235-df9feda011e9"
-                  },
-                  "icon": "lucide-file",
-                  "title": "ChatGPT"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 326,
-        "y": 20,
-        "width": 942,
-        "height": 912,
-        "maximize": false,
-        "zoom": -1
-      }
-    ]
   },
   "active": "a7b6f2b179639b8f",
   "lastOpenFiles": [
