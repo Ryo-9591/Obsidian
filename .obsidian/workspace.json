@@ -14,13 +14,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_Knowledge/DBA_SILVER試験勉強/02_SQL/12,13_ファンクション/12-5　NULL関連ファンクション.md",
+                "file": "01_Knowledge/DBA_SILVER試験勉強/最終確認.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "12-5　NULL関連ファンクション"
+              "title": "最終確認"
             }
           }
         ]
@@ -173,6 +173,7 @@
   },
   "active": "b63b160919f0d5b7",
   "lastOpenFiles": [
+    "01_Knowledge/DBA_SILVER試験勉強/02_SQL/12,13_ファンクション/12-5　NULL関連ファンクション.md",
     "01_Knowledge/DBA_SILVER試験勉強/02_SQL/12,13_ファンクション/12-4　変換ファンクション.md",
     "01_Knowledge/DBA_SILVER試験勉強/02_SQL/12,13_ファンクション/12-3　日時ファンクション.md",
     "01_Knowledge/DBA_SILVER試験勉強/02_SQL/12,13_ファンクション/12-2　数値ファンクション.md",
@@ -198,7 +199,6 @@
     "01_Knowledge/DBA_SILVER試験勉強/01_Oracleデータベース知識/05_ユーザ、権限、ロール/05-6　セキュリティ.md",
     "01_Knowledge/DBA_SILVER試験勉強/01_Oracleデータベース知識/05_ユーザ、権限、ロール/05-5　クオータ.md",
     "01_Knowledge/DBA_SILVER試験勉強/01_Oracleデータベース知識/05_ユーザ、権限、ロール/05-4　認証.md",
-    "01_Knowledge/DBA_SILVER試験勉強/01_Oracleデータベース知識/05_ユーザ、権限、ロール/05-3　ロール.md",
     "01_Knowledge/DBA_SILVER試験勉強/images/Pasted image 20250616192450.png",
     "04_Daily",
     "01_Knowledge/DBA_GOLD試験勉強",
