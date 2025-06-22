@@ -6,7 +6,7 @@
       {
         "id": "d4e8b2a5086247ef",
         "type": "tabs",
-        "dimension": 62.49188838416613,
+        "dimension": 79.1044776119403,
         "children": [
           {
             "id": "b63b160919f0d5b7",
@@ -28,7 +28,7 @@
       {
         "id": "fcd541510d91c67b",
         "type": "tabs",
-        "dimension": 37.50811161583387,
+        "dimension": 20.8955223880597,
         "children": [
           {
             "id": "68719f81e6d2194a",
@@ -173,6 +173,7 @@
   },
   "active": "b63b160919f0d5b7",
   "lastOpenFiles": [
+    "01_Knowledge/DBA_SILVER試験勉強/01_Oracleデータベース知識/02_ツール/02-1　DBCA(Database Configuration Assistant).md",
     "01_Knowledge/DBA_SILVER試験勉強/01_Oracleデータベース知識/02_ツール/02-2　SQL Plus.md",
     "01_Knowledge/DBA_SILVER試験勉強/01_Oracleデータベース知識/01_アーキテクチャ/01-1　SGAとバックグラウンドプロセス.md",
     "01_Knowledge/DBA_SILVER試験勉強/02_SQL/17_集合演算/17-1　集合演算.md",
@@ -198,7 +199,6 @@
     "01_Knowledge/DBA_SILVER試験勉強/02_SQL/12,13_ファンクション/12-4　変換ファンクション.md",
     "01_Knowledge/DBA_SILVER試験勉強/02_SQL/12,13_ファンクション/12-3　日時ファンクション.md",
     "01_Knowledge/DBA_SILVER試験勉強/02_SQL/12,13_ファンクション/12-2　数値ファンクション.md",
-    "01_Knowledge/DBA_SILVER試験勉強/02_SQL/12,13_ファンクション/12-1　文字ファンクション.md",
     "01_Knowledge/DBA_SILVER試験勉強/images/Pasted image 20250616192450.png",
     "04_Daily",
     "01_Knowledge/DBA_GOLD試験勉強",
