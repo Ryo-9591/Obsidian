@@ -14,13 +14,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_Knowledge/DBA_SILVER試験勉強/02_SQL/12,13_ファンクション/12-4　変換ファンクション.md",
+                "file": "01_Knowledge/DBA_SILVER試験勉強/02_SQL/12,13_ファンクション/12-5　NULL関連ファンクション.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "12-4　変換ファンクション"
+              "title": "12-5　NULL関連ファンクション"
             }
           }
         ]
@@ -173,6 +173,7 @@
   },
   "active": "b63b160919f0d5b7",
   "lastOpenFiles": [
+    "01_Knowledge/DBA_SILVER試験勉強/02_SQL/12,13_ファンクション/12-4　変換ファンクション.md",
     "01_Knowledge/DBA_SILVER試験勉強/02_SQL/12,13_ファンクション/12-3　日時ファンクション.md",
     "01_Knowledge/DBA_SILVER試験勉強/02_SQL/12,13_ファンクション/12-2　数値ファンクション.md",
     "01_Knowledge/DBA_SILVER試験勉強/02_SQL/12,13_ファンクション/12-1　文字ファンクション.md",
@@ -195,7 +196,6 @@
     "01_Knowledge/DBA_SILVER試験勉強/01_Oracleデータベース知識/01_アーキテクチャ/01-1　SGAとバックグラウンドプロセス.md",
     "01_Knowledge/DBA_SILVER試験勉強/最終確認.md",
     "01_Knowledge/DBA_SILVER試験勉強/02_SQL/12,13_ファンクション/12-5　NULL関連ファンクション.md",
-    "01_Knowledge/DBA_SILVER試験勉強/02_SQL/12,13_ファンクション/12-4　変換ファンクション.md",
     "01_Knowledge/DBA_SILVER試験勉強/02_SQL/11_データ検索/11-03　ORDER BY.md",
     "01_Knowledge/DBA_SILVER試験勉強/02_SQL/11_データ検索/11-02　AND条件、OR条件.md",
     "01_Knowledge/DBA_SILVER試験勉強/02_SQL/11_データ検索/11-01　置換変数.md",
