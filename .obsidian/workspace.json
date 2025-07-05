@@ -8,6 +8,16 @@
         "type": "tabs",
         "children": [
           {
+            "id": "c5426af66cec89dc",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新規タブ"
+            }
+          },
+          {
             "id": "68719f81e6d2194a",
             "type": "leaf",
             "pinned": true,
@@ -97,7 +107,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 411.5124969482422
+    "width": 235.5124969482422
   },
   "right": {
     "id": "f533a687fa0a0077",
@@ -148,7 +158,7 @@
       "marp-slides:Show Slide Preview": false
     }
   },
-  "active": "58392aaeeda87af9",
+  "active": "c5426af66cec89dc",
   "lastOpenFiles": [
     "01_Knowledge/DBA_SILVER試験勉強/01_Oracleデータベース知識/05_ユーザ、権限、ロール/05-7　プロファイル.md",
     "01_Knowledge/DBA_SILVER試験勉強/01_Oracleデータベース知識/06_表領域の管理/06-4　OMF(Oracle Managed Files).md",
