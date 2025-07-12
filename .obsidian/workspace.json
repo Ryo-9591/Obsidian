@@ -4,23 +4,10 @@
     "type": "split",
     "children": [
       {
-        "id": "fcd541510d91c67b",
+        "id": "759872abf5ed8da3",
         "type": "tabs",
+        "dimension": 57.09718670076727,
         "children": [
-          {
-            "id": "68719f81e6d2194a",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "surfing-view",
-              "state": {
-                "url": "https://chatgpt.com/c/6835ae84-40d0-800b-8235-df9feda011e9"
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Surfing"
-            }
-          },
           {
             "id": "6378c3cce2fb0048",
             "type": "leaf",
@@ -36,8 +23,28 @@
               "title": "21　クラスタリソースの制御"
             }
           }
-        ],
-        "currentTab": 1
+        ]
+      },
+      {
+        "id": "fcd541510d91c67b",
+        "type": "tabs",
+        "dimension": 42.90281329923274,
+        "children": [
+          {
+            "id": "68719f81e6d2194a",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "surfing-view",
+              "state": {
+                "url": "https://chatgpt.com/c/6835ae84-40d0-800b-8235-df9feda011e9"
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Surfing"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
