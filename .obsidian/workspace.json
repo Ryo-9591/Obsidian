@@ -41,8 +41,21 @@
               "icon": "lucide-file",
               "title": "Oracle Grid Infrastructureとは #oracle - Qiita"
             }
+          },
+          {
+            "id": "8f2b290c2357be63",
+            "type": "leaf",
+            "state": {
+              "type": "surfing-view",
+              "state": {
+                "url": "https://chatgpt.com/"
+              },
+              "icon": "lucide-file",
+              "title": "gpt - Google 検索"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -169,7 +182,7 @@
       "marp-slides:Show Slide Preview": false
     }
   },
-  "active": "6378c3cce2fb0048",
+  "active": "8f2b290c2357be63",
   "lastOpenFiles": [
     "01_Knowledge/DBA_GOLD試験勉強/21　クラスタリソースの制御.md",
     "03_Article/Qiita記事/SALTO図鑑/Saltype開発運営から学んだこと.md",
