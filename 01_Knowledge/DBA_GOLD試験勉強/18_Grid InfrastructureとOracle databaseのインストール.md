@@ -13,3 +13,4 @@ GI管理：SRVCTLコマンドで構成管理
 ## crsctl status resorceコマンド
 クラスタリソースの起動状態の表示
 `crsctl status resource -t`
+## Oracle ASM
