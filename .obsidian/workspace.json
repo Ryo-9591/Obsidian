@@ -48,10 +48,10 @@
             "state": {
               "type": "surfing-view",
               "state": {
-                "url": "https://chatgpt.com/"
+                "url": "https://chatgpt.com/c/687202ea-4608-800b-ad46-80f462395953"
               },
               "icon": "lucide-file",
-              "title": "gpt - Google 検索"
+              "title": "ChatGPT"
             }
           }
         ],
