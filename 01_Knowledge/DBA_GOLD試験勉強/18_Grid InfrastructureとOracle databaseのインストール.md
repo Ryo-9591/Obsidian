@@ -14,3 +14,4 @@ GI管理：SRVCTLコマンドで構成管理
 クラスタリソースの起動状態の表示
 `crsctl status resource -t`
 ## Oracle ASM
+複数の物理ストレージをまとめて単一ん
