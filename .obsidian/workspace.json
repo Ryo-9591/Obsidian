@@ -6,7 +6,7 @@
       {
         "id": "82d4f98f5ef16710",
         "type": "tabs",
-        "dimension": 49.367888748419716,
+        "dimension": 33.312262958280655,
         "children": [
           {
             "id": "f8cd3e8ff0094662",
@@ -28,7 +28,7 @@
       {
         "id": "1dde6ef8df0b4aa4",
         "type": "tabs",
-        "dimension": 50.632111251580284,
+        "dimension": 66.68773704171934,
         "children": [
           {
             "id": "6378c3cce2fb0048",
@@ -36,10 +36,22 @@
             "state": {
               "type": "surfing-view",
               "state": {
-                "url": "https://www.google.com/search?sca_esv=0f6e5b6ea1476d14&sxsrf=AE3TifOyKrekUSyiBeHLeu6nl4AEkisSxg:1752305114348&q=oracle+grid+infrastructure+%E3%81%A8%E3%81%AF&udm=2&fbs=AIIjpHxAboEh8T4AmOafDyCTZyImRiqTfQHPlfmQNPDJpiOEB0B8N6AC8kiE6py9pWguob7T1bpacOUtOM01qd3HI4FMaynVW5YxdAyLTcAWJmZYeFEz_a8syik9tLBLSdNzCKMNLhe4lWO5cWMGhCI9iolPIRtenJc6OKos0du8MB3IQShKTVwgj9Mw39sVYf5abKXzUzkNHTAZDv7DjuBtU-5FU3mgqYl4ONPGSWoqwc_3rgOwdxA&sa=X&ved=2ahUKEwiD2YOf5baOAxUfsVYBHbDsKpEQtKgLKAF6BAgWEAE&biw=801&bih=1016&dpr=1.04"
+                "url": "https://www.google.com/search?sca_esv=0f6e5b6ea1476d14&sxsrf=AE3TifOyKrekUSyiBeHLeu6nl4AEkisSxg:1752305114348&q=oracle+grid+infrastructure+%E3%81%A8%E3%81%AF&udm=2&fbs=AIIjpHxAboEh8T4AmOafDyCTZyImRiqTfQHPlfmQNPDJpiOEB0B8N6AC8kiE6py9pWguob7T1bpacOUtOM01qd3HI4FMaynVW5YxdAyLTcAWJmZYeFEz_a8syik9tLBLSdNzCKMNLhe4lWO5cWMGhCI9iolPIRtenJc6OKos0du8MB3IQShKTVwgj9Mw39sVYf5abKXzUzkNHTAZDv7DjuBtU-5FU3mgqYl4ONPGSWoqwc_3rgOwdxA&sa=X&ved=2ahUKEwiD2YOf5baOAxUfsVYBHbDsKpEQtKgLKAF6BAgWEAE&biw=801&bih=1016&dpr=1.04#vhid=lF-EqZiU9Fd9NM&vssid=mosaic"
               },
               "icon": "lucide-file",
               "title": "oracle grid infrastructure とは - Google 検索"
+            }
+          },
+          {
+            "id": "936f17f0e1f0e4bb",
+            "type": "leaf",
+            "state": {
+              "type": "surfing-view",
+              "state": {
+                "url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fx.com%2Fryota_hnk%2Fstatus%2F1276114064431697921&psig=AOvVaw23J_-OEe9uhW17BMMFmKIR&ust=1752391543827000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLiw1a3lto4DFQAAAAAdAAAAABAZ"
+              },
+              "icon": "lucide-file",
+              "title": "Surfing"
             }
           },
           {
