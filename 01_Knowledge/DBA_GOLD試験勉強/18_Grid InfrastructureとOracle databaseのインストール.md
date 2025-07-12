@@ -10,5 +10,6 @@ GI管理：Gridホームから起動
 ### データベースサービス
 通常：SERVICE_NAMESにサービス名を指定してDBMS_SERVICEパッケージのプロシージャで管理する
 GI管理：SRVCTLコマンドで構成管理
-
-crsctl
+## crsctl status resorceコマンド
+クラスタリソースの起動状態の表示
+`crsctl status resource -t`
