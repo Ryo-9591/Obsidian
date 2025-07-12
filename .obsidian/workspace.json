@@ -27,13 +27,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_Knowledge/DBA_GOLD試験勉強/21　くらすたりそーす.md",
+                "file": "01_Knowledge/DBA_GOLD試験勉強/21　クラスタリソースの制御.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "21　くらすたりそーす"
+              "title": "21　クラスタリソースの制御"
             }
           }
         ],
@@ -166,7 +166,7 @@
   },
   "active": "6378c3cce2fb0048",
   "lastOpenFiles": [
-    "01_Knowledge/DBA_GOLD試験勉強/21　くらすたりそーす.md",
+    "01_Knowledge/DBA_GOLD試験勉強/21　クラスタリソースの制御.md",
     "03_Article/Qiita記事/SALTO図鑑/Saltype開発運営から学んだこと.md",
     "01_Knowledge/DBA_SILVER試験勉強/01_Oracleデータベース知識/05_ユーザ、権限、ロール/05-7　プロファイル.md",
     "01_Knowledge/DBA_SILVER試験勉強/01_Oracleデータベース知識/06_表領域の管理/06-4　OMF(Oracle Managed Files).md",
