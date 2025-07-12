@@ -6,7 +6,7 @@
       {
         "id": "82d4f98f5ef16710",
         "type": "tabs",
-        "dimension": 44.37420986093553,
+        "dimension": 52.528445006321114,
         "children": [
           {
             "id": "f8cd3e8ff0094662",
@@ -28,7 +28,7 @@
       {
         "id": "1dde6ef8df0b4aa4",
         "type": "tabs",
-        "dimension": 55.62579013906448,
+        "dimension": 47.471554993678886,
         "children": [
           {
             "id": "6378c3cce2fb0048",
@@ -36,22 +36,10 @@
             "state": {
               "type": "surfing-view",
               "state": {
-                "url": "https://www.google.com/search?sca_esv=0f6e5b6ea1476d14&sxsrf=AE3TifOyKrekUSyiBeHLeu6nl4AEkisSxg:1752305114348&q=oracle+grid+infrastructure+%E3%81%A8%E3%81%AF&udm=2&fbs=AIIjpHxAboEh8T4AmOafDyCTZyImRiqTfQHPlfmQNPDJpiOEB0B8N6AC8kiE6py9pWguob7T1bpacOUtOM01qd3HI4FMaynVW5YxdAyLTcAWJmZYeFEz_a8syik9tLBLSdNzCKMNLhe4lWO5cWMGhCI9iolPIRtenJc6OKos0du8MB3IQShKTVwgj9Mw39sVYf5abKXzUzkNHTAZDv7DjuBtU-5FU3mgqYl4ONPGSWoqwc_3rgOwdxA&sa=X&ved=2ahUKEwiD2YOf5baOAxUfsVYBHbDsKpEQtKgLKAF6BAgWEAE&biw=801&bih=1016&dpr=1.04#vhid=u3nclCXo_0y8SM&vssid=mosaic"
+                "url": "https://www.google.com/search?sca_esv=0f6e5b6ea1476d14&sxsrf=AE3TifOsoJu1HMkutmRcNPcGyIQ6n6QrIQ:1752305285391&q=oracle+grid+infrastructure+%E3%81%A8%E3%81%AF&source=lnms&fbs=AIIjpHx96EbqhMx-8KhIzcU5wOYeR5uQVg19AN9xnews3blvx2fpWLYU1vPossRP2J9kVIZg2BzisuFqTywAYwJl-fKxtGE2XFob5ai7zG5I0DKEKn_cGuWw5VrgxA4E5kLH5vFFQGc3Ly-Objir4SX-nlUeyR8mj0xthIr9Z4BaAggXsm9Ct0KB192-25MLRTkurbmGxvv6OAqbK9Y180KcNNIYLBWRP3h_3ikus1BJL2Zhp2t7QWGiiuCHBFiiZzkRYgNaRJ5d&sa=X&ved=2ahUKEwiEosvw5baOAxXIsVYBHcXaF5sQ0pQJKAB6BAgKEAE&biw=878&bih=1016&dpr=1.04"
               },
               "icon": "lucide-file",
               "title": "oracle grid infrastructure とは - Google 検索"
-            }
-          },
-          {
-            "id": "97718aa547d82149",
-            "type": "leaf",
-            "state": {
-              "type": "surfing-view",
-              "state": {
-                "url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.itmedia.co.jp%2Fenterprise%2Farticles%2F0910%2F05%2Fnews002.html&psig=AOvVaw23J_-OEe9uhW17BMMFmKIR&ust=1752391543827000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLiw1a3lto4DFQAAAAAdAAAAABAp"
-              },
-              "icon": "lucide-file",
-              "title": "クラウド時代の情報システムを強力に支えるOracle Database 11g R2 - ITmedia エンタープライズ"
             }
           },
           {
@@ -66,8 +54,7 @@
               "title": "ChatGPT"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -194,10 +181,10 @@
       "marp-slides:Show Slide Preview": false
     }
   },
-  "active": "97718aa547d82149",
+  "active": "f8cd3e8ff0094662",
   "lastOpenFiles": [
-    "01_Knowledge/DBA_GOLD試験勉強/21_クラスタリソースの制御.md",
     "01_Knowledge/DBA_GOLD試験勉強/18_Grid InfrastructureとOracle databaseのインストール.md",
+    "01_Knowledge/DBA_GOLD試験勉強/21_クラスタリソースの制御.md",
     "03_Article/Qiita記事/SALTO図鑑/Saltype開発運営から学んだこと.md",
     "01_Knowledge/DBA_SILVER試験勉強/01_Oracleデータベース知識/05_ユーザ、権限、ロール/05-7　プロファイル.md",
     "01_Knowledge/DBA_SILVER試験勉強/01_Oracleデータベース知識/06_表領域の管理/06-4　OMF(Oracle Managed Files).md",
