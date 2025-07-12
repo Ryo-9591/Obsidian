@@ -36,10 +36,10 @@
             "state": {
               "type": "surfing-view",
               "state": {
-                "url": "https://qiita.com/tpusuke/items/0f07e3942dd3a97aa108"
+                "url": "https://docs.oracle.com/cd/G11854_01/ladbi/about-oracle-grid-infrastructure-for-a-standlone-server.html"
               },
               "icon": "lucide-file",
-              "title": "Oracle Grid Infrastructureとは #oracle - Qiita"
+              "title": "データベース・インストレーション・ガイドfor Linux"
             }
           },
           {
@@ -182,7 +182,7 @@
       "marp-slides:Show Slide Preview": false
     }
   },
-  "active": "8f2b290c2357be63",
+  "active": "f8cd3e8ff0094662",
   "lastOpenFiles": [
     "01_Knowledge/DBA_GOLD試験勉強/21　クラスタリソースの制御.md",
     "03_Article/Qiita記事/SALTO図鑑/Saltype開発運営から学んだこと.md",
