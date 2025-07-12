@@ -11,10 +11,15 @@
             "id": "c5426af66cec89dc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "03_Article/Qiita記事/SALTO図鑑/Saltype開発運営から学んだこと.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "新規タブ"
+              "title": "Saltype開発運営から学んだこと"
             }
           },
           {
