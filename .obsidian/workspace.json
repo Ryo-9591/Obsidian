@@ -36,10 +36,10 @@
             "state": {
               "type": "surfing-view",
               "state": {
-                "url": "https://docs.oracle.com/cd/G11854_01/ladbi/about-oracle-grid-infrastructure-for-a-standlone-server.html"
+                "url": "https://www.google.com/search?q=oracle+restart+%E3%81%A8%E3%81%AF&sca_esv=0f6e5b6ea1476d14&sxsrf=AE3TifM-8A22DfUSlpYe8SVHYeM1WM9rEA%3A1752304417952&ei=IQtyaNPoOem-0-kP-KPusAM&ved=0ahUKEwiT_frS4raOAxVp3zQHHfiRGzYQ4dUDCBA&uact=5&oq=oracle+restart+%E3%81%A8%E3%81%AF&gs_lp=Egxnd3Mtd2l6LXNlcnAiFW9yYWNsZSByZXN0YXJ0IOOBqOOBr0gAUABYAHAAeACQAQCYAQCgAQCqAQC4AQPIAQCYAgCgAgCYAwCSBwCgBwCyBwC4BwDCBwDIBwA&sclient=gws-wiz-serp"
               },
               "icon": "lucide-file",
-              "title": "データベース・インストレーション・ガイドfor Linux"
+              "title": "oracle restart とは - Google 検索"
             }
           },
           {
@@ -54,8 +54,7 @@
               "title": "ChatGPT"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -182,7 +181,7 @@
       "marp-slides:Show Slide Preview": false
     }
   },
-  "active": "8f2b290c2357be63",
+  "active": "6378c3cce2fb0048",
   "lastOpenFiles": [
     "01_Knowledge/DBA_GOLD試験勉強/21　クラスタリソースの制御.md",
     "03_Article/Qiita記事/SALTO図鑑/Saltype開発運営から学んだこと.md",
