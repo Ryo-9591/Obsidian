@@ -36,10 +36,10 @@
             "state": {
               "type": "surfing-view",
               "state": {
-                "url": "https://docs.oracle.com/cd/E57425_01/121/OSTMG/GUID-742EE243-14E1-45E2-9651-B40DEA4A5A2A.htm"
+                "url": "https://www.google.com/search?sca_esv=0f6e5b6ea1476d14&sxsrf=AE3TifOyKrekUSyiBeHLeu6nl4AEkisSxg:1752305114348&q=oracle+grid+infrastructure+%E3%81%A8%E3%81%AF&udm=2&fbs=AIIjpHxAboEh8T4AmOafDyCTZyImRiqTfQHPlfmQNPDJpiOEB0B8N6AC8kiE6py9pWguob7T1bpacOUtOM01qd3HI4FMaynVW5YxdAyLTcAWJmZYeFEz_a8syik9tLBLSdNzCKMNLhe4lWO5cWMGhCI9iolPIRtenJc6OKos0du8MB3IQShKTVwgj9Mw39sVYf5abKXzUzkNHTAZDv7DjuBtU-5FU3mgqYl4ONPGSWoqwc_3rgOwdxA&sa=X&ved=2ahUKEwiD2YOf5baOAxUfsVYBHbDsKpEQtKgLKAF6BAgWEAE&biw=801&bih=1016&dpr=1.04"
               },
               "icon": "lucide-file",
-              "title": "oracle restart とは - Google 検索"
+              "title": "oracle grid infrastructure とは - Google 検索"
             }
           },
           {
@@ -183,8 +183,8 @@
   },
   "active": "6378c3cce2fb0048",
   "lastOpenFiles": [
-    "01_Knowledge/DBA_GOLD試験勉強/18_Grid InfrastructureとOracle databaseのインストール.md",
     "01_Knowledge/DBA_GOLD試験勉強/21_クラスタリソースの制御.md",
+    "01_Knowledge/DBA_GOLD試験勉強/18_Grid InfrastructureとOracle databaseのインストール.md",
     "03_Article/Qiita記事/SALTO図鑑/Saltype開発運営から学んだこと.md",
     "01_Knowledge/DBA_SILVER試験勉強/01_Oracleデータベース知識/05_ユーザ、権限、ロール/05-7　プロファイル.md",
     "01_Knowledge/DBA_SILVER試験勉強/01_Oracleデータベース知識/06_表領域の管理/06-4　OMF(Oracle Managed Files).md",
