@@ -54,7 +54,8 @@
               "title": "ChatGPT"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -181,7 +182,7 @@
       "marp-slides:Show Slide Preview": false
     }
   },
-  "active": "f8cd3e8ff0094662",
+  "active": "8f2b290c2357be63",
   "lastOpenFiles": [
     "01_Knowledge/DBA_GOLD試験勉強/18_Grid InfrastructureとOracle databaseのインストール.md",
     "01_Knowledge/DBA_GOLD試験勉強/21_クラスタリソースの制御.md",
