@@ -1,25 +1,25 @@
-## Oracle restart
+# Oracle restart
 シングルインスタンスのoracle databaseの可用性を高める機能
 **OracleソフトウェアにGIを導入したサーバーの構成**
-## Oracle Clusterware
+# Oracle Clusterware
 GIに含まれるコンポーネント(インスタンス、リスナー)の管理をするクラスタソフトウェア
-## GI管理でのクラスタリソースのふるまい
-### リスナー
+# GI管理でのクラスタリソースのふるまい
+## リスナー
 通常：Oracleホームから起動
 GI管理：Gridホームから起動
-### データベースサービス
+## データベースサービス
 通常：SERVICE_NAMESにサービス名を指定してDBMS_SERVICEパッケージのプロシージャで管理する
 GI管理：SRVCTLコマンドで構成管理
-## crsctl status resorceコマンド
+# crsctl status resorceコマンド
 クラスタリソースの起動状態の表示
 `crsctl status resource -t`
-## Oracle ASM
+# Oracle ASM
 複数の物理ストレージ(**ASMディスク**)をまとめて単一の仮想ストレージ(**ASMディスクグループ(ASMCAで作成可能)**)として扱うことができる仕組み
 ### ストライピング
 AU(Allocation Unit)単位で異なるASMディスクに分散保存しI/O性能を高めることできる
 ### ミラーリング
 多重化し可用性を向上させることできる
-# スタンドアロンサーバ用Grid Infrast
-s
+# スタンドアロンサーバ用Grid Infrastractureの構成
+
 
 
