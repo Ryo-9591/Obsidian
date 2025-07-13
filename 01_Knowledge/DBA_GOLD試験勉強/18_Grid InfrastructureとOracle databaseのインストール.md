@@ -30,4 +30,4 @@ AU(Allocation Unit)単位で異なるASMディスクに分散保存しI/O性能�
 ## 停止
 `crsctl stop has`
 ## 自動停止設定
-crsctl disable has
+`crsctl disable has`
