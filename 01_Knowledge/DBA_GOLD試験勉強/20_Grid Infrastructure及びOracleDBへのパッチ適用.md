@@ -1,2 +1,3 @@
 # RU(Release Updates)
-# RUR
+リリースに対しての修正(四半期に)
+# RUR(Release Update Revisions)
