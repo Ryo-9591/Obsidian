@@ -18,4 +18,8 @@ RUに対しての修正(四半期に1度)
 `cd $ORACLE_HOME/OPatch`
 `./database -verbose`
 # opatchautoコマンド
-/u01/app/grid/product/19.0.0/grid/OPatch/opatchauto apply var/tmmp/32895426
+`/u01/app/grid/product/19.0.0/grid/OPatch/opatchauto apply var/tmmp/32895426`
+
+※
+/u01/app/grid/product/19.0.0/grid/ → GIホームがあ
+/var/tmmp/32895426 → パッチ展開済みファイル
