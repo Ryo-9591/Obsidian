@@ -20,8 +20,8 @@ RUに対しての修正(四半期に1度)
 # opatchautoコマンド
 `/u01/app/grid/product/19.0.0/grid/OPatch/opatchauto apply var/tmmp/32895426`
 
-※
 /u01/app/grid/product/19.0.0/grid/ → GIホーム
 /var/tmmp/32895426 → パッチ展開済みファイル
 
 ※rootユーザ権限のユーザで実行する必要がある
+※ローリングパッチ適用(ふくすうのーど)
