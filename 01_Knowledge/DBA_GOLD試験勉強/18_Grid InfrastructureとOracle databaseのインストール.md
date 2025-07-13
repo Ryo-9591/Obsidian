@@ -15,7 +15,7 @@ GI管理：SRVCTLコマンドで構成管理
 `crsctl status resource -t`
 # Oracle ASM
 複数の物理ストレージ(**ASMディスク**)をまとめて単一の仮想ストレージ(**ASMディスクグループ(ASMCAで作成可能)**)として扱うことができる仕組み
-※I/O動作はOracle DBの方でやるのでDBWnとかは使うただ
+※I/O動作はOracle DBの方でやるのでDBWnとかは使うただそれ以下はASM(OSデータファイルを使わないでAMSディスクにデータを格納)
 ### ストライピング
 AU(Allocation Unit)単位で異なるASMディスクに分散保存しI/O性能を高めることできる
 ### ミラーリング
