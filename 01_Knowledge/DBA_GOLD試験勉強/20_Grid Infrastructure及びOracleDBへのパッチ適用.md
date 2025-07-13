@@ -15,4 +15,6 @@ RUに対しての修正(四半期に1度)
 ・コンフリクト
 ・パッチのレポート
 # datapatchコマンド
-cd $ORACLE
+`cd $ORACLE_HOME/OPatch`
+`./database -verbose`
+
