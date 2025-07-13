@@ -25,7 +25,9 @@ AU(Allocation Unit)単位で異なるASMディスクに分散保存しI/O性能�
 ※gridユーザで使用
 ## 起動
 `crsctl start has` 
+## 自動起動設定
+`crsctl enable has`
 ## 停止
 `crsctl stop has`
-
-
+## 自動停止設定
+crsctl disable has
