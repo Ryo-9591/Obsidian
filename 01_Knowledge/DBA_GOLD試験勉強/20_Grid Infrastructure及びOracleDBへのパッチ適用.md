@@ -17,4 +17,4 @@ RUに対しての修正(四半期に1度)
 # datapatchコマンド
 `cd $ORACLE_HOME/OPatch`
 `./database -verbose`
-
+# opatchautoコマンド
