@@ -10,6 +10,7 @@ RUに対しての修正(四半期に1度)
 ⑤datapatchコマンドを実行してパッチ適用に伴う修正を適用(Oracle Databaseに対してパッチを適用)
 # OPatch
 パッチ管理コマンドツール
+Oracle Databsaseソフトウェアが対応するすべ
 
 ・パッチ適用
 →`$ORACLE_HOME/Opatch/opatch apply`
