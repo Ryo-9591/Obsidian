@@ -22,5 +22,6 @@ AU(Allocation Unit)単位で異なるASMディスクに分散保存しI/O性能�
 # スタンドアロンサーバ用Grid Infrastractureの構成
 
 # Oracle Resatrtの起動停止
+gridゆー
 
 
