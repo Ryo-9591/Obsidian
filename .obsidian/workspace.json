@@ -6,7 +6,7 @@
       {
         "id": "82d4f98f5ef16710",
         "type": "tabs",
-        "dimension": 52.528445006321114,
+        "dimension": 58.21744627054362,
         "children": [
           {
             "id": "f8cd3e8ff0094662",
@@ -28,7 +28,7 @@
       {
         "id": "1dde6ef8df0b4aa4",
         "type": "tabs",
-        "dimension": 47.471554993678886,
+        "dimension": 41.78255372945638,
         "children": [
           {
             "id": "6378c3cce2fb0048",
@@ -51,7 +51,7 @@
                 "url": "https://chatgpt.com/c/687202ea-4608-800b-ad46-80f462395953"
               },
               "icon": "lucide-file",
-              "title": "ChatGPT"
+              "title": "Oracle Gold試験勉強"
             }
           }
         ],
@@ -182,10 +182,10 @@
       "marp-slides:Show Slide Preview": false
     }
   },
-  "active": "f8cd3e8ff0094662",
+  "active": "8f2b290c2357be63",
   "lastOpenFiles": [
-    "01_Knowledge/DBA_GOLD試験勉強/21_クラスタリソースの制御.md",
     "01_Knowledge/DBA_GOLD試験勉強/18_Grid InfrastructureとOracle databaseのインストール.md",
+    "01_Knowledge/DBA_GOLD試験勉強/21_クラスタリソースの制御.md",
     "03_Article/Qiita記事/SALTO図鑑/Saltype開発運営から学んだこと.md",
     "01_Knowledge/DBA_SILVER試験勉強/01_Oracleデータベース知識/05_ユーザ、権限、ロール/05-7　プロファイル.md",
     "01_Knowledge/DBA_SILVER試験勉強/01_Oracleデータベース知識/06_表領域の管理/06-4　OMF(Oracle Managed Files).md",
