@@ -6,7 +6,7 @@
       {
         "id": "82d4f98f5ef16710",
         "type": "tabs",
-        "dimension": 53.413400758533506,
+        "dimension": 48.54614412136536,
         "children": [
           {
             "id": "f8cd3e8ff0094662",
@@ -28,22 +28,10 @@
       {
         "id": "1dde6ef8df0b4aa4",
         "type": "tabs",
-        "dimension": 46.586599241466494,
+        "dimension": 51.453855878634634,
         "children": [
           {
             "id": "6378c3cce2fb0048",
-            "type": "leaf",
-            "state": {
-              "type": "surfing-view",
-              "state": {
-                "url": "https://www.google.com/search?sca_esv=0f6e5b6ea1476d14&sxsrf=AE3TifOsoJu1HMkutmRcNPcGyIQ6n6QrIQ:1752305285391&q=oracle+grid+infrastructure+%E3%81%A8%E3%81%AF&source=lnms&fbs=AIIjpHx96EbqhMx-8KhIzcU5wOYeR5uQVg19AN9xnews3blvx2fpWLYU1vPossRP2J9kVIZg2BzisuFqTywAYwJl-fKxtGE2XFob5ai7zG5I0DKEKn_cGuWw5VrgxA4E5kLH5vFFQGc3Ly-Objir4SX-nlUeyR8mj0xthIr9Z4BaAggXsm9Ct0KB192-25MLRTkurbmGxvv6OAqbK9Y180KcNNIYLBWRP3h_3ikus1BJL2Zhp2t7QWGiiuCHBFiiZzkRYgNaRJ5d&sa=X&ved=2ahUKEwiEosvw5baOAxXIsVYBHcXaF5sQ0pQJKAB6BAgKEAE&biw=878&bih=1016&dpr=1.04"
-              },
-              "icon": "lucide-file",
-              "title": "oracle grid infrastructure とは - Google 検索"
-            }
-          },
-          {
-            "id": "8f2b290c2357be63",
             "type": "leaf",
             "state": {
               "type": "surfing-view",
@@ -54,8 +42,7 @@
               "title": "Oracle Gold試験勉強"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -131,7 +118,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 217.50499725341797
+    "width": 280.50499725341797
   },
   "right": {
     "id": "f533a687fa0a0077",
@@ -182,8 +169,10 @@
       "marp-slides:Show Slide Preview": false
     }
   },
-  "active": "8f2b290c2357be63",
+  "active": "6378c3cce2fb0048",
   "lastOpenFiles": [
+    "01_Knowledge/DBA_SILVER試験勉強/01_Oracleデータベース知識/02_ツール/02-1　DBCA(Database Configuration Assistant).md",
+    "01_Knowledge/DBA_SILVER試験勉強/01_Oracleデータベース知識/01_アーキテクチャ/01-1　SGAとバックグラウンドプロセス.md",
     "01_Knowledge/DBA_GOLD試験勉強/19_DBCAを使用したOracleDBの作成.md",
     "01_Knowledge/DBA_GOLD試験勉強/18_Grid InfrastructureとOracle databaseのインストール.md",
     "01_Knowledge/DBA_GOLD試験勉強/20_Grid Infrastructure及びOracleDBへのパッチ適用.md",
@@ -207,8 +196,6 @@
     "01_Knowledge/DBA_SILVER試験勉強/01_Oracleデータベース知識/02_ツール/02-4　EM Express.md",
     "01_Knowledge/DBA_SILVER試験勉強/01_Oracleデータベース知識/02_ツール/02-3　SQL Developer.md",
     "01_Knowledge/DBA_SILVER試験勉強/01_Oracleデータベース知識/02_ツール/02-2　SQL Plus.md",
-    "01_Knowledge/DBA_SILVER試験勉強/01_Oracleデータベース知識/02_ツール/02-1　DBCA(Database Configuration Assistant).md",
-    "01_Knowledge/DBA_SILVER試験勉強/01_Oracleデータベース知識/01_アーキテクチャ/01-1　SGAとバックグラウンドプロセス.md",
     "01_Knowledge/DBA_SILVER試験勉強/02_SQL/17_集合演算/17-1　集合演算.md",
     "01_Knowledge/DBA_SILVER試験勉強/images/Pasted image 20250616192450.png",
     "04_Daily",
