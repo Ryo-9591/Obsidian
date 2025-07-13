@@ -18,3 +18,4 @@ RUに対しての修正(四半期に1度)
 `cd $ORACLE_HOME/OPatch`
 `./database -verbose`
 # opatchautoコマンド
+/u01/app/grid/product/19.0.0/grid/OPatch/opatchauto apply var/tmmp/32895426
