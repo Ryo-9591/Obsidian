@@ -6,7 +6,7 @@
       {
         "id": "82d4f98f5ef16710",
         "type": "tabs",
-        "dimension": 48.54614412136536,
+        "dimension": 60.31102096010819,
         "children": [
           {
             "id": "f8cd3e8ff0094662",
@@ -28,7 +28,7 @@
       {
         "id": "1dde6ef8df0b4aa4",
         "type": "tabs",
-        "dimension": 51.453855878634634,
+        "dimension": 39.68897903989182,
         "children": [
           {
             "id": "6378c3cce2fb0048",
@@ -118,7 +118,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 320.50499725341797
   },
   "right": {
     "id": "f533a687fa0a0077",
@@ -169,7 +169,7 @@
       "marp-slides:Show Slide Preview": false
     }
   },
-  "active": "6378c3cce2fb0048",
+  "active": "f8cd3e8ff0094662",
   "lastOpenFiles": [
     "01_Knowledge/DBA_GOLD試験勉強/19_DBCAを使用したOracleDBの作成.md",
     "01_Knowledge/DBA_SILVER試験勉強/01_Oracleデータベース知識/02_ツール/02-1　DBCA(Database Configuration Assistant).md",
