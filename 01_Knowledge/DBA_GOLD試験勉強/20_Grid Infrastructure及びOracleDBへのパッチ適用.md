@@ -10,7 +10,7 @@ RUに対しての修正(四半期に1度)
 ⑤datapatchコマンドを実行してパッチ適用に伴う修正を適用(Oracle Databaseに対してパッチを適用)
 # OPatch
 パッチ管理コマンドツール
-Oracle Databsaseソフトウェアが対応するすべ
+Oracle Databsaseソフトウェアが対応するすべてのプラットフォームに対応
 
 ・パッチ適用
 →`$ORACLE_HOME/Opatch/opatch apply`
@@ -18,9 +18,11 @@ Oracle Databsaseソフトウェアが対応するすべ
 ・コンフリクト
 ・パッチのレポート
 # datapatchコマンド
-`cd $ORACLE_HOME/OPatch`
+`cd $ORACLE_HOME/OPatcに対応
 `./database -verbose`
-# opatchautoコマンド
+# opatchauto
+コマンドラインベースのパッチ適用ツール
+
 `/u01/app/grid/product/19.0.0/grid/OPatch/opatchauto apply var/tmmp/32895426`
 
 /u01/app/grid/product/19.0.0/grid/ → GIホーム
