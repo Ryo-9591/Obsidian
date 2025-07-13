@@ -6,7 +6,7 @@
       {
         "id": "82d4f98f5ef16710",
         "type": "tabs",
-        "dimension": 64.63826910074376,
+        "dimension": 49.628127112914136,
         "children": [
           {
             "id": "f8cd3e8ff0094662",
@@ -14,13 +14,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_Knowledge/DBA_GOLD試験勉強/03_Grid Infrastructure/無題のファイル.md",
+                "file": "01_Knowledge/DBA_GOLD試験勉強/03_Grid Infrastructure/23_Oracle Databaseのアップグレード.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "無題のファイル"
+              "title": "23_Oracle Databaseのアップグレード"
             }
           }
         ]
@@ -28,7 +28,7 @@
       {
         "id": "1dde6ef8df0b4aa4",
         "type": "tabs",
-        "dimension": 35.36173089925626,
+        "dimension": 50.371872887085864,
         "children": [
           {
             "id": "6378c3cce2fb0048",
@@ -171,8 +171,8 @@
   },
   "active": "f8cd3e8ff0094662",
   "lastOpenFiles": [
+    "01_Knowledge/DBA_GOLD試験勉強/03_Grid Infrastructure/23_Oracle Databaseのアップグレード.md",
     "01_Knowledge/DBA_GOLD試験勉強/03_Grid Infrastructure/22_Grid Infrastructureのアップグレード.md",
-    "01_Knowledge/DBA_GOLD試験勉強/03_Grid Infrastructure/無題のファイル.md",
     "01_Knowledge/DBA_GOLD試験勉強/03_Grid Infrastructure/18_Grid InfrastructureとOracle databaseのインストール.md",
     "01_Knowledge/DBA_GOLD試験勉強/02_RMAN",
     "01_Knowledge/DBA_GOLD試験勉強/03_Grid Infrastructure",
