@@ -14,13 +14,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_Knowledge/DBA_GOLD試験勉強/20_Grid Infrastructure及びOracleDBへのパッチ適用.md",
+                "file": "01_Knowledge/DBA_GOLD試験勉強/22_Grid Infrastructureのアップグレード.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "20_Grid Infrastructure及びOracleDBへのパッチ適用"
+              "title": "22_Grid Infrastructureのアップグレード"
             }
           }
         ]
@@ -169,11 +169,13 @@
       "marp-slides:Show Slide Preview": false
     }
   },
-  "active": "f8cd3e8ff0094662",
+  "active": "58392aaeeda87af9",
   "lastOpenFiles": [
+    "01_Knowledge/DBA_GOLD試験勉強/無題のフォルダ",
+    "01_Knowledge/DBA_GOLD試験勉強/20_Grid Infrastructure及びOracleDBへのパッチ適用.md",
+    "01_Knowledge/DBA_GOLD試験勉強/22_Grid Infrastructureのアップグレード.md",
     "01_Knowledge/DBA_GOLD試験勉強/19_DBCAを使用したOracleDBの作成.md",
     "01_Knowledge/DBA_GOLD試験勉強/18_Grid InfrastructureとOracle databaseのインストール.md",
-    "01_Knowledge/DBA_GOLD試験勉強/20_Grid Infrastructure及びOracleDBへのパッチ適用.md",
     "01_Knowledge/DBA_GOLD試験勉強/21_クラスタリソースの制御.md",
     "01_Knowledge/DBA_SILVER試験勉強/01_Oracleデータベース知識/02_ツール/02-1　DBCA(Database Configuration Assistant).md",
     "01_Knowledge/DBA_SILVER試験勉強/01_Oracleデータベース知識/01_アーキテクチャ/01-1　SGAとバックグラウンドプロセス.md",
@@ -195,8 +197,6 @@
     "01_Knowledge/DBA_SILVER試験勉強/01_Oracleデータベース知識/02_ツール/02-5　Oracle Enterprise Manager Cloud Control.md",
     "01_Knowledge/DBA_SILVER試験勉強/01_Oracleデータベース知識/02_ツール/02-4　EM Express.md",
     "01_Knowledge/DBA_SILVER試験勉強/01_Oracleデータベース知識/02_ツール/02-3　SQL Developer.md",
-    "01_Knowledge/DBA_SILVER試験勉強/01_Oracleデータベース知識/02_ツール/02-2　SQL Plus.md",
-    "01_Knowledge/DBA_SILVER試験勉強/02_SQL/17_集合演算/17-1　集合演算.md",
     "01_Knowledge/DBA_SILVER試験勉強/images/Pasted image 20250616192450.png",
     "04_Daily",
     "01_Knowledge/DBA_GOLD試験勉強",
