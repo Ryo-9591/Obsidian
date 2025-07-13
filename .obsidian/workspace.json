@@ -6,7 +6,7 @@
       {
         "id": "82d4f98f5ef16710",
         "type": "tabs",
-        "dimension": 49.628127112914136,
+        "dimension": 51.18556701030927,
         "children": [
           {
             "id": "f8cd3e8ff0094662",
@@ -14,13 +14,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_Knowledge/DBA_GOLD試験勉強/03_Grid Infrastructure/23_Oracle Databaseのアップグレード.md",
+                "file": "01_Knowledge/DBA_GOLD試験勉強/03_Grid Infrastructure/21_クラスタリソースの制御.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "23_Oracle Databaseのアップグレード"
+              "title": "21_クラスタリソースの制御"
             }
           }
         ]
@@ -28,7 +28,7 @@
       {
         "id": "1dde6ef8df0b4aa4",
         "type": "tabs",
-        "dimension": 50.371872887085864,
+        "dimension": 48.81443298969072,
         "children": [
           {
             "id": "6378c3cce2fb0048",
@@ -169,15 +169,15 @@
       "marp-slides:Show Slide Preview": false
     }
   },
-  "active": "f8cd3e8ff0094662",
+  "active": "58392aaeeda87af9",
   "lastOpenFiles": [
-    "01_Knowledge/DBA_GOLD試験勉強/03_Grid Infrastructure/23_Oracle Databaseのアップグレード.md",
-    "01_Knowledge/DBA_GOLD試験勉強/03_Grid Infrastructure/22_Grid Infrastructureのアップグレード.md",
-    "01_Knowledge/DBA_GOLD試験勉強/03_Grid Infrastructure/18_Grid InfrastructureとOracle databaseのインストール.md",
-    "01_Knowledge/DBA_GOLD試験勉強/02_RMAN",
-    "01_Knowledge/DBA_GOLD試験勉強/03_Grid Infrastructure",
     "01_Knowledge/DBA_GOLD試験勉強/03_Grid Infrastructure/20_Grid Infrastructure及びOracleDBへのパッチ適用.md",
     "01_Knowledge/DBA_GOLD試験勉強/03_Grid Infrastructure/19_DBCAを使用したOracleDBの作成.md",
+    "01_Knowledge/DBA_GOLD試験勉強/03_Grid Infrastructure/18_Grid InfrastructureとOracle databaseのインストール.md",
+    "01_Knowledge/DBA_GOLD試験勉強/03_Grid Infrastructure/23_Oracle Databaseのアップグレード.md",
+    "01_Knowledge/DBA_GOLD試験勉強/03_Grid Infrastructure/22_Grid Infrastructureのアップグレード.md",
+    "01_Knowledge/DBA_GOLD試験勉強/02_RMAN",
+    "01_Knowledge/DBA_GOLD試験勉強/03_Grid Infrastructure",
     "01_Knowledge/DBA_GOLD試験勉強/03_Grid Infrastructure/21_クラスタリソースの制御.md",
     "01_Knowledge/DBA_SILVER試験勉強/01_Oracleデータベース知識/02_ツール/02-1　DBCA(Database Configuration Assistant).md",
     "01_Knowledge/DBA_SILVER試験勉強/01_Oracleデータベース知識/01_アーキテクチャ/01-1　SGAとバックグラウンドプロセス.md",
