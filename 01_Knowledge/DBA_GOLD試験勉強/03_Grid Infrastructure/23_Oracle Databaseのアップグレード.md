@@ -23,5 +23,8 @@ Data Pumpなどを用いて新しいリリースにデータを転送する
 ・新しいORACLE_HOMEのOPatchコマンドを実行
 ・/etc/oratabファイルのORACLE_HOMEの変更
 ・無効なオブジェクトをutlrp.sqlスクリプトで再利用可能に
-・utluptabdata.sqlスクリプトでOracleかんりたいぷにい
+・utluptabdata.sqlスクリプトでOracle管理タイプに依存する表のアップグレード
+・RMANリカバリカタログのアップグレード
 #### 推奨事項
+・データベースのバックアップ
+・
