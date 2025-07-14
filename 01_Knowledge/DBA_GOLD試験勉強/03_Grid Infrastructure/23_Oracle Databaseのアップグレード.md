@@ -6,3 +6,4 @@
 DBUA(Database Upgrade Assistant), AutoUpgradeかアップグレードスクリプトを実行
 →データベースそのものを変換するから直接アップグレードという
 ## パターン②
+Data Pumpなどを用いて新しいリリースにデータを転送する
