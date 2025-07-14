@@ -12,15 +12,12 @@
             "id": "54c75f5ac17f0b31",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "01_Knowledge/DBA_GOLD試験勉強/04_Oracle/23_Oracle Databaseのアップグレード.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "file": "01_Knowledge/DBA_GOLD試験勉強/99_images/Pasted image 20250715065717.png"
               },
-              "icon": "lucide-file",
-              "title": "23_Oracle Databaseのアップグレード"
+              "icon": "lucide-image",
+              "title": "Pasted image 20250715065717"
             }
           }
         ]
@@ -169,11 +166,14 @@
       "marp-slides:Show Slide Preview": false
     }
   },
-  "active": "54c75f5ac17f0b31",
+  "active": "58392aaeeda87af9",
   "lastOpenFiles": [
-    "01_Knowledge/DBA_SILVER試験勉強/最終確認.md",
+    "01_Knowledge/DBA_GOLD試験勉強/98_模試",
+    "01_Knowledge/DBA_GOLD試験勉強/99_images",
+    "99_ignore項目/か.md",
     "01_Knowledge/DBA_GOLD試験勉強/04_Oracle/23_Oracle Databaseのアップグレード.md",
-    "Pasted image 20250715065717.png",
+    "01_Knowledge/DBA_SILVER試験勉強/最終確認.md",
+    "01_Knowledge/DBA_GOLD試験勉強/99_images/Pasted image 20250715065717.png",
     "01_Knowledge/DBA_GOLD試験勉強/04_Oracle",
     "01_Knowledge/DBA_GOLD試験勉強/03_Grid Infrastructure/22_Grid Infrastructureのアップグレード.md",
     "01_Knowledge/DBA_GOLD試験勉強/03_Grid Infrastructure/21_クラスタリソースの制御.md",
@@ -199,9 +199,7 @@
     "01_Knowledge/DBA_SILVER試験勉強/01_Oracleデータベース知識/03_インスタンス関連/03-2　データディクショナリビューと動的パフォーマンス.md",
     "01_Knowledge/DBA_SILVER試験勉強/01_Oracleデータベース知識/03_インスタンス関連/03-3　ADR(自動診断リポジトリ).md",
     "01_Knowledge/DBA_SILVER試験勉強/01_Oracleデータベース知識/03_インスタンス関連/03-4　初期化パラメータ.md",
-    "01_Knowledge/DBA_SILVER試験勉強/01_Oracleデータベース知識/02_ツール/02-5　Oracle Enterprise Manager Cloud Control.md",
-    "01_Knowledge/DBA_SILVER試験勉強/01_Oracleデータベース知識/02_ツール/02-4　EM Express.md",
-    "01_Knowledge/DBA_SILVER試験勉強/images/Pasted image 20250616192450.png",
+    "01_Knowledge/DBA_SILVER試験勉強/99_images/Pasted image 20250616192450.png",
     "04_Daily",
     "01_Knowledge/DBA_GOLD試験勉強",
     "01_Knowledge/DBA_Gold",
@@ -210,13 +208,12 @@
     "03_Article/Qiita記事/【API使用量無料】Python × Gemini APIで作る！AIレシピ生成アプリ/img",
     "03_Article/Qiita記事/【API使用量無料】Python × Gemini APIで作る！AIレシピ生成アプリ",
     "03_Article/Qiita記事/【革命】スライド作成がAI任せに！Cursor×Marp最強タッグ💪",
-    "03_Article/Qiita記事/Cursor君！スライド作っといて！",
     "03_Article/02_Qiita記事/【API使用量無料】Python × Gemini APIで作る！AIレシピ生成アプリ/img/app.png",
     "03_Article/02_Qiita記事/【API使用量無料】Python × Gemini APIで作る！AIレシピ生成アプリ/img/apikey.png",
-    "01_Knowledge/DBA_SILVER試験勉強/images/Pasted image 20250605215829.png",
-    "01_Knowledge/DBA_SILVER試験勉強/images/Pasted image 20250605215440.png",
-    "01_Knowledge/DBA_SILVER試験勉強/images/Pasted image 20250605215331.png",
-    "01_Knowledge/DBA_SILVER試験勉強/images/Pasted image 20250605215052.png",
+    "01_Knowledge/DBA_SILVER試験勉強/99_images/Pasted image 20250605215829.png",
+    "01_Knowledge/DBA_SILVER試験勉強/99_images/Pasted image 20250605215440.png",
+    "01_Knowledge/DBA_SILVER試験勉強/99_images/Pasted image 20250605215331.png",
+    "01_Knowledge/DBA_SILVER試験勉強/99_images/Pasted image 20250605215052.png",
     "無題のファイル.canvas",
     "Untitled.canvas",
     "Untitled 1.canvas"
