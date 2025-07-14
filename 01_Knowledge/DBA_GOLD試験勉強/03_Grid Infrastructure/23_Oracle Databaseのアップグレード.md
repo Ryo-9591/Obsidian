@@ -1,6 +1,6 @@
 # Oracle Databaseアップグレード手順
 ①新しいリリースのOracle Databaseソフトウェアをインストールする
-②
+②データベースがいぶ
 
 
 DBUA(Database Upgrade Assistant), AutoUpgradeかアップグレードスクリプト
