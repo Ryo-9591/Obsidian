@@ -34,4 +34,7 @@ Data Pumpなどを用いて新しいリリースにデータを転送する
 
 # catcon.plスクリプト
 マルチテナント環境の際に全コンテナにutlrp.sqlをうてる
-Oracleホーム内の
+Oracleホーム内のPerlを使用
+
+# アップグレードの注意点
+・現行Oracleとアップグレード後のOracle
