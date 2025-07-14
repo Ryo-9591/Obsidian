@@ -22,5 +22,6 @@ Data Pumpなどを用いて新しいリリースにデータを転送する
 ・環境変数ORACLE_HOME及びPATHの変更
 ・新しいORACLE_HOMEのOPatchコマンドを実行
 ・/etc/oratabファイルのORACLE_HOMEの変更
-・無効なおぶじゃくとｗ
+・無効なオブジェクトをutlrp.sqlスクリプトで再利用可能に
+・utluptabd
 #### 推奨事項
