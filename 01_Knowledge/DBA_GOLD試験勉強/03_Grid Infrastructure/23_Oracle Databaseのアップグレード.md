@@ -10,6 +10,7 @@ DBUA(Database Upgrade Assistant), AutoUpgradeかアップグレードスクリ�
 Data Pumpなどを用いて新しいリリースにデータを転送する
 
 # DBUA実行される処理
+![[Pasted image 20250715065717.png]]
 
 ### ①データベースアップグレード前の作業
 ・前提チェック
