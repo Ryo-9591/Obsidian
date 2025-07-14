@@ -4,21 +4,9 @@
     "type": "split",
     "children": [
       {
-        "id": "6da1eb8474c0c8ff",
+        "id": "d78783e8dd8151c3",
         "type": "tabs",
         "children": [
-          {
-            "id": "6378c3cce2fb0048",
-            "type": "leaf",
-            "state": {
-              "type": "surfing-view",
-              "state": {
-                "url": "https://chatgpt.com/c/687202ea-4608-800b-ad46-80f462395953"
-              },
-              "icon": "lucide-file",
-              "title": "Oracle Gold試験勉強"
-            }
-          },
           {
             "id": "54c75f5ac17f0b31",
             "type": "leaf",
@@ -33,9 +21,20 @@
               "icon": "lucide-file",
               "title": "8月：勉強会案"
             }
+          },
+          {
+            "id": "6378c3cce2fb0048",
+            "type": "leaf",
+            "state": {
+              "type": "surfing-view",
+              "state": {
+                "url": "https://chatgpt.com/c/687202ea-4608-800b-ad46-80f462395953"
+              },
+              "icon": "lucide-file",
+              "title": "Oracle Gold試験勉強"
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -47,7 +46,7 @@
       {
         "id": "5f4d272b2ea836e3",
         "type": "tabs",
-        "dimension": 74.1638795986622,
+        "dimension": 74.39330543933055,
         "children": [
           {
             "id": "8f5f925db3d74ff2",
@@ -95,7 +94,7 @@
       {
         "id": "199a16cf7c4e5e91",
         "type": "tabs",
-        "dimension": 25.83612040133779,
+        "dimension": 25.606694560669457,
         "children": [
           {
             "id": "f013d527e4f4af81",
@@ -111,7 +110,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 320.50499725341797
+    "width": 228.5124969482422
   },
   "right": {
     "id": "f533a687fa0a0077",
@@ -162,10 +161,10 @@
       "marp-slides:Show Slide Preview": false
     }
   },
-  "active": "58392aaeeda87af9",
+  "active": "54c75f5ac17f0b31",
   "lastOpenFiles": [
-    "Backendエンジニアロードマップ.md",
     "01_Knowledge/勉強会/8月：勉強会案.md",
+    "Backendエンジニアロードマップ.md",
     "README.md",
     "01_Knowledge/勉強会",
     "99_ignore項目/か.md",
