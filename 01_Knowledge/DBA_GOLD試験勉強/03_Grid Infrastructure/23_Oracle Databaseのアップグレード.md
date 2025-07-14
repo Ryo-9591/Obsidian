@@ -37,4 +37,5 @@ Data Pumpなどを用いて新しいリリースにデータを転送する
 Oracleホーム内のPerlを使用
 
 # アップグレードの注意点
-・現行Oracleとアップグレード後のOracle
+・アップグレード後のOracle DatabaseをインストールするOracleホームはアップグレード前のOracle DatabaseのOracleホームとは別の場所にする必要がある
+・19cOracleDatabaseにアップグレード
