@@ -8,3 +8,8 @@ DBUA(Database Upgrade Assistant), AutoUpgradeかアップグレードスクリ�
 ※現行と新サーバーは同じOS,CPU種別である必要がある
 ## パターン②
 Data Pumpなどを用いて新しいリリースにデータを転送する
+
+# DBUA実行される処理
+
+①データベースアップグレード前の作業
+②データベースアップグレード後のさ
