@@ -2,6 +2,6 @@
 ①新しいリリースのOracle Databaseソフトウェアをインストールする
 ②データベース外部のファイル(Oracle Net Servicesの設定ファイルなど)を新しい環境に引き継ぐ
 ③古いリリースのOracleデータベースに格納されたデータを引き継ぐ
-## パターン
+## パターン①
 DBUA(Database Upgrade Assistant), AutoUpgradeかアップグレードスクリプト
-②
+## パターン②
