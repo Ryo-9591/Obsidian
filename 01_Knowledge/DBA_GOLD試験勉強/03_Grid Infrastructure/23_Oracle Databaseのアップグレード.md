@@ -20,5 +20,7 @@ Data Pumpなどを用いて新しいリリースにデータを転送する
 ### ②データベースアップグレード後の作業
 #### 必須事項
 ・環境変数ORACLE_HOME及びPATHの変更
-・新しい
+・新しいORACLE_HOMEのOPatchコマンドを実行
+・/etc/oratabファイルのORACLE_HOMEの変更
+・無効なおぶじゃくとｗ
 #### 推奨事項
