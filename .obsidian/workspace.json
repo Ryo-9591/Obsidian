@@ -162,10 +162,11 @@
       "marp-slides:Show Slide Preview": false
     }
   },
-  "active": "54c75f5ac17f0b31",
+  "active": "58392aaeeda87af9",
   "lastOpenFiles": [
-    "README.md",
+    "Backendエンジニアロードマップ.md",
     "01_Knowledge/勉強会/8月：勉強会案.md",
+    "README.md",
     "01_Knowledge/勉強会",
     "99_ignore項目/か.md",
     "01_Knowledge/DBA_GOLD試験勉強/03_Grid Infrastructure/18_Grid InfrastructureとOracle databaseのインストール.md",
@@ -196,7 +197,6 @@
     "01_Knowledge/DBA_SILVER試験勉強/01_Oracleデータベース知識/05_ユーザ、権限、ロール/05-1　ユーザ.md",
     "01_Knowledge/DBA_SILVER試験勉強/01_Oracleデータベース知識/03_インスタンス関連/03-1　インスタンスの管理.md",
     "01_Knowledge/DBA_SILVER試験勉強/01_Oracleデータベース知識/03_インスタンス関連/03-2　データディクショナリビューと動的パフォーマンス.md",
-    "01_Knowledge/DBA_SILVER試験勉強/01_Oracleデータベース知識/03_インスタンス関連/03-3　ADR(自動診断リポジトリ).md",
     "01_Knowledge/DBA_SILVER試験勉強/99_images/Pasted image 20250616192450.png",
     "04_Daily",
     "01_Knowledge/DBA_GOLD試験勉強",
