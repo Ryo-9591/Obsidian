@@ -12,12 +12,15 @@
             "id": "54c75f5ac17f0b31",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "01_Knowledge/DBA_GOLD試験勉強/99_images/Pasted image 20250715065717.png"
+                "file": "README.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250715065717"
+              "icon": "lucide-file",
+              "title": "README"
             }
           }
         ]
@@ -166,20 +169,20 @@
       "marp-slides:Show Slide Preview": false
     }
   },
-  "active": "58392aaeeda87af9",
+  "active": "54c75f5ac17f0b31",
   "lastOpenFiles": [
+    "99_ignore項目/か.md",
+    "01_Knowledge/DBA_GOLD試験勉強/03_Grid Infrastructure/18_Grid InfrastructureとOracle databaseのインストール.md",
+    "01_Knowledge/DBA_GOLD試験勉強/99_images/Pasted image 20250715065717.png",
     "01_Knowledge/DBA_GOLD試験勉強/98_模試",
     "01_Knowledge/DBA_GOLD試験勉強/99_images",
-    "99_ignore項目/か.md",
     "01_Knowledge/DBA_GOLD試験勉強/04_Oracle/23_Oracle Databaseのアップグレード.md",
     "01_Knowledge/DBA_SILVER試験勉強/最終確認.md",
-    "01_Knowledge/DBA_GOLD試験勉強/99_images/Pasted image 20250715065717.png",
     "01_Knowledge/DBA_GOLD試験勉強/04_Oracle",
     "01_Knowledge/DBA_GOLD試験勉強/03_Grid Infrastructure/22_Grid Infrastructureのアップグレード.md",
     "01_Knowledge/DBA_GOLD試験勉強/03_Grid Infrastructure/21_クラスタリソースの制御.md",
     "01_Knowledge/DBA_GOLD試験勉強/03_Grid Infrastructure/20_Grid Infrastructure及びOracleDBへのパッチ適用.md",
     "01_Knowledge/DBA_GOLD試験勉強/03_Grid Infrastructure/19_DBCAを使用したOracleDBの作成.md",
-    "01_Knowledge/DBA_GOLD試験勉強/03_Grid Infrastructure/18_Grid InfrastructureとOracle databaseのインストール.md",
     "01_Knowledge/DBA_GOLD試験勉強/02_RMAN",
     "01_Knowledge/DBA_GOLD試験勉強/03_Grid Infrastructure",
     "01_Knowledge/DBA_SILVER試験勉強/01_Oracleデータベース知識/02_ツール/02-1　DBCA(Database Configuration Assistant).md",
@@ -207,7 +210,6 @@
     "03_Article/Qiita記事/【API使用量無料】Python × Gemini APIで作る！AIレシピ生成アプリ/img/apikey.png",
     "03_Article/Qiita記事/【API使用量無料】Python × Gemini APIで作る！AIレシピ生成アプリ/img",
     "03_Article/Qiita記事/【API使用量無料】Python × Gemini APIで作る！AIレシピ生成アプリ",
-    "03_Article/Qiita記事/【革命】スライド作成がAI任せに！Cursor×Marp最強タッグ💪",
     "03_Article/02_Qiita記事/【API使用量無料】Python × Gemini APIで作る！AIレシピ生成アプリ/img/app.png",
     "03_Article/02_Qiita記事/【API使用量無料】Python × Gemini APIで作る！AIレシピ生成アプリ/img/apikey.png",
     "01_Knowledge/DBA_SILVER試験勉強/99_images/Pasted image 20250605215829.png",
