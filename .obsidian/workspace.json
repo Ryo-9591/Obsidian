@@ -6,7 +6,7 @@
       {
         "id": "82d4f98f5ef16710",
         "type": "tabs",
-        "dimension": 52.628865979381445,
+        "dimension": 56.855670103092784,
         "children": [
           {
             "id": "54c75f5ac17f0b31",
@@ -28,7 +28,7 @@
       {
         "id": "1dde6ef8df0b4aa4",
         "type": "tabs",
-        "dimension": 47.371134020618555,
+        "dimension": 43.144329896907216,
         "children": [
           {
             "id": "6378c3cce2fb0048",
@@ -169,7 +169,7 @@
       "marp-slides:Show Slide Preview": false
     }
   },
-  "active": "6378c3cce2fb0048",
+  "active": "54c75f5ac17f0b31",
   "lastOpenFiles": [
     "01_Knowledge/DBA_GOLD試験勉強/03_Grid Infrastructure/23_Oracle Databaseのアップグレード.md",
     "01_Knowledge/DBA_GOLD試験勉強/03_Grid Infrastructure/21_クラスタリソースの制御.md",
