@@ -1,4 +1,4 @@
-# Oracle Databaseアップグレード手順
+a# Oracle Databaseアップグレード手順
 ①新しいリリースのOracle Databaseソフトウェアをインストールする
 ②データベース外部のファイル(Oracle Net Servicesの設定ファイルなど)を新しい環境に引き継ぐ
 ③古いリリースのOracleデータベースに格納されたデータを引き継ぐ
@@ -38,4 +38,4 @@ Oracleホーム内のPerlを使用
 
 # アップグレードの注意点
 ・アップグレード後のOracle DatabaseをインストールするOracleホームはアップグレード前のOracle DatabaseのOracleホームとは別の場所にする必要がある
-・19cOracleDatabaseにアップグレード
+・19cOracleDBにアップグレード可能なリリースは11.2.0.4,  12.1.0.2 , 12.2.0.1 , 18c
