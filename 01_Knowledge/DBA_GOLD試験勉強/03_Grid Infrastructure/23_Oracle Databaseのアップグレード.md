@@ -1,2 +1,2 @@
 # Oracle Databaseアップグレード手順
-①
+①DBUA(Database Upgrade Assistant), AutoUpgrade
