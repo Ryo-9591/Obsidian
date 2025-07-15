@@ -6,6 +6,7 @@
       {
         "id": "d78783e8dd8151c3",
         "type": "tabs",
+        "dimension": 42.86407766990291,
         "children": [
           {
             "id": "54c75f5ac17f0b31",
@@ -21,7 +22,14 @@
               "icon": "lucide-file",
               "title": "8月：勉強会案"
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "82fc0153e2c33db5",
+        "type": "tabs",
+        "dimension": 57.13592233009709,
+        "children": [
           {
             "id": "fefacb856bceba7b",
             "type": "leaf",
@@ -161,7 +169,7 @@
       "marp-slides:Show Slide Preview": false
     }
   },
-  "active": "54c75f5ac17f0b31",
+  "active": "fefacb856bceba7b",
   "lastOpenFiles": [
     "01_Knowledge/勉強会/8月：勉強会案.md",
     "Backendエンジニアロードマップ.md",
