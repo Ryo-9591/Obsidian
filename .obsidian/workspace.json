@@ -21,6 +21,24 @@
               "icon": "lucide-file",
               "title": "8月：勉強会案"
             }
+          }
+        ]
+      },
+      {
+        "id": "e52d473d29adc10c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a0c06c692a563b1f",
+            "type": "leaf",
+            "state": {
+              "type": "surfing-view",
+              "state": {
+                "url": "https://chatgpt.com/c/68765283-6df8-800b-8240-46d935e711fb"
+              },
+              "icon": "lucide-file",
+              "title": "勉強会改善提案"
+            }
           },
           {
             "id": "b1e50a319005a9ad",
@@ -173,7 +191,7 @@
       "marp-slides:Show Slide Preview": false
     }
   },
-  "active": "54c75f5ac17f0b31",
+  "active": "a0c06c692a563b1f",
   "lastOpenFiles": [
     "01_Knowledge/勉強会/8月：勉強会案.md",
     "Backendエンジニアロードマップ.md",
