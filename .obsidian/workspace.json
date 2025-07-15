@@ -21,18 +21,6 @@
               "icon": "lucide-file",
               "title": "8月：勉強会案"
             }
-          },
-          {
-            "id": "6378c3cce2fb0048",
-            "type": "leaf",
-            "state": {
-              "type": "surfing-view",
-              "state": {
-                "url": "https://chatgpt.com/c/687202ea-4608-800b-ad46-80f462395953"
-              },
-              "icon": "lucide-file",
-              "title": "Oracle Gold試験勉強"
-            }
           }
         ]
       }
@@ -110,7 +98,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 228.5124969482422
+    "width": 303.5124969482422
   },
   "right": {
     "id": "f533a687fa0a0077",
