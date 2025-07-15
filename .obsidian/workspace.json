@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_Knowledge/勉強会/8月：勉強会案.md",
+                "file": "01_Knowledge/勉強会/勉強会案「知識習得・ナレッジ蓄積・ブランディングを同時に目指す勉強会」.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "8月：勉強会案"
+              "title": "勉強会案「知識習得・ナレッジ蓄積・ブランディングを同時に目指す勉強会」"
             }
           }
         ]
@@ -37,7 +37,7 @@
                 "url": "https://chatgpt.com/c/68765283-6df8-800b-8240-46d935e711fb"
               },
               "icon": "lucide-file",
-              "title": "勉強会改善提案"
+              "title": "勉強会問題点と解決策"
             }
           },
           {
@@ -193,7 +193,7 @@
   },
   "active": "a0c06c692a563b1f",
   "lastOpenFiles": [
-    "01_Knowledge/勉強会/8月：勉強会案.md",
+    "01_Knowledge/勉強会/勉強会案「知識習得・ナレッジ蓄積・ブランディングを同時に目指す勉強会」.md",
     "Backendエンジニアロードマップ.md",
     "README.md",
     "01_Knowledge/勉強会",
