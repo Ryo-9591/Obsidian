@@ -6,7 +6,7 @@
       {
         "id": "d78783e8dd8151c3",
         "type": "tabs",
-        "dimension": 76.6875,
+        "dimension": 52.81553398058253,
         "children": [
           {
             "id": "54c75f5ac17f0b31",
@@ -28,7 +28,7 @@
       {
         "id": "e52d473d29adc10c",
         "type": "tabs",
-        "dimension": 23.3125,
+        "dimension": 47.18446601941748,
         "children": [
           {
             "id": "a0c06c692a563b1f",
@@ -193,7 +193,7 @@
       "marp-slides:Show Slide Preview": false
     }
   },
-  "active": "54c75f5ac17f0b31",
+  "active": "a0c06c692a563b1f",
   "lastOpenFiles": [
     "01_Knowledge/勉強会/「知識習得・ナレッジ蓄積・ブランディングを同時に目指す勉強会」企画案.md",
     "Backendエンジニアロードマップ.md",
