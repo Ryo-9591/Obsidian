@@ -4,5 +4,6 @@
 ・orabaseコマンド
 ORACLE＿BASEのディレクトリパスを戻す
 ・orabasehomeコマンド
-ORACLE＿BASE_
-・oravaseconfigコマンド
+ORACLE＿BASE_HOMEのディレクトリパスを戻す
+・orabaseconfigコマンド
+ORACLE_BASE_CONFIGのディレクトリパスを戻す
