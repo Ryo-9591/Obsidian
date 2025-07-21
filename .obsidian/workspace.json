@@ -9,18 +9,18 @@
         "dimension": 52.81553398058253,
         "children": [
           {
-            "id": "54c75f5ac17f0b31",
+            "id": "a0c06c692a563b1f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_Knowledge/勉強会/「知識習得・ナレッジ蓄積・ブランディングを同時に目指す勉強会」企画案.md",
+                "file": "01_Knowledge/DBA_GOLD試験勉強/03_Grid Infrastructure/18_Grid InfrastructureとOracle databaseのインストール.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "「知識習得・ナレッジ蓄積・ブランディングを同時に目指す勉強会」企画案"
+              "title": "18_Grid InfrastructureとOracle databaseのインストール"
             }
           }
         ]
@@ -31,39 +31,15 @@
         "dimension": 47.18446601941748,
         "children": [
           {
-            "id": "a0c06c692a563b1f",
-            "type": "leaf",
-            "state": {
-              "type": "surfing-view",
-              "state": {
-                "url": "https://chatgpt.com/c/68765283-6df8-800b-8240-46d935e711fb"
-              },
-              "icon": "lucide-file",
-              "title": "勉強会問題点と解決策"
-            }
-          },
-          {
             "id": "b1e50a319005a9ad",
             "type": "leaf",
             "state": {
               "type": "surfing-view",
               "state": {
-                "url": "https://giginc.co.jp/blog/study"
+                "url": "https://chatgpt.com/c/687202ea-4608-800b-ad46-80f462395953"
               },
               "icon": "lucide-file",
-              "title": "勉強会｜東京のWEB制作会社・ホームページ制作会社｜株式会社GIG"
-            }
-          },
-          {
-            "id": "fefacb856bceba7b",
-            "type": "leaf",
-            "state": {
-              "type": "surfing-view",
-              "state": {
-                "url": "https://roadmap.sh/backend?fl=1"
-              },
-              "icon": "lucide-file",
-              "title": "Backend Developer Roadmap: What is Backend Development"
+              "title": "Oracle Gold試験勉強"
             }
           }
         ]
@@ -142,7 +118,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 310.50499725341797
   },
   "right": {
     "id": "f533a687fa0a0077",
@@ -195,6 +171,7 @@
   },
   "active": "a0c06c692a563b1f",
   "lastOpenFiles": [
+    "01_Knowledge/DBA_GOLD試験勉強/03_Grid Infrastructure/22_Grid Infrastructureのアップグレード.md",
     "01_Knowledge/勉強会/「知識習得・ナレッジ蓄積・ブランディングを同時に目指す勉強会」企画案.md",
     "Backendエンジニアロードマップ.md",
     "README.md",
@@ -207,7 +184,6 @@
     "01_Knowledge/DBA_GOLD試験勉強/04_Oracle/23_Oracle Databaseのアップグレード.md",
     "01_Knowledge/DBA_SILVER試験勉強/最終確認.md",
     "01_Knowledge/DBA_GOLD試験勉強/04_Oracle",
-    "01_Knowledge/DBA_GOLD試験勉強/03_Grid Infrastructure/22_Grid Infrastructureのアップグレード.md",
     "01_Knowledge/DBA_GOLD試験勉強/03_Grid Infrastructure/21_クラスタリソースの制御.md",
     "01_Knowledge/DBA_GOLD試験勉強/03_Grid Infrastructure/20_Grid Infrastructure及びOracleDBへのパッチ適用.md",
     "01_Knowledge/DBA_GOLD試験勉強/03_Grid Infrastructure/19_DBCAを使用したOracleDBの作成.md",
