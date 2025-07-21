@@ -7,3 +7,5 @@ ORACLE＿BASEのディレクトリパスを戻す
 ORACLE＿BASE_HOMEのディレクトリパスを戻す
 ・orabaseconfigコマンド
 ORACLE_BASE_CONFIGのディレクトリパスを戻す
+
+
