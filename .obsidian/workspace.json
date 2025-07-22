@@ -14,13 +14,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_Knowledge/DBA_GOLD試験勉強/04_Oracle/24_読み取り専用のOracle ホーム.md",
+                "file": "01_Knowledge/勉強会/「知識習得・ナレッジ蓄積・ブランディングを同時に目指す勉強会」企画案.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "24_読み取り専用のOracle ホーム"
+              "title": "「知識習得・ナレッジ蓄積・ブランディングを同時に目指す勉強会」企画案"
             }
           }
         ]
@@ -171,8 +171,8 @@
   },
   "active": "a0c06c692a563b1f",
   "lastOpenFiles": [
-    "01_Knowledge/DBA_GOLD試験勉強/03_Grid Infrastructure/22_Grid Infrastructureのアップグレード.md",
     "01_Knowledge/DBA_GOLD試験勉強/04_Oracle/24_読み取り専用のOracle ホーム.md",
+    "01_Knowledge/DBA_GOLD試験勉強/03_Grid Infrastructure/22_Grid Infrastructureのアップグレード.md",
     "01_Knowledge/DBA_GOLD試験勉強/04_Oracle/23_Oracle Databaseのアップグレード.md",
     "01_Knowledge/DBA_GOLD試験勉強/03_Grid Infrastructure/21_クラスタリソースの制御.md",
     "01_Knowledge/DBA_GOLD試験勉強/03_Grid Infrastructure/20_Grid Infrastructure及びOracleDBへのパッチ適用.md",
