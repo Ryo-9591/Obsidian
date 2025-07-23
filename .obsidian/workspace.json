@@ -6,7 +6,6 @@
       {
         "id": "d78783e8dd8151c3",
         "type": "tabs",
-        "dimension": 48.99193548387097,
         "children": [
           {
             "id": "a0c06c692a563b1f",
@@ -21,25 +20,6 @@
               },
               "icon": "lucide-file",
               "title": "「知識習得・ナレッジ蓄積・ブランディングを同時に目指す勉強会」企画案"
-            }
-          }
-        ]
-      },
-      {
-        "id": "e52d473d29adc10c",
-        "type": "tabs",
-        "dimension": 51.00806451612904,
-        "children": [
-          {
-            "id": "b1e50a319005a9ad",
-            "type": "leaf",
-            "state": {
-              "type": "surfing-view",
-              "state": {
-                "url": "https://chatgpt.com/c/687202ea-4608-800b-ad46-80f462395953"
-              },
-              "icon": "lucide-file",
-              "title": "Oracle Gold試験勉強"
             }
           }
         ]
