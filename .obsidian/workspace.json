@@ -8,48 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a0c06c692a563b1f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01_Knowledge/勉強会/「知識習得・ナレッジ蓄積・ブランディングを同時に目指す勉強会」企画案.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "「知識習得・ナレッジ蓄積・ブランディングを同時に目指す勉強会」企画案"
-            }
-          },
-          {
             "id": "6f64816940e47a19",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_Knowledge/勉強会/文章.md",
+                "file": "01_Knowledge/転職用知識/N+1問題.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "文章"
-            }
-          },
-          {
-            "id": "28f0dfa807885fa5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "無題のファイル.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "無題のファイル"
+              "title": "N+1問題"
             }
           }
         ]
@@ -179,11 +149,13 @@
       "marp-slides:Show Slide Preview": false
     }
   },
-  "active": "a0c06c692a563b1f",
+  "active": "6f64816940e47a19",
   "lastOpenFiles": [
     "01_Knowledge/勉強会/文章.md",
-    "無題のファイル.md",
+    "01_Knowledge/転職用知識/N+1問題.md",
+    "01_Knowledge/転職用知識",
     "01_Knowledge/勉強会/「知識習得・ナレッジ蓄積・ブランディングを同時に目指す勉強会」企画案.md",
+    "無題のファイル.md",
     "01_Knowledge/DBA_GOLD試験勉強/04_Oracle/24_読み取り専用のOracle ホーム.md",
     "01_Knowledge/DBA_GOLD試験勉強/03_Grid Infrastructure/22_Grid Infrastructureのアップグレード.md",
     "01_Knowledge/DBA_GOLD試験勉強/04_Oracle/23_Oracle Databaseのアップグレード.md",
@@ -213,14 +185,12 @@
     "01_Knowledge/DBA_SILVER試験勉強/01_Oracleデータベース知識/05_ユーザ、権限、ロール/05-5　クオータ.md",
     "01_Knowledge/DBA_SILVER試験勉強/01_Oracleデータベース知識/05_ユーザ、権限、ロール/05-4　認証.md",
     "01_Knowledge/DBA_SILVER試験勉強/01_Oracleデータベース知識/05_ユーザ、権限、ロール/05-3　ロール.md",
-    "01_Knowledge/DBA_SILVER試験勉強/01_Oracleデータベース知識/05_ユーザ、権限、ロール/05-2　権限.md",
     "01_Knowledge/DBA_SILVER試験勉強/99_images/Pasted image 20250616192450.png",
     "04_Daily",
     "01_Knowledge/DBA_GOLD試験勉強",
     "01_Knowledge/DBA_Gold",
     "03_Article/Qiita記事/【API使用量無料】Python × Gemini APIで作る！AIレシピ生成アプリ/img/app.png",
     "03_Article/Qiita記事/【API使用量無料】Python × Gemini APIで作る！AIレシピ生成アプリ/img/apikey.png",
-    "03_Article/Qiita記事/【API使用量無料】Python × Gemini APIで作る！AIレシピ生成アプリ/img",
     "03_Article/02_Qiita記事/【API使用量無料】Python × Gemini APIで作る！AIレシピ生成アプリ/img/app.png",
     "03_Article/02_Qiita記事/【API使用量無料】Python × Gemini APIで作る！AIレシピ生成アプリ/img/apikey.png",
     "01_Knowledge/DBA_SILVER試験勉強/99_images/Pasted image 20250605215829.png",
