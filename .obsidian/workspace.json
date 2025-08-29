@@ -102,7 +102,7 @@
                   },
                   "pinned": true,
                   "icon": "terminal",
-                  "title": "Terminal: Gemini - Obsidian"
+                  "title": "Terminal: 選択Windows PowerShell"
                 }
               }
             ],
@@ -238,7 +238,7 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "fb8e58c3954bd0d5",
+  "active": "58392aaeeda87af9",
   "lastOpenFiles": [
     "01_Knowledge/転職用知識/N+1問題.md",
     "01_Knowledge/勉強会/文章.md",
