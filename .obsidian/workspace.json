@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "cb767821c7b76276",
+        "id": "63ef1882d24c5d01",
         "type": "tabs",
         "children": [
           {
-            "id": "6f345fb6109d2bf6",
+            "id": "8bc30ae56bafc306",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -137,6 +137,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "obsidian-git:Open Git source control": false,
       "daily-notes:今日のデイリーノートを開く": false,
       "templates:テンプレートを挿入": false,
@@ -144,7 +145,7 @@
       "marp-slides:Show Slide Preview": false
     }
   },
-  "active": "6f345fb6109d2bf6",
+  "active": "8bc30ae56bafc306",
   "lastOpenFiles": [
     "01_Knowledge/転職用知識/N+1問題.md",
     "01_Knowledge/勉強会/文章.md",
