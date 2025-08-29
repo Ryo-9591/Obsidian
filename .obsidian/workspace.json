@@ -4,20 +4,72 @@
     "type": "split",
     "children": [
       {
-        "id": "4b2e470cf01c149e",
-        "type": "tabs",
+        "id": "a3495ab282499390",
+        "type": "split",
         "children": [
           {
-            "id": "bc2f26c0514574c5",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "新規タブ"
-            }
+            "id": "4b2e470cf01c149e",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "bc2f26c0514574c5",
+                "type": "leaf",
+                "state": {
+                  "type": "empty",
+                  "state": {},
+                  "icon": "lucide-file",
+                  "title": "新規タブ"
+                }
+              }
+            ]
+          },
+          {
+            "id": "32c8aa2a3e8d2349",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "51dc38112e779447",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "terminal:terminal",
+                  "state": {
+                    "terminal:terminal": {
+                      "cwd": "C:\\Users\\matsu\\work\\Obsidian",
+                      "focus": false,
+                      "profile": {
+                        "args": [],
+                        "executable": "/bin/zsh",
+                        "name": "",
+                        "platforms": {
+                          "darwin": true
+                        },
+                        "pythonExecutable": "python3",
+                        "restoreHistory": false,
+                        "rightClickAction": "copyPaste",
+                        "successExitCodes": [
+                          "0",
+                          "SIGINT",
+                          "SIGTERM"
+                        ],
+                        "terminalOptions": {
+                          "documentOverride": null
+                        },
+                        "type": "integrated",
+                        "useWin32Conhost": true
+                      },
+                      "serial": null
+                    }
+                  },
+                  "pinned": true,
+                  "icon": "terminal",
+                  "title": "Terminal: zsh"
+                }
+              }
+            ]
           }
-        ]
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -146,7 +198,7 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "bc2f26c0514574c5",
+  "active": "51dc38112e779447",
   "lastOpenFiles": [
     "01_Knowledge/転職用知識/N+1問題.md",
     "01_Knowledge/勉強会/文章.md",
