@@ -65,8 +65,48 @@
                   "icon": "terminal",
                   "title": "Terminal: zsh"
                 }
+              },
+              {
+                "id": "fb8e58c3954bd0d5",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "terminal:terminal",
+                  "state": {
+                    "terminal:terminal": {
+                      "cwd": "C:\\Users\\matsu\\work\\Obsidian",
+                      "focus": false,
+                      "profile": {
+                        "args": [],
+                        "executable": "C:\\Windows\\System32\\cmd.exe",
+                        "name": "",
+                        "platforms": {
+                          "win32": true
+                        },
+                        "pythonExecutable": "python3",
+                        "restoreHistory": false,
+                        "rightClickAction": "copyPaste",
+                        "successExitCodes": [
+                          "0",
+                          "SIGINT",
+                          "SIGTERM"
+                        ],
+                        "terminalOptions": {
+                          "documentOverride": null
+                        },
+                        "type": "integrated",
+                        "useWin32Conhost": true
+                      },
+                      "serial": null
+                    }
+                  },
+                  "pinned": true,
+                  "icon": "terminal",
+                  "title": "Terminal: Gemini - Obsidian"
+                }
               }
-            ]
+            ],
+            "currentTab": 1
           }
         ],
         "direction": "horizontal"
@@ -198,7 +238,7 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "51dc38112e779447",
+  "active": "fb8e58c3954bd0d5",
   "lastOpenFiles": [
     "01_Knowledge/転職用知識/N+1問題.md",
     "01_Knowledge/勉強会/文章.md",
