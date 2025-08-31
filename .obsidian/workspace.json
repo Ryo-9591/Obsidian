@@ -10,6 +10,7 @@
           {
             "id": "4b2e470cf01c149e",
             "type": "tabs",
+            "dimension": 61.79159049360147,
             "children": [
               {
                 "id": "bc2f26c0514574c5",
@@ -17,13 +18,13 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "04_Daily/test.md",
+                    "file": "01_Knowledge/G検定/01_.md",
                     "mode": "source",
                     "source": false,
                     "backlinks": false
                   },
                   "icon": "lucide-file",
-                  "title": "test"
+                  "title": "01_"
                 }
               }
             ]
@@ -31,6 +32,7 @@
           {
             "id": "32c8aa2a3e8d2349",
             "type": "tabs",
+            "dimension": 38.20840950639854,
             "children": [
               {
                 "id": "51dc38112e779447",
@@ -243,8 +245,9 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "58392aaeeda87af9",
+  "active": "bc2f26c0514574c5",
   "lastOpenFiles": [
+    "01_Knowledge/G検定/01_.md",
     "01_Knowledge/G検定",
     "04_Daily/test.md",
     "01_Knowledge/転職用知識/N+1問題.md",
@@ -282,7 +285,6 @@
     "01_Knowledge/DBA_SILVER試験勉強/99_images/Pasted image 20250616192450.png",
     "04_Daily",
     "01_Knowledge/DBA_GOLD試験勉強",
-    "01_Knowledge/DBA_Gold",
     "03_Article/Qiita記事/【API使用量無料】Python × Gemini APIで作る！AIレシピ生成アプリ/img/app.png",
     "03_Article/Qiita記事/【API使用量無料】Python × Gemini APIで作る！AIレシピ生成アプリ/img/apikey.png",
     "03_Article/02_Qiita記事/【API使用量無料】Python × Gemini APIで作る！AIレシピ生成アプリ/img/app.png",
