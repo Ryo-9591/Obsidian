@@ -6,6 +6,7 @@
       {
         "id": "4b2e470cf01c149e",
         "type": "tabs",
+        "dimension": 61.4375,
         "children": [
           {
             "id": "bc2f26c0514574c5",
@@ -27,15 +28,18 @@
       {
         "id": "1aa34281df18bfe2",
         "type": "tabs",
+        "dimension": 38.5625,
         "children": [
           {
             "id": "70360d8455538030",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "surfing-view",
+              "state": {
+                "url": "https://gemini.google.com/app?hl=ja"
+              },
               "icon": "lucide-file",
-              "title": "新規タブ"
+              "title": "Google Gemini"
             }
           }
         ]
@@ -167,7 +171,7 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "70360d8455538030",
+  "active": "bc2f26c0514574c5",
   "lastOpenFiles": [
     "01_Knowledge/G検定/01_.md",
     "01_Knowledge/G検定/02_.md",
