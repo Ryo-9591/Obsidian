@@ -107,7 +107,7 @@
                   },
                   "pinned": true,
                   "icon": "terminal",
-                  "title": "Terminal: C:\\Windows\\System32\\conhost.exe"
+                  "title": "Terminal: Gemini - Obsidian"
                 }
               }
             ],
@@ -243,8 +243,9 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "fb8e58c3954bd0d5",
+  "active": "58392aaeeda87af9",
   "lastOpenFiles": [
+    "01_Knowledge/G検定",
     "04_Daily/test.md",
     "01_Knowledge/転職用知識/N+1問題.md",
     "01_Knowledge/勉強会/文章.md",
@@ -278,7 +279,6 @@
     "01_Knowledge/DBA_SILVER試験勉強/01_Oracleデータベース知識/06_表領域の管理/06-2　永続表領域.md",
     "01_Knowledge/DBA_SILVER試験勉強/01_Oracleデータベース知識/06_表領域の管理/06-1　表領域.md",
     "01_Knowledge/DBA_SILVER試験勉強/01_Oracleデータベース知識/05_ユーザ、権限、ロール/05-5　クオータ.md",
-    "01_Knowledge/DBA_SILVER試験勉強/01_Oracleデータベース知識/05_ユーザ、権限、ロール/05-4　認証.md",
     "01_Knowledge/DBA_SILVER試験勉強/99_images/Pasted image 20250616192450.png",
     "04_Daily",
     "01_Knowledge/DBA_GOLD試験勉強",
