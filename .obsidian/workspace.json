@@ -107,7 +107,7 @@
                   },
                   "pinned": true,
                   "icon": "terminal",
-                  "title": "Terminal: Windows PowerShell"
+                  "title": "Terminal: C:\\Windows\\System32\\conhost.exe"
                 }
               }
             ],
