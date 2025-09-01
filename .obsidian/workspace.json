@@ -9,7 +9,7 @@
         "dimension": 58.40528186896902,
         "children": [
           {
-            "id": "bc2f26c0514574c5",
+            "id": "70360d8455538030",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -30,18 +30,6 @@
         "type": "tabs",
         "dimension": 41.59471813103098,
         "children": [
-          {
-            "id": "70360d8455538030",
-            "type": "leaf",
-            "state": {
-              "type": "surfing-view",
-              "state": {
-                "url": "https://gemini.google.com/app/532aeb5c24267a6f?hl=ja"
-              },
-              "icon": "lucide-file",
-              "title": "Google Gemini"
-            }
-          },
           {
             "id": "ce853d9ddc67e351",
             "type": "leaf",
@@ -183,12 +171,12 @@
   },
   "active": "70360d8455538030",
   "lastOpenFiles": [
+    "01_Knowledge/G検定/99_image/Pasted image 20250901142102.png",
     "01_Knowledge/G検定/01_/05_強化学習.md",
     "01_Knowledge/G検定/01_/02_人工知能をめぐる動向と問題.md",
-    "Pasted image 20250901145630.png",
+    "01_Knowledge/G検定/99_image/Pasted image 20250901145630.png",
     "01_Knowledge/G検定/01_/04_教師なし学習.md",
-    "Pasted image 20250901142317.png",
-    "Pasted image 20250901142102.png",
+    "01_Knowledge/G検定/99_image/Pasted image 20250901142317.png",
     "01_Knowledge/G検定/01_/03_教師あり学習.md",
     "01_Knowledge/G検定/99_image/Pasted image 20250901132359.png",
     "01_Knowledge/G検定/99_image/Pasted image 20250901141729.png",
