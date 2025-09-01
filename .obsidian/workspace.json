@@ -14,13 +14,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_Knowledge/G検定/01_/05_強化学習.md",
+                "file": "01_Knowledge/G検定/01_/06_ディープラーニング.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "05_強化学習"
+              "title": "06_ディープラーニング"
             }
           }
         ]
@@ -95,7 +95,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "199a16cf7c4e5e91",
@@ -169,10 +169,10 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "9ac9ed207c82c160",
+  "active": "70360d8455538030",
   "lastOpenFiles": [
-    "01_Knowledge/G検定/99_image/Pasted image 20250901142102.png",
     "01_Knowledge/G検定/01_/05_強化学習.md",
+    "01_Knowledge/G検定/99_image/Pasted image 20250901142102.png",
     "01_Knowledge/G検定/01_/02_人工知能をめぐる動向と問題.md",
     "01_Knowledge/G検定/99_image/Pasted image 20250901145630.png",
     "01_Knowledge/G検定/01_/04_教師なし学習.md",
@@ -188,7 +188,7 @@
     "01_Knowledge/G検定/01_/01_人工知能とは.md",
     "01_Knowledge/G検定/01_",
     "01_Knowledge/G検定/99_image",
-    "01_Knowledge/G検定/01_/06_.md",
+    "01_Knowledge/G検定/01_/06_ディープラーニング.md",
     "01_Knowledge/G検定",
     "04_Daily/test.md",
     "01_Knowledge/転職用知識/N+1問題.md",
