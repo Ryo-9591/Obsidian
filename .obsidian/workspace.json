@@ -29,13 +29,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_Knowledge/G検定/無題のフォルダ/無題のファイル.md",
+                "file": "01_Knowledge/G検定/無題のフォルダ/02_人工知能をめぐる動向と問題.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "無題のファイル"
+              "title": "02_人工知能をめぐる動向と問題"
             }
           },
           {
@@ -222,13 +222,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01_Knowledge/G検定/無題のフォルダ/無題のファイル.md",
+                "file": "01_Knowledge/G検定/無題のフォルダ/02_人工知能をめぐる動向と問題.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "無題のファイルのアウトライン"
+              "title": "02_人工知能をめぐる動向と問題のアウトライン"
             }
           },
           {
@@ -261,10 +261,13 @@
   },
   "active": "3cc43d7ce5ff70b2",
   "lastOpenFiles": [
-    "01_Knowledge/G検定/無題のフォルダ/04_教師なし学習.md",
     "01_Knowledge/G検定/無題のフォルダ/03_教師あり学習.md",
-    "01_Knowledge/G検定/無題のフォルダ/02_人工知能をめぐる動向と問題.md",
+    "01_Knowledge/G検定/無題のフォルダ/10_自然言語処理.md",
+    "01_Knowledge/G検定/無題のフォルダ/11_深層強化学習.md",
     "01_Knowledge/G検定/無題のフォルダ/無題のファイル.md",
+    "01_Knowledge/G検定/無題のフォルダ/02_人工知能をめぐる動向と問題.md",
+    "01_Knowledge/G検定/02_第二次AIブーム（1980年代〜）/01_知識表現の時代.md",
+    "01_Knowledge/G検定/無題のフォルダ/04_教師なし学習.md",
     "01_Knowledge/G検定/01_第一次AIブーム（1950年代後半〜1960年代）/02_関連単語.md",
     "01_Knowledge/G検定/01_第一次AIブーム（1950年代後半〜1960年代）/01_探索と推論の時代.md",
     "01_Knowledge/G検定/02_第二次AIブーム（1980年代〜）",
@@ -273,8 +276,6 @@
     "01_Knowledge/G検定/無題のファイル.md",
     "01_Knowledge/G検定/00_AIの誕生/00_AIの誕生.md",
     "01_Knowledge/G検定/00_AIの誕生",
-    "01_Knowledge/G検定/無題のフォルダ/11_深層強化学習.md",
-    "01_Knowledge/G検定/無題のフォルダ/10_自然言語処理.md",
     "Pasted image 20250901221019.png",
     "Pasted image 20250901220956.png",
     "01_Knowledge/G検定/無題のフォルダ/09_音声処理.md",
