@@ -52,7 +52,7 @@
             "state": {
               "type": "surfing-view",
               "state": {
-                "url": "https://gemini.google.com/app/532aeb5c24267a6f?hl=ja"
+                "url": "https://gemini.google.com/app?hl=ja"
               },
               "icon": "lucide-file",
               "title": "Google Gemini"
