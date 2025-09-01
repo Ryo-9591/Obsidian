@@ -83,7 +83,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "AI効果",
+                "query": "tag:#バンディットアルゴリズム",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -95,7 +95,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "199a16cf7c4e5e91",
@@ -169,7 +169,7 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "70360d8455538030",
+  "active": "9ac9ed207c82c160",
   "lastOpenFiles": [
     "01_Knowledge/G検定/99_image/Pasted image 20250901142102.png",
     "01_Knowledge/G検定/01_/05_強化学習.md",
