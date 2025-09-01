@@ -134,13 +134,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01_Knowledge/G検定/03_第三次AIブーム（2000年代後半〜現在）/01_機械学習・特徴表現学習の時代.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "01_機械学習・特徴表現学習の時代のアウトライン"
+              "title": "アウトライン"
             }
           },
           {
@@ -171,10 +170,10 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "eb3b00298a6085e0",
+  "active": "a5a4886e77a92872",
   "lastOpenFiles": [
-    "01_Knowledge/G検定/03_第三次AIブーム（2000年代後半〜現在）/02_教師あり学習.md",
     "01_Knowledge/G検定/03_第三次AIブーム（2000年代後半〜現在）/01_機械学習・特徴表現学習の時代.md",
+    "01_Knowledge/G検定/03_第三次AIブーム（2000年代後半〜現在）/02_教師あり学習.md",
     "01_Knowledge/G検定/03_第三次AIブーム（2000年代後半〜現在）/03_教師あり学習.md",
     "01_Knowledge/G検定/03_第三次AIブーム（2000年代後半〜現在）/06_ディープラーニング.md",
     "01_Knowledge/G検定/03_第三次AIブーム（2000年代後半〜現在）/05_強化学習.md",
