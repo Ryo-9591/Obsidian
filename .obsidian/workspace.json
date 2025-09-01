@@ -147,13 +147,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01_Knowledge/G検定/01_/08_リカレントニューラルネットワーク.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "08_リカレントニューラルネットワークのアウトライン"
+              "title": "アウトライン"
             }
           },
           {
@@ -184,10 +183,10 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "ce853d9ddc67e351",
+  "active": "a5a4886e77a92872",
   "lastOpenFiles": [
-    "01_Knowledge/G検定/01_/07_畳み込みニューラルネットワーク.md",
     "01_Knowledge/G検定/01_/08_リカレントニューラルネットワーク.md",
+    "01_Knowledge/G検定/01_/07_畳み込みニューラルネットワーク.md",
     "Pasted image 20250901202339.png",
     "Pasted image 20250901202322.png",
     "Pasted image 20250901202259.png",
