@@ -6,7 +6,7 @@
       {
         "id": "4b2e470cf01c149e",
         "type": "tabs",
-        "dimension": 57.05159705159705,
+        "dimension": 56.16504854368932,
         "children": [
           {
             "id": "bc2f26c0514574c5",
@@ -28,7 +28,7 @@
       {
         "id": "1aa34281df18bfe2",
         "type": "tabs",
-        "dimension": 42.94840294840295,
+        "dimension": 43.83495145631068,
         "children": [
           {
             "id": "70360d8455538030",
@@ -118,7 +118,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 225.50499725341797
+    "width": 200
   },
   "right": {
     "id": "f533a687fa0a0077",
@@ -173,15 +173,15 @@
   },
   "active": "bc2f26c0514574c5",
   "lastOpenFiles": [
-    "01_Knowledge/G検定/01_/01_人工知能とは.md",
+    "01_Knowledge/G検定/01_/03_.md",
     "01_Knowledge/G検定/01_/02_人工知能をめぐる動向と問題.md",
+    "01_Knowledge/G検定/01_/01_人工知能とは.md",
     "01_Knowledge/G検定/99_image/Pasted image 20250901100707.png",
     "01_Knowledge/G検定/01_",
     "01_Knowledge/G検定/99_image",
     "01_Knowledge/G検定/99_image/Pasted image 20250901105639.png",
     "01_Knowledge/G検定/99_image/Pasted image 20250901105752.png",
     "01_Knowledge/G検定/99_image/Pasted image 20250901101655.png",
-    "01_Knowledge/G検定/01_/03_.md",
     "01_Knowledge/G検定/01_/06_.md",
     "01_Knowledge/G検定/01_/05_.md",
     "01_Knowledge/G検定/01_/04_.md",
