@@ -24,6 +24,21 @@
             }
           },
           {
+            "id": "3cc43d7ce5ff70b2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01_Knowledge/G検定/01_第一次AIブーム（1950年代後半〜1960年代）/無題のファイル.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "無題のファイル"
+            }
+          },
+          {
             "id": "ce853d9ddc67e351",
             "type": "leaf",
             "state": {
@@ -59,16 +74,17 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_Knowledge/G検定/無題のファイル.md",
+                "file": "01_Knowledge/G検定/01_第一次AIブーム（1950年代後半〜1960年代）/02_人工知能をめぐる動向と問題.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "無題のファイル"
+              "title": "02_人工知能をめぐる動向と問題"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       },
       {
         "id": "5d9a9d6bd5d3fc2a",
@@ -191,13 +207,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01_Knowledge/G検定/01_第一次AIブーム（1950年代後半〜1960年代）/01_探索と推論の時代.md",
+                "file": "01_Knowledge/G検定/01_第一次AIブーム（1950年代後半〜1960年代）/02_人工知能をめぐる動向と問題.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "01_探索と推論の時代のアウトライン"
+              "title": "02_人工知能をめぐる動向と問題のアウトライン"
             }
           },
           {
@@ -228,13 +244,15 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "eb3b00298a6085e0",
+  "active": "58392aaeeda87af9",
   "lastOpenFiles": [
-    "01_Knowledge/G検定/00_AIの誕生/00_AIの誕生.md",
+    "01_Knowledge/G検定/01_第一次AIブーム（1950年代後半〜1960年代）/無題のフォルダ",
     "01_Knowledge/G検定/01_第一次AIブーム（1950年代後半〜1960年代）/01_探索と推論の時代.md",
-    "01_Knowledge/G検定/00_AIの誕生",
-    "01_Knowledge/G検定/01_第一次AIブーム（1950年代後半〜1960年代）/03_教師あり学習.md",
     "01_Knowledge/G検定/無題のファイル.md",
+    "01_Knowledge/G検定/01_第一次AIブーム（1950年代後半〜1960年代）/03_教師あり学習.md",
+    "01_Knowledge/G検定/01_第一次AIブーム（1950年代後半〜1960年代）/無題のファイル.md",
+    "01_Knowledge/G検定/00_AIの誕生/00_AIの誕生.md",
+    "01_Knowledge/G検定/00_AIの誕生",
     "01_Knowledge/G検定/01_第一次AIブーム（1950年代後半〜1960年代）/11_深層強化学習.md",
     "01_Knowledge/G検定/01_第一次AIブーム（1950年代後半〜1960年代）/10_自然言語処理.md",
     "Pasted image 20250901221019.png",
@@ -262,7 +280,6 @@
     "01_Knowledge/勉強会/文章.md",
     "01_Knowledge/転職用知識",
     "01_Knowledge/勉強会/「知識習得・ナレッジ蓄積・ブランディングを同時に目指す勉強会」企画案.md",
-    "無題のファイル.md",
     "01_Knowledge/DBA_GOLD試験勉強/04_Oracle/24_読み取り専用のOracle ホーム.md",
     "01_Knowledge/DBA_GOLD試験勉強/03_Grid Infrastructure/22_Grid Infrastructureのアップグレード.md",
     "01_Knowledge/DBA_GOLD試験勉強/04_Oracle/23_Oracle Databaseのアップグレード.md",
@@ -270,7 +287,6 @@
     "01_Knowledge/DBA_GOLD試験勉強/03_Grid Infrastructure/20_Grid Infrastructure及びOracleDBへのパッチ適用.md",
     "01_Knowledge/DBA_GOLD試験勉強/03_Grid Infrastructure/19_DBCAを使用したOracleDBの作成.md",
     "01_Knowledge/DBA_GOLD試験勉強/03_Grid Infrastructure/18_Grid InfrastructureとOracle databaseのインストール.md",
-    "Backendエンジニアロードマップ.md",
     "01_Knowledge/勉強会",
     "01_Knowledge/DBA_GOLD試験勉強/98_模試",
     "01_Knowledge/DBA_GOLD試験勉強/99_images",
