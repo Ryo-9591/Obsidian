@@ -6,7 +6,7 @@
       {
         "id": "4b2e470cf01c149e",
         "type": "tabs",
-        "dimension": 51.657824933687,
+        "dimension": 59.97482693517936,
         "children": [
           {
             "id": "70360d8455538030",
@@ -44,7 +44,7 @@
       {
         "id": "1aa34281df18bfe2",
         "type": "tabs",
-        "dimension": 48.342175066313,
+        "dimension": 40.02517306482064,
         "children": [
           {
             "id": "a5a4886e77a92872",
@@ -134,7 +134,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 291.5124969482422
+    "width": 210.50499725341797
   },
   "right": {
     "id": "f533a687fa0a0077",
@@ -190,6 +190,7 @@
   "active": "a5a4886e77a92872",
   "lastOpenFiles": [
     "01_Knowledge/G検定/01_/07_畳み込みニューラルネットワーク.md",
+    "Pasted image 20250901190743.png",
     "01_Knowledge/G検定/01_/06_ディープラーニング.md",
     "01_Knowledge/G検定/01_/03_教師あり学習.md",
     "01_Knowledge/G検定/01_/02_人工知能をめぐる動向と問題.md",
@@ -205,7 +206,6 @@
     "01_Knowledge/G検定/99_image/Pasted image 20250901160519.png",
     "01_Knowledge/G検定/99_image/Pasted image 20250901142102.png",
     "01_Knowledge/G検定/99_image/Pasted image 20250901145630.png",
-    "01_Knowledge/G検定/99_image/Pasted image 20250901142317.png",
     "01_Knowledge/G検定/01_",
     "01_Knowledge/G検定/99_image",
     "01_Knowledge/G検定",
@@ -234,7 +234,6 @@
     "01_Knowledge/DBA_GOLD試験勉強/03_Grid Infrastructure",
     "01_Knowledge/DBA_SILVER試験勉強/01_Oracleデータベース知識/02_ツール/02-1　DBCA(Database Configuration Assistant).md",
     "01_Knowledge/DBA_SILVER試験勉強/01_Oracleデータベース知識/01_アーキテクチャ/01-1　SGAとバックグラウンドプロセス.md",
-    "03_Article/Qiita記事/SALTO図鑑/Saltype開発運営から学んだこと.md",
     "無題のファイル.canvas",
     "Untitled.canvas",
     "Untitled 1.canvas"
