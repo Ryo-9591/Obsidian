@@ -44,13 +44,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_Knowledge/G検定/01_/09_音声処理.md",
+                "file": "01_Knowledge/G検定/01_/08_リカレントニューラルネットワーク.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "09_音声処理"
+              "title": "08_リカレントニューラルネットワーク"
             }
           }
         ],
@@ -177,12 +177,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "01_Knowledge/G検定/01_/08_リカレントニューラルネットワーク.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "アウトライン"
+              "title": "08_リカレントニューラルネットワークのアウトライン"
             }
           },
           {
@@ -213,7 +214,7 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "a5a4886e77a92872",
+  "active": "eb3b00298a6085e0",
   "lastOpenFiles": [
     "01_Knowledge/G検定/01_/09_音声処理.md",
     "01_Knowledge/G検定/99_image/Pasted image 20250901174929.png",
