@@ -43,31 +43,19 @@
             }
           },
           {
-            "id": "fbd28982bc1dac09",
+            "id": "a4acf0b755c5408c",
             "type": "leaf",
             "state": {
               "type": "surfing-view",
               "state": {
-                "url": "https://myactivity.google.com/product/search/?hl=ja&utm_source=web_search&utm_medium=mavatar"
+                "url": "https://zero2one.jp/ai-word/"
               },
               "icon": "lucide-file",
-              "title": "Google - マイ アクティビティ"
-            }
-          },
-          {
-            "id": "a97d32e4f9524a61",
-            "type": "leaf",
-            "state": {
-              "type": "surfing-view",
-              "state": {
-                "url": "https://www.google.com/search?q=%E5%A4%9A%E5%B1%A4%E3%83%91%E3%83%BC%E3%82%BB%E3%83%97%E3%83%88%E3%83%AD%E3%83%B3&udm=2"
-              },
-              "icon": "lucide-file",
-              "title": "多層パーセプトロン - Google 検索"
+              "title": "AI用語集（G検定対応）｜550語以上すべて図解＆確認テストつき – zero to one"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -196,7 +184,7 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "a97d32e4f9524a61",
+  "active": "a4acf0b755c5408c",
   "lastOpenFiles": [
     "01_Knowledge/G検定/01_/07_畳み込みニューラルネットワーク.md",
     "Pasted image 20250901192834.png",
