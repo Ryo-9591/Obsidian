@@ -6,7 +6,7 @@
       {
         "id": "4b2e470cf01c149e",
         "type": "tabs",
-        "dimension": 58.40528186896902,
+        "dimension": 53.78364652107669,
         "children": [
           {
             "id": "70360d8455538030",
@@ -28,16 +28,18 @@
       {
         "id": "1aa34281df18bfe2",
         "type": "tabs",
-        "dimension": 41.59471813103098,
+        "dimension": 46.21635347892331,
         "children": [
           {
             "id": "ce853d9ddc67e351",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "surfing-view",
+              "state": {
+                "url": "https://gemini.google.com/app/532aeb5c24267a6f?hl=ja"
+              },
               "icon": "lucide-file",
-              "title": "新規タブ"
+              "title": "Google Gemini"
             }
           }
         ]
@@ -169,8 +171,9 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "70360d8455538030",
+  "active": "ce853d9ddc67e351",
   "lastOpenFiles": [
+    "01_Knowledge/G検定/01_/06_ディープラーニング.md",
     "Pasted image 20250901160519.png",
     "Pasted image 20250901160336.png",
     "01_Knowledge/G検定/01_/05_強化学習.md",
@@ -185,11 +188,9 @@
     "01_Knowledge/G検定/99_image/Pasted image 20250901141552.png",
     "01_Knowledge/G検定/99_image/Pasted image 20250901133543.png",
     "01_Knowledge/G検定/99_image/Pasted image 20250901133226.png",
-    "01_Knowledge/G検定/99_image/Pasted image 20250901132935.png",
     "01_Knowledge/G検定/01_/01_人工知能とは.md",
     "01_Knowledge/G検定/01_",
     "01_Knowledge/G検定/99_image",
-    "01_Knowledge/G検定/01_/06_ディープラーニング.md",
     "01_Knowledge/G検定",
     "04_Daily/test.md",
     "01_Knowledge/転職用知識/N+1問題.md",
