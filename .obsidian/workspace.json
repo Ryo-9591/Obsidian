@@ -135,12 +135,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "01_Knowledge/G検定/01_/07_畳み込みニューラルネットワーク.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "アウトライン"
+              "title": "07_畳み込みニューラルネットワークのアウトライン"
             }
           },
           {
@@ -171,8 +172,9 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "a5a4886e77a92872",
+  "active": "ce853d9ddc67e351",
   "lastOpenFiles": [
+    "Pasted image 20250901192656.png",
     "01_Knowledge/G検定/01_/07_畳み込みニューラルネットワーク.md",
     "Pasted image 20250901192330.png",
     "Pasted image 20250901192319.png",
