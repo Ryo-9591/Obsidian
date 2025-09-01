@@ -29,13 +29,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_Knowledge/G検定/03_第三次AIブーム（2000年代後半〜現在）/無題のファイル.md",
+                "file": "01_Knowledge/G検定/02_第二次AIブーム（1980年代〜）/01_知識表現の時代.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "無題のファイル"
+              "title": "01_知識表現の時代"
             }
           }
         ],
@@ -162,13 +162,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01_Knowledge/G検定/03_第三次AIブーム（2000年代後半〜現在）/無題のファイル.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "無題のファイルのアウトライン"
+              "title": "アウトライン"
             }
           },
           {
@@ -199,15 +198,15 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "3cc43d7ce5ff70b2",
+  "active": "a5a4886e77a92872",
   "lastOpenFiles": [
+    "01_Knowledge/G検定/02_第二次AIブーム（1980年代〜）/01_知識表現の時代.md",
     "01_Knowledge/G検定/無題のフォルダ/03_教師あり学習.md",
-    "01_Knowledge/G検定/03_第三次AIブーム（2000年代後半〜現在）/無題のファイル.md",
+    "01_Knowledge/G検定/03_第三次AIブーム（2000年代後半〜現在）/02_教師あり学習.md",
     "01_Knowledge/G検定/03_第三次AIブーム（2000年代後半〜現在）/01_機械学習・特徴表現学習の時代.md",
     "01_Knowledge/G検定/無題のフォルダ/02_人工知能をめぐる動向と問題.md",
     "01_Knowledge/G検定/01_第一次AIブーム（1950年代後半〜1960年代）/01_探索と推論の時代.md",
     "01_Knowledge/G検定/01_第一次AIブーム（1950年代後半〜1960年代）/02_関連単語.md",
-    "01_Knowledge/G検定/02_第二次AIブーム（1980年代〜）/01_知識表現の時代.md",
     "01_Knowledge/G検定/無題のファイル.md",
     "01_Knowledge/G検定/無題のフォルダ/無題のファイル.md",
     "01_Knowledge/G検定/03_第三次AIブーム（2000年代後半〜現在）",
