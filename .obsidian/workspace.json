@@ -130,8 +130,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 263.50499725341797
   },
   "right": {
     "id": "f533a687fa0a0077",
@@ -187,11 +186,12 @@
   "lastOpenFiles": [
     "01_Knowledge/G検定/01_/08_リカレントニューラルネットワーク.md",
     "01_Knowledge/G検定/01_/07_畳み込みニューラルネットワーク.md",
+    "01_Knowledge/G検定/01_/02_人工知能をめぐる動向と問題.md",
+    "01_Knowledge/G検定/01_/03_教師あり学習.md",
     "Pasted image 20250901202339.png",
     "Pasted image 20250901202322.png",
     "Pasted image 20250901202259.png",
     "01_Knowledge/G検定/01_/05_強化学習.md",
-    "01_Knowledge/G検定/01_/02_人工知能をめぐる動向と問題.md",
     "01_Knowledge/G検定/01_/01_人工知能とは.md",
     "01_Knowledge/G検定/01_/06_ディープラーニング.md",
     "01_Knowledge/G検定/01_/04_教師なし学習.md",
@@ -202,7 +202,6 @@
     "Pasted image 20250901193745.png",
     "Pasted image 20250901193631.png",
     "Pasted image 20250901193514.png",
-    "01_Knowledge/G検定/01_/03_教師あり学習.md",
     "01_Knowledge/G検定/01_",
     "01_Knowledge/G検定/99_image",
     "01_Knowledge/G検定",
