@@ -44,13 +44,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_Knowledge/G検定/01_/06_ディープラーニング.md",
+                "file": "01_Knowledge/G検定/01_/08_リカレントニューラルネットワーク.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "06_ディープラーニング"
+              "title": "08_リカレントニューラルネットワーク"
             }
           }
         ],
@@ -215,12 +215,12 @@
   },
   "active": "a5a4886e77a92872",
   "lastOpenFiles": [
+    "01_Knowledge/G検定/01_/08_リカレントニューラルネットワーク.md",
     "01_Knowledge/G検定/01_/06_ディープラーニング.md",
-    "01_Knowledge/G検定/01_/03_教師あり学習.md",
     "01_Knowledge/G検定/01_/05_強化学習.md",
+    "01_Knowledge/G検定/01_/03_教師あり学習.md",
     "01_Knowledge/G検定/01_/04_教師なし学習.md",
     "01_Knowledge/G検定/01_/07_畳み込みニューラルネットワーク.md",
-    "01_Knowledge/G検定/01_/08_リカレントニューラルネットワーク.md",
     "01_Knowledge/G検定/01_/02_人工知能をめぐる動向と問題.md",
     "Pasted image 20250901202339.png",
     "Pasted image 20250901202322.png",
