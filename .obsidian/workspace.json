@@ -41,6 +41,16 @@
               "icon": "lucide-file",
               "title": "Google Gemini"
             }
+          },
+          {
+            "id": "ce853d9ddc67e351",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新規タブ"
+            }
           }
         ]
       }
@@ -171,10 +181,10 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "bc2f26c0514574c5",
+  "active": "70360d8455538030",
   "lastOpenFiles": [
-    "01_Knowledge/G検定/01_/02_人工知能をめぐる動向と問題.md",
     "01_Knowledge/G検定/01_/03_教師あり学習.md",
+    "01_Knowledge/G検定/01_/02_人工知能をめぐる動向と問題.md",
     "Pasted image 20250901130352.jpg",
     "Pasted image 20250901130146.png",
     "Pasted image 20250901130153.png",
