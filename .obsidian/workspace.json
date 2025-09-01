@@ -6,7 +6,7 @@
       {
         "id": "4b2e470cf01c149e",
         "type": "tabs",
-        "dimension": 61.4375,
+        "dimension": 65.25,
         "children": [
           {
             "id": "bc2f26c0514574c5",
@@ -28,7 +28,7 @@
       {
         "id": "1aa34281df18bfe2",
         "type": "tabs",
-        "dimension": 38.5625,
+        "dimension": 34.75,
         "children": [
           {
             "id": "70360d8455538030",
@@ -118,7 +118,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 225.50499725341797
   },
   "right": {
     "id": "f533a687fa0a0077",
@@ -171,7 +171,7 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "70360d8455538030",
+  "active": "bc2f26c0514574c5",
   "lastOpenFiles": [
     "01_Knowledge/G検定/01_人工知能とは.md",
     "01_Knowledge/G検定/02_.md",
