@@ -6,7 +6,7 @@
       {
         "id": "4b2e470cf01c149e",
         "type": "tabs",
-        "dimension": 58.47682119205299,
+        "dimension": 54.036458333333336,
         "children": [
           {
             "id": "ce853d9ddc67e351",
@@ -59,7 +59,7 @@
       {
         "id": "5d9a9d6bd5d3fc2a",
         "type": "tabs",
-        "dimension": 41.52317880794702,
+        "dimension": 45.96354166666667,
         "children": [
           {
             "id": "a5a4886e77a92872",
@@ -177,13 +177,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01_Knowledge/G検定/01_/09_音声処理.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "09_音声処理のアウトライン"
+              "title": "アウトライン"
             }
           },
           {
@@ -214,27 +213,28 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "eb3b00298a6085e0",
+  "active": "a5a4886e77a92872",
   "lastOpenFiles": [
+    "01_Knowledge/G検定/99_image/Pasted image 20250901174929.png",
+    "01_Knowledge/G検定/01_/09_音声処理.md",
     "01_Knowledge/G検定/01_/08_リカレントニューラルネットワーク.md",
     "01_Knowledge/G検定/01_/01_人工知能とは.md",
     "01_Knowledge/G検定/01_/02_人工知能をめぐる動向と問題.md",
-    "01_Knowledge/G検定/01_/09_音声処理.md",
     "01_Knowledge/G検定/01_/06_ディープラーニング.md",
     "01_Knowledge/G検定/01_/05_強化学習.md",
     "01_Knowledge/G検定/01_/03_教師あり学習.md",
     "01_Knowledge/G検定/01_/04_教師なし学習.md",
     "01_Knowledge/G検定/01_/07_畳み込みニューラルネットワーク.md",
-    "Pasted image 20250901202339.png",
-    "Pasted image 20250901202322.png",
-    "Pasted image 20250901202259.png",
-    "Pasted image 20250901195854.png",
-    "Pasted image 20250901195852.png",
-    "Pasted image 20250901195849.png",
-    "Pasted image 20250901195844.png",
-    "Pasted image 20250901193745.png",
-    "Pasted image 20250901193631.png",
-    "Pasted image 20250901193514.png",
+    "01_Knowledge/G検定/99_image/Pasted image 20250901202339.png",
+    "01_Knowledge/G検定/99_image/Pasted image 20250901202322.png",
+    "01_Knowledge/G検定/99_image/Pasted image 20250901202259.png",
+    "01_Knowledge/G検定/99_image/Pasted image 20250901195854.png",
+    "01_Knowledge/G検定/99_image/Pasted image 20250901195852.png",
+    "01_Knowledge/G検定/99_image/Pasted image 20250901195849.png",
+    "01_Knowledge/G検定/99_image/Pasted image 20250901195844.png",
+    "01_Knowledge/G検定/99_image/Pasted image 20250901193745.png",
+    "01_Knowledge/G検定/99_image/Pasted image 20250901193631.png",
+    "01_Knowledge/G検定/99_image/Pasted image 20250901193514.png",
     "01_Knowledge/G検定/01_",
     "01_Knowledge/G検定/99_image",
     "01_Knowledge/G検定",
@@ -261,7 +261,6 @@
     "01_Knowledge/DBA_GOLD試験勉強/04_Oracle",
     "01_Knowledge/DBA_GOLD試験勉強/02_RMAN",
     "01_Knowledge/DBA_GOLD試験勉強/03_Grid Infrastructure",
-    "01_Knowledge/DBA_SILVER試験勉強/01_Oracleデータベース知識/02_ツール/02-1　DBCA(Database Configuration Assistant).md",
     "無題のファイル.canvas",
     "Untitled.canvas",
     "Untitled 1.canvas"
