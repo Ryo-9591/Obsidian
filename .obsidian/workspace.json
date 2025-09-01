@@ -36,7 +36,7 @@
             "state": {
               "type": "surfing-view",
               "state": {
-                "url": "https://gemini.google.com/app/4df29e4252c223a5?hl=ja"
+                "url": "https://gemini.google.com/app/5dc9628a82d6cce5?hl=ja"
               },
               "icon": "lucide-file",
               "title": "Google Gemini"
@@ -134,12 +134,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "01_Knowledge/G検定/03_第三次AIブーム（2000年代後半〜現在）/03_教師あり学習.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "アウトライン"
+              "title": "03_教師あり学習のアウトライン"
             }
           },
           {
@@ -170,10 +171,10 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "a5a4886e77a92872",
+  "active": "eb3b00298a6085e0",
   "lastOpenFiles": [
-    "01_Knowledge/G検定/03_第三次AIブーム（2000年代後半〜現在）/03_教師あり学習.md",
     "01_Knowledge/G検定/03_第三次AIブーム（2000年代後半〜現在）/01_機械学習・特徴表現学習の時代.md",
+    "01_Knowledge/G検定/03_第三次AIブーム（2000年代後半〜現在）/03_教師あり学習.md",
     "01_Knowledge/G検定/03_第三次AIブーム（2000年代後半〜現在）/02_教師あり学習.md",
     "01_Knowledge/G検定/03_第三次AIブーム（2000年代後半〜現在）/06_ディープラーニング.md",
     "01_Knowledge/G検定/03_第三次AIブーム（2000年代後半〜現在）/05_強化学習.md",
