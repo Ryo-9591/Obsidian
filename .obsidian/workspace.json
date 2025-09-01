@@ -177,13 +177,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01_Knowledge/G検定/01_/11_深層強化学習.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "11_深層強化学習のアウトライン"
+              "title": "アウトライン"
             }
           },
           {
@@ -214,10 +213,10 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "eb3b00298a6085e0",
+  "active": "a5a4886e77a92872",
   "lastOpenFiles": [
-    "01_Knowledge/G検定/01_/10_自然言語処理.md",
     "01_Knowledge/G検定/01_/11_深層強化学習.md",
+    "01_Knowledge/G検定/01_/10_自然言語処理.md",
     "Pasted image 20250901221019.png",
     "Pasted image 20250901220956.png",
     "01_Knowledge/G検定/01_/01_人工知能とは.md",
