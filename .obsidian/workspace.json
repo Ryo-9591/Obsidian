@@ -14,13 +14,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_Knowledge/G検定/01_/07_畳み込みニューラルネットワーク.md",
+                "file": "01_Knowledge/G検定/01_/06_ディープラーニング.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "07_畳み込みニューラルネットワーク"
+              "title": "06_ディープラーニング"
             }
           }
         ]
@@ -146,13 +146,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01_Knowledge/G検定/01_/07_畳み込みニューラルネットワーク.md",
+                "file": "01_Knowledge/G検定/01_/06_ディープラーニング.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "07_畳み込みニューラルネットワークのアウトライン"
+              "title": "06_ディープラーニングのアウトライン"
             }
           },
           {
@@ -185,9 +185,10 @@
   },
   "active": "ce853d9ddc67e351",
   "lastOpenFiles": [
+    "01_Knowledge/G検定/01_/08_リカレントニューラルネットワーク.md",
+    "01_Knowledge/G検定/01_/07_畳み込みニューラルネットワーク.md",
     "01_Knowledge/G検定/01_/05_強化学習.md",
     "01_Knowledge/G検定/01_/04_教師なし学習.md",
-    "01_Knowledge/G検定/01_/07_畳み込みニューラルネットワーク.md",
     "Pasted image 20250901195854.png",
     "Pasted image 20250901195852.png",
     "Pasted image 20250901195849.png",
