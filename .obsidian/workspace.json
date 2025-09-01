@@ -14,13 +14,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_Knowledge/G検定/01_/01_人工知能とは.md",
+                "file": "01_Knowledge/G検定/00_AIの誕生/00_.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "01_人工知能とは"
+              "title": "00_"
             }
           },
           {
@@ -191,13 +191,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01_Knowledge/G検定/01_/01_人工知能とは.md",
+                "file": "01_Knowledge/G検定/00_AIの誕生/00_.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "01_人工知能とはのアウトライン"
+              "title": "00_のアウトライン"
             }
           },
           {
@@ -230,8 +230,8 @@
   },
   "active": "eb3b00298a6085e0",
   "lastOpenFiles": [
-    "01_Knowledge/G検定/00_AIの誕生/00_.md",
     "01_Knowledge/G検定/01_/01_人工知能とは.md",
+    "01_Knowledge/G検定/00_AIの誕生/00_.md",
     "01_Knowledge/G検定/00_AIの誕生",
     "01_Knowledge/G検定/01_/03_教師あり学習.md",
     "01_Knowledge/G検定/無題のファイル.md",
