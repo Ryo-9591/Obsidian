@@ -147,12 +147,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "01_Knowledge/G検定/01_/07_畳み込みニューラルネットワーク.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "アウトライン"
+              "title": "07_畳み込みニューラルネットワークのアウトライン"
             }
           },
           {
@@ -183,8 +184,12 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "a5a4886e77a92872",
+  "active": "ce853d9ddc67e351",
   "lastOpenFiles": [
+    "Pasted image 20250901195854.png",
+    "Pasted image 20250901195852.png",
+    "Pasted image 20250901195849.png",
+    "Pasted image 20250901195844.png",
     "01_Knowledge/G検定/01_/07_畳み込みニューラルネットワーク.md",
     "Pasted image 20250901193745.png",
     "Pasted image 20250901193631.png",
@@ -193,9 +198,6 @@
     "Pasted image 20250901192727.png",
     "Pasted image 20250901192656.png",
     "Pasted image 20250901192330.png",
-    "Pasted image 20250901192319.png",
-    "Pasted image 20250901192258.png",
-    "Pasted image 20250901191937.png",
     "01_Knowledge/G検定/01_/06_ディープラーニング.md",
     "01_Knowledge/G検定/01_/03_教師あり学習.md",
     "01_Knowledge/G検定/01_/02_人工知能をめぐる動向と問題.md",
