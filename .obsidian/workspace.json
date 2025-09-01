@@ -207,13 +207,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01_Knowledge/G検定/01_第一次AIブーム（1950年代後半〜1960年代）/01_探索と推論の時代.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "01_探索と推論の時代のアウトライン"
+              "title": "アウトライン"
             }
           },
           {
@@ -244,11 +243,11 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "edfa6b74e9ec87b1",
+  "active": "a5a4886e77a92872",
   "lastOpenFiles": [
-    "01_Knowledge/G検定/01_第一次AIブーム（1950年代後半〜1960年代）/無題のファイル.md",
     "01_Knowledge/G検定/01_第一次AIブーム（1950年代後半〜1960年代）/01_探索と推論の時代.md",
     "01_Knowledge/G検定/無題のフォルダ/02_人工知能をめぐる動向と問題.md",
+    "01_Knowledge/G検定/01_第一次AIブーム（1950年代後半〜1960年代）/無題のファイル.md",
     "01_Knowledge/G検定/無題のフォルダ",
     "01_Knowledge/G検定/無題のファイル.md",
     "01_Knowledge/G検定/無題のフォルダ/03_教師あり学習.md",
