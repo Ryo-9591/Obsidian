@@ -97,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "t-SNE",
+                "query": "Bi",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -147,12 +147,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "01_Knowledge/G検定/01_/08_リカレントニューラルネットワーク.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "アウトライン"
+              "title": "08_リカレントニューラルネットワークのアウトライン"
             }
           },
           {
@@ -183,13 +184,13 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "a5a4886e77a92872",
+  "active": "ce853d9ddc67e351",
   "lastOpenFiles": [
+    "01_Knowledge/G検定/01_/07_畳み込みニューラルネットワーク.md",
     "01_Knowledge/G検定/01_/08_リカレントニューラルネットワーク.md",
     "Pasted image 20250901202339.png",
     "Pasted image 20250901202322.png",
     "Pasted image 20250901202259.png",
-    "01_Knowledge/G検定/01_/07_畳み込みニューラルネットワーク.md",
     "01_Knowledge/G検定/01_/05_強化学習.md",
     "01_Knowledge/G検定/01_/02_人工知能をめぐる動向と問題.md",
     "01_Knowledge/G検定/01_/01_人工知能とは.md",
