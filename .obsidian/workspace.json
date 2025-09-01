@@ -12,12 +12,15 @@
             "id": "bc2f26c0514574c5",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "01_Knowledge/G検定/Pasted image 20250901100707.png"
+                "file": "01_Knowledge/G検定/01_/02_人工知能をめぐる動向と問題.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250901100707"
+              "icon": "lucide-file",
+              "title": "02_人工知能をめぐる動向と問題"
             }
           }
         ]
@@ -168,19 +171,20 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "58392aaeeda87af9",
+  "active": "bc2f26c0514574c5",
   "lastOpenFiles": [
-    "01_Knowledge/G検定/無題のフォルダ",
-    "01_Knowledge/G検定/Pasted image 20250901105639.png",
-    "01_Knowledge/G検定/Pasted image 20250901100707.png",
-    "01_Knowledge/G検定/02_人工知能をめぐる動向と問題.md",
-    "01_Knowledge/G検定/Pasted image 20250901105752.png",
-    "01_Knowledge/G検定/Pasted image 20250901101655.png",
-    "01_Knowledge/G検定/01_人工知能とは.md",
-    "01_Knowledge/G検定/03_.md",
-    "01_Knowledge/G検定/06_.md",
-    "01_Knowledge/G検定/05_.md",
-    "01_Knowledge/G検定/04_.md",
+    "01_Knowledge/G検定/01_/01_人工知能とは.md",
+    "01_Knowledge/G検定/99_image/Pasted image 20250901100707.png",
+    "01_Knowledge/G検定/01_",
+    "01_Knowledge/G検定/01_/02_人工知能をめぐる動向と問題.md",
+    "01_Knowledge/G検定/99_image",
+    "01_Knowledge/G検定/99_image/Pasted image 20250901105639.png",
+    "01_Knowledge/G検定/99_image/Pasted image 20250901105752.png",
+    "01_Knowledge/G検定/99_image/Pasted image 20250901101655.png",
+    "01_Knowledge/G検定/01_/03_.md",
+    "01_Knowledge/G検定/01_/06_.md",
+    "01_Knowledge/G検定/01_/05_.md",
+    "01_Knowledge/G検定/01_/04_.md",
     "01_Knowledge/G検定",
     "04_Daily/test.md",
     "01_Knowledge/転職用知識/N+1問題.md",
@@ -210,8 +214,6 @@
     "01_Knowledge/DBA_SILVER試験勉強/01_Oracleデータベース知識/01_アーキテクチャ/01-1　SGAとバックグラウンドプロセス.md",
     "03_Article/Qiita記事/SALTO図鑑/Saltype開発運営から学んだこと.md",
     "01_Knowledge/DBA_SILVER試験勉強/99_images/Pasted image 20250616192450.png",
-    "04_Daily",
-    "01_Knowledge/DBA_GOLD試験勉強",
     "03_Article/Qiita記事/【API使用量無料】Python × Gemini APIで作る！AIレシピ生成アプリ/img/app.png",
     "03_Article/Qiita記事/【API使用量無料】Python × Gemini APIで作る！AIレシピ生成アプリ/img/apikey.png",
     "03_Article/02_Qiita記事/【API使用量無料】Python × Gemini APIで作る！AIレシピ生成アプリ/img/app.png",
