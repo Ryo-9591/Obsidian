@@ -14,13 +14,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_Knowledge/G検定/00_AIの誕生/00_AIの誕生.md",
+                "file": "01_Knowledge/G検定/01_第一次AIブーム（1950年代後半〜1960年代）/01_探索と推論の時代.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "00_AIの誕生"
+              "title": "01_探索と推論の時代"
             }
           },
           {
@@ -191,13 +191,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01_Knowledge/G検定/00_AIの誕生/00_AIの誕生.md",
+                "file": "01_Knowledge/G検定/01_第一次AIブーム（1950年代後半〜1960年代）/01_探索と推論の時代.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "00_AIの誕生のアウトライン"
+              "title": "01_探索と推論の時代のアウトライン"
             }
           },
           {
@@ -230,8 +230,8 @@
   },
   "active": "eb3b00298a6085e0",
   "lastOpenFiles": [
-    "01_Knowledge/G検定/01_第一次AIブーム（1950年代後半〜1960年代）/01_第一次AIブーム（1950年代後半〜1960年代）.md",
     "01_Knowledge/G検定/00_AIの誕生/00_AIの誕生.md",
+    "01_Knowledge/G検定/01_第一次AIブーム（1950年代後半〜1960年代）/01_探索と推論の時代.md",
     "01_Knowledge/G検定/00_AIの誕生",
     "01_Knowledge/G検定/01_第一次AIブーム（1950年代後半〜1960年代）/03_教師あり学習.md",
     "01_Knowledge/G検定/無題のファイル.md",
