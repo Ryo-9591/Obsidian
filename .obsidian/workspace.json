@@ -48,10 +48,10 @@
             "state": {
               "type": "surfing-view",
               "state": {
-                "url": "https://zero2one.jp/ai-word/"
+                "url": "https://zero2one.jp/ai-word/nasnet/"
               },
               "icon": "lucide-file",
-              "title": "AI用語集（G検定対応）｜550語以上すべて図解＆確認テストつき – zero to one"
+              "title": "NASNet – AI用語集（G検定対応）"
             }
           },
           {
@@ -60,14 +60,14 @@
             "state": {
               "type": "surfing-view",
               "state": {
-                "url": "https://www.google.com/search?sca_esv=adfd38bc1a36b954&sxsrf=AE3TifO7DXdSpbRKBlf1rswaRZHqx3arvA:1756722952870&udm=2&fbs=AIIjpHzQki16q-8Z7j6aseYi2jA_MjxEbhLu3BzW0raQHz9UWPRpvxEcaDfSC7oaAGD_yHoHfy8He8z-L1aSvGLiSMAHqvnzc8AkkpYNubO0rzAhOSc9qnhmFQ89EOg3yEsPAeFqDLc9wMnu-CPrUlxJzY4euylSMtzVS6k5BD7b6s4oziK77FSVBBuSbeQ65R_m3XMRTMR1ryH0X9IvsGyQTgoTdkXCQ3n-ZIQ0vZ8ZWit0FNm4p3aCfSVFRDlrfff_UQRVt4s1&q=NASNet&sa=X&ved=2ahUKEwij6cv8rrePAxV-2TQHHVWKPWMQtKgLegQIDhAB&biw=757&bih=1016&dpr=1.04"
+                "url": "https://www.google.com/search?sca_esv=adfd38bc1a36b954&sxsrf=AE3TifO7DXdSpbRKBlf1rswaRZHqx3arvA:1756722952870&udm=2&fbs=AIIjpHzQki16q-8Z7j6aseYi2jA_MjxEbhLu3BzW0raQHz9UWPRpvxEcaDfSC7oaAGD_yHoHfy8He8z-L1aSvGLiSMAHqvnzc8AkkpYNubO0rzAhOSc9qnhmFQ89EOg3yEsPAeFqDLc9wMnu-CPrUlxJzY4euylSMtzVS6k5BD7b6s4oziK77FSVBBuSbeQ65R_m3XMRTMR1ryH0X9IvsGyQTgoTdkXCQ3n-ZIQ0vZ8ZWit0FNm4p3aCfSVFRDlrfff_UQRVt4s1&q=NASNet&sa=X&ved=2ahUKEwij6cv8rrePAxV-2TQHHVWKPWMQtKgLegQIDhAB&biw=757&bih=1016&dpr=1.04#vhid=3kbYwAeUXzdfJM&vssid=mosaic"
               },
               "icon": "lucide-file",
               "title": "NASNet - Google 検索"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -160,12 +160,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "01_Knowledge/G検定/01_/07_畳み込みニューラルネットワーク.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "アウトライン"
+              "title": "07_畳み込みニューラルネットワークのアウトライン"
             }
           },
           {
@@ -196,8 +197,9 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "a4acf0b755c5408c",
+  "active": "ce853d9ddc67e351",
   "lastOpenFiles": [
+    "Pasted image 20250901193631.png",
     "01_Knowledge/G検定/01_/07_畳み込みニューラルネットワーク.md",
     "Pasted image 20250901193514.png",
     "Pasted image 20250901192834.png",
