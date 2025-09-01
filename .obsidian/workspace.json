@@ -177,13 +177,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01_Knowledge/G検定/01_/06_ディープラーニング.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "06_ディープラーニングのアウトライン"
+              "title": "アウトライン"
             }
           },
           {
@@ -214,12 +213,12 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "eb3b00298a6085e0",
+  "active": "a5a4886e77a92872",
   "lastOpenFiles": [
+    "01_Knowledge/G検定/01_/06_ディープラーニング.md",
     "01_Knowledge/G検定/01_/03_教師あり学習.md",
     "01_Knowledge/G検定/01_/05_強化学習.md",
     "01_Knowledge/G検定/01_/04_教師なし学習.md",
-    "01_Knowledge/G検定/01_/06_ディープラーニング.md",
     "01_Knowledge/G検定/01_/07_畳み込みニューラルネットワーク.md",
     "01_Knowledge/G検定/01_/08_リカレントニューラルネットワーク.md",
     "01_Knowledge/G検定/01_/02_人工知能をめぐる動向と問題.md",
