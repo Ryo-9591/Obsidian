@@ -6,7 +6,7 @@
       {
         "id": "4b2e470cf01c149e",
         "type": "tabs",
-        "dimension": 59.97482693517936,
+        "dimension": 65.375,
         "children": [
           {
             "id": "ce853d9ddc67e351",
@@ -26,9 +26,9 @@
         ]
       },
       {
-        "id": "1aa34281df18bfe2",
+        "id": "5d9a9d6bd5d3fc2a",
         "type": "tabs",
-        "dimension": 40.02517306482064,
+        "dimension": 34.625,
         "children": [
           {
             "id": "a5a4886e77a92872",
@@ -135,13 +135,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01_Knowledge/DBA_SILVER試験勉強/01_Oracleデータベース知識/03_インスタンス関連/03-4　初期化パラメータ.md",
+                "file": "01_Knowledge/G検定/01_/07_畳み込みニューラルネットワーク.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "03-4　初期化パラメータのアウトライン"
+              "title": "07_畳み込みニューラルネットワークのアウトライン"
             }
           },
           {
@@ -172,7 +172,7 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "a5a4886e77a92872",
+  "active": "ce853d9ddc67e351",
   "lastOpenFiles": [
     "01_Knowledge/G検定/01_/07_畳み込みニューラルネットワーク.md",
     "Pasted image 20250901191054.png",
