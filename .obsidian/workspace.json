@@ -14,13 +14,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_Knowledge/G検定/01_.md",
+                "file": "01_Knowledge/G検定/01_人工知能とは.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "01_"
+              "title": "01_人工知能とは"
             }
           }
         ]
@@ -173,7 +173,7 @@
   },
   "active": "70360d8455538030",
   "lastOpenFiles": [
-    "01_Knowledge/G検定/01_.md",
+    "01_Knowledge/G検定/01_人工知能とは.md",
     "01_Knowledge/G検定/02_.md",
     "01_Knowledge/G検定/06_.md",
     "01_Knowledge/G検定/05_.md",
