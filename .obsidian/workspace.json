@@ -29,13 +29,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_Knowledge/G検定/01_/06_ディープラーニング.md",
+                "file": "01_Knowledge/G検定/01_/01_人工知能とは.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "06_ディープラーニング"
+              "title": "01_人工知能とは"
             }
           }
         ],
@@ -187,12 +187,12 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "a5a4886e77a92872",
+  "active": "ce853d9ddc67e351",
   "lastOpenFiles": [
+    "01_Knowledge/G検定/01_/05_強化学習.md",
     "01_Knowledge/G検定/01_/06_ディープラーニング.md",
     "01_Knowledge/G検定/01_/03_教師あり学習.md",
     "01_Knowledge/G検定/01_/04_教師なし学習.md",
-    "01_Knowledge/G検定/01_/05_強化学習.md",
     "Pasted image 20250901170544.png",
     "01_Knowledge/G検定/99_image/Pasted image 20250901170627.png",
     "01_Knowledge/G検定/99_image/Pasted image 20250901160336.png",
