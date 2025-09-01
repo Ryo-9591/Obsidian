@@ -44,13 +44,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_Knowledge/G検定/01_/02_人工知能をめぐる動向と問題.md",
+                "file": "01_Knowledge/G検定/01_/09_音声処理.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "02_人工知能をめぐる動向と問題"
+              "title": "09_音声処理"
             }
           }
         ],
@@ -177,13 +177,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01_Knowledge/G検定/01_/02_人工知能をめぐる動向と問題.md",
+                "file": "01_Knowledge/G検定/01_/09_音声処理.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "02_人工知能をめぐる動向と問題のアウトライン"
+              "title": "09_音声処理のアウトライン"
             }
           },
           {
@@ -216,14 +216,14 @@
   },
   "active": "eb3b00298a6085e0",
   "lastOpenFiles": [
+    "01_Knowledge/G検定/01_/08_リカレントニューラルネットワーク.md",
+    "01_Knowledge/G検定/01_/03_教師あり学習.md",
+    "01_Knowledge/G検定/01_/02_人工知能をめぐる動向と問題.md",
     "01_Knowledge/G検定/01_/01_人工知能とは.md",
     "01_Knowledge/G検定/01_/09_音声処理.md",
-    "01_Knowledge/G検定/01_/02_人工知能をめぐる動向と問題.md",
-    "01_Knowledge/G検定/01_/08_リカレントニューラルネットワーク.md",
     "01_Knowledge/G検定/99_image/Pasted image 20250901174929.png",
     "01_Knowledge/G検定/01_/06_ディープラーニング.md",
     "01_Knowledge/G検定/01_/05_強化学習.md",
-    "01_Knowledge/G検定/01_/03_教師あり学習.md",
     "01_Knowledge/G検定/01_/04_教師なし学習.md",
     "01_Knowledge/G検定/01_/07_畳み込みニューラルネットワーク.md",
     "01_Knowledge/G検定/99_image/Pasted image 20250901202339.png",
