@@ -135,13 +135,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01_Knowledge/G検定/01_/07_畳み込みニューラルネットワーク.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "07_畳み込みニューラルネットワークのアウトライン"
+              "title": "アウトライン"
             }
           },
           {
@@ -172,13 +171,13 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "ce853d9ddc67e351",
+  "active": "a5a4886e77a92872",
   "lastOpenFiles": [
+    "01_Knowledge/G検定/01_/07_畳み込みニューラルネットワーク.md",
     "Pasted image 20250901192330.png",
     "Pasted image 20250901192319.png",
     "Pasted image 20250901192258.png",
     "Pasted image 20250901191937.png",
-    "01_Knowledge/G検定/01_/07_畳み込みニューラルネットワーク.md",
     "Pasted image 20250901191054.png",
     "Pasted image 20250901190743.png",
     "01_Knowledge/G検定/01_/06_ディープラーニング.md",
@@ -191,7 +190,6 @@
     "01_Knowledge/G検定/01_/01_人工知能とは.md",
     "Pasted image 20250901170544.png",
     "01_Knowledge/G検定/99_image/Pasted image 20250901170627.png",
-    "01_Knowledge/G検定/99_image/Pasted image 20250901160336.png",
     "01_Knowledge/G検定/01_",
     "01_Knowledge/G検定/99_image",
     "01_Knowledge/G検定",
