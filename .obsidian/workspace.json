@@ -53,6 +53,18 @@
               "icon": "lucide-file",
               "title": "AI用語集（G検定対応）｜550語以上すべて図解＆確認テストつき – zero to one"
             }
+          },
+          {
+            "id": "2dc8f2a9db39e050",
+            "type": "leaf",
+            "state": {
+              "type": "surfing-view",
+              "state": {
+                "url": "https://www.google.com/search?sca_esv=adfd38bc1a36b954&sxsrf=AE3TifO7DXdSpbRKBlf1rswaRZHqx3arvA:1756722952870&udm=2&fbs=AIIjpHzQki16q-8Z7j6aseYi2jA_MjxEbhLu3BzW0raQHz9UWPRpvxEcaDfSC7oaAGD_yHoHfy8He8z-L1aSvGLiSMAHqvnzc8AkkpYNubO0rzAhOSc9qnhmFQ89EOg3yEsPAeFqDLc9wMnu-CPrUlxJzY4euylSMtzVS6k5BD7b6s4oziK77FSVBBuSbeQ65R_m3XMRTMR1ryH0X9IvsGyQTgoTdkXCQ3n-ZIQ0vZ8ZWit0FNm4p3aCfSVFRDlrfff_UQRVt4s1&q=NASNet&sa=X&ved=2ahUKEwij6cv8rrePAxV-2TQHHVWKPWMQtKgLegQIDhAB&biw=757&bih=1016&dpr=1.04"
+              },
+              "icon": "lucide-file",
+              "title": "NASNet - Google 検索"
+            }
           }
         ],
         "currentTab": 1
@@ -187,6 +199,7 @@
   "active": "a4acf0b755c5408c",
   "lastOpenFiles": [
     "01_Knowledge/G検定/01_/07_畳み込みニューラルネットワーク.md",
+    "Pasted image 20250901193514.png",
     "Pasted image 20250901192834.png",
     "Pasted image 20250901192727.png",
     "Pasted image 20250901192656.png",
@@ -201,7 +214,6 @@
     "01_Knowledge/G検定/01_/02_人工知能をめぐる動向と問題.md",
     "01_Knowledge/G検定/01_/05_強化学習.md",
     "01_Knowledge/G検定/01_/04_教師なし学習.md",
-    "Pasted image 20250901174941.png",
     "01_Knowledge/G検定/01_/01_人工知能とは.md",
     "01_Knowledge/G検定/01_",
     "01_Knowledge/G検定/99_image",
