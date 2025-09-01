@@ -52,7 +52,7 @@
             "state": {
               "type": "surfing-view",
               "state": {
-                "url": "https://gemini.google.com/app/532aeb5c24267a6f?hl=ja"
+                "url": "https://gemini.google.com/app/761135acff9fc4d2?hl=ja"
               },
               "icon": "lucide-file",
               "title": "Google Gemini"
@@ -187,7 +187,7 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "ce853d9ddc67e351",
+  "active": "a5a4886e77a92872",
   "lastOpenFiles": [
     "01_Knowledge/G検定/01_/07_畳み込みニューラルネットワーク.md",
     "01_Knowledge/G検定/01_/06_ディープラーニング.md",
