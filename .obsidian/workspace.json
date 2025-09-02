@@ -134,13 +134,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01_Knowledge/G検定/03_第三次AIブーム（2000年代後半〜現在）/11_深層強化学習.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "11_深層強化学習のアウトライン"
+              "title": "アウトライン"
             }
           },
           {
@@ -171,12 +170,12 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "eb3b00298a6085e0",
+  "active": "a5a4886e77a92872",
   "lastOpenFiles": [
-    "01_Knowledge/G検定/03_第三次AIブーム（2000年代後半〜現在）/10_自然言語処理.md",
     "01_Knowledge/G検定/03_第三次AIブーム（2000年代後半〜現在）/11_深層強化学習.md",
-    "01_Knowledge/G検定/03_第三次AIブーム（2000年代後半〜現在）/09_音声処理.md",
     "01_Knowledge/G検定/03_第三次AIブーム（2000年代後半〜現在）/08_リカレントニューラルネットワーク.md",
+    "01_Knowledge/G検定/03_第三次AIブーム（2000年代後半〜現在）/10_自然言語処理.md",
+    "01_Knowledge/G検定/03_第三次AIブーム（2000年代後半〜現在）/09_音声処理.md",
     "01_Knowledge/G検定/03_第三次AIブーム（2000年代後半〜現在）/06_ディープラーニング.md",
     "01_Knowledge/G検定/03_第三次AIブーム（2000年代後半〜現在）/07_畳み込みニューラルネットワーク.md",
     "01_Knowledge/G検定/03_第三次AIブーム（2000年代後半〜現在）/01_機械学習・特徴表現学習の時代.md",
