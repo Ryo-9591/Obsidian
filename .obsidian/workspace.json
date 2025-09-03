@@ -6,7 +6,6 @@
       {
         "id": "4b2e470cf01c149e",
         "type": "tabs",
-        "dimension": 68.05455850681982,
         "children": [
           {
             "id": "eb3b00298a6085e0",
@@ -21,25 +20,6 @@
               },
               "icon": "lucide-file",
               "title": "00_AIの誕生"
-            }
-          }
-        ]
-      },
-      {
-        "id": "5d9a9d6bd5d3fc2a",
-        "type": "tabs",
-        "dimension": 31.945441493180187,
-        "children": [
-          {
-            "id": "a5a4886e77a92872",
-            "type": "leaf",
-            "state": {
-              "type": "surfing-view",
-              "state": {
-                "url": "https://gemini.google.com/app/5dc9628a82d6cce5?hl=ja"
-              },
-              "icon": "lucide-file",
-              "title": "Google Gemini"
             }
           }
         ]
