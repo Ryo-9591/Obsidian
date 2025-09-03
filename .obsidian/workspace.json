@@ -11,15 +11,12 @@
             "id": "eb3b00298a6085e0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "01_Knowledge/G検定/01_第一次AIブーム（1950年代後半〜1960年代）/01_探索と推論の時代.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "file": "01_Knowledge/G検定/99_image/Pasted image 20250901100707.png"
               },
-              "icon": "lucide-file",
-              "title": "01_探索と推論の時代"
+              "icon": "lucide-image",
+              "title": "Pasted image 20250901100707"
             }
           }
         ]
@@ -153,9 +150,9 @@
   },
   "active": "eb3b00298a6085e0",
   "lastOpenFiles": [
+    "01_Knowledge/G検定/01_第一次AIブーム（1950年代後半〜1960年代）/01_探索と推論の時代.md",
     "01_Knowledge/G検定/02_第二次AIブーム（1980年代〜）/01_知識表現の時代.md",
     "01_Knowledge/G検定/01_第一次AIブーム（1950年代後半〜1960年代）/02_関連単語.md",
-    "01_Knowledge/G検定/01_第一次AIブーム（1950年代後半〜1960年代）/01_探索と推論の時代.md",
     "01_Knowledge/G検定/03_第三次AIブーム（2000年代後半〜現在）/09_音声処理.md",
     "01_Knowledge/G検定/00_AIの誕生/00_AIの誕生.md",
     "01_Knowledge/G検定/03_第三次AIブーム（2000年代後半〜現在）/11_深層強化学習.md",
