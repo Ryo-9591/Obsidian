@@ -1,5 +1,13 @@
-.markdown-source-view.mod-cm6.is-live-preview .cm-line:not(.HyperMD-table-row),
-.markdown-source-view.mod-cm6.is-live-preview .cm-line.HyperMD-table-row {
-  max-width: unset;
-  margin: 0 auto;
+.markdown-source-view.mod-cm6,
+.markdown-source-view.mod-cm6 .cm-content,
+.markdown-source-view.mod-cm6 .cm-line,
+.markdown-source-view.mod-cm6 .cm-sizer {
+  max-width: unset !important;
+  width: 100% !important;
+  padding-left: 0 !important;
+  padding-right: 0 !important;
+}
+
+.cm-editor {
+  margin: 0 !important;
 }
