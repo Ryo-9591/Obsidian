@@ -4,19 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "4b2e470cf01c149e",
+        "id": "bd17aa30987ff2c7",
         "type": "tabs",
         "children": [
           {
-            "id": "eb3b00298a6085e0",
+            "id": "b6d31a1082990d0d",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "01_Knowledge/G検定/99_image/Pasted image 20250901100707.png"
+                "file": "01_Knowledge/G検定/01_第一次AIブーム（1950年代後半〜1960年代）/01_探索と推論の時代.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250901100707"
+              "icon": "lucide-file",
+              "title": "01_探索と推論の時代"
             }
           }
         ]
@@ -95,7 +98,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 405.5124969482422
+    "width": 200
   },
   "right": {
     "id": "f533a687fa0a0077",
@@ -148,8 +151,9 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "eb3b00298a6085e0",
+  "active": "b6d31a1082990d0d",
   "lastOpenFiles": [
+    "01_Knowledge/G検定/99_image/Pasted image 20250901100707.png",
     "01_Knowledge/G検定/01_第一次AIブーム（1950年代後半〜1960年代）/01_探索と推論の時代.md",
     "01_Knowledge/G検定/02_第二次AIブーム（1980年代〜）/01_知識表現の時代.md",
     "01_Knowledge/G検定/01_第一次AIブーム（1950年代後半〜1960年代）/02_関連単語.md",
@@ -174,7 +178,6 @@
     "01_Knowledge/G検定/無題のフォルダ/無題のファイル.md",
     "01_Knowledge/G検定/03_第三次AIブーム（2000年代後半〜現在）",
     "01_Knowledge/G検定/02_第二次AIブーム（1980年代〜）",
-    "01_Knowledge/G検定/99_image/Pasted image 20250901100707.png",
     "01_Knowledge/G検定/無題のフォルダ",
     "01_Knowledge/G検定/00_AIの誕生",
     "01_Knowledge/G検定/99_image/Pasted image 20250901221019.png",
@@ -193,7 +196,6 @@
     "01_Knowledge/勉強会/「知識習得・ナレッジ蓄積・ブランディングを同時に目指す勉強会」企画案.md",
     "01_Knowledge/DBA_GOLD試験勉強/04_Oracle/24_読み取り専用のOracle ホーム.md",
     "01_Knowledge/DBA_GOLD試験勉強/03_Grid Infrastructure/22_Grid Infrastructureのアップグレード.md",
-    "01_Knowledge/DBA_GOLD試験勉強/04_Oracle/23_Oracle Databaseのアップグレード.md",
     "01_Knowledge/勉強会",
     "01_Knowledge/DBA_GOLD試験勉強/98_模試",
     "無題のファイル.canvas",
