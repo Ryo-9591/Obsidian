@@ -4,22 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "bd17aa30987ff2c7",
+        "id": "548b6b08b9cf35a9",
         "type": "tabs",
         "children": [
           {
-            "id": "b6d31a1082990d0d",
+            "id": "fe2fcaf1b07d2dcb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01_Knowledge/G検定/00_AIの誕生/00_AIの誕生.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "00_AIの誕生"
+              "title": "新規タブ"
             }
           }
         ]
@@ -151,10 +146,10 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "b6d31a1082990d0d",
+  "active": "fe2fcaf1b07d2dcb",
   "lastOpenFiles": [
-    "01_Knowledge/G検定/00_AIの誕生/01_探索と推論の時代.md",
     "01_Knowledge/G検定/00_AIの誕生/00_AIの誕生.md",
+    "01_Knowledge/G検定/00_AIの誕生/01_探索と推論の時代.md",
     "01_Knowledge/G検定/00_AIの誕生/02_関連単語.md",
     "01_Knowledge/G検定/03_第三次AIブーム（2000年代後半〜現在）/05_強化学習.md",
     "01_Knowledge/G検定/03_第三次AIブーム（2000年代後半〜現在）/03_教師あり学習.md",
