@@ -6,7 +6,7 @@
       {
         "id": "4b2e470cf01c149e",
         "type": "tabs",
-        "dimension": 57.78975741239892,
+        "dimension": 68.05455850681982,
         "children": [
           {
             "id": "eb3b00298a6085e0",
@@ -14,13 +14,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_Knowledge/G検定/03_第三次AIブーム（2000年代後半〜現在）/11_深層強化学習.md",
+                "file": "01_Knowledge/G検定/00_AIの誕生/00_AIの誕生.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "11_深層強化学習"
+              "title": "00_AIの誕生"
             }
           }
         ]
@@ -28,7 +28,7 @@
       {
         "id": "5d9a9d6bd5d3fc2a",
         "type": "tabs",
-        "dimension": 42.21024258760108,
+        "dimension": 31.945441493180187,
         "children": [
           {
             "id": "a5a4886e77a92872",
@@ -134,12 +134,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "01_Knowledge/G検定/00_AIの誕生/00_AIの誕生.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "アウトライン"
+              "title": "00_AIの誕生のアウトライン"
             }
           },
           {
@@ -170,9 +171,10 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "a5a4886e77a92872",
+  "active": "eb3b00298a6085e0",
   "lastOpenFiles": [
     "01_Knowledge/G検定/03_第三次AIブーム（2000年代後半〜現在）/11_深層強化学習.md",
+    "01_Knowledge/G検定/00_AIの誕生/00_AIの誕生.md",
     "01_Knowledge/G検定/03_第三次AIブーム（2000年代後半〜現在）/08_リカレントニューラルネットワーク.md",
     "01_Knowledge/G検定/03_第三次AIブーム（2000年代後半〜現在）/10_自然言語処理.md",
     "01_Knowledge/G検定/03_第三次AIブーム（2000年代後半〜現在）/09_音声処理.md",
@@ -183,7 +185,6 @@
     "01_Knowledge/G検定/03_第三次AIブーム（2000年代後半〜現在）/02_教師あり学習.md",
     "01_Knowledge/G検定/03_第三次AIブーム（2000年代後半〜現在）/05_強化学習.md",
     "01_Knowledge/G検定/03_第三次AIブーム（2000年代後半〜現在）/04_教師なし学習.md",
-    "01_Knowledge/G検定/00_AIの誕生/00_AIの誕生.md",
     "01_Knowledge/G検定/01_第一次AIブーム（1950年代後半〜1960年代）/02_関連単語.md",
     "01_Knowledge/G検定/01_第一次AIブーム（1950年代後半〜1960年代）/01_探索と推論の時代.md",
     "README.md",
