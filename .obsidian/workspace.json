@@ -23,6 +23,24 @@
             }
           }
         ]
+      },
+      {
+        "id": "6c6a9c98294a77e2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "922782dab58b0b28",
+            "type": "leaf",
+            "state": {
+              "type": "surfing-view",
+              "state": {
+                "url": "https://note.com/vast_cosmos500/n/nfc3ee4cea095"
+              },
+              "icon": "lucide-file",
+              "title": "G検定チートシート（cheat sheet）（2024年第三回G検定 2024.5.11）｜スキルフルな人生"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -151,10 +169,10 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "fe2fcaf1b07d2dcb",
+  "active": "922782dab58b0b28",
   "lastOpenFiles": [
-    "99_ignore項目/か.md",
     "01_Knowledge/G検定/00_/00_G検定カンペ.md",
+    "99_ignore項目/か.md",
     "01_Knowledge/G検定/03_第三次AIブーム（2000年代後半〜現在）/10_自然言語処理.md",
     "01_Knowledge/G検定/03_第三次AIブーム（2000年代後半〜現在）/11_深層強化学習.md",
     "01_Knowledge/G検定/03_第三次AIブーム（2000年代後半〜現在）/09_音声処理.md",
