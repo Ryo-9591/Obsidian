@@ -6,7 +6,7 @@
       {
         "id": "548b6b08b9cf35a9",
         "type": "tabs",
-        "dimension": 48.125,
+        "dimension": 47.76699029126213,
         "children": [
           {
             "id": "fe2fcaf1b07d2dcb",
@@ -28,7 +28,7 @@
       {
         "id": "6c6a9c98294a77e2",
         "type": "tabs",
-        "dimension": 51.87500000000001,
+        "dimension": 52.23300970873787,
         "children": [
           {
             "id": "922782dab58b0b28",
@@ -171,7 +171,7 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "922782dab58b0b28",
+  "active": "fe2fcaf1b07d2dcb",
   "lastOpenFiles": [
     "01_Knowledge/G検定/00_/00_G検定カンペ.md",
     "99_ignore項目/か.md",
