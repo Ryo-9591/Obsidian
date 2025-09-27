@@ -11,10 +11,15 @@
             "id": "7b4fe12053c0eab6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "01_Knowledge/DBA_GOLD試験勉強/03_Grid Infrastructure/18_Grid InfrastructureとOracle databaseのインストール.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "新規タブ"
+              "title": "18_Grid InfrastructureとOracle databaseのインストール"
             }
           }
         ]
@@ -148,6 +153,7 @@
   },
   "active": "7b4fe12053c0eab6",
   "lastOpenFiles": [
+    "README.md",
     "01_Knowledge/G検定/00_/00_G検定カンペ.md",
     "99_ignore項目/か.md",
     "01_Knowledge/G検定/03_第三次AIブーム（2000年代後半〜現在）/10_自然言語処理.md",
@@ -167,7 +173,6 @@
     "01_Knowledge/G検定/00_AIの誕生/02_関連単語.md",
     "01_Knowledge/G検定/99_image/Pasted image 20250901100707.png",
     "01_Knowledge/G検定/03_第三次AIブーム（2000年代後半〜現在）/02_教師あり学習.md",
-    "README.md",
     "04_Daily/test.md",
     "01_Knowledge/転職用知識/N+1問題.md",
     "01_Knowledge/G検定/99_image/Pasted image 20250901220956.png",
