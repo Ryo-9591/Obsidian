@@ -110,7 +110,7 @@ df = pd.DataFrame(
 ```
 from sklearn.preprocessing import StandardScaler
 
-scaler_std = StandardScaler()
+scaler_std = StandardScaler() # 分散正規化
 df_standardized = scaler_std.fit_transform(df)
 ```
 StandardScaler（分散正規化）後:
@@ -125,7 +125,7 @@ StandardScaler（分散正規化）後:
 ```
 from sklearn.preprocessing import MinMaxScaler
 
-scaler_minmax = MinMaxScaler()
+scaler_minmax = MinMaxScaler() # 最小最大正規化
 df_normalized = scaler_minmax.fit_transform(df)
 ```
 MinMaxScaler（最小最大正規化）後:
