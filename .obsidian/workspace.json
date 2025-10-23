@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_Knowledge/DBA_GOLD試験勉強/03_Grid Infrastructure/18_Grid InfrastructureとOracle databaseのインストール.md",
+                "file": "01_Knowledge/pythonデータ分析試験/scikit-learn.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "18_Grid InfrastructureとOracle databaseのインストール"
+              "title": "scikit-learn"
             }
           }
         ]
@@ -153,6 +153,9 @@
   },
   "active": "7b4fe12053c0eab6",
   "lastOpenFiles": [
+    "01_Knowledge/DBA_GOLD試験勉強/03_Grid Infrastructure/18_Grid InfrastructureとOracle databaseのインストール.md",
+    "01_Knowledge/pythonデータ分析試験/scikit-learn.md",
+    "01_Knowledge/pythonデータ分析試験",
     "README.md",
     "01_Knowledge/G検定/00_/00_G検定カンペ.md",
     "99_ignore項目/か.md",
@@ -195,10 +198,7 @@
     "01_Knowledge/勉強会/文章.md",
     "01_Knowledge/転職用知識",
     "01_Knowledge/勉強会/「知識習得・ナレッジ蓄積・ブランディングを同時に目指す勉強会」企画案.md",
-    "01_Knowledge/DBA_GOLD試験勉強/04_Oracle/24_読み取り専用のOracle ホーム.md",
-    "01_Knowledge/DBA_GOLD試験勉強/03_Grid Infrastructure/22_Grid Infrastructureのアップグレード.md",
     "01_Knowledge/勉強会",
-    "01_Knowledge/DBA_GOLD試験勉強/98_模試",
     "無題のファイル.canvas",
     "Untitled.canvas",
     "Untitled 1.canvas"
