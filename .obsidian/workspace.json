@@ -36,10 +36,10 @@
             "state": {
               "type": "surfing-view",
               "state": {
-                "url": "https://deepage.net/features/pandas-manipulate-na.html"
+                "url": "https://www.google.com/search?q=scikit+learn+sfit&sca_esv=f0ead55d09cdc2fd&sxsrf=AE3TifNFhkLJYQqnkoEZi_BgZGvdNDK9ag%3A1761222997873&ei=VSH6aKb-NKCk2roPw4WHqQo&ved=0ahUKEwjm_KH5qrqQAxUgklYBHcPCIaUQ4dUDCBA&uact=5&oq=scikit+learn+sfit&gs_lp=Egxnd3Mtd2l6LXNlcnAiEXNjaWtpdCBsZWFybiBzZml0MgcQABiABBgNMgYQABgeGA0yBhAAGB4YDTIGEAAYHhgNMgYQABgeGA0yBhAAGB4YDTIGEAAYHhgNMgYQABgeGA0yBhAAGB4YDTIGEAAYHhgNSMdGUM0GWJxFcAN4AJABA5gBrAGgAdISqgEEMjAuNbgBA8gBAPgBAZgCFKACqg6oAgrCAgcQIxjqAhgnwgIEECMYJ8ICChAjGMkCGPAFGCfCAhAQABiABBiKBRgEGLEDGIMBwgILEAAYgAQYsQMYgwHCAgcQABiABBgEwgIKEAAYgAQYBBixA8ICCBAAGIAEGLEDwgIFEAAYgATCAg4QABiABBiKBRixAxiDAcICEBAAGIAEGIoFGEMYsQMYgwHCAgQQABgewgIGEAAYBBgewgIHEAAYgAQYE8ICBhAAGB4YE8ICBRAAGO8FwgIIEAAYgAQYogTCAgUQIRigAZgDCIgGAZIHBDEzLjegB8BNsgcEMTEuN7gHnQ7CBwYwLjQuMTbIB1U&sclient=gws-wiz-serp"
               },
               "icon": "lucide-file",
-              "title": "Pandasでnan値を削除、穴埋めするfillna、dropnaの使い方 - DeepAge"
+              "title": "scikit learn sfit - Google 検索"
             }
           },
           {
@@ -54,8 +54,7 @@
               "title": "Google Gemini"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -184,7 +183,7 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "1f48015872fb16ec",
+  "active": "1ac79916a177e48b",
   "lastOpenFiles": [
     "01_Knowledge/pythonデータ分析試験/scikit-learn.md",
     "01_Knowledge/DBA_GOLD試験勉強/03_Grid Infrastructure/18_Grid InfrastructureとOracle databaseのインストール.md",
