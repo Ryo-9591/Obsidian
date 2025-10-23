@@ -14,13 +14,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_Knowledge/pythonデータ分析試験/scikit-learn.md",
+                "file": "01_Knowledge/pythonデータ分析試験/scikit-learn/4.1.2 分類.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "scikit-learn"
+              "title": "4.1.2 分類"
             }
           }
         ]
@@ -186,7 +186,9 @@
   },
   "active": "7b4fe12053c0eab6",
   "lastOpenFiles": [
-    "01_Knowledge/pythonデータ分析試験/scikit-learn.md",
+    "01_Knowledge/pythonデータ分析試験/scikit-learn/4.1.1 前処理.md",
+    "01_Knowledge/pythonデータ分析試験/scikit-learn/4.1.2 分類.md",
+    "01_Knowledge/pythonデータ分析試験/scikit-learn",
     "Pasted image 20251023220200.png",
     "01_Knowledge/DBA_GOLD試験勉強/03_Grid Infrastructure/18_Grid InfrastructureとOracle databaseのインストール.md",
     "01_Knowledge/pythonデータ分析試験",
@@ -230,7 +232,6 @@
     "01_Knowledge/G検定",
     "01_Knowledge/勉強会/文章.md",
     "01_Knowledge/転職用知識",
-    "01_Knowledge/勉強会",
     "無題のファイル.canvas",
     "Untitled.canvas",
     "Untitled 1.canvas"
