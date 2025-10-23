@@ -108,7 +108,30 @@ df = pd.DataFrame(
 ### 分散正規化
 
 ```
-from 
-```
+from sklearn.preprocessing import StandardScaler
 
+scaler_std = StandardScaler()
+df_standardized = scaler_std.fit_transform(df)
+```
+StandardScaler（分散正規化）後:
+          A         B
+0 -1.414214 -1.414214
+1 -0.707107 -0.707107
+2  0.000000  0.000000
+3  0.707107  0.707107
+4  1.414214  1.414214
 ### 最小最大正規化
+
+```
+from sklearn.preprocessing import MinMaxScaler
+
+scaler_minmax = MinMaxScaler()
+df_normalized = scaler_minmax.fit_transform(df)
+```
+MinMaxScaler（最小最大正規化）後:
+     A    B
+0  0.0  0.0
+1  0.25  0.25
+2  0.5   0.5
+3  0.75  0.75
+4  1.0   1.0
