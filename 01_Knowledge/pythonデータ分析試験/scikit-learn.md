@@ -12,7 +12,7 @@ df.dropna(how='all')  # 全ての列が欠損値である行を削除します
 df.dropna(subset=['A']) # 'A'列に欠損値がある行を削除
 ```
 ### ①-2 　欠測値を補完する
-
+#### Pandasを使う方法
 ```
 import pandas as pd
 
@@ -22,7 +22,7 @@ df.fillna(0) # 欠測値に0を代入
 df.ffill() # 直前の値を使って代入
 df.fillna(df.mean()) # 全ての列の欠損値を各列の平均値で代入
 ```
-
+#### scikit-learnを使う方法
 ```
 from sklearn.impute import SimpleImputer
 import pandas as pd
@@ -33,7 +33,6 @@ imp = SimpleImputer(strategy='mean')
 imp.fit(df) # 欠測していない値の平均値を計算して内部に記憶
 imp.transform(df) # fitで記憶した平均値を使って欠測値を変換
 ```
-
 ## ②カテゴリ変数のエンコーディング
 
 ```
@@ -45,6 +44,21 @@ le.transform(df.loc[:, "B"])　# カテゴリ値を、対応する整数値に�
 ```
 ## ③One-hotエンコーディング
 ![One-Hot Encoding in Scikit-Learn with OneHotEncoder • datagy](https://datagy.io/wp-content/uploads/2022/01/One-Hot-Encoding-for-Scikit-Learn-in-Python-Explained-1024x576.png)
+#### Pandasを使う方法
 ```
+import pandas as pd
+from sklearn.preprocessing import OneHotEncoder
 
+# サンプルデータフレームの作成
+data = {'Color': ['Red', 'Blue', 'Green', 'Red', 'Blue'],
+        'Size': ['S', 'M', 'L', 'M', 'S'],
+        'Value': [10, 20, 30, 40, 50]}
+df = pd.DataFrame(data)
+
+# エンコーディング対象の列
+categorical_cols = ['Color', 'Size']
+
+# One-Hotエンコーディングを実行
+df_pandas_encoded = pd.get_dummies(df, columns=categorical_cols, prefix=categorical_cols)
 ```
+#### scikit-learnを使う方法

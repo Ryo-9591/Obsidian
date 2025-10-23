@@ -6,7 +6,7 @@
       {
         "id": "85c21767dee1dcad",
         "type": "tabs",
-        "dimension": 58.88223552894212,
+        "dimension": 63.67265469061876,
         "children": [
           {
             "id": "7b4fe12053c0eab6",
@@ -28,7 +28,7 @@
       {
         "id": "a9bec2466094f41d",
         "type": "tabs",
-        "dimension": 41.11776447105788,
+        "dimension": 36.327345309381236,
         "children": [
           {
             "id": "1ac79916a177e48b",
@@ -184,7 +184,7 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "1f48015872fb16ec",
+  "active": "7b4fe12053c0eab6",
   "lastOpenFiles": [
     "01_Knowledge/pythonデータ分析試験/scikit-learn.md",
     "01_Knowledge/DBA_GOLD試験勉強/03_Grid Infrastructure/18_Grid InfrastructureとOracle databaseのインストール.md",
