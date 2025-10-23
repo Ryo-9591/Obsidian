@@ -36,10 +36,10 @@
             "state": {
               "type": "surfing-view",
               "state": {
-                "url": "https://www.google.com/search?q=scikit+learn+sfit&sca_esv=f0ead55d09cdc2fd&sxsrf=AE3TifNFhkLJYQqnkoEZi_BgZGvdNDK9ag%3A1761222997873&ei=VSH6aKb-NKCk2roPw4WHqQo&ved=0ahUKEwjm_KH5qrqQAxUgklYBHcPCIaUQ4dUDCBA&uact=5&oq=scikit+learn+sfit&gs_lp=Egxnd3Mtd2l6LXNlcnAiEXNjaWtpdCBsZWFybiBzZml0MgcQABiABBgNMgYQABgeGA0yBhAAGB4YDTIGEAAYHhgNMgYQABgeGA0yBhAAGB4YDTIGEAAYHhgNMgYQABgeGA0yBhAAGB4YDTIGEAAYHhgNSMdGUM0GWJxFcAN4AJABA5gBrAGgAdISqgEEMjAuNbgBA8gBAPgBAZgCFKACqg6oAgrCAgcQIxjqAhgnwgIEECMYJ8ICChAjGMkCGPAFGCfCAhAQABiABBiKBRgEGLEDGIMBwgILEAAYgAQYsQMYgwHCAgcQABiABBgEwgIKEAAYgAQYBBixA8ICCBAAGIAEGLEDwgIFEAAYgATCAg4QABiABBiKBRixAxiDAcICEBAAGIAEGIoFGEMYsQMYgwHCAgQQABgewgIGEAAYBBgewgIHEAAYgAQYE8ICBhAAGB4YE8ICBRAAGO8FwgIIEAAYgAQYogTCAgUQIRigAZgDCIgGAZIHBDEzLjegB8BNsgcEMTEuN7gHnQ7CBwYwLjQuMTbIB1U&sclient=gws-wiz-serp"
+                "url": "https://qiita.com/maskot1977/items/ba4ed8a9ba2289204742"
               },
               "icon": "lucide-file",
-              "title": "scikit learn sfit - Google 検索"
+              "title": "Scikit-learn の impute で欠損値を埋める #Python - Qiita"
             }
           },
           {
@@ -54,7 +54,8 @@
               "title": "Google Gemini"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -183,7 +184,7 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "1ac79916a177e48b",
+  "active": "1f48015872fb16ec",
   "lastOpenFiles": [
     "01_Knowledge/pythonデータ分析試験/scikit-learn.md",
     "01_Knowledge/DBA_GOLD試験勉強/03_Grid Infrastructure/18_Grid InfrastructureとOracle databaseのインストール.md",

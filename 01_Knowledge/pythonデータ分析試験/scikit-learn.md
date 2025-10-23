@@ -24,7 +24,14 @@ df.fillna(df.mean()) # 全ての列の欠損値を各列の平均値で代入
 ```
 
 ```
+from sklearn.impute import SimpleImputer
+import pandas as pd
 
+df = pd.read_csv('data/src/sample.csv')
+
+imp = SimpleImputer(strategy='mean')
+imp.fit(df)
+imp.transform(df)
 ```
 
 ## ③
