@@ -30,8 +30,8 @@ import pandas as pd
 df = pd.read_csv('data/src/sample.csv')
 
 imp = SimpleImputer(strategy='mean')
-imp.fit(df)
-imp.transform(df)
+imp.fit(df) # 欠測していない値の平均値を計算して内部に記憶
+imp.transform(df) # fitで記憶した平均値を使って欠測値を変換
 ```
 
-## ③
+## ②カテゴリ変数のエンコーディング
