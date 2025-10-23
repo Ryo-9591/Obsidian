@@ -35,3 +35,12 @@ imp.transform(df) # fitで記憶した平均値を使って欠測値を変換
 ```
 
 ## ②カテゴリ変数のエンコーディング
+
+```
+from sklearn.preprocessing import LabelEncoder
+
+le = LabelEncoder() # ラベルエンコーダのインスタンス生成
+le.fit(df.loc[:, "B"])  # 全てのユニークなカテゴリ値
+le.transform(df.loc[:, "B"])　# カテゴリ値を、対応する整数値に置き換え
+```
+## ③One-hotエンコーディング
