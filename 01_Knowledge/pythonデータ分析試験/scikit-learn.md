@@ -44,21 +44,54 @@ le.transform(df.loc[:, "B"])　# カテゴリ値を、対応する整数値に�
 ```
 ## ③One-hotエンコーディング
 ![One-Hot Encoding in Scikit-Learn with OneHotEncoder • datagy](https://datagy.io/wp-content/uploads/2022/01/One-Hot-Encoding-for-Scikit-Learn-in-Python-Explained-1024x576.png)
-#### Pandasを使う方法
+
 ```
 import pandas as pd
-from sklearn.preprocessing import OneHotEncoder
 
-# サンプルデータフレームの作成
-data = {'Color': ['Red', 'Blue', 'Green', 'Red', 'Blue'],
-        'Size': ['S', 'M', 'L', 'M', 'S'],
-        'Value': [10, 20, 30, 40, 50]}
+data = {
+    '名前': ['田中', '佐藤', '鈴木', '高橋'],
+    '性別': ['男性', '女性', '男性', '女性'],
+    '職業': ['エンジニア', 'デザイナー', '営業', 'エンジニア']
+}
 df = pd.DataFrame(data)
-
-# エンコーディング対象の列
-categorical_cols = ['Color', 'Size']
-
-# One-Hotエンコーディングを実行
-df_pandas_encoded = pd.get_dummies(df, columns=categorical_cols, prefix=categorical_cols)
 ```
-#### scikit-learnを使う方法
+#### 元のデータ
+   名前  性別     職業
+0  田中  男性  エンジニア
+1  佐藤  女性  デザイナー
+2  鈴木  男性     営業
+3  高橋  女性  エンジニア
+### Pandasを使う方法
+```
+df_pandas = pd.get_dummies(df, columns=['性別', '職業'])
+```
+Pandas:
+   名前  性別_女性  性別_男性  職業_エンジニア  職業_デザイナー  職業_営業
+0  田中  False   True      True     False  False
+1  佐藤   True  False     False      True  False
+2  鈴木  False   True     False     False   True
+3  高橋   True  False      True     False  False
+### scikit-learnを使う方法
+```
+from sklearn.preprocessing import OneHotEncoder
+from sklearn.compose import ColumnTransformer
+
+# ColumnTransformerの設定
+preprocessor = ColumnTransformer(
+    transformers=[
+        ('onehot', OneHotEncoder(sparse_output=False), ['性別', '職業'])
+    ],
+    remainder='passthrough'  # 指定されていない列はそのまま残す
+)
+
+# データを変換
+transformed_data = preprocessor.fit_transform(df) 
+```
+#### One Hot エンコーディング後
+  onehot__性別_女性 onehot__性別_男性 onehot__職業_エンジニア onehot__職業_デザイナー onehot__職業_営業  \
+0           0.0           1.0              1.0              0.0           0.0   
+1           1.0           0.0              0.0              1.0           0.0   
+2           0.0           1.0              0.0              0.0           1.0   
+3           1.0           0.0              1.0              0.0           0.0   
+
+## ④
