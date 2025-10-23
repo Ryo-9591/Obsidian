@@ -5,6 +5,8 @@
 ```
 import pandas as pd
 df = pd.read_csv('data/src/sample_pandas_normal_nan.csv')
+df.dropna() # 欠測値の行を削除
+df.
 
 ```
 
