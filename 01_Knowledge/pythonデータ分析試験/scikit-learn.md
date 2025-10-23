@@ -93,5 +93,19 @@ transformed_data = preprocessor.fit_transform(df)
 1           1.0           0.0              0.0              1.0           0.0   
 2           0.0           1.0              0.0              0.0           1.0   
 3           1.0           0.0              1.0              0.0           0.0   
+## ④特徴量の正規化
+### 分散正規化
 
-## ④
+```
+import pandas as pd
+
+df = pd.DataFrame(
+　{
+　
+　}
+
+)
+
+```
+
+### 最小最大正規化
