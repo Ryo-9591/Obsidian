@@ -44,7 +44,7 @@ le.fit(df.loc[:, "B"])  # 全てのユニークなカテゴリ値
 le.transform(df.loc[:, "B"])　# カテゴリ値を、対応する整数値に置き換え
 ```
 ## ③One-hotエンコーディング
-
+![One-Hot Encoding in Scikit-Learn with OneHotEncoder • datagy](https://datagy.io/wp-content/uploads/2022/01/One-Hot-Encoding-for-Scikit-Learn-in-Python-Explained-1024x576.png)
 ```
 
 ```
