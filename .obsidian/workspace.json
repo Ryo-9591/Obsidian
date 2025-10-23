@@ -36,13 +36,26 @@
             "state": {
               "type": "surfing-view",
               "state": {
-                "url": "https://note.nkmk.me/python-pandas-nan-dropna/"
+                "url": "https://deepage.net/features/pandas-manipulate-na.html"
               },
               "icon": "lucide-file",
-              "title": "pandasで欠損値NaNを削除（除外）するdropna | note.nkmk.me"
+              "title": "Pandasでnan値を削除、穴埋めするfillna、dropnaの使い方 - DeepAge"
+            }
+          },
+          {
+            "id": "1f48015872fb16ec",
+            "type": "leaf",
+            "state": {
+              "type": "surfing-view",
+              "state": {
+                "url": "https://gemini.google.com/app/131de9a5dd03fb4b?is_sa=1&is_sa=1&android-min-version=301356232&ios-min-version=322.0&campaign_id=bkws&utm_source=sem&utm_source=google&utm_medium=paid-media&utm_medium=cpc&utm_campaign=bkws&utm_campaign=2024jaJP_gemfeb&pt=9008&mt=8&ct=p-growth-sem-bkws&gclsrc=aw.ds&gad_source=1&gad_campaignid=20437330680&gbraid=0AAAAApk5BhkqqEs7h4XN9Q9NW4Vrf9BAA&gclid=CjwKCAjwpOfHBhAxEiwAm1SwEhHYeTLDmLkRThowQOteDKcFFUGDwpzEpGlMAsdo0EFZSTh4Zl5n1hoCzSEQAvD_BwE"
+              },
+              "icon": "lucide-file",
+              "title": "Google Gemini"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -171,7 +184,7 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "1ac79916a177e48b",
+  "active": "1f48015872fb16ec",
   "lastOpenFiles": [
     "01_Knowledge/pythonデータ分析試験/scikit-learn.md",
     "01_Knowledge/DBA_GOLD試験勉強/03_Grid Infrastructure/18_Grid InfrastructureとOracle databaseのインストール.md",
