@@ -6,7 +6,6 @@
       {
         "id": "85c21767dee1dcad",
         "type": "tabs",
-        "dimension": 57.442557442557444,
         "children": [
           {
             "id": "7b4fe12053c0eab6",
@@ -14,48 +13,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_Knowledge/pythonデータ分析試験/scikit-learn/4.1.2 分類.md",
+                "file": "01_Knowledge/pythonデータ分析試験/scikit-learn/4.1.1 前処理.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "4.1.2 分類"
+              "title": "4.1.1 前処理"
             }
           }
         ]
-      },
-      {
-        "id": "a9bec2466094f41d",
-        "type": "tabs",
-        "dimension": 42.557442557442556,
-        "children": [
-          {
-            "id": "1ac79916a177e48b",
-            "type": "leaf",
-            "state": {
-              "type": "surfing-view",
-              "state": {
-                "url": "https://www.google.com/search?sca_esv=f0ead55d09cdc2fd&sxsrf=AE3TifOS1MQ8BvEe1VUd9KM-QcXslpbqtw:1761223974906&udm=2&fbs=AIIjpHxAboEh8T4AmOafDyCTZyImRiqTfQHPlfmQNPDJpiOEB0B8N6AC8kiE6py9pWguob42bUu_X2QjsdDrtZOlZFeIfihanbCrgRba-ZdI_Mo19oBFulyN391nhp-0zF8bzu6BLapQIuWZo_KWjapXqI92Huktdc-7iijEm4nyfhoyuj6QXL-r17AOLtlgUawnIRLwnKDWcpsoG81b-RYRjzwqK4al14CmBfPc-PWI3euqUQJrpI0&q=scikit+learn+one+hot+encoding&sa=X&ved=2ahUKEwi8pZPLrrqQAxUa3TQHHVjINmIQtKgLegQIDhAB&biw=824&bih=1159&dpr=0.83"
-              },
-              "icon": "lucide-file",
-              "title": "scikit learn one hot encoding - Google 検索"
-            }
-          },
-          {
-            "id": "1f48015872fb16ec",
-            "type": "leaf",
-            "state": {
-              "type": "surfing-view",
-              "state": {
-                "url": "https://gemini.google.com/app/131de9a5dd03fb4b?is_sa=1&is_sa=1&android-min-version=301356232&ios-min-version=322.0&campaign_id=bkws&utm_source=sem&utm_source=google&utm_medium=paid-media&utm_medium=cpc&utm_campaign=bkws&utm_campaign=2024jaJP_gemfeb&pt=9008&mt=8&ct=p-growth-sem-bkws&gclsrc=aw.ds&gad_source=1&gad_campaignid=20437330680&gbraid=0AAAAApk5BhkqqEs7h4XN9Q9NW4Vrf9BAA&gclid=CjwKCAjwpOfHBhAxEiwAm1SwEhHYeTLDmLkRThowQOteDKcFFUGDwpzEpGlMAsdo0EFZSTh4Zl5n1hoCzSEQAvD_BwE"
-              },
-              "icon": "lucide-file",
-              "title": "Google Gemini"
-            }
-          }
-        ],
-        "currentTab": 1
       }
     ],
     "direction": "vertical"
